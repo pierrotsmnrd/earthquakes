@@ -14,6 +14,7 @@ def seismes_doc(doc):
     dashboard = EarthquakesDashboard(doc=doc, df=df)
 
     doc.add_root(dashboard.panel().get_root())
+    doc.title = "Séismes Strasbourg 2000-2020"
 
 
 if __name__ == "__main__":
