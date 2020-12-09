@@ -1,0 +1,24 @@
+version: '3.7'
+
+services:
+ 
+  web:
+    container_name: earthquakes_sxb
+    build:
+      dockerfile: docker/web.Dockerfile
+      context: ../
+    volumes:
+       - ../app:/app
+       - ../data/viz:/data/viz
+    ports:
+      - target: 5006
+        published: 80
+        protocol: tcp
+        mode: host
+    env_file:
+      - web.env
+    networks:
+      - seismes_network
+networks:
+  seismes_network:
+    driver: bridge
