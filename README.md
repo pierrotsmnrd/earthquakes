@@ -1,6 +1,9 @@
 # earthquakes_strasbourg
 A dashboard to visualise earthquakes around Strasbourg between 2000 and 2020. 
 
+
+Visit the dashboard : <a href="http://seismes.ioapps.io" target="_blank">seismes.ioapps.io</a>
+
 ![preview of the dashboard](imgs/screenshot.png)
 
 
