@@ -1,0 +1,4 @@
+- __Data source : __ <a href="https://www.seismicportal.eu" target="_blank">www.seismicportal.eu</a>
+- __Production : __  <a href="https://www.linkedin.com/in/pierreoliviersimonard/" target="_blank">Pierre-Olivier Simonard</a>  for <a href="https://www.quansight.com/" target="_blank">Quansight</a>
+- __Tools : __ Python, Pandas, Bokeh, Holoviz
+- Check the source code on <a href="https://github.com/pierrotsmnrd/earthquakes_strasbourg" target="_blank">Github</a>
