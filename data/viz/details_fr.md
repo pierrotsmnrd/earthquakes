@@ -5,4 +5,4 @@
   <a href="https://holoviz.org/" target="_blank">Holoviz</a> with 
   <a href="https://docs.bokeh.org/en/latest/" target="_blank">Bokeh</a>, 
   
-- Retrouvez ce projet sur <a href="https://github.com/pierrotsmnrd/earthquakes_strasbourg" target="_blank">Github</a>
+- Retrouvez ce projet sur <a href="https://github.com/pierrotsmnrd/earthquakes" target="_blank">Github</a>

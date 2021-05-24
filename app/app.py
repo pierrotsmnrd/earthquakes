@@ -16,8 +16,6 @@ def earthquakes_page(**kwargs):
         except:
             pass
 
-    print("lang id CAC", lang_id)
-
     component = EarthquakesApp(lang_id=lang_id, df=earthquakes_df)
     return component.view()
 

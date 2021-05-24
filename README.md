@@ -1,21 +1,20 @@
-# earthquakes_strasbourg
-A dashboard to visualise earthquakes around Strasbourg between 2000 and 2020. 
+# Earthquakes 
+A dashboard to visualise earthquakes worldwide since 2000. 
 
-
-Visit the dashboard : <a href="http://seismes.ioapps.io" target="_blank">seismes.ioapps.io</a>
+See the dashboard live : <a href="http://earthquakes.ioapps.io" target="_blank">earthquakes.ioapps.io</a>
 
 ![preview of the dashboard](imgs/screenshot.png)
 
 
 ## Context
 
-A abnormal seismic activity has been recently recorded near my city,  <a href="https://goo.gl/maps/7NRzCfcGYbbnUZzT9" target="_blank">Strasbourg, France</a>.
+A abnormal seismic activity has been recorded in late 2020 near my city,  <a href="https://goo.gl/maps/7NRzCfcGYbbnUZzT9" target="_blank">Strasbourg, France</a>.
 
 These unusual earthquakes may have been caused by boreholes made during the exploration phase of a geothermal energy project. 
 
 This gave me the idea of making a dashboard to display the earthquakes worldwide and learn more about this phenomenon.
 
-##  Data
+##  Data source
 
 To make a good dashboard, you need good data.  
 I used the webservices of <a href="https://www.seismicportal.eu/" target="_blank">www.seismicportal.eu</a>.
@@ -43,6 +42,8 @@ The dashboard is made with Holoviz (using Holoviews, Geoviews and Panel) with th
 Then please contact me <a href="https://www.linkedin.com/in/pierreoliviersimonard/" target="_blank">on LinkedIn</a> or <a href="https://twitter.com/pierrotsmnrd" target="_blank">on Twitter</a>.
 
 Pull requests are appreciated !
+
+Also have a look to open issues for the next tasks I intend on tackle.
 
 ## Thanks
 
