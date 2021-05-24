@@ -1,6 +1,8 @@
 import panel as pn
-from earthquakes_app import EarthquakesApp
-import gettext
+from earthquakes_app import EarthquakesApp, get_earthquakes_df
+
+
+earthquakes_df = None
 
 
 def earthquakes_page(**kwargs):
@@ -16,11 +18,13 @@ def earthquakes_page(**kwargs):
 
     print("lang id CAC", lang_id)
 
-    component = EarthquakesApp(lang_id=lang_id)
+    component = EarthquakesApp(lang_id=lang_id, df=earthquakes_df)
     return component.view()
 
 
 if __name__ == "__main__":
+
+    earthquakes_df = get_earthquakes_df()
 
     server = pn.serve({'/earthquakes': earthquakes_page, },
                       title={'/earthquakes': 'Earthquakes'},

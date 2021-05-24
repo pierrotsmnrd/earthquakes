@@ -76,7 +76,7 @@ def details_block(lang):
     return pn.pane.Markdown(details)
 
 
-def earthquakes_df():
+def get_earthquakes_df():
 
     input_dir = '../data/viz/'
     csvs = [f for f in os.listdir('../data/viz/') if f.endswith(".csv")]
@@ -194,7 +194,7 @@ class EarthquakesApp(param.Parameterized):
 
         # Data
         if df is None:
-            self.df = earthquakes_df()
+            self.df = get_earthquakes_df()
         else:
             self.df = df
 
