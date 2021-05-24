@@ -22,11 +22,15 @@ if __name__ == "__main__":
             new_data.append(f["properties"])
 
     new_df = pd.DataFrame(new_data)
+    print(
+        f"latest json holds {len(new_df)} rows. some of them may have been added already")
 
     # concat the existing dataframe and the new one, and drop duplicates
     df = pd.read_csv(output_file, sep=';')
     previous_row_count = len(df)
-    df = pd.concat([df, new_df]).drop_duplicates().reset_index(drop=True)
+
+    df = pd.concat([df, new_df]).drop_duplicates(
+        subset='id', keep='last').reset_index(drop=True)
 
     # Save
     df.to_csv(output_file, index=False, sep=";")
