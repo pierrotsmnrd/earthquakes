@@ -1,32 +1,35 @@
-import pandas as pd
-from bokeh.server.server import Server
-from tornado.ioloop import IOLoop
-
-from earthquakes_dashboard import EarthquakesDashboard
+import panel as pn
+from earthquakes_app import EarthquakesApp, get_earthquakes_df
 
 
-def seismes_doc(doc):
+earthquakes_df = None
 
-    # load the data
-    df = pd.read_csv("../data/viz/earthquakes.csv", sep=";")
 
-    # build the dashboard
-    dashboard = EarthquakesDashboard(doc=doc, df=df)
+def earthquakes_page(**kwargs):
 
-    doc.add_root(dashboard.panel().get_root())
-    doc.title = "Séismes Strasbourg 2000-2020"
+    print("earthquakes page", flush=True)
+
+    lang_id = None
+    if 'lg' in pn.state.session_args.keys():
+        try:
+            lang_id = pn.state.session_args.get('lg')[0].decode('utf-8')
+        except:
+            pass
+
+    component = EarthquakesApp(lang_id=lang_id, df=earthquakes_df)
+    return component.view()
 
 
 if __name__ == "__main__":
 
-    allowed_urls = ["127.0.0.1:80"]
+    earthquakes_df = get_earthquakes_df()
 
-    server = Server({'/seismes': seismes_doc,
-                     },
-                    io_loop=IOLoop(),
-                    allow_websocket_origin=["*"],
-                    autoreload=True
-                    )
-
-    server.start()
-    server.io_loop.start()
+    server = pn.serve({'/earthquakes': earthquakes_page, },
+                      title={'/earthquakes': 'Earthquakes'},
+                      websocket_origin=["*"],
+                      autoreload=True,
+                      port=80,
+                      threaded=True,
+                      # check_unused_sessions=3,
+                      # unused_session_lifetime=3
+                      )

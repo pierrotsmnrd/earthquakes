@@ -1,0 +1,23 @@
+name: data
+on:
+  schedule:
+    - cron: 0 * * * *
+  workflow_dispatch: {}
+  push:
+    paths:
+      - .github/workflows/flat.yml
+      - ./postprocess.ts
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup deno
+        uses: denolib/setup-deno@v2
+      - name: Check out repo
+        uses: actions/checkout@v2
+      - name: Fetch data
+        uses: githubocto/flat@v2
+        with:
+          http_url: https://www.seismicportal.eu/fdsnws/event/1/query?format=json&limit=1000
+          downloaded_filename: ./data/latest.json
+          postprocess: ./scripts/flatdata/postprocess.ts
