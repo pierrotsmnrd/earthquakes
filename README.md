@@ -1,7 +1,7 @@
 # Earthquakes 
 A dashboard to visualise earthquakes worldwide since 2000. 
 
-See the dashboard live : <a href="http://earthquakes.ioapps.io" target="_blank">earthquakes.ioapps.io</a>
+<a href="http://152.228.173.254/earthquakes" target="_blank">See the dashboard live.</a>
 
 ![preview of the dashboard](imgs/screenshot.png)
 
