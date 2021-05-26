@@ -4,6 +4,7 @@ from datetime import datetime as dt
 import pandas as pd
 from datashader.utils import lnglat_to_meters
 import numpy as np
+import math
 
 import os
 
@@ -32,6 +33,21 @@ _ = None
 hv.extension('bokeh', logo=False)
 
 
+# Constants used to convert magnitudes to their size in a logarithmic way
+linear_start_scale = (0, 10)
+log_end_scale = (5, 35)
+
+
+def mag_log(x):
+
+    l = math.log
+    (x0, x1) = linear_start_scale
+    (y0, y1) = log_end_scale
+
+    y = math.e**(((x-x0)/(x1-x0)) * (l(y1)-l(y0)) + l(y0))
+    return y
+
+
 def legend():
     colormap = colorcet.fire[::-1]
 
@@ -41,7 +57,7 @@ def legend():
                                                  # tools=['hover'],
                                                  fill_color='mag',
                                                  line_color='lightgray',
-                                                 size=hv.dim('mag')*2+5,
+                                                 size=mag_log(hv.dim('mag')),
                                                  logz=False,
                                                  # alpha=128,
                                                  # width=200,
@@ -65,7 +81,7 @@ def legend():
                        ['x', 'y'],
                        'mag')
 
-    return (scatter * labels)
+    return (scatter * labels).opts(title=_("Richter magnitude scale"))
 
 
 def details_block(lang):
@@ -95,6 +111,12 @@ def get_earthquakes_df():
     df = df[(~df['mag'].isna()) & (df['mag'] > 0)]
 
     # some feature engineering
+
+    # Duplicate part of the earthquakes over the pacific ocean and american continents,
+    # so the map is not europe-centered. Also handy to display the ring of fire
+    to_duplicate = df[df['lon'] < -60].copy()
+    to_duplicate['lon'] = to_duplicate['lon'] + 180*2
+    df = pd.concat([df, to_duplicate])
 
     # converts  lat/lon to y/x values, needed for the map
     x, y = lnglat_to_meters(df.lon, df.lat)
@@ -215,7 +237,7 @@ class EarthquakesApp(param.Parameterized):
             end=10,
             step=0.5,
             value=(0, 10),
-            name=('Magnitude'))
+            name=(_('Magnitude')))
 
         languages_dict = {'fr': '🇫🇷', 'en': '🇬🇧/🇺🇸'}
         options = list(languages_dict.values())
@@ -276,7 +298,7 @@ class EarthquakesApp(param.Parameterized):
                                      clim=(0, 9),
                                      fill_color='mag',
                                      line_color='lightgray',
-                                     size=hv.dim('mag')*2+5,
+                                     size=mag_log(hv.dim('mag')),
                                      logz=False,
                                      alpha=128,)
 
