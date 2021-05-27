@@ -1,4 +1,30 @@
-{"type":"FeatureCollection","metadata":{"totalCount":965969},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":965970},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.01,
+      45.9,
+      -7.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210527_0000068",
+  "properties": {
+    "lastupdate": "2021-05-27T11:25:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 7.01,
+    "auth": "ZUR",
+    "lat": 45.9,
+    "depth": 7.0,
+    "unid": "20210527_0000068",
+    "mag": 1.2,
+    "time": "2021-05-27T11:17:58.5Z",
+    "source_id": "989488",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NORTHERN ITALY"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -25971,31 +25997,5 @@
     "source_id": "987581",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "ISLAND OF HAWAII, HAWAII"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      100.33,
-      -0.25,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210523_0000046",
-  "properties": {
-    "lastupdate": "2021-05-23T05:15:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 100.33,
-    "auth": "DJA",
-    "lat": -0.25,
-    "depth": 10.0,
-    "unid": "20210523_0000046",
-    "mag": 2.9,
-    "time": "2021-05-23T05:03:13.0Z",
-    "source_id": "987580",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SOUTHERN SUMATRA, INDONESIA"
   }
 }]}
