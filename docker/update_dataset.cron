@@ -1,0 +1,1 @@
+0 * * * * curl -L "https://github.com/pierrotsmnrd/earthquakes/raw/main/data/viz/2020.csv"  -o "/data/viz/2020.csv"  >> /var/log/update_dataset.log 2>&1
