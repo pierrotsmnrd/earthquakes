@@ -114,9 +114,10 @@ def get_earthquakes_df():
 
     # Duplicate part of the earthquakes over the pacific ocean and american continents,
     # so the map is not europe-centered. Also handy to display the ring of fire
-    to_duplicate = df[df['lon'] < -60].copy()
-    to_duplicate['lon'] = to_duplicate['lon'] + 180*2
-    df = pd.concat([df, to_duplicate])
+    # 2021/05/27 disabled because it displays the points twice at both longitudes like -92 and 268
+    #to_duplicate = df[df['lon'] < -60].copy()
+    #to_duplicate['lon'] = to_duplicate['lon'] + 180*2
+    #df = pd.concat([df, to_duplicate])
 
     # converts  lat/lon to y/x values, needed for the map
     x, y = lnglat_to_meters(df.lon, df.lat)
