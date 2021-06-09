@@ -1,4 +1,30 @@
-{"type":"FeatureCollection","metadata":{"totalCount":969512},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":969513},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.19,
+      44.31,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210609_0000091",
+  "properties": {
+    "lastupdate": "2021-06-09T12:49:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -115.19,
+    "auth": "NEIC",
+    "lat": 44.31,
+    "depth": 10.0,
+    "unid": "20210609_0000091",
+    "mag": 2.5,
+    "time": "2021-06-09T12:35:42.7Z",
+    "source_id": "995657",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SOUTHERN IDAHO"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -210,24 +236,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      69.79,
-      31.73,
-      -29.0
+      69.83,
+      32.04,
+      -30.0
     ]
   },
   "type": "Feature",
   "id": "20210609_0000082",
   "properties": {
-    "lastupdate": "2021-06-09T11:52:00.0Z",
+    "lastupdate": "2021-06-09T12:37:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": 69.79,
-    "auth": "NEIC",
-    "lat": 31.73,
-    "depth": 29.0,
+    "lon": 69.83,
+    "auth": "EMSC",
+    "lat": 32.04,
+    "depth": 30.0,
     "unid": "20210609_0000082",
     "mag": 4.4,
-    "time": "2021-06-09T11:35:24.1Z",
+    "time": "2021-06-09T11:35:25.8Z",
     "source_id": "995646",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "PAKISTAN"
@@ -25971,31 +25997,5 @@
     "source_id": "993196",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "PHILIPPINE ISLANDS REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.18,
-      45.7,
-      -2.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210606_0000405",
-  "properties": {
-    "lastupdate": "2021-06-07T21:16:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 7.18,
-    "auth": "ZUR",
-    "lat": 45.7,
-    "depth": 2.0,
-    "unid": "20210606_0000405",
-    "mag": 1.2,
-    "time": "2021-06-06T03:20:22.5Z",
-    "source_id": "994764",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NORTHERN ITALY"
   }
 }]}
