@@ -16,7 +16,7 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v2
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         with:
           http_url: https://www.seismicportal.eu/fdsnws/event/1/query?format=json&limit=1000
           downloaded_filename: ./data/latest.json
