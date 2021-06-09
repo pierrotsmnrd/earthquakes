@@ -1,4 +1,30 @@
-{"type":"FeatureCollection","metadata":{"totalCount":969466},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":969467},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.26,
+      -23.46,
+      -85.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210609_0000048",
+  "properties": {
+    "lastupdate": "2021-06-09T06:08:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -69.26,
+    "auth": "GUC",
+    "lat": -23.46,
+    "depth": 85.0,
+    "unid": "20210609_0000048",
+    "mag": 3.4,
+    "time": "2021-06-09T05:58:38.0Z",
+    "source_id": "995601",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "ANTOFAGASTA, CHILE"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -6242,24 +6268,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      131.42,
-      -6.49,
-      -136.0
+      131.44,
+      -6.47,
+      -75.0
     ]
   },
   "type": "Feature",
   "id": "20210608_0000060",
   "properties": {
-    "lastupdate": "2021-06-08T06:45:00.0Z",
-    "magtype": "m",
+    "lastupdate": "2021-06-09T06:30:00.0Z",
+    "magtype": "mb",
     "evtype": "ke",
-    "lon": 131.42,
-    "auth": "DJA",
-    "lat": -6.49,
-    "depth": 136.0,
+    "lon": 131.44,
+    "auth": "NEIC",
+    "lat": -6.47,
+    "depth": 75.0,
     "unid": "20210608_0000060",
-    "mag": 4.7,
-    "time": "2021-06-08T06:40:49.0Z",
+    "mag": 4.8,
+    "time": "2021-06-08T06:40:49.1Z",
     "source_id": "994940",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "KEP. TANIMBAR REGION, INDONESIA"
@@ -25971,31 +25997,5 @@
     "source_id": "993127",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "OKLAHOMA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -115.64,
-      33.16,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210606_0000003",
-  "properties": {
-    "lastupdate": "2021-06-06T00:18:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -115.64,
-    "auth": "NEIR",
-    "lat": 33.16,
-    "depth": 5.0,
-    "unid": "20210606_0000003",
-    "mag": 2.6,
-    "time": "2021-06-06T00:15:10.5Z",
-    "source_id": "993122",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SOUTHERN CALIFORNIA"
   }
 }]}
