@@ -1,4 +1,82 @@
-{"type":"FeatureCollection","metadata":{"totalCount":978803},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":978806},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.82,
+      17.56,
+      -59.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210715_0000127",
+  "properties": {
+    "lastupdate": "2021-07-15T16:26:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -93.82,
+    "auth": "UNM",
+    "lat": 17.56,
+    "depth": 59.0,
+    "unid": "20210715_0000127",
+    "mag": 4.2,
+    "time": "2021-07-15T16:07:03.0Z",
+    "source_id": "1009900",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "VERACRUZ, MEXICO"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.93,
+      17.95,
+      -9.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210715_0000128",
+  "properties": {
+    "lastupdate": "2021-07-15T16:30:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -66.93,
+    "auth": "NEIR",
+    "lat": 17.95,
+    "depth": 9.0,
+    "unid": "20210715_0000128",
+    "mag": 3.0,
+    "time": "2021-07-15T16:03:55.7Z",
+    "source_id": "1009901",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "PUERTO RICO"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.44,
+      38.49,
+      -13.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210715_0000126",
+  "properties": {
+    "lastupdate": "2021-07-15T16:08:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 14.44,
+    "auth": "INGV",
+    "lat": 38.49,
+    "depth": 13.0,
+    "unid": "20210715_0000126",
+    "mag": 2.3,
+    "time": "2021-07-15T16:00:52.9Z",
+    "source_id": "1009898",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SICILY, ITALY"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -289,23 +367,23 @@
     "type": "Point",
     "coordinates": [
       -119.53,
-      38.49,
-      -3.0
+      38.48,
+      -5.0
     ]
   },
   "type": "Feature",
   "id": "20210715_0000095",
   "properties": {
-    "lastupdate": "2021-07-15T13:12:00.0Z",
+    "lastupdate": "2021-07-15T16:56:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
     "lon": -119.53,
     "auth": "NN",
-    "lat": 38.49,
-    "depth": 3.0,
+    "lat": 38.48,
+    "depth": 5.0,
     "unid": "20210715_0000095",
     "mag": 2.4,
-    "time": "2021-07-15T13:05:42.3Z",
+    "time": "2021-07-15T13:05:42.4Z",
     "source_id": "1009864",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CENTRAL CALIFORNIA"
@@ -25919,83 +25997,5 @@
     "source_id": "1008571",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHERN SUMATRA, INDONESIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -65.98,
-      -21.98,
-      -289.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210711_0000093",
-  "properties": {
-    "lastupdate": "2021-07-11T09:01:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -65.98,
-    "auth": "NSNA",
-    "lat": -21.98,
-    "depth": 289.0,
-    "unid": "20210711_0000093",
-    "mag": 3.5,
-    "time": "2021-07-11T08:52:32.0Z",
-    "source_id": "1008569",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "JUJUY, ARGENTINA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -97.15,
-      16.07,
-      -36.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210711_0000140",
-  "properties": {
-    "lastupdate": "2021-07-11T13:11:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -97.15,
-    "auth": "UNM",
-    "lat": 16.07,
-    "depth": 36.0,
-    "unid": "20210711_0000140",
-    "mag": 3.4,
-    "time": "2021-07-11T08:50:31.0Z",
-    "source_id": "1008637",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OAXACA, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -119.53,
-      38.47,
-      -1.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210711_0000092",
-  "properties": {
-    "lastupdate": "2021-07-11T08:51:00.0Z",
-    "magtype": "md",
-    "evtype": "ke",
-    "lon": -119.53,
-    "auth": "NC",
-    "lat": 38.47,
-    "depth": 1.0,
-    "unid": "20210711_0000092",
-    "mag": 2.5,
-    "time": "2021-07-11T08:50:16.2Z",
-    "source_id": "1008568",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CENTRAL CALIFORNIA"
   }
 }]}
