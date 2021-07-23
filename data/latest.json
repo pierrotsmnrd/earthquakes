@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":980754},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":980757},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.08,
+      38.94,
+      -8.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210723_0000065",
+  "properties": {
+    "lastupdate": "2021-07-23T08:40:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 26.08,
+    "auth": "EMSC",
+    "lat": 38.94,
+    "depth": 8.0,
+    "unid": "20210723_0000065",
+    "mag": 2.8,
+    "time": "2021-07-23T08:27:31.9Z",
+    "source_id": "1012564",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NEAR THE COAST OF WESTERN TURKEY"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.81,
+      -15.05,
+      -35.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210723_0000063",
+  "properties": {
+    "lastupdate": "2021-07-23T08:06:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -74.81,
+    "auth": "LIM",
+    "lat": -15.05,
+    "depth": 35.0,
+    "unid": "20210723_0000063",
+    "mag": 4.0,
+    "time": "2021-07-23T07:59:22.0Z",
+    "source_id": "1012549",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NEAR COAST OF SOUTHERN PERU"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -75,6 +127,32 @@
     "source_id": "1012548",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "OFFSHORE COQUIMBO, CHILE"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -94.16,
+      16.65,
+      -109.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210723_0000064",
+  "properties": {
+    "lastupdate": "2021-07-23T08:16:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -94.16,
+    "auth": "UNM",
+    "lat": 16.65,
+    "depth": 109.0,
+    "unid": "20210723_0000064",
+    "mag": 4.1,
+    "time": "2021-07-23T07:53:25.0Z",
+    "source_id": "1012561",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "OAXACA, MEXICO"
   }
 },{
   "geometry": {
@@ -25919,83 +25997,5 @@
     "source_id": "1011856",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "YELLOWSTONE NAT. PARK, WYOMING"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.65,
-      38.94,
-      -3.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210719_0000047",
-  "properties": {
-    "lastupdate": "2021-07-19T14:53:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 35.65,
-    "auth": "EMSC",
-    "lat": 38.94,
-    "depth": 3.0,
-    "unid": "20210719_0000047",
-    "mag": 3.8,
-    "time": "2021-07-19T07:39:42.6Z",
-    "source_id": "1011066",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CENTRAL TURKEY"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.64,
-      38.96,
-      -1.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210719_0000046",
-  "properties": {
-    "lastupdate": "2021-07-19T14:54:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 35.64,
-    "auth": "EMSC",
-    "lat": 38.96,
-    "depth": 1.0,
-    "unid": "20210719_0000046",
-    "mag": 3.7,
-    "time": "2021-07-19T07:32:51.9Z",
-    "source_id": "1011063",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CENTRAL TURKEY"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      126.75,
-      8.91,
-      -35.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210719_0000048",
-  "properties": {
-    "lastupdate": "2021-07-19T08:26:00.0Z",
-    "magtype": "mb",
-    "evtype": "ke",
-    "lon": 126.75,
-    "auth": "NEIC",
-    "lat": 8.91,
-    "depth": 35.0,
-    "unid": "20210719_0000048",
-    "mag": 4.5,
-    "time": "2021-07-19T07:27:53.5Z",
-    "source_id": "1011064",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "MINDANAO, PHILIPPINES"
   }
 }]}
