@@ -1,28 +1,80 @@
-{"type":"FeatureCollection","metadata":{"totalCount":981331},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":981334},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      36.44,
-      37.23,
-      -7.0
+      -155.55,
+      19.8,
+      -21.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210725_0000153",
+  "properties": {
+    "lastupdate": "2021-07-25T18:21:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -155.55,
+    "auth": "NEIR",
+    "lat": 19.8,
+    "depth": 21.0,
+    "unid": "20210725_0000153",
+    "mag": 2.5,
+    "time": "2021-07-25T18:15:46.1Z",
+    "source_id": "1013422",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "ISLAND OF HAWAII, HAWAII"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.41,
+      37.22,
+      -2.0
     ]
   },
   "type": "Feature",
   "id": "20210725_0000151",
   "properties": {
-    "lastupdate": "2021-07-25T18:02:00.0Z",
+    "lastupdate": "2021-07-25T18:07:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": 36.44,
-    "auth": "DDA",
-    "lat": 37.23,
-    "depth": 7.0,
+    "lon": 36.41,
+    "auth": "EMSC",
+    "lat": 37.22,
+    "depth": 2.0,
     "unid": "20210725_0000151",
     "mag": 3.4,
-    "time": "2021-07-25T17:57:29.9Z",
+    "time": "2021-07-25T17:57:30.1Z",
     "source_id": "1013420",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CENTRAL TURKEY"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.74,
+      42.41,
+      -34.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210725_0000152",
+  "properties": {
+    "lastupdate": "2021-07-25T18:04:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -8.74,
+    "auth": "MDD",
+    "lat": 42.41,
+    "depth": 34.0,
+    "unid": "20210725_0000152",
+    "mag": 1.6,
+    "time": "2021-07-25T17:55:50.2Z",
+    "source_id": "1013421",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SPAIN"
   }
 },{
   "geometry": {
@@ -25945,57 +25997,5 @@
     "source_id": "1011869",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NEAR THE COAST OF WESTERN TURKEY"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      119.43,
-      -2.86,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210721_0000161",
-  "properties": {
-    "lastupdate": "2021-07-21T18:40:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 119.43,
-    "auth": "DJA",
-    "lat": -2.86,
-    "depth": 10.0,
-    "unid": "20210721_0000161",
-    "mag": 2.9,
-    "time": "2021-07-21T18:27:10.0Z",
-    "source_id": "1011872",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SULAWESI, INDONESIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      119.37,
-      -2.87,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210721_0000156",
-  "properties": {
-    "lastupdate": "2021-07-21T18:20:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 119.37,
-    "auth": "DJA",
-    "lat": -2.87,
-    "depth": 10.0,
-    "unid": "20210721_0000156",
-    "mag": 4.4,
-    "time": "2021-07-21T18:14:07.0Z",
-    "source_id": "1011867",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SULAWESI, INDONESIA"
   }
 }]}
