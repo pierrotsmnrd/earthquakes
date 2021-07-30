@@ -1,4 +1,4 @@
-{"type":"FeatureCollection","metadata":{"totalCount":982499},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":982503},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -23,6 +23,58 @@
     "source_id": "1014950",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NORTH ISLAND OF NEW ZEALAND"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.68,
+      -22.61,
+      -105.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210730_0000012",
+  "properties": {
+    "lastupdate": "2021-07-30T02:06:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -68.68,
+    "auth": "GUC",
+    "lat": -22.61,
+    "depth": 105.0,
+    "unid": "20210730_0000012",
+    "mag": 2.5,
+    "time": "2021-07-30T01:42:15.0Z",
+    "source_id": "1014953",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "ANTOFAGASTA, CHILE"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.9,
+      37.88,
+      -7.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210730_0000013",
+  "properties": {
+    "lastupdate": "2021-07-30T02:18:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 26.9,
+    "auth": "DDA",
+    "lat": 37.88,
+    "depth": 7.0,
+    "unid": "20210730_0000013",
+    "mag": 2.0,
+    "time": "2021-07-30T01:30:59.6Z",
+    "source_id": "1014955",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "DODECANESE ISLANDS, GREECE"
   }
 },{
   "geometry": {
@@ -80,27 +132,27 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -93.19,
-      15.1,
-      -29.0
+      -92.58,
+      15.23,
+      -107.0
     ]
   },
   "type": "Feature",
   "id": "20210730_0000008",
   "properties": {
-    "lastupdate": "2021-07-30T01:21:00.0Z",
-    "magtype": "m",
+    "lastupdate": "2021-07-30T01:57:00.0Z",
+    "magtype": "mb",
     "evtype": "ke",
-    "lon": -93.19,
-    "auth": "UNM",
-    "lat": 15.1,
-    "depth": 29.0,
+    "lon": -92.58,
+    "auth": "NEIC",
+    "lat": 15.23,
+    "depth": 107.0,
     "unid": "20210730_0000008",
-    "mag": 4.3,
-    "time": "2021-07-30T01:01:51.0Z",
+    "mag": 4.1,
+    "time": "2021-07-30T01:01:51.6Z",
     "source_id": "1014944",
     "source_catalog": "EMSC-RTS",
-    "flynn_region": "OFFSHORE CHIAPAS, MEXICO"
+    "flynn_region": "CHIAPAS, MEXICO"
   }
 },{
   "geometry": {
@@ -10293,6 +10345,32 @@
     "source_id": "1014474",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "ANDREANOF ISLANDS, ALEUTIAN IS."
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.27,
+      31.59,
+      -6.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210728_0000231",
+  "properties": {
+    "lastupdate": "2021-07-30T02:07:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -104.27,
+    "auth": "TX",
+    "lat": 31.59,
+    "depth": 6.0,
+    "unid": "20210728_0000231",
+    "mag": 2.0,
+    "time": "2021-07-28T17:29:41.2Z",
+    "source_id": "1014954",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "WESTERN TEXAS"
   }
 },{
   "geometry": {
@@ -25919,83 +25997,5 @@
     "source_id": "1013592",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NEAR COAST OF NICARAGUA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -82.8,
-      7.43,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210726_0000021",
-  "properties": {
-    "lastupdate": "2021-07-26T06:47:00.0Z",
-    "magtype": "mb",
-    "evtype": "ke",
-    "lon": -82.8,
-    "auth": "EMSC",
-    "lat": 7.43,
-    "depth": 10.0,
-    "unid": "20210726_0000021",
-    "mag": 4.6,
-    "time": "2021-07-26T03:48:08.9Z",
-    "source_id": "1013591",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SOUTH OF PANAMA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      26.07,
-      38.94,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210726_0000027",
-  "properties": {
-    "lastupdate": "2021-07-26T06:46:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 26.07,
-    "auth": "EMSC",
-    "lat": 38.94,
-    "depth": 10.0,
-    "unid": "20210726_0000027",
-    "mag": 2.5,
-    "time": "2021-07-26T03:41:37.4Z",
-    "source_id": "1013587",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NEAR THE COAST OF WESTERN TURKEY"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      26.86,
-      37.84,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210726_0000019",
-  "properties": {
-    "lastupdate": "2021-07-26T06:46:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 26.86,
-    "auth": "EMSC",
-    "lat": 37.84,
-    "depth": 10.0,
-    "unid": "20210726_0000019",
-    "mag": 2.6,
-    "time": "2021-07-26T03:40:25.6Z",
-    "source_id": "1013586",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "DODECANESE ISLANDS, GREECE"
   }
 }]}
