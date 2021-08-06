@@ -1,4 +1,30 @@
-{"type":"FeatureCollection","metadata":{"totalCount":984743},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":984744},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -150.69,
+      62.04,
+      -80.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210806_0000013",
+  "properties": {
+    "lastupdate": "2021-08-06T02:02:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -150.69,
+    "auth": "NEIC",
+    "lat": 62.04,
+    "depth": 80.0,
+    "unid": "20210806_0000013",
+    "mag": 2.8,
+    "time": "2021-08-06T01:50:45.7Z",
+    "source_id": "1019404",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CENTRAL ALASKA"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -25971,31 +25997,5 @@
     "source_id": "1016426",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "HALMAHERA, INDONESIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      26.77,
-      45.73,
-      -131.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210802_0000194",
-  "properties": {
-    "lastupdate": "2021-08-02T16:21:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 26.77,
-    "auth": "BUC",
-    "lat": 45.73,
-    "depth": 131.0,
-    "unid": "20210802_0000194",
-    "mag": 3.2,
-    "time": "2021-08-02T15:02:24.3Z",
-    "source_id": "1016448",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "ROMANIA"
   }
 }]}
