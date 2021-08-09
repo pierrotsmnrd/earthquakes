@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":985576},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":985580},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -149.04,
+      62.74,
+      -51.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210809_0000016",
+  "properties": {
+    "lastupdate": "2021-08-09T01:56:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -149.04,
+    "auth": "NEIR",
+    "lat": 62.74,
+    "depth": 51.0,
+    "unid": "20210809_0000016",
+    "mag": 3.0,
+    "time": "2021-08-09T01:47:18.2Z",
+    "source_id": "1021191",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CENTRAL ALASKA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.82,
+      5.56,
+      -14.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210809_0000015",
+  "properties": {
+    "lastupdate": "2021-08-09T01:50:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 126.82,
+    "auth": "PIVS",
+    "lat": 5.56,
+    "depth": 14.0,
+    "unid": "20210809_0000015",
+    "mag": 3.2,
+    "time": "2021-08-09T01:40:15.0Z",
+    "source_id": "1021192",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "MINDANAO, PHILIPPINES"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -28,27 +80,53 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      145.54,
-      18.97,
-      -267.0
+      145.52,
+      18.96,
+      -255.0
     ]
   },
   "type": "Feature",
   "id": "20210809_0000014",
   "properties": {
-    "lastupdate": "2021-08-09T01:47:00.0Z",
+    "lastupdate": "2021-08-09T01:55:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": 145.54,
-    "auth": "GFZ",
-    "lat": 18.97,
-    "depth": 267.0,
+    "lon": 145.52,
+    "auth": "EMSC",
+    "lat": 18.96,
+    "depth": 255.0,
     "unid": "20210809_0000014",
-    "mag": 4.7,
-    "time": "2021-08-09T01:34:23.3Z",
+    "mag": 4.9,
+    "time": "2021-08-09T01:34:21.7Z",
     "source_id": "1021178",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "PAGAN REG., N. MARIANA ISLANDS"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.01,
+      36.33,
+      -2.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210809_0000017",
+  "properties": {
+    "lastupdate": "2021-08-09T02:07:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 27.01,
+    "auth": "EMSC",
+    "lat": 36.33,
+    "depth": 2.0,
+    "unid": "20210809_0000017",
+    "mag": 2.3,
+    "time": "2021-08-09T01:25:55.1Z",
+    "source_id": "1021172",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "DODECANESE IS.-TURKEY BORDER REG"
   }
 },{
   "geometry": {
@@ -75,6 +153,32 @@
     "source_id": "1021177",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "STRAIT OF GIBRALTAR"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -162.81,
+      65.19,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210809_0000018",
+  "properties": {
+    "lastupdate": "2021-08-09T02:01:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -162.81,
+    "auth": "NEIC",
+    "lat": 65.19,
+    "depth": 10.0,
+    "unid": "20210809_0000018",
+    "mag": 2.6,
+    "time": "2021-08-09T01:19:18.3Z",
+    "source_id": "1021193",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NORTHERN ALASKA"
   }
 },{
   "geometry": {
@@ -237,26 +341,26 @@
     "type": "Point",
     "coordinates": [
       50.01,
-      40.5,
-      -40.0
+      40.17,
+      -60.0
     ]
   },
   "type": "Feature",
   "id": "20210809_0000006",
   "properties": {
-    "lastupdate": "2021-08-09T01:14:00.0Z",
+    "lastupdate": "2021-08-09T02:06:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
     "lon": 50.01,
     "auth": "EMSC",
-    "lat": 40.5,
-    "depth": 40.0,
+    "lat": 40.17,
+    "depth": 60.0,
     "unid": "20210809_0000006",
     "mag": 4.0,
-    "time": "2021-08-09T00:48:43.2Z",
+    "time": "2021-08-09T00:48:42.6Z",
     "source_id": "1021168",
     "source_catalog": "EMSC-RTS",
-    "flynn_region": "AZERBAIJAN"
+    "flynn_region": "CASPIAN SEA, OFFSHORE AZERBAIJAN"
   }
 },{
   "geometry": {
@@ -25893,109 +25997,5 @@
     "source_id": "1019109",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CHIAPAS, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -108.65,
-      31.65,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210805_0000084",
-  "properties": {
-    "lastupdate": "2021-08-05T07:51:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -108.65,
-    "auth": "NEIC",
-    "lat": 31.65,
-    "depth": 10.0,
-    "unid": "20210805_0000084",
-    "mag": 2.5,
-    "time": "2021-08-05T05:46:00.2Z",
-    "source_id": "1018974",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NEW MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -103.4,
-      18.14,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210805_0000142",
-  "properties": {
-    "lastupdate": "2021-08-05T13:01:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -103.4,
-    "auth": "UNM",
-    "lat": 18.14,
-    "depth": 5.0,
-    "unid": "20210805_0000142",
-    "mag": 3.5,
-    "time": "2021-08-05T05:43:34.0Z",
-    "source_id": "1019110",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OFFSHORE MICHOACAN, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -94.66,
-      16.9,
-      -19.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210805_0000143",
-  "properties": {
-    "lastupdate": "2021-08-05T13:02:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -94.66,
-    "auth": "UNM",
-    "lat": 16.9,
-    "depth": 19.0,
-    "unid": "20210805_0000143",
-    "mag": 3.7,
-    "time": "2021-08-05T05:42:42.0Z",
-    "source_id": "1019112",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OAXACA, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -109.19,
-      30.28,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210805_0000144",
-  "properties": {
-    "lastupdate": "2021-08-05T13:01:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -109.19,
-    "auth": "UNM",
-    "lat": 30.28,
-    "depth": 10.0,
-    "unid": "20210805_0000144",
-    "mag": 3.2,
-    "time": "2021-08-05T05:37:05.0Z",
-    "source_id": "1019111",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SONORA, MEXICO"
   }
 }]}
