@@ -1,4 +1,30 @@
-{"type":"FeatureCollection","metadata":{"totalCount":989863},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":989864},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.18,
+      46.31,
+      -5.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210824_0000010",
+  "properties": {
+    "lastupdate": "2021-08-24T01:59:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 7.18,
+    "auth": "ZUR",
+    "lat": 46.31,
+    "depth": 5.0,
+    "unid": "20210824_0000010",
+    "mag": 1.5,
+    "time": "2021-08-24T01:51:35.7Z",
+    "source_id": "1027646",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SWITZERLAND"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -25971,31 +25997,5 @@
     "source_id": "1026270",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "STRAIT OF GIBRALTAR"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -104.28,
-      31.65,
-      -7.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210820_0000047",
-  "properties": {
-    "lastupdate": "2021-08-20T15:47:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -104.28,
-    "auth": "TX",
-    "lat": 31.65,
-    "depth": 7.0,
-    "unid": "20210820_0000047",
-    "mag": 2.8,
-    "time": "2021-08-20T04:58:50.6Z",
-    "source_id": "1026249",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "WESTERN TEXAS"
   }
 }]}
