@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":992111},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":992115},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.82,
+      31.76,
+      -8.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210901_0000022",
+  "properties": {
+    "lastupdate": "2021-09-01T03:05:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -103.82,
+    "auth": "TX",
+    "lat": 31.76,
+    "depth": 8.0,
+    "unid": "20210901_0000022",
+    "mag": 2.9,
+    "time": "2021-09-01T02:38:24.9Z",
+    "source_id": "1030607",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "WESTERN TEXAS"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      117.25,
+      -30.96,
+      -5.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210901_0000021",
+  "properties": {
+    "lastupdate": "2021-09-01T02:45:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 117.25,
+    "auth": "AUST",
+    "lat": -30.96,
+    "depth": 5.0,
+    "unid": "20210901_0000021",
+    "mag": 2.5,
+    "time": "2021-09-01T02:17:10.7Z",
+    "source_id": "1030605",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "WESTERN AUSTRALIA"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -23,6 +75,58 @@
     "source_id": "1030602",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "OFFSHORE BAJA CALIFORNIA, MEXICO"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -94.97,
+      15.66,
+      -23.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210901_0000019",
+  "properties": {
+    "lastupdate": "2021-09-01T02:21:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -94.97,
+    "auth": "UNM",
+    "lat": 15.66,
+    "depth": 23.0,
+    "unid": "20210901_0000019",
+    "mag": 4.1,
+    "time": "2021-09-01T01:58:59.0Z",
+    "source_id": "1030603",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "OFFSHORE OAXACA, MEXICO"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.57,
+      -0.76,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210901_0000020",
+  "properties": {
+    "lastupdate": "2021-09-01T02:30:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 121.57,
+    "auth": "DJA",
+    "lat": -0.76,
+    "depth": 10.0,
+    "unid": "20210901_0000020",
+    "mag": 3.1,
+    "time": "2021-09-01T01:56:28.0Z",
+    "source_id": "1030604",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SULAWESI, INDONESIA"
   }
 },{
   "geometry": {
@@ -25893,109 +25997,5 @@
     "source_id": "1029179",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "BABUYAN ISL REGION, PHILIPPINES"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -100.94,
-      17.42,
-      -44.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210828_0000294",
-  "properties": {
-    "lastupdate": "2021-08-29T01:01:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -100.94,
-    "auth": "UNM",
-    "lat": 17.42,
-    "depth": 44.0,
-    "unid": "20210828_0000294",
-    "mag": 3.0,
-    "time": "2021-08-28T13:47:12.0Z",
-    "source_id": "1029374",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "GUERRERO, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.6,
-      35.39,
-      -25.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210828_0000145",
-  "properties": {
-    "lastupdate": "2021-08-28T13:55:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -3.6,
-    "auth": "MDD",
-    "lat": 35.39,
-    "depth": 25.0,
-    "unid": "20210828_0000145",
-    "mag": 2.6,
-    "time": "2021-08-28T13:44:03.5Z",
-    "source_id": "1029176",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "STRAIT OF GIBRALTAR"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.57,
-      35.46,
-      -23.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210828_0000174",
-  "properties": {
-    "lastupdate": "2021-08-28T15:56:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -3.57,
-    "auth": "MDD",
-    "lat": 35.46,
-    "depth": 23.0,
-    "unid": "20210828_0000174",
-    "mag": 2.1,
-    "time": "2021-08-28T13:33:19.7Z",
-    "source_id": "1029212",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "STRAIT OF GIBRALTAR"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -157.69,
-      57.2,
-      -4.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210828_0000217",
-  "properties": {
-    "lastupdate": "2021-08-28T18:38:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -157.69,
-    "auth": "NEIC",
-    "lat": 57.2,
-    "depth": 4.0,
-    "unid": "20210828_0000217",
-    "mag": 2.8,
-    "time": "2021-08-28T13:31:37.1Z",
-    "source_id": "1029260",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "ALASKA PENINSULA"
   }
 }]}
