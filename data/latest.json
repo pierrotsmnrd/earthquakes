@@ -1,4 +1,30 @@
-{"type":"FeatureCollection","metadata":{"totalCount":996819},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":996822},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.83,
+      38.42,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210917_0000013",
+  "properties": {
+    "lastupdate": "2021-09-17T02:06:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 30.83,
+    "auth": "ISK",
+    "lat": 38.42,
+    "depth": 10.0,
+    "unid": "20210917_0000013",
+    "mag": 2.5,
+    "time": "2021-09-17T02:03:26.9Z",
+    "source_id": "1036745",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "WESTERN TURKEY"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -10,7 +36,7 @@
   "type": "Feature",
   "id": "20210917_0000010",
   "properties": {
-    "lastupdate": "2021-09-17T01:54:00.0Z",
+    "lastupdate": "2021-09-17T01:56:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
     "lon": -116.81,
@@ -19,10 +45,62 @@
     "depth": 10.0,
     "unid": "20210917_0000010",
     "mag": 2.2,
-    "time": "2021-09-17T01:52:36.8Z",
+    "time": "2021-09-17T01:52:36.7Z",
     "source_id": "1036742",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHERN CALIFORNIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.17,
+      18.25,
+      -34.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210917_0000012",
+  "properties": {
+    "lastupdate": "2021-09-17T02:05:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 119.17,
+    "auth": "PIVS",
+    "lat": 18.25,
+    "depth": 34.0,
+    "unid": "20210917_0000012",
+    "mag": 3.6,
+    "time": "2021-09-17T01:49:48.0Z",
+    "source_id": "1036744",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "PHILIPPINE ISLANDS REGION"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.98,
+      -21.05,
+      -110.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210917_0000011",
+  "properties": {
+    "lastupdate": "2021-09-17T02:03:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -68.98,
+    "auth": "GUC",
+    "lat": -21.05,
+    "depth": 110.0,
+    "unid": "20210917_0000011",
+    "mag": 2.6,
+    "time": "2021-09-17T01:45:58.0Z",
+    "source_id": "1036743",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "TARAPACA, CHILE"
   }
 },{
   "geometry": {
@@ -25919,83 +25997,5 @@
     "source_id": "1035465",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CENTRAL TURKEY"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -17.88,
-      28.59,
-      -9.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210914_0000097",
-  "properties": {
-    "lastupdate": "2021-09-14T03:43:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -17.88,
-    "auth": "MDD",
-    "lat": 28.59,
-    "depth": 9.0,
-    "unid": "20210914_0000097",
-    "mag": 2.1,
-    "time": "2021-09-14T03:39:39.3Z",
-    "source_id": "1035463",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CANARY ISLANDS, SPAIN REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -17.88,
-      28.59,
-      -7.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210914_0000096",
-  "properties": {
-    "lastupdate": "2021-09-14T03:40:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -17.88,
-    "auth": "MDD",
-    "lat": 28.59,
-    "depth": 7.0,
-    "unid": "20210914_0000096",
-    "mag": 2.7,
-    "time": "2021-09-14T03:37:00.0Z",
-    "source_id": "1035462",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CANARY ISLANDS, SPAIN REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -17.86,
-      28.59,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210914_0000095",
-  "properties": {
-    "lastupdate": "2021-09-14T03:37:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -17.86,
-    "auth": "MDD",
-    "lat": 28.59,
-    "depth": 10.0,
-    "unid": "20210914_0000095",
-    "mag": 2.6,
-    "time": "2021-09-14T03:34:14.0Z",
-    "source_id": "1035461",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CANARY ISLANDS, SPAIN REGION"
   }
 }]}
