@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":998106},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":998109},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -112.89,
+      -26.64,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210921_0000069",
+  "properties": {
+    "lastupdate": "2021-09-21T10:28:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": -112.89,
+    "auth": "EMSC",
+    "lat": -26.64,
+    "depth": 10.0,
+    "unid": "20210921_0000069",
+    "mag": 4.9,
+    "time": "2021-09-21T10:14:48.9Z",
+    "source_id": "1038391",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "EASTER ISLAND REGION"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -17.89,
+      28.66,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20210921_0000068",
+  "properties": {
+    "lastupdate": "2021-09-21T10:22:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -17.89,
+    "auth": "MDD",
+    "lat": 28.66,
+    "depth": 10.0,
+    "unid": "20210921_0000068",
+    "mag": 2.1,
+    "time": "2021-09-21T10:01:13.5Z",
+    "source_id": "1038390",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CANARY ISLANDS, SPAIN REGION"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -17032,24 +17084,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      22.1,
+      22.11,
       39.76,
-      0.0
+      -3.0
     ]
   },
   "type": "Feature",
   "id": "20210918_0000303",
   "properties": {
-    "lastupdate": "2021-09-18T23:49:00.0Z",
+    "lastupdate": "2021-09-21T10:06:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": 22.1,
-    "auth": "EMSC",
+    "lon": 22.11,
+    "auth": "THE",
     "lat": 39.76,
-    "depth": 0.0,
+    "depth": 3.0,
     "unid": "20210918_0000303",
-    "mag": 2.8,
-    "time": "2021-09-18T22:47:30.7Z",
+    "mag": 2.7,
+    "time": "2021-09-18T22:47:30.8Z",
     "source_id": "1037449",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "GREECE"
@@ -25945,57 +25997,5 @@
     "source_id": "1037145",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "HAWAII REGION, HAWAII"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      96.67,
-      2.41,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210917_0000211",
-  "properties": {
-    "lastupdate": "2021-09-17T22:20:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 96.67,
-    "auth": "DJA",
-    "lat": 2.41,
-    "depth": 10.0,
-    "unid": "20210917_0000211",
-    "mag": 3.8,
-    "time": "2021-09-17T22:05:52.0Z",
-    "source_id": "1037017",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SIMEULUE, INDONESIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      175.88,
-      -40.61,
-      -24.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20210917_0000207",
-  "properties": {
-    "lastupdate": "2021-09-17T22:00:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 175.88,
-    "auth": "GNS",
-    "lat": -40.61,
-    "depth": 24.0,
-    "unid": "20210917_0000207",
-    "mag": 3.5,
-    "time": "2021-09-17T21:53:30.4Z",
-    "source_id": "1037011",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NORTH ISLAND OF NEW ZEALAND"
   }
 }]}
