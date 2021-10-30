@@ -1,25 +1,77 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1011110},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1011112},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      25.06,
-      35.2,
-      -2.0
+      -17.83,
+      28.57,
+      -11.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20211030_0000018",
+  "properties": {
+    "lastupdate": "2021-10-30T02:03:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -17.83,
+    "auth": "MDD",
+    "lat": 28.57,
+    "depth": 11.0,
+    "unid": "20211030_0000018",
+    "mag": 2.7,
+    "time": "2021-10-30T01:56:57.7Z",
+    "source_id": "1055687",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CANARY ISLANDS, SPAIN REGION"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.43,
+      -30.87,
+      -62.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20211030_0000017",
+  "properties": {
+    "lastupdate": "2021-10-30T01:58:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -71.43,
+    "auth": "GUC",
+    "lat": -30.87,
+    "depth": 62.0,
+    "unid": "20211030_0000017",
+    "mag": 3.4,
+    "time": "2021-10-30T01:49:12.0Z",
+    "source_id": "1055686",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "COQUIMBO, CHILE"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.16,
+      35.16,
+      -1.0
     ]
   },
   "type": "Feature",
   "id": "20211030_0000016",
   "properties": {
-    "lastupdate": "2021-10-30T01:42:00.0Z",
+    "lastupdate": "2021-10-30T01:50:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": 25.06,
+    "lon": 25.16,
     "auth": "EMSC",
-    "lat": 35.2,
-    "depth": 2.0,
+    "lat": 35.16,
+    "depth": 1.0,
     "unid": "20211030_0000016",
-    "mag": 4.0,
-    "time": "2021-10-30T01:38:11.0Z",
+    "mag": 3.9,
+    "time": "2021-10-30T01:38:10.0Z",
     "source_id": "1055654",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CRETE, GREECE"
@@ -834,24 +886,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -120.29,
-      39.63,
-      -4.0
+      -120.85,
+      39.95,
+      -6.0
     ]
   },
   "type": "Feature",
   "id": "20211029_0000351",
   "properties": {
-    "lastupdate": "2021-10-29T22:30:00.0Z",
+    "lastupdate": "2021-10-30T01:46:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": -120.29,
+    "lon": -120.85,
     "auth": "NN",
-    "lat": 39.63,
-    "depth": 4.0,
+    "lat": 39.95,
+    "depth": 6.0,
     "unid": "20211029_0000351",
-    "mag": 2.3,
-    "time": "2021-10-29T22:26:46.7Z",
+    "mag": 2.7,
+    "time": "2021-10-29T22:26:37.6Z",
     "source_id": "1055593",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NORTHERN CALIFORNIA"
@@ -25943,58 +25995,6 @@
     "mag": 3.4,
     "time": "2021-10-27T14:20:05.3Z",
     "source_id": "1054418",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CANARY ISLANDS, SPAIN REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -104.12,
-      31.61,
-      -7.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20211027_0000400",
-  "properties": {
-    "lastupdate": "2021-10-28T18:59:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -104.12,
-    "auth": "TX",
-    "lat": 31.61,
-    "depth": 7.0,
-    "unid": "20211027_0000400",
-    "mag": 2.0,
-    "time": "2021-10-27T14:17:38.2Z",
-    "source_id": "1054980",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "WESTERN TEXAS"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -17.84,
-      28.56,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20211027_0000234",
-  "properties": {
-    "lastupdate": "2021-10-27T14:23:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -17.84,
-    "auth": "MDD",
-    "lat": 28.56,
-    "depth": 10.0,
-    "unid": "20211027_0000234",
-    "mag": 2.9,
-    "time": "2021-10-27T14:16:04.8Z",
-    "source_id": "1054420",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CANARY ISLANDS, SPAIN REGION"
   }
