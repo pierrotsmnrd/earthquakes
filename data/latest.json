@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1015839},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1015841},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.96,
+      -7.64,
+      -206.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20211114_0000021",
+  "properties": {
+    "lastupdate": "2021-11-14T02:10:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 126.96,
+    "auth": "DJA",
+    "lat": -7.64,
+    "depth": 206.0,
+    "unid": "20211114_0000021",
+    "mag": 4.4,
+    "time": "2021-11-14T02:02:08.0Z",
+    "source_id": "1061961",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "KEPULAUAN BARAT DAYA, INDONESIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.74,
+      38.43,
+      -5.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20211114_0000020",
+  "properties": {
+    "lastupdate": "2021-11-14T02:09:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -118.74,
+    "auth": "NEIC",
+    "lat": 38.43,
+    "depth": 5.0,
+    "unid": "20211114_0000020",
+    "mag": 2.5,
+    "time": "2021-11-14T01:56:54.2Z",
+    "source_id": "1061960",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NEVADA"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -210,24 +262,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -13.7,
-      -26.6,
+      -13.74,
+      -26.63,
       -33.0
     ]
   },
   "type": "Feature",
   "id": "20211114_0000010",
   "properties": {
-    "lastupdate": "2021-11-14T01:11:00.0Z",
+    "lastupdate": "2021-11-14T02:10:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": -13.7,
+    "lon": -13.74,
     "auth": "EMSC",
-    "lat": -26.6,
+    "lat": -26.63,
     "depth": 33.0,
     "unid": "20211114_0000010",
     "mag": 5.2,
-    "time": "2021-11-14T00:47:40.3Z",
+    "time": "2021-11-14T00:47:40.5Z",
     "source_id": "1061948",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHERN MID-ATLANTIC RIDGE"
@@ -25945,57 +25997,5 @@
     "source_id": "1060255",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SALTA, ARGENTINA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -17.83,
-      28.56,
-      -13.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20211110_0000042",
-  "properties": {
-    "lastupdate": "2021-11-10T04:23:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -17.83,
-    "auth": "MDD",
-    "lat": 28.56,
-    "depth": 13.0,
-    "unid": "20211110_0000042",
-    "mag": 3.4,
-    "time": "2021-11-10T03:11:06.8Z",
-    "source_id": "1060250",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CANARY ISLANDS, SPAIN REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -104.34,
-      31.67,
-      -7.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20211110_0000256",
-  "properties": {
-    "lastupdate": "2021-11-10T20:16:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -104.34,
-    "auth": "TX",
-    "lat": 31.67,
-    "depth": 7.0,
-    "unid": "20211110_0000256",
-    "mag": 2.2,
-    "time": "2021-11-10T03:10:59.7Z",
-    "source_id": "1060521",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "WESTERN TEXAS"
   }
 }]}
