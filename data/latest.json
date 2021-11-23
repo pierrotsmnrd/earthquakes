@@ -1,4 +1,30 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1018915},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1018917},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.15,
+      39.92,
+      -5.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20211123_0000137",
+  "properties": {
+    "lastupdate": "2021-11-23T11:23:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": -98.15,
+    "auth": "NEIC",
+    "lat": 39.92,
+    "depth": 5.0,
+    "unid": "20211123_0000137",
+    "mag": 3.1,
+    "time": "2021-11-23T11:11:57.3Z",
+    "source_id": "1065669",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "KANSAS"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -25971,31 +25997,5 @@
     "source_id": "1064459",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHERN SUMATRA, INDONESIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -17.81,
-      28.6,
-      -34.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20211119_0000208",
-  "properties": {
-    "lastupdate": "2021-11-19T19:16:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -17.81,
-    "auth": "MDD",
-    "lat": 28.6,
-    "depth": 34.0,
-    "unid": "20211119_0000208",
-    "mag": 2.7,
-    "time": "2021-11-19T19:11:12.9Z",
-    "source_id": "1064458",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CANARY ISLANDS, SPAIN REGION"
   }
 }]}
