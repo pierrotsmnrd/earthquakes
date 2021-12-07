@@ -1,4 +1,30 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1023472},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1023473},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -17.83,
+      28.56,
+      -12.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20211207_0000030",
+  "properties": {
+    "lastupdate": "2021-12-07T04:13:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -17.83,
+    "auth": "MDD",
+    "lat": 28.56,
+    "depth": 12.0,
+    "unid": "20211207_0000030",
+    "mag": 2.2,
+    "time": "2021-12-07T03:32:21.1Z",
+    "source_id": "1072352",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CANARY ISLANDS, SPAIN REGION"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -29,23 +55,23 @@
     "type": "Point",
     "coordinates": [
       -104.41,
-      31.67,
-      -6.0
+      31.66,
+      -5.0
     ]
   },
   "type": "Feature",
   "id": "20211207_0000028",
   "properties": {
-    "lastupdate": "2021-12-07T03:18:00.0Z",
+    "lastupdate": "2021-12-07T04:05:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
     "lon": -104.41,
-    "auth": "TX",
-    "lat": 31.67,
-    "depth": 6.0,
+    "auth": "NEIC",
+    "lat": 31.66,
+    "depth": 5.0,
     "unid": "20211207_0000028",
     "mag": 3.7,
-    "time": "2021-12-07T02:57:23.3Z",
+    "time": "2021-12-07T02:57:23.4Z",
     "source_id": "1071543",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "WESTERN TEXAS"
@@ -25971,31 +25997,5 @@
     "source_id": "1069872",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "ANTOFAGASTA, CHILE"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -71.26,
-      18.21,
-      -14.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20211203_0000100",
-  "properties": {
-    "lastupdate": "2021-12-03T10:36:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -71.26,
-    "auth": "UASD",
-    "lat": 18.21,
-    "depth": 14.0,
-    "unid": "20211203_0000100",
-    "mag": 2.5,
-    "time": "2021-12-03T01:59:42.0Z",
-    "source_id": "1070175",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "DOMINICAN REPUBLIC"
   }
 }]}
