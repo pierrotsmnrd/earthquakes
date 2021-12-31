@@ -1,4 +1,82 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1030509},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1030512},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.54,
+      -9.45,
+      -25.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20211231_0000019",
+  "properties": {
+    "lastupdate": "2021-12-31T02:41:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -75.54,
+    "auth": "LIM",
+    "lat": -9.45,
+    "depth": 25.0,
+    "unid": "20211231_0000019",
+    "mag": 3.9,
+    "time": "2021-12-31T02:33:13.0Z",
+    "source_id": "1082680",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CENTRAL PERU"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      128.72,
+      -6.87,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20211231_0000018",
+  "properties": {
+    "lastupdate": "2021-12-31T02:40:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 128.72,
+    "auth": "DJA",
+    "lat": -6.87,
+    "depth": 10.0,
+    "unid": "20211231_0000018",
+    "mag": 4.5,
+    "time": "2021-12-31T02:31:57.0Z",
+    "source_id": "1082679",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "BANDA SEA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.6,
+      -38.98,
+      -18.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20211231_0000017",
+  "properties": {
+    "lastupdate": "2021-12-31T02:39:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -73.6,
+    "auth": "GUC",
+    "lat": -38.98,
+    "depth": 18.0,
+    "unid": "20211231_0000017",
+    "mag": 2.8,
+    "time": "2021-12-31T02:30:36.0Z",
+    "source_id": "1082678",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "OFFSHORE ARAUCANIA, CHILE"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -236,24 +314,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -31.78,
-      37.64,
-      -60.0
+      -31.77,
+      37.65,
+      -40.0
     ]
   },
   "type": "Feature",
   "id": "20211231_0000006",
   "properties": {
-    "lastupdate": "2021-12-31T01:52:00.0Z",
+    "lastupdate": "2021-12-31T03:06:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": -31.78,
+    "lon": -31.77,
     "auth": "EMSC",
-    "lat": 37.64,
-    "depth": 60.0,
+    "lat": 37.65,
+    "depth": 40.0,
     "unid": "20211231_0000006",
     "mag": 5.0,
-    "time": "2021-12-31T00:58:38.5Z",
+    "time": "2021-12-31T00:58:36.3Z",
     "source_id": "1082651",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "AZORES ISLANDS REGION"
@@ -25919,83 +25997,5 @@
     "source_id": "1081419",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "WESTERN TEXAS"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      121.45,
-      2.06,
-      -14.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20211226_0000196",
-  "properties": {
-    "lastupdate": "2021-12-26T20:20:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 121.45,
-    "auth": "DJA",
-    "lat": 2.06,
-    "depth": 14.0,
-    "unid": "20211226_0000196",
-    "mag": 3.6,
-    "time": "2021-12-26T19:48:56.0Z",
-    "source_id": "1081396",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CELEBES SEA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -68.99,
-      -28.18,
-      -8.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20211226_0000206",
-  "properties": {
-    "lastupdate": "2021-12-26T21:03:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -68.99,
-    "auth": "GUC",
-    "lat": -28.18,
-    "depth": 8.0,
-    "unid": "20211226_0000206",
-    "mag": 2.7,
-    "time": "2021-12-26T19:47:56.0Z",
-    "source_id": "1081408",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "LA RIOJA, ARGENTINA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      26.83,
-      35.14,
-      -1.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20211226_0000191",
-  "properties": {
-    "lastupdate": "2021-12-26T20:02:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 26.83,
-    "auth": "THE",
-    "lat": 35.14,
-    "depth": 1.0,
-    "unid": "20211226_0000191",
-    "mag": 2.5,
-    "time": "2021-12-26T19:47:39.3Z",
-    "source_id": "1081388",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CRETE, GREECE"
   }
 }]}
