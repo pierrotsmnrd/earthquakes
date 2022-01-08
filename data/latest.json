@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1032364},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1032368},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.98,
+      18.81,
+      -5.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220108_0000063",
+  "properties": {
+    "lastupdate": "2022-01-08T08:06:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -73.98,
+    "auth": "AYIT",
+    "lat": 18.81,
+    "depth": 5.0,
+    "unid": "20220108_0000063",
+    "mag": 3.1,
+    "time": "2022-01-08T08:00:31.5Z",
+    "source_id": "1084959",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "HAITI REGION"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.17,
+      -26.73,
+      -34.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220108_0000061",
+  "properties": {
+    "lastupdate": "2022-01-08T07:52:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -71.17,
+    "auth": "GUC",
+    "lat": -26.73,
+    "depth": 34.0,
+    "unid": "20220108_0000061",
+    "mag": 3.6,
+    "time": "2022-01-08T07:34:44.0Z",
+    "source_id": "1084956",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "OFFSHORE ATACAMA, CHILE"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -28,24 +80,76 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      101.37,
-      37.76,
-      -10.0
+      27.3,
+      36.94,
+      -7.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220108_0000062",
+  "properties": {
+    "lastupdate": "2022-01-08T07:39:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 27.3,
+    "auth": "DDA",
+    "lat": 36.94,
+    "depth": 7.0,
+    "unid": "20220108_0000062",
+    "mag": 2.0,
+    "time": "2022-01-08T06:45:09.8Z",
+    "source_id": "1084957",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "DODECANESE IS.-TURKEY BORDER REG"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -97.58,
+      16.0,
+      -16.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220108_0000060",
+  "properties": {
+    "lastupdate": "2022-01-08T07:05:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -97.58,
+    "auth": "UNM",
+    "lat": 16.0,
+    "depth": 16.0,
+    "unid": "20220108_0000060",
+    "mag": 4.1,
+    "time": "2022-01-08T06:38:32.0Z",
+    "source_id": "1084955",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "OAXACA, MEXICO"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      101.29,
+      37.79,
+      -2.0
     ]
   },
   "type": "Feature",
   "id": "20220108_0000056",
   "properties": {
-    "lastupdate": "2022-01-08T06:47:00.0Z",
+    "lastupdate": "2022-01-08T07:09:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": 101.37,
-    "auth": "NEIC",
-    "lat": 37.76,
-    "depth": 10.0,
+    "lon": 101.29,
+    "auth": "EMSC",
+    "lat": 37.79,
+    "depth": 2.0,
     "unid": "20220108_0000056",
     "mag": 4.5,
-    "time": "2022-01-08T06:30:07.8Z",
+    "time": "2022-01-08T06:30:06.2Z",
     "source_id": "1084952",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NORTHERN QINGHAI, CHINA"
@@ -211,23 +315,23 @@
     "type": "Point",
     "coordinates": [
       20.04,
-      41.11,
-      -5.0
+      41.1,
+      -2.0
     ]
   },
   "type": "Feature",
   "id": "20220108_0000052",
   "properties": {
-    "lastupdate": "2022-01-08T06:25:00.0Z",
+    "lastupdate": "2022-01-08T07:32:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
     "lon": 20.04,
     "auth": "EMSC",
-    "lat": 41.11,
-    "depth": 5.0,
+    "lat": 41.1,
+    "depth": 2.0,
     "unid": "20220108_0000052",
     "mag": 2.8,
-    "time": "2022-01-08T06:05:56.9Z",
+    "time": "2022-01-08T06:05:56.8Z",
     "source_id": "1084943",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "ALBANIA"
@@ -25893,109 +25997,5 @@
     "source_id": "1083726",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "OFFSHORE OAXACA, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.62,
-      35.52,
-      -15.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220103_0000216",
-  "properties": {
-    "lastupdate": "2022-01-03T22:22:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -3.62,
-    "auth": "MDD",
-    "lat": 35.52,
-    "depth": 15.0,
-    "unid": "20220103_0000216",
-    "mag": 2.2,
-    "time": "2022-01-03T21:32:12.7Z",
-    "source_id": "1083691",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "STRAIT OF GIBRALTAR"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      119.42,
-      14.72,
-      -8.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220103_0000210",
-  "properties": {
-    "lastupdate": "2022-01-03T21:35:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 119.42,
-    "auth": "PIVS",
-    "lat": 14.72,
-    "depth": 8.0,
-    "unid": "20220103_0000210",
-    "mag": 3.2,
-    "time": "2022-01-03T21:25:32.0Z",
-    "source_id": "1083684",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "LUZON, PHILIPPINES"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -5.59,
-      37.06,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220103_0000214",
-  "properties": {
-    "lastupdate": "2022-01-03T22:12:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -5.59,
-    "auth": "MDD",
-    "lat": 37.06,
-    "depth": 5.0,
-    "unid": "20220103_0000214",
-    "mag": 1.7,
-    "time": "2022-01-03T21:24:28.4Z",
-    "source_id": "1083689",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SPAIN"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      119.34,
-      14.75,
-      -3.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220103_0000211",
-  "properties": {
-    "lastupdate": "2022-01-03T21:35:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 119.34,
-    "auth": "PIVS",
-    "lat": 14.75,
-    "depth": 3.0,
-    "unid": "20220103_0000211",
-    "mag": 3.3,
-    "time": "2022-01-03T21:22:48.0Z",
-    "source_id": "1083685",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "LUZON, PHILIPPINES"
   }
 }]}
