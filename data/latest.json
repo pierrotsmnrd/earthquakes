@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1032677},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1032680},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -16.14,
+      28.1,
+      -12.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220109_0000141",
+  "properties": {
+    "lastupdate": "2022-01-09T18:03:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -16.14,
+    "auth": "MDD",
+    "lat": 28.1,
+    "depth": 12.0,
+    "unid": "20220109_0000141",
+    "mag": 1.9,
+    "time": "2022-01-09T17:58:13.6Z",
+    "source_id": "1085325",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CANARY ISLANDS, SPAIN REGION"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.06,
+      12.07,
+      -50.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220109_0000139",
+  "properties": {
+    "lastupdate": "2022-01-09T17:47:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": -87.06,
+    "auth": "EMSC",
+    "lat": 12.07,
+    "depth": 50.0,
+    "unid": "20220109_0000139",
+    "mag": 4.9,
+    "time": "2022-01-09T17:10:32.2Z",
+    "source_id": "1085322",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NEAR COAST OF NICARAGUA"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -465,6 +517,32 @@
     "source_id": "1085276",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "WESTERN XIZANG"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      57.31,
+      30.79,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220109_0000140",
+  "properties": {
+    "lastupdate": "2022-01-09T17:41:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 57.31,
+    "auth": "TEH",
+    "lat": 30.79,
+    "depth": 10.0,
+    "unid": "20220109_0000140",
+    "mag": 3.6,
+    "time": "2022-01-09T13:41:55.2Z",
+    "source_id": "1085324",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "EASTERN IRAN"
   }
 },{
   "geometry": {
@@ -25919,83 +25997,5 @@
     "source_id": "1084147",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "OFFSHORE CHIAPAS, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -117.81,
-      38.18,
-      -7.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220105_0000059",
-  "properties": {
-    "lastupdate": "2022-01-05T17:36:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -117.81,
-    "auth": "NN",
-    "lat": 38.18,
-    "depth": 7.0,
-    "unid": "20220105_0000059",
-    "mag": 2.4,
-    "time": "2022-01-05T09:46:43.5Z",
-    "source_id": "1084094",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NEVADA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -102.96,
-      18.36,
-      -51.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220105_0000104",
-  "properties": {
-    "lastupdate": "2022-01-05T14:06:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -102.96,
-    "auth": "UNM",
-    "lat": 18.36,
-    "depth": 51.0,
-    "unid": "20220105_0000104",
-    "mag": 3.7,
-    "time": "2022-01-05T09:45:11.0Z",
-    "source_id": "1084150",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "MICHOACAN, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -101.02,
-      17.39,
-      -58.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220105_0000103",
-  "properties": {
-    "lastupdate": "2022-01-05T14:06:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -101.02,
-    "auth": "UNM",
-    "lat": 17.39,
-    "depth": 58.0,
-    "unid": "20220105_0000103",
-    "mag": 3.8,
-    "time": "2022-01-05T09:36:57.0Z",
-    "source_id": "1084148",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "GUERRERO, MEXICO"
   }
 }]}
