@@ -1,4 +1,30 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1033668},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1033669},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.64,
+      35.46,
+      -19.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220113_0000022",
+  "properties": {
+    "lastupdate": "2022-01-13T03:08:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -3.64,
+    "auth": "MDD",
+    "lat": 35.46,
+    "depth": 19.0,
+    "unid": "20220113_0000022",
+    "mag": 2.5,
+    "time": "2022-01-13T03:00:09.9Z",
+    "source_id": "1086561",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "STRAIT OF GIBRALTAR"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -3832,8 +3858,8 @@
   "type": "Feature",
   "id": "20220112_0000112",
   "properties": {
-    "lastupdate": "2022-01-12T10:50:00.0Z",
-    "magtype": "ml",
+    "lastupdate": "2022-01-13T02:49:00.0Z",
+    "magtype": "md",
     "evtype": "ke",
     "lon": -155.44,
     "auth": "NEIR",
@@ -3841,7 +3867,7 @@
     "depth": 0.0,
     "unid": "20220112_0000112",
     "mag": 2.1,
-    "time": "2022-01-12T10:44:51.2Z",
+    "time": "2022-01-12T10:44:51.1Z",
     "source_id": "1086337",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "ISLAND OF HAWAII, HAWAII"
@@ -25971,31 +25997,5 @@
     "source_id": "1085683",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "UTAH"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -68.32,
-      18.89,
-      -17.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220109_0000073",
-  "properties": {
-    "lastupdate": "2022-01-09T10:02:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -68.32,
-    "auth": "NEIC",
-    "lat": 18.89,
-    "depth": 17.0,
-    "unid": "20220109_0000073",
-    "mag": 2.5,
-    "time": "2022-01-09T09:21:46.8Z",
-    "source_id": "1085235",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "DOMINICAN REPUBLIC REGION"
   }
 }]}
