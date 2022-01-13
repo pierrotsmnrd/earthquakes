@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1033836},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1033839},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      116.38,
+      -9.49,
+      -29.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220113_0000183",
+  "properties": {
+    "lastupdate": "2022-01-13T21:00:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 116.38,
+    "auth": "DJA",
+    "lat": -9.49,
+    "depth": 29.0,
+    "unid": "20220113_0000183",
+    "mag": 2.9,
+    "time": "2022-01-13T20:51:16.0Z",
+    "source_id": "1086797",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "LOMBOK REGION, INDONESIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.58,
+      35.5,
+      -26.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220113_0000181",
+  "properties": {
+    "lastupdate": "2022-01-13T20:13:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -3.58,
+    "auth": "MDD",
+    "lat": 35.5,
+    "depth": 26.0,
+    "unid": "20220113_0000181",
+    "mag": 2.5,
+    "time": "2022-01-13T20:07:38.5Z",
+    "source_id": "1086793",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "STRAIT OF GIBRALTAR"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -367,23 +419,23 @@
     "type": "Point",
     "coordinates": [
       -118.73,
-      38.01,
-      -13.0
+      37.98,
+      -12.0
     ]
   },
   "type": "Feature",
   "id": "20220113_0000161",
   "properties": {
-    "lastupdate": "2022-01-13T19:47:00.0Z",
-    "magtype": "ml",
+    "lastupdate": "2022-01-13T20:49:00.0Z",
+    "magtype": "md",
     "evtype": "ke",
     "lon": -118.73,
-    "auth": "NN",
-    "lat": 38.01,
-    "depth": 13.0,
+    "auth": "NC",
+    "lat": 37.98,
+    "depth": 12.0,
     "unid": "20220113_0000161",
-    "mag": 2.0,
-    "time": "2022-01-13T18:37:36.0Z",
+    "mag": 2.2,
+    "time": "2022-01-13T18:37:36.3Z",
     "source_id": "1086763",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CENTRAL CALIFORNIA"
@@ -673,6 +725,32 @@
     "source_id": "1086748",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "ANTOFAGASTA, CHILE"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -126.48,
+      42.49,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220113_0000182",
+  "properties": {
+    "lastupdate": "2022-01-13T20:25:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -126.48,
+    "auth": "NEIC",
+    "lat": 42.49,
+    "depth": 10.0,
+    "unid": "20220113_0000182",
+    "mag": 3.2,
+    "time": "2022-01-13T16:32:25.1Z",
+    "source_id": "1086794",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "OFF COAST OF OREGON"
   }
 },{
   "geometry": {
@@ -3695,23 +3773,23 @@
     "type": "Point",
     "coordinates": [
       -116.44,
-      33.48,
-      -12.0
+      33.47,
+      -14.0
     ]
   },
   "type": "Feature",
   "id": "20220113_0000030",
   "properties": {
-    "lastupdate": "2022-01-13T03:31:00.0Z",
+    "lastupdate": "2022-01-13T20:35:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
     "lon": -116.44,
     "auth": "NEIR",
-    "lat": 33.48,
-    "depth": 12.0,
+    "lat": 33.47,
+    "depth": 14.0,
     "unid": "20220113_0000030",
-    "mag": 2.0,
-    "time": "2022-01-13T03:27:25.3Z",
+    "mag": 2.1,
+    "time": "2022-01-13T03:27:25.1Z",
     "source_id": "1086572",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHERN CALIFORNIA"
@@ -25919,83 +25997,5 @@
     "source_id": "1085466",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "HALMAHERA, INDONESIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -178.01,
-      -19.92,
-      -588.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220110_0000022",
-  "properties": {
-    "lastupdate": "2022-01-10T07:46:00.0Z",
-    "magtype": "mb",
-    "evtype": "ke",
-    "lon": -178.01,
-    "auth": "EMSC",
-    "lat": -19.92,
-    "depth": 588.0,
-    "unid": "20220110_0000022",
-    "mag": 4.5,
-    "time": "2022-01-10T02:26:11.4Z",
-    "source_id": "1085469",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "FIJI REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -74.09,
-      18.8,
-      -4.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220110_0000019",
-  "properties": {
-    "lastupdate": "2022-01-10T02:23:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -74.09,
-    "auth": "AYIT",
-    "lat": 18.8,
-    "depth": 4.0,
-    "unid": "20220110_0000019",
-    "mag": 3.3,
-    "time": "2022-01-10T02:18:28.5Z",
-    "source_id": "1085464",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "HAITI REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.62,
-      35.35,
-      -31.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220110_0000039",
-  "properties": {
-    "lastupdate": "2022-01-10T05:19:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -3.62,
-    "auth": "MDD",
-    "lat": 35.35,
-    "depth": 31.0,
-    "unid": "20220110_0000039",
-    "mag": 2.2,
-    "time": "2022-01-10T02:15:22.9Z",
-    "source_id": "1085490",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "STRAIT OF GIBRALTAR"
   }
 }]}
