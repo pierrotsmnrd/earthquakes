@@ -1,25 +1,77 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1034476},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1034478},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -155.27,
-      19.42,
-      -12.0
+      -98.06,
+      36.77,
+      -3.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220116_0000071",
+  "properties": {
+    "lastupdate": "2022-01-16T11:00:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -98.06,
+    "auth": "OK",
+    "lat": 36.77,
+    "depth": 3.0,
+    "unid": "20220116_0000071",
+    "mag": 2.5,
+    "time": "2022-01-16T10:57:40.4Z",
+    "source_id": "1087576",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "OKLAHOMA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      94.53,
+      24.07,
+      -50.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220116_0000072",
+  "properties": {
+    "lastupdate": "2022-01-16T11:01:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 94.53,
+    "auth": "NDI",
+    "lat": 24.07,
+    "depth": 50.0,
+    "unid": "20220116_0000072",
+    "mag": 3.4,
+    "time": "2022-01-16T10:51:00.0Z",
+    "source_id": "1087573",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "MYANMAR-INDIA BORDER REGION"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -155.41,
+      19.24,
+      -39.0
     ]
   },
   "type": "Feature",
   "id": "20220116_0000068",
   "properties": {
-    "lastupdate": "2022-01-16T09:27:00.0Z",
+    "lastupdate": "2022-01-16T10:09:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": -155.27,
-    "auth": "NEIR",
-    "lat": 19.42,
-    "depth": 12.0,
+    "lon": -155.41,
+    "auth": "NEIC",
+    "lat": 19.24,
+    "depth": 39.0,
     "unid": "20220116_0000068",
-    "mag": 2.0,
-    "time": "2022-01-16T09:21:31.7Z",
+    "mag": 3.0,
+    "time": "2022-01-16T09:22:12.5Z",
     "source_id": "1087565",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "ISLAND OF HAWAII, HAWAII"
@@ -1146,24 +1198,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      50.17,
-      29.13,
-      -12.0
+      50.15,
+      29.07,
+      -10.0
     ]
   },
   "type": "Feature",
   "id": "20220116_0000024",
   "properties": {
-    "lastupdate": "2022-01-16T07:36:00.0Z",
+    "lastupdate": "2022-01-16T10:06:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": 50.17,
+    "lon": 50.15,
     "auth": "EMSC",
-    "lat": 29.13,
-    "depth": 12.0,
+    "lat": 29.07,
+    "depth": 10.0,
     "unid": "20220116_0000024",
     "mag": 4.6,
-    "time": "2022-01-16T04:25:31.8Z",
+    "time": "2022-01-16T04:25:31.0Z",
     "source_id": "1087516",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHERN IRAN"
@@ -25945,57 +25997,5 @@
     "source_id": "1086282",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SPAIN"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      132.75,
-      -0.51,
-      -19.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220112_0000071",
-  "properties": {
-    "lastupdate": "2022-01-12T06:05:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 132.75,
-    "auth": "DJA",
-    "lat": -0.51,
-    "depth": 19.0,
-    "unid": "20220112_0000071",
-    "mag": 3.3,
-    "time": "2022-01-12T05:56:30.0Z",
-    "source_id": "1086280",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NEAR N COAST OF PAPUA, INDONESIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      117.75,
-      -8.15,
-      -16.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220112_0000069",
-  "properties": {
-    "lastupdate": "2022-01-12T05:55:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 117.75,
-    "auth": "DJA",
-    "lat": -8.15,
-    "depth": 16.0,
-    "unid": "20220112_0000069",
-    "mag": 2.8,
-    "time": "2022-01-12T05:46:30.0Z",
-    "source_id": "1086278",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SUMBAWA REGION, INDONESIA"
   }
 }]}
