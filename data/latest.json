@@ -1,4 +1,30 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1034656},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1034659},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.2,
+      34.8,
+      -24.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220117_0000039",
+  "properties": {
+    "lastupdate": "2022-01-17T05:57:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 25.2,
+    "auth": "THE",
+    "lat": 34.8,
+    "depth": 24.0,
+    "unid": "20220117_0000039",
+    "mag": 2.8,
+    "time": "2022-01-17T05:36:20.1Z",
+    "source_id": "1087813",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CRETE, GREECE"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -10,15 +36,15 @@
   "type": "Feature",
   "id": "20220117_0000036",
   "properties": {
-    "lastupdate": "2022-01-17T05:07:00.0Z",
-    "magtype": "md",
+    "lastupdate": "2022-01-17T05:09:00.0Z",
+    "magtype": "ml",
     "evtype": "ke",
     "lon": -155.43,
     "auth": "NEIR",
     "lat": 19.22,
     "depth": 33.0,
     "unid": "20220117_0000036",
-    "mag": 2.8,
+    "mag": 2.4,
     "time": "2022-01-17T05:03:53.4Z",
     "source_id": "1087811",
     "source_catalog": "EMSC-RTS",
@@ -28,27 +54,53 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -72.14,
-      -29.89,
-      -37.0
+      -72.11,
+      -29.95,
+      -8.0
     ]
   },
   "type": "Feature",
   "id": "20220117_0000035",
   "properties": {
-    "lastupdate": "2022-01-17T05:03:00.0Z",
-    "magtype": "m",
+    "lastupdate": "2022-01-17T05:11:00.0Z",
+    "magtype": "mb",
     "evtype": "ke",
-    "lon": -72.14,
-    "auth": "GUC",
-    "lat": -29.89,
-    "depth": 37.0,
+    "lon": -72.11,
+    "auth": "EMSC",
+    "lat": -29.95,
+    "depth": 8.0,
     "unid": "20220117_0000035",
     "mag": 4.5,
-    "time": "2022-01-17T04:59:33.0Z",
+    "time": "2022-01-17T04:59:31.5Z",
     "source_id": "1087807",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "OFFSHORE COQUIMBO, CHILE"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      76.18,
+      32.25,
+      -5.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220117_0000037",
+  "properties": {
+    "lastupdate": "2022-01-17T05:10:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 76.18,
+    "auth": "NDI",
+    "lat": 32.25,
+    "depth": 5.0,
+    "unid": "20220117_0000037",
+    "mag": 2.8,
+    "time": "2022-01-17T04:58:06.0Z",
+    "source_id": "1087808",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "HIMACHAL PRADESH, INDIA"
   }
 },{
   "geometry": {
@@ -288,24 +340,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      93.91,
-      85.19,
-      -80.0
+      93.33,
+      85.2,
+      -84.0
     ]
   },
   "type": "Feature",
   "id": "20220117_0000025",
   "properties": {
-    "lastupdate": "2022-01-17T04:20:00.0Z",
+    "lastupdate": "2022-01-17T05:49:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": 93.91,
+    "lon": 93.33,
     "auth": "EMSC",
-    "lat": 85.19,
-    "depth": 80.0,
+    "lat": 85.2,
+    "depth": 84.0,
     "unid": "20220117_0000025",
     "mag": 4.9,
-    "time": "2022-01-17T03:32:01.2Z",
+    "time": "2022-01-17T03:32:01.5Z",
     "source_id": "1087793",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NORTH OF SEVERNAYA ZEMLYA"
@@ -730,24 +782,50 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      105.98,
-      -7.26,
-      -40.0
+      25.26,
+      35.28,
+      -22.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220117_0000038",
+  "properties": {
+    "lastupdate": "2022-01-17T05:41:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 25.26,
+    "auth": "THE",
+    "lat": 35.28,
+    "depth": 22.0,
+    "unid": "20220117_0000038",
+    "mag": 2.5,
+    "time": "2022-01-17T00:27:28.6Z",
+    "source_id": "1087814",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CRETE, GREECE"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      106.02,
+      -7.22,
+      -42.0
     ]
   },
   "type": "Feature",
   "id": "20220117_0000008",
   "properties": {
-    "lastupdate": "2022-01-17T03:51:00.0Z",
+    "lastupdate": "2022-01-17T05:29:00.0Z",
     "magtype": "mw",
     "evtype": "ke",
-    "lon": 105.98,
+    "lon": 106.02,
     "auth": "EMSC",
-    "lat": -7.26,
-    "depth": 40.0,
+    "lat": -7.22,
+    "depth": 42.0,
     "unid": "20220117_0000008",
     "mag": 5.0,
-    "time": "2022-01-17T00:25:58.6Z",
+    "time": "2022-01-17T00:25:58.8Z",
     "source_id": "1087750",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "JAVA, INDONESIA"
@@ -1154,7 +1232,7 @@
   "type": "Feature",
   "id": "20220116_0000186",
   "properties": {
-    "lastupdate": "2022-01-17T00:45:00.0Z",
+    "lastupdate": "2022-01-17T05:36:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
     "lon": 24.33,
@@ -1250,24 +1328,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      24.34,
+      24.35,
       39.97,
-      -10.0
+      -5.0
     ]
   },
   "type": "Feature",
   "id": "20220116_0000182",
   "properties": {
-    "lastupdate": "2022-01-17T00:52:00.0Z",
+    "lastupdate": "2022-01-17T05:36:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": 24.34,
+    "lon": 24.35,
     "auth": "EMSC",
     "lat": 39.97,
-    "depth": 10.0,
+    "depth": 5.0,
     "unid": "20220116_0000182",
-    "mag": 3.0,
-    "time": "2022-01-16T22:45:05.6Z",
+    "mag": 3.1,
+    "time": "2022-01-16T22:45:05.5Z",
     "source_id": "1087730",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "AEGEAN SEA"
@@ -1484,24 +1562,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      20.59,
-      38.67,
-      -2.0
+      20.62,
+      38.66,
+      -5.0
     ]
   },
   "type": "Feature",
   "id": "20220116_0000174",
   "properties": {
-    "lastupdate": "2022-01-16T22:22:00.0Z",
+    "lastupdate": "2022-01-17T05:35:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": 20.59,
+    "lon": 20.62,
     "auth": "EMSC",
-    "lat": 38.67,
-    "depth": 2.0,
+    "lat": 38.66,
+    "depth": 5.0,
     "unid": "20220116_0000174",
     "mag": 4.2,
-    "time": "2022-01-16T21:46:45.9Z",
+    "time": "2022-01-16T21:46:46.1Z",
     "source_id": "1087720",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "GREECE"
@@ -25919,83 +25997,5 @@
     "source_id": "1086511",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NORTHERN CALIFORNIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      25.94,
-      37.72,
-      -2.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220112_0000256",
-  "properties": {
-    "lastupdate": "2022-01-13T07:42:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 25.94,
-    "auth": "EMSC",
-    "lat": 37.72,
-    "depth": 2.0,
-    "unid": "20220112_0000256",
-    "mag": 2.7,
-    "time": "2022-01-12T23:37:29.0Z",
-    "source_id": "1086512",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "DODECANESE ISLANDS, GREECE"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -66.84,
-      17.99,
-      -16.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220112_0000236",
-  "properties": {
-    "lastupdate": "2022-01-12T23:44:00.0Z",
-    "magtype": "md",
-    "evtype": "ke",
-    "lon": -66.84,
-    "auth": "NEIR",
-    "lat": 17.99,
-    "depth": 16.0,
-    "unid": "20220112_0000236",
-    "mag": 2.5,
-    "time": "2022-01-12T23:30:25.8Z",
-    "source_id": "1086513",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "PUERTO RICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -68.21,
-      -31.7,
-      -93.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220112_0000234",
-  "properties": {
-    "lastupdate": "2022-01-12T23:35:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -68.21,
-    "auth": "NSNA",
-    "lat": -31.7,
-    "depth": 93.0,
-    "unid": "20220112_0000234",
-    "mag": 3.0,
-    "time": "2022-01-12T23:28:37.0Z",
-    "source_id": "1086510",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SAN JUAN, ARGENTINA"
   }
 }]}
