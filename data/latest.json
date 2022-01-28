@@ -1,4 +1,82 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1037605},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1037608},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.72,
+      -2.83,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220128_0000160",
+  "properties": {
+    "lastupdate": "2022-01-28T17:10:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 126.72,
+    "auth": "DJA",
+    "lat": -2.83,
+    "depth": 10.0,
+    "unid": "20220128_0000160",
+    "mag": 3.9,
+    "time": "2022-01-28T17:05:08.0Z",
+    "source_id": "1091478",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CERAM SEA, INDONESIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -25.85,
+      -58.93,
+      -119.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220128_0000161",
+  "properties": {
+    "lastupdate": "2022-01-28T17:42:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": -25.85,
+    "auth": "EMSC",
+    "lat": -58.93,
+    "depth": 119.0,
+    "unid": "20220128_0000161",
+    "mag": 4.7,
+    "time": "2022-01-28T16:52:41.8Z",
+    "source_id": "1091479",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SOUTH SANDWICH ISLANDS REGION"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      70.34,
+      36.15,
+      -118.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220128_0000162",
+  "properties": {
+    "lastupdate": "2022-01-28T18:01:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": 70.34,
+    "auth": "EMSC",
+    "lat": 36.15,
+    "depth": 118.0,
+    "unid": "20220128_0000162",
+    "mag": 4.5,
+    "time": "2022-01-28T16:49:10.5Z",
+    "source_id": "1091480",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "HINDU KUSH REGION, AFGHANISTAN"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -4482,7 +4560,7 @@
   "type": "Feature",
   "id": "20220127_0000156",
   "properties": {
-    "lastupdate": "2022-01-27T22:09:00.0Z",
+    "lastupdate": "2022-01-28T17:28:00.0Z",
     "magtype": "md",
     "evtype": "ke",
     "lon": -124.32,
@@ -4490,7 +4568,7 @@
     "lat": 40.48,
     "depth": 18.0,
     "unid": "20220127_0000156",
-    "mag": 2.8,
+    "mag": 2.7,
     "time": "2022-01-27T22:07:58.4Z",
     "source_id": "1091207",
     "source_catalog": "EMSC-RTS",
@@ -25919,83 +25997,5 @@
     "source_id": "1090092",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "ISLAND OF HAWAII, HAWAII"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -179.84,
-      -31.57,
-      -430.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220124_0000082",
-  "properties": {
-    "lastupdate": "2022-01-24T12:59:00.0Z",
-    "magtype": "mb",
-    "evtype": "ke",
-    "lon": -179.84,
-    "auth": "EMSC",
-    "lat": -31.57,
-    "depth": 430.0,
-    "unid": "20220124_0000082",
-    "mag": 4.5,
-    "time": "2022-01-24T11:23:38.8Z",
-    "source_id": "1090093",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "KERMADEC ISLANDS REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      20.69,
-      37.42,
-      -6.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220124_0000278",
-  "properties": {
-    "lastupdate": "2022-01-26T18:25:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 20.69,
-    "auth": "THE",
-    "lat": 37.42,
-    "depth": 6.0,
-    "unid": "20220124_0000278",
-    "mag": 2.6,
-    "time": "2022-01-24T11:16:39.0Z",
-    "source_id": "1090894",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "IONIAN SEA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -22.23,
-      63.9,
-      -6.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220124_0000078",
-  "properties": {
-    "lastupdate": "2022-01-24T11:25:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -22.23,
-    "auth": "REY",
-    "lat": 63.9,
-    "depth": 6.0,
-    "unid": "20220124_0000078",
-    "mag": 3.7,
-    "time": "2022-01-24T11:15:49.0Z",
-    "source_id": "1090090",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "ICELAND REGION"
   }
 }]}
