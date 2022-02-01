@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1038532},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1038535},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      31.62,
+      29.29,
+      -6.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220201_0000072",
+  "properties": {
+    "lastupdate": "2022-02-01T09:14:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 31.62,
+    "auth": "HLW",
+    "lat": 29.29,
+    "depth": 6.0,
+    "unid": "20220201_0000072",
+    "mag": 4.1,
+    "time": "2022-02-01T09:01:21.2Z",
+    "source_id": "1092682",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "EGYPT"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -74.12,
+      -40.3,
+      -45.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220201_0000073",
+  "properties": {
+    "lastupdate": "2022-02-01T09:16:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -74.12,
+    "auth": "GUC",
+    "lat": -40.3,
+    "depth": 45.0,
+    "unid": "20220201_0000073",
+    "mag": 3.2,
+    "time": "2022-02-01T08:59:15.0Z",
+    "source_id": "1092683",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "OFFSHORE LOS LAGOS, CHILE"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -470,24 +522,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -43.57,
-      28.94,
-      -10.0
+      -43.66,
+      28.84,
+      -40.0
     ]
   },
   "type": "Feature",
   "id": "20220201_0000070",
   "properties": {
-    "lastupdate": "2022-02-01T09:00:00.0Z",
+    "lastupdate": "2022-02-01T09:47:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": -43.57,
+    "lon": -43.66,
     "auth": "EMSC",
-    "lat": 28.94,
-    "depth": 10.0,
+    "lat": 28.84,
+    "depth": 40.0,
     "unid": "20220201_0000070",
-    "mag": 4.5,
-    "time": "2022-02-01T05:48:56.8Z",
+    "mag": 4.8,
+    "time": "2022-02-01T05:48:59.7Z",
     "source_id": "1092644",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NORTHERN MID-ATLANTIC RIDGE"
@@ -25945,57 +25997,5 @@
     "source_id": "1091391",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "HAITI REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -17.87,
-      28.62,
-      -1.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220128_0000032",
-  "properties": {
-    "lastupdate": "2022-01-28T03:47:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -17.87,
-    "auth": "MDD",
-    "lat": 28.62,
-    "depth": 1.0,
-    "unid": "20220128_0000032",
-    "mag": 1.6,
-    "time": "2022-01-28T03:34:30.2Z",
-    "source_id": "1091306",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CANARY ISLANDS, SPAIN REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      95.9,
-      3.82,
-      -25.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220128_0000028",
-  "properties": {
-    "lastupdate": "2022-01-28T03:35:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 95.9,
-    "auth": "DJA",
-    "lat": 3.82,
-    "depth": 25.0,
-    "unid": "20220128_0000028",
-    "mag": 3.4,
-    "time": "2022-01-28T03:25:12.0Z",
-    "source_id": "1091301",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OFF W COAST OF NORTHERN SUMATRA"
   }
 }]}
