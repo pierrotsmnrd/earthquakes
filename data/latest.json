@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1038808},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1038812},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -86.41,
+      10.9,
+      -9.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220202_0000085",
+  "properties": {
+    "lastupdate": "2022-02-02T12:36:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -86.41,
+    "auth": "INET",
+    "lat": 10.9,
+    "depth": 9.0,
+    "unid": "20220202_0000085",
+    "mag": 3.5,
+    "time": "2022-02-02T12:26:10.0Z",
+    "source_id": "1093068",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "OFF COAST OF COSTA RICA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.41,
+      -29.07,
+      -44.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220202_0000083",
+  "properties": {
+    "lastupdate": "2022-02-02T12:17:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -71.41,
+    "auth": "GUC",
+    "lat": -29.07,
+    "depth": 44.0,
+    "unid": "20220202_0000083",
+    "mag": 2.5,
+    "time": "2022-02-02T12:07:23.0Z",
+    "source_id": "1093066",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "ATACAMA, CHILE"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -54,27 +106,53 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -93.59,
-      15.08,
-      -100.0
+      -150.62,
+      60.79,
+      -67.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220202_0000086",
+  "properties": {
+    "lastupdate": "2022-02-02T12:52:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -150.62,
+    "auth": "NEIC",
+    "lat": 60.79,
+    "depth": 67.0,
+    "unid": "20220202_0000086",
+    "mag": 2.5,
+    "time": "2022-02-02T11:38:02.9Z",
+    "source_id": "1093070",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "KENAI PENINSULA, ALASKA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.8,
+      14.79,
+      -10.0
     ]
   },
   "type": "Feature",
   "id": "20220202_0000080",
   "properties": {
-    "lastupdate": "2022-02-02T11:56:00.0Z",
-    "magtype": "m",
+    "lastupdate": "2022-02-02T12:58:00.0Z",
+    "magtype": "mb",
     "evtype": "ke",
-    "lon": -93.59,
-    "auth": "UNM",
-    "lat": 15.08,
-    "depth": 100.0,
+    "lon": -93.8,
+    "auth": "NEIC",
+    "lat": 14.79,
+    "depth": 10.0,
     "unid": "20220202_0000080",
-    "mag": 4.3,
-    "time": "2022-02-02T11:36:42.0Z",
+    "mag": 4.0,
+    "time": "2022-02-02T11:36:41.5Z",
     "source_id": "1093062",
     "source_catalog": "EMSC-RTS",
-    "flynn_region": "OFFSHORE CHIAPAS, MEXICO"
+    "flynn_region": "OFF COAST OF CHIAPAS, MEXICO"
   }
 },{
   "geometry": {
@@ -179,6 +257,32 @@
     "source_id": "1093051",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CENTRAL ALASKA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.94,
+      17.96,
+      -11.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220202_0000084",
+  "properties": {
+    "lastupdate": "2022-02-02T12:34:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -66.94,
+    "auth": "NEIR",
+    "lat": 17.96,
+    "depth": 11.0,
+    "unid": "20220202_0000084",
+    "mag": 2.2,
+    "time": "2022-02-02T10:37:34.0Z",
+    "source_id": "1093067",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "PUERTO RICO"
   }
 },{
   "geometry": {
@@ -1432,21 +1536,21 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -25.4,
-      -58.51,
-      -55.0
+      -25.47,
+      -58.54,
+      -60.0
     ]
   },
   "type": "Feature",
   "id": "20220202_0000028",
   "properties": {
-    "lastupdate": "2022-02-02T04:53:00.0Z",
+    "lastupdate": "2022-02-02T13:07:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": -25.4,
-    "auth": "NEIC",
-    "lat": -58.51,
-    "depth": 55.0,
+    "lon": -25.47,
+    "auth": "EMSC",
+    "lat": -58.54,
+    "depth": 60.0,
     "unid": "20220202_0000028",
     "mag": 4.9,
     "time": "2022-02-02T04:10:56.4Z",
@@ -25893,109 +25997,5 @@
     "source_id": "1091653",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CANARY ISLANDS, SPAIN REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -148.29,
-      62.44,
-      -35.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220129_0000081",
-  "properties": {
-    "lastupdate": "2022-01-29T09:00:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -148.29,
-    "auth": "NEIC",
-    "lat": 62.44,
-    "depth": 35.0,
-    "unid": "20220129_0000081",
-    "mag": 2.7,
-    "time": "2022-01-29T05:33:15.9Z",
-    "source_id": "1091703",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CENTRAL ALASKA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -160.85,
-      67.45,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220129_0000078",
-  "properties": {
-    "lastupdate": "2022-01-29T08:57:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -160.85,
-    "auth": "NEIC",
-    "lat": 67.45,
-    "depth": 10.0,
-    "unid": "20220129_0000078",
-    "mag": 2.5,
-    "time": "2022-01-29T05:27:44.9Z",
-    "source_id": "1091700",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NORTHERN ALASKA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -73.66,
-      -37.21,
-      -39.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220129_0000053",
-  "properties": {
-    "lastupdate": "2022-01-29T05:49:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -73.66,
-    "auth": "GUC",
-    "lat": -37.21,
-    "depth": 39.0,
-    "unid": "20220129_0000053",
-    "mag": 3.0,
-    "time": "2022-01-29T05:26:21.0Z",
-    "source_id": "1091655",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OFFSHORE BIO-BIO, CHILE"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      104.98,
-      28.42,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220129_0000056",
-  "properties": {
-    "lastupdate": "2022-01-29T20:44:00.0Z",
-    "magtype": "mb",
-    "evtype": "ke",
-    "lon": 104.98,
-    "auth": "EMSC",
-    "lat": 28.42,
-    "depth": 10.0,
-    "unid": "20220129_0000056",
-    "mag": 4.3,
-    "time": "2022-01-29T05:18:38.9Z",
-    "source_id": "1091660",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "EASTERN SICHUAN, CHINA"
   }
 }]}
