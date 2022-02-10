@@ -1,4 +1,30 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1040714},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1040715},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.97,
+      38.56,
+      -2.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220210_0000040",
+  "properties": {
+    "lastupdate": "2022-02-10T06:35:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -0.97,
+    "auth": "MDD",
+    "lat": 38.56,
+    "depth": 2.0,
+    "unid": "20220210_0000040",
+    "mag": 1.6,
+    "time": "2022-02-10T06:17:53.8Z",
+    "source_id": "1095568",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SPAIN"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -25971,31 +25997,5 @@
     "source_id": "1094138",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "COSTA RICA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      119.07,
-      -8.61,
-      -127.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220206_0000010",
-  "properties": {
-    "lastupdate": "2022-02-06T01:40:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 119.07,
-    "auth": "DJA",
-    "lat": -8.61,
-    "depth": 127.0,
-    "unid": "20220206_0000010",
-    "mag": 2.9,
-    "time": "2022-02-06T01:34:11.0Z",
-    "source_id": "1094131",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "FLORES REGION, INDONESIA"
   }
 }]}
