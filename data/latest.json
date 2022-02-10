@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1040689},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1040691},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -11.76,
+      -20.31,
+      -33.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220210_0000018",
+  "properties": {
+    "lastupdate": "2022-02-10T02:49:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": -11.76,
+    "auth": "EMSC",
+    "lat": -20.31,
+    "depth": 33.0,
+    "unid": "20220210_0000018",
+    "mag": 4.8,
+    "time": "2022-02-10T02:33:34.8Z",
+    "source_id": "1095532",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SOUTHERN MID-ATLANTIC RIDGE"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.4,
+      -31.53,
+      -95.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220210_0000017",
+  "properties": {
+    "lastupdate": "2022-02-10T02:20:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -68.4,
+    "auth": "NSNA",
+    "lat": -31.53,
+    "depth": 95.0,
+    "unid": "20220210_0000017",
+    "mag": 3.1,
+    "time": "2022-02-10T02:14:33.0Z",
+    "source_id": "1095529",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SAN JUAN, ARGENTINA"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -25945,57 +25997,5 @@
     "source_id": "1094098",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTH AFRICA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -97.49,
-      15.91,
-      -4.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220205_0000209",
-  "properties": {
-    "lastupdate": "2022-02-06T02:06:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -97.49,
-    "auth": "UNM",
-    "lat": 15.91,
-    "depth": 4.0,
-    "unid": "20220205_0000209",
-    "mag": 3.5,
-    "time": "2022-02-05T22:38:23.0Z",
-    "source_id": "1094141",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OFFSHORE OAXACA, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -4.32,
-      37.12,
-      -8.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220205_0000200",
-  "properties": {
-    "lastupdate": "2022-02-05T23:13:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -4.32,
-    "auth": "MDD",
-    "lat": 37.12,
-    "depth": 8.0,
-    "unid": "20220205_0000200",
-    "mag": 1.7,
-    "time": "2022-02-05T22:31:59.8Z",
-    "source_id": "1094105",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SPAIN"
   }
 }]}
