@@ -1,4 +1,82 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1041083},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1041086},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -135.98,
+      59.45,
+      -3.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220211_0000178",
+  "properties": {
+    "lastupdate": "2022-02-11T21:51:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -135.98,
+    "auth": "NEIC",
+    "lat": 59.45,
+    "depth": 3.0,
+    "unid": "20220211_0000178",
+    "mag": 3.0,
+    "time": "2022-02-11T21:34:59.7Z",
+    "source_id": "1096052",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SOUTHEASTERN ALASKA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -155.41,
+      19.23,
+      -31.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220211_0000177",
+  "properties": {
+    "lastupdate": "2022-02-11T21:40:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -155.41,
+    "auth": "NEIR",
+    "lat": 19.23,
+    "depth": 31.0,
+    "unid": "20220211_0000177",
+    "mag": 2.0,
+    "time": "2022-02-11T21:34:56.1Z",
+    "source_id": "1096051",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "ISLAND OF HAWAII, HAWAII"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.76,
+      34.96,
+      -2.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220211_0000176",
+  "properties": {
+    "lastupdate": "2022-02-11T21:16:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 25.76,
+    "auth": "EMSC",
+    "lat": 34.96,
+    "depth": 2.0,
+    "unid": "20220211_0000176",
+    "mag": 2.8,
+    "time": "2022-02-11T21:10:55.4Z",
+    "source_id": "1096049",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CRETE, GREECE"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -2714,8 +2792,8 @@
   "type": "Feature",
   "id": "20220211_0000059",
   "properties": {
-    "lastupdate": "2022-02-11T07:44:00.0Z",
-    "magtype": "md",
+    "lastupdate": "2022-02-11T21:54:00.0Z",
+    "magtype": "mh",
     "evtype": "ke",
     "lon": -122.76,
     "auth": "NC",
@@ -2723,7 +2801,7 @@
     "depth": 2.0,
     "unid": "20220211_0000059",
     "mag": 2.1,
-    "time": "2022-02-11T07:42:37.6Z",
+    "time": "2022-02-11T07:42:37.5Z",
     "source_id": "1095882",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NORTHERN CALIFORNIA"
@@ -25919,83 +25997,5 @@
     "source_id": "1094665",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "OAXACA, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -79.24,
-      -9.45,
-      -42.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220207_0000059",
-  "properties": {
-    "lastupdate": "2022-02-07T07:55:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -79.24,
-    "auth": "LIM",
-    "lat": -9.45,
-    "depth": 42.0,
-    "unid": "20220207_0000059",
-    "mag": 4.2,
-    "time": "2022-02-07T07:43:54.0Z",
-    "source_id": "1094589",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OFF COAST OF NORTHERN PERU"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -16.32,
-      28.19,
-      -33.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220207_0000060",
-  "properties": {
-    "lastupdate": "2022-02-07T08:06:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -16.32,
-    "auth": "MDD",
-    "lat": 28.19,
-    "depth": 33.0,
-    "unid": "20220207_0000060",
-    "mag": 1.9,
-    "time": "2022-02-07T07:40:57.9Z",
-    "source_id": "1094590",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CANARY ISLANDS, SPAIN REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -78.52,
-      -3.7,
-      -50.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220207_0000057",
-  "properties": {
-    "lastupdate": "2022-02-07T07:30:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -78.52,
-    "auth": "QUI",
-    "lat": -3.7,
-    "depth": 50.0,
-    "unid": "20220207_0000057",
-    "mag": 3.8,
-    "time": "2022-02-07T07:24:51.0Z",
-    "source_id": "1094586",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "PERU-ECUADOR BORDER REGION"
   }
 }]}
