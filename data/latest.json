@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1042082},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1042085},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.4,
+      12.62,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220216_0000050",
+  "properties": {
+    "lastupdate": "2022-02-16T10:55:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 125.4,
+    "auth": "PIVS",
+    "lat": 12.62,
+    "depth": 10.0,
+    "unid": "20220216_0000050",
+    "mag": 4.4,
+    "time": "2022-02-16T10:29:34.0Z",
+    "source_id": "1097445",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SAMAR, PHILIPPINES"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.12,
+      -24.13,
+      -191.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220216_0000048",
+  "properties": {
+    "lastupdate": "2022-02-16T10:15:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -67.12,
+    "auth": "NSNA",
+    "lat": -24.13,
+    "depth": 191.0,
+    "unid": "20220216_0000048",
+    "mag": 3.3,
+    "time": "2022-02-16T10:09:07.0Z",
+    "source_id": "1097443",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SALTA, ARGENTINA"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -80,24 +132,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -86.98,
-      12.55,
-      -167.0
+      -86.87,
+      12.52,
+      -172.0
     ]
   },
   "type": "Feature",
   "id": "20220216_0000044",
   "properties": {
-    "lastupdate": "2022-02-16T10:06:00.0Z",
-    "magtype": "m",
+    "lastupdate": "2022-02-16T10:52:00.0Z",
+    "magtype": "mb",
     "evtype": "ke",
-    "lon": -86.98,
+    "lon": -86.87,
     "auth": "EMSC",
-    "lat": 12.55,
-    "depth": 167.0,
+    "lat": 12.52,
+    "depth": 172.0,
     "unid": "20220216_0000044",
-    "mag": 4.4,
-    "time": "2022-02-16T09:56:06.9Z",
+    "mag": 4.6,
+    "time": "2022-02-16T09:56:06.8Z",
     "source_id": "1097438",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NICARAGUA"
@@ -127,6 +179,32 @@
     "source_id": "1097434",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHERN SUMATRA, INDONESIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.85,
+      17.94,
+      -11.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220216_0000049",
+  "properties": {
+    "lastupdate": "2022-02-16T10:47:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -66.85,
+    "auth": "NEIR",
+    "lat": 17.94,
+    "depth": 11.0,
+    "unid": "20220216_0000049",
+    "mag": 3.0,
+    "time": "2022-02-16T09:33:01.6Z",
+    "source_id": "1097444",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "PUERTO RICO REGION"
   }
 },{
   "geometry": {
@@ -184,24 +262,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -175.49,
-      -20.81,
-      -31.0
+      -175.53,
+      -20.77,
+      -40.0
     ]
   },
   "type": "Feature",
   "id": "20220216_0000043",
   "properties": {
-    "lastupdate": "2022-02-16T09:48:00.0Z",
+    "lastupdate": "2022-02-16T10:26:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": -175.49,
-    "auth": "NEIC",
-    "lat": -20.81,
-    "depth": 31.0,
+    "lon": -175.53,
+    "auth": "EMSC",
+    "lat": -20.77,
+    "depth": 40.0,
     "unid": "20220216_0000043",
     "mag": 5.0,
-    "time": "2022-02-16T09:28:47.4Z",
+    "time": "2022-02-16T09:28:47.9Z",
     "source_id": "1097433",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "TONGA"
@@ -25919,83 +25997,5 @@
     "source_id": "1095921",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "OFF E. COAST OF N. ISLAND, N.Z."
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -10.37,
-      36.13,
-      -23.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220211_0000081",
-  "properties": {
-    "lastupdate": "2022-02-11T10:50:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -10.37,
-    "auth": "INMG",
-    "lat": 36.13,
-    "depth": 23.0,
-    "unid": "20220211_0000081",
-    "mag": 2.5,
-    "time": "2022-02-11T10:44:13.0Z",
-    "source_id": "1095919",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "AZORES-CAPE ST. VINCENT RIDGE"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      27.24,
-      40.53,
-      -17.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220211_0000080",
-  "properties": {
-    "lastupdate": "2022-02-11T11:08:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 27.24,
-    "auth": "EMSC",
-    "lat": 40.53,
-    "depth": 17.0,
-    "unid": "20220211_0000080",
-    "mag": 2.6,
-    "time": "2022-02-11T10:39:59.4Z",
-    "source_id": "1095916",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "WESTERN TURKEY"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      123.89,
-      -0.08,
-      -97.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220211_0000077",
-  "properties": {
-    "lastupdate": "2022-02-11T15:18:00.0Z",
-    "magtype": "mb",
-    "evtype": "ke",
-    "lon": 123.89,
-    "auth": "NEIC",
-    "lat": -0.08,
-    "depth": 97.0,
-    "unid": "20220211_0000077",
-    "mag": 4.3,
-    "time": "2022-02-11T10:35:41.6Z",
-    "source_id": "1095917",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SULAWESI, INDONESIA"
   }
 }]}
