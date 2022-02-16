@@ -1,4 +1,30 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1042042},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1042043},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -16.83,
+      32.43,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220216_0000016",
+  "properties": {
+    "lastupdate": "2022-02-16T04:54:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": -16.83,
+    "auth": "EMSC",
+    "lat": 32.43,
+    "depth": 10.0,
+    "unid": "20220216_0000016",
+    "mag": 5.1,
+    "time": "2022-02-16T04:32:38.7Z",
+    "source_id": "1097367",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "MADEIRA ISLANDS, PORTUGAL REGION"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -210,24 +236,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      56.19,
-      27.59,
-      -10.0
+      56.16,
+      27.52,
+      -15.0
     ]
   },
   "type": "Feature",
   "id": "20220216_0000008",
   "properties": {
-    "lastupdate": "2022-02-16T03:21:00.0Z",
+    "lastupdate": "2022-02-16T04:39:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": 56.19,
+    "lon": 56.16,
     "auth": "EMSC",
-    "lat": 27.59,
-    "depth": 10.0,
+    "lat": 27.52,
+    "depth": 15.0,
     "unid": "20220216_0000008",
     "mag": 4.2,
-    "time": "2022-02-16T02:09:02.8Z",
+    "time": "2022-02-16T02:09:03.4Z",
     "source_id": "1097347",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHERN IRAN"
@@ -25971,31 +25997,5 @@
     "source_id": "1095876",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CENTRAL MID-ATLANTIC RIDGE"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.66,
-      35.52,
-      -17.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220211_0000058",
-  "properties": {
-    "lastupdate": "2022-02-11T07:43:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -3.66,
-    "auth": "MDD",
-    "lat": 35.52,
-    "depth": 17.0,
-    "unid": "20220211_0000058",
-    "mag": 2.1,
-    "time": "2022-02-11T06:41:29.6Z",
-    "source_id": "1095881",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "STRAIT OF GIBRALTAR"
   }
 }]}
