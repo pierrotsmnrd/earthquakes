@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1042745},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1042748},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      178.85,
+      -34.41,
+      -283.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220219_0000063",
+  "properties": {
+    "lastupdate": "2022-02-19T10:40:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 178.85,
+    "auth": "GNS",
+    "lat": -34.41,
+    "depth": 283.0,
+    "unid": "20220219_0000063",
+    "mag": 3.1,
+    "time": "2022-02-19T10:32:34.2Z",
+    "source_id": "1098417",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SOUTH OF KERMADEC ISLANDS"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.34,
+      46.23,
+      -7.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220219_0000062",
+  "properties": {
+    "lastupdate": "2022-02-19T10:16:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 7.34,
+    "auth": "ZUR",
+    "lat": 46.23,
+    "depth": 7.0,
+    "unid": "20220219_0000062",
+    "mag": 1.8,
+    "time": "2022-02-19T10:12:17.6Z",
+    "source_id": "1098416",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SWITZERLAND"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -28,24 +80,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      102.15,
-      -4.82,
-      -58.0
+      102.1,
+      -4.79,
+      -60.0
     ]
   },
   "type": "Feature",
   "id": "20220219_0000060",
   "properties": {
-    "lastupdate": "2022-02-19T09:58:00.0Z",
+    "lastupdate": "2022-02-19T10:36:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": 102.15,
-    "auth": "NEIC",
-    "lat": -4.82,
-    "depth": 58.0,
+    "lon": 102.1,
+    "auth": "EMSC",
+    "lat": -4.79,
+    "depth": 60.0,
     "unid": "20220219_0000060",
     "mag": 4.4,
-    "time": "2022-02-19T09:32:39.7Z",
+    "time": "2022-02-19T09:32:39.4Z",
     "source_id": "1098414",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHERN SUMATRA, INDONESIA"
@@ -101,6 +153,32 @@
     "source_id": "1098409",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "MINDANAO, PHILIPPINES"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -120.03,
+      37.32,
+      -20.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220219_0000064",
+  "properties": {
+    "lastupdate": "2022-02-19T10:42:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -120.03,
+    "auth": "NC",
+    "lat": 37.32,
+    "depth": 20.0,
+    "unid": "20220219_0000064",
+    "mag": 2.1,
+    "time": "2022-02-19T09:13:53.5Z",
+    "source_id": "1098418",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CENTRAL CALIFORNIA"
   }
 },{
   "geometry": {
@@ -1588,7 +1666,7 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      7.79,
+      7.77,
       47.98,
       -16.0
     ]
@@ -1596,16 +1674,16 @@
   "type": "Feature",
   "id": "20220218_0000180",
   "properties": {
-    "lastupdate": "2022-02-19T00:02:00.0Z",
+    "lastupdate": "2022-02-19T10:28:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": 7.79,
+    "lon": 7.77,
     "auth": "ZUR",
     "lat": 47.98,
     "depth": 16.0,
     "unid": "20220218_0000180",
-    "mag": 1.8,
-    "time": "2022-02-18T23:57:37.5Z",
+    "mag": 1.4,
+    "time": "2022-02-18T23:57:37.4Z",
     "source_id": "1098304",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "FRANCE-GERMANY BORDER REGION"
@@ -25919,83 +25997,5 @@
     "source_id": "1097303",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NORTHERN ITALY"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.01,
-      45.93,
-      -2.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220214_0000024",
-  "properties": {
-    "lastupdate": "2022-02-15T20:48:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 8.01,
-    "auth": "ZUR",
-    "lat": 45.93,
-    "depth": 2.0,
-    "unid": "20220214_0000024",
-    "mag": 1.8,
-    "time": "2022-02-14T04:15:38.3Z",
-    "source_id": "1096793",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NORTHERN ITALY"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.02,
-      45.93,
-      -2.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220214_0000023",
-  "properties": {
-    "lastupdate": "2022-02-14T07:58:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 8.02,
-    "auth": "EMSC",
-    "lat": 45.93,
-    "depth": 2.0,
-    "unid": "20220214_0000023",
-    "mag": 2.2,
-    "time": "2022-02-14T04:11:57.5Z",
-    "source_id": "1096791",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NORTHERN ITALY"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -17.67,
-      28.51,
-      -20.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220214_0000025",
-  "properties": {
-    "lastupdate": "2022-02-14T04:27:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -17.67,
-    "auth": "MDD",
-    "lat": 28.51,
-    "depth": 20.0,
-    "unid": "20220214_0000025",
-    "mag": 1.9,
-    "time": "2022-02-14T04:08:13.8Z",
-    "source_id": "1096795",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CANARY ISLANDS, SPAIN REGION"
   }
 }]}
