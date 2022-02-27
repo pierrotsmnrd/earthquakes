@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1044823},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1044826},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      43.67,
+      38.61,
+      -11.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220227_0000184",
+  "properties": {
+    "lastupdate": "2022-02-27T18:53:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 43.67,
+    "auth": "DDA",
+    "lat": 38.61,
+    "depth": 11.0,
+    "unid": "20220227_0000184",
+    "mag": 2.1,
+    "time": "2022-02-27T18:06:53.6Z",
+    "source_id": "1101523",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "EASTERN TURKEY"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.62,
+      -21.86,
+      -116.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220227_0000183",
+  "properties": {
+    "lastupdate": "2022-02-27T18:16:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -68.62,
+    "auth": "GUC",
+    "lat": -21.86,
+    "depth": 116.0,
+    "unid": "20220227_0000183",
+    "mag": 2.5,
+    "time": "2022-02-27T18:04:34.0Z",
+    "source_id": "1101520",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "ANTOFAGASTA, CHILE"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -340,24 +392,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      128.72,
-      26.55,
-      -35.0
+      128.52,
+      26.77,
+      -46.0
     ]
   },
   "type": "Feature",
   "id": "20220227_0000167",
   "properties": {
-    "lastupdate": "2022-02-27T17:24:00.0Z",
+    "lastupdate": "2022-02-27T18:39:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": 128.72,
-    "auth": "NEIC",
-    "lat": 26.55,
-    "depth": 35.0,
+    "lon": 128.52,
+    "auth": "EMSC",
+    "lat": 26.77,
+    "depth": 46.0,
     "unid": "20220227_0000167",
     "mag": 4.5,
-    "time": "2022-02-27T16:49:58.6Z",
+    "time": "2022-02-27T16:50:00.7Z",
     "source_id": "1101500",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "RYUKYU ISLANDS, JAPAN"
@@ -25945,57 +25997,5 @@
     "source_id": "1100088",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "OAXACA, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -98.47,
-      17.95,
-      -52.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220223_0000219",
-  "properties": {
-    "lastupdate": "2022-02-24T02:01:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -98.47,
-    "auth": "UNM",
-    "lat": 17.95,
-    "depth": 52.0,
-    "unid": "20220223_0000219",
-    "mag": 3.2,
-    "time": "2022-02-23T17:51:58.0Z",
-    "source_id": "1100089",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "GUERRERO, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -94.86,
-      17.37,
-      -135.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220223_0000221",
-  "properties": {
-    "lastupdate": "2022-02-24T02:01:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -94.86,
-    "auth": "UNM",
-    "lat": 17.37,
-    "depth": 135.0,
-    "unid": "20220223_0000221",
-    "mag": 3.4,
-    "time": "2022-02-23T17:50:37.0Z",
-    "source_id": "1100090",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "VERACRUZ, MEXICO"
   }
 }]}
