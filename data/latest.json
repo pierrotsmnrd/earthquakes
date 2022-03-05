@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1046217},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1046219},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      179.92,
+      -25.16,
+      -490.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220305_0000019",
+  "properties": {
+    "lastupdate": "2022-03-05T03:37:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": 179.92,
+    "auth": "EMSC",
+    "lat": -25.16,
+    "depth": 490.0,
+    "unid": "20220305_0000019",
+    "mag": 4.3,
+    "time": "2022-03-05T03:11:57.6Z",
+    "source_id": "1103509",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SOUTH OF FIJI ISLANDS"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      57.24,
+      -32.85,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220305_0000018",
+  "properties": {
+    "lastupdate": "2022-03-05T03:27:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": 57.24,
+    "auth": "NEIC",
+    "lat": -32.85,
+    "depth": 10.0,
+    "unid": "20220305_0000018",
+    "mag": 4.8,
+    "time": "2022-03-05T03:06:54.2Z",
+    "source_id": "1103507",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SOUTHWEST INDIAN RIDGE"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -270,7 +322,7 @@
   "type": "Feature",
   "id": "20220305_0000008",
   "properties": {
-    "lastupdate": "2022-03-05T01:59:00.0Z",
+    "lastupdate": "2022-03-05T03:46:00.0Z",
     "magtype": "mw",
     "evtype": "ke",
     "lon": -66.03,
@@ -3590,27 +3642,27 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      45.37,
-      42.51,
-      -5.0
+      45.38,
+      42.55,
+      -2.0
     ]
   },
   "type": "Feature",
   "id": "20220304_0000133",
   "properties": {
-    "lastupdate": "2022-03-04T15:25:00.0Z",
-    "magtype": "mb",
+    "lastupdate": "2022-03-05T03:49:00.0Z",
+    "magtype": "m",
     "evtype": "ke",
-    "lon": 45.37,
-    "auth": "OBN",
-    "lat": 42.51,
-    "depth": 5.0,
+    "lon": 45.38,
+    "auth": "EMSC",
+    "lat": 42.55,
+    "depth": 2.0,
     "unid": "20220304_0000133",
     "mag": 3.2,
-    "time": "2022-03-04T13:24:45.0Z",
+    "time": "2022-03-04T13:24:45.5Z",
     "source_id": "1103326",
     "source_catalog": "EMSC-RTS",
-    "flynn_region": "GEORGIA (SAK'ART'VELO)"
+    "flynn_region": "CAUCASUS REGION, RUSSIA"
   }
 },{
   "geometry": {
@@ -25945,57 +25997,5 @@
     "source_id": "1102025",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "GUERRERO, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -66.92,
-      17.95,
-      -12.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220228_0000210",
-  "properties": {
-    "lastupdate": "2022-02-28T22:07:00.0Z",
-    "magtype": "md",
-    "evtype": "ke",
-    "lon": -66.92,
-    "auth": "NEIR",
-    "lat": 17.95,
-    "depth": 12.0,
-    "unid": "20220228_0000210",
-    "mag": 2.1,
-    "time": "2022-02-28T21:20:06.5Z",
-    "source_id": "1101963",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "PUERTO RICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.63,
-      46.94,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220228_0000206",
-  "properties": {
-    "lastupdate": "2022-02-28T21:25:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -3.63,
-    "auth": "LDG",
-    "lat": 46.94,
-    "depth": 5.0,
-    "unid": "20220228_0000206",
-    "mag": 3.0,
-    "time": "2022-02-28T21:19:50.0Z",
-    "source_id": "1101952",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "BAY OF BISCAY"
   }
 }]}
