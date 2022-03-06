@@ -1,4 +1,82 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1046566},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1046571},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      8.93,
+      47.72,
+      -11.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220306_0000155",
+  "properties": {
+    "lastupdate": "2022-03-06T18:50:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 8.93,
+    "auth": "ZUR",
+    "lat": 47.72,
+    "depth": 11.0,
+    "unid": "20220306_0000155",
+    "mag": 1.5,
+    "time": "2022-03-06T18:43:40.4Z",
+    "source_id": "1104043",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "GERMANY"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      6.66,
+      44.81,
+      0.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220306_0000154",
+  "properties": {
+    "lastupdate": "2022-03-06T18:37:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 6.66,
+    "auth": "LDG",
+    "lat": 44.81,
+    "depth": 0.0,
+    "unid": "20220306_0000154",
+    "mag": 2.2,
+    "time": "2022-03-06T18:28:01.5Z",
+    "source_id": "1104040",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "FRANCE"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.93,
+      17.17,
+      -29.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220306_0000153",
+  "properties": {
+    "lastupdate": "2022-03-06T18:20:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 119.93,
+    "auth": "PIVS",
+    "lat": 17.17,
+    "depth": 29.0,
+    "unid": "20220306_0000153",
+    "mag": 3.6,
+    "time": "2022-03-06T17:59:40.0Z",
+    "source_id": "1104037",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "PHILIPPINE ISLANDS REGION"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -3798,24 +3876,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      25.32,
+      25.3,
       35.19,
-      -7.0
+      -6.0
     ]
   },
   "type": "Feature",
   "id": "20220306_0000076",
   "properties": {
-    "lastupdate": "2022-03-06T10:11:00.0Z",
+    "lastupdate": "2022-03-06T18:22:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": 25.32,
+    "lon": 25.3,
     "auth": "THE",
     "lat": 35.19,
-    "depth": 7.0,
+    "depth": 6.0,
     "unid": "20220306_0000076",
-    "mag": 2.7,
-    "time": "2022-03-06T01:04:41.7Z",
+    "mag": 2.4,
+    "time": "2022-03-06T01:04:06.7Z",
     "source_id": "1103778",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CRETE, GREECE"
@@ -25919,83 +25997,5 @@
     "source_id": "1102465",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHEAST OF LOYALTY ISLANDS"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      125.49,
-      -2.04,
-      -23.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220302_0000047",
-  "properties": {
-    "lastupdate": "2022-03-02T07:35:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 125.49,
-    "auth": "DJA",
-    "lat": -2.04,
-    "depth": 23.0,
-    "unid": "20220302_0000047",
-    "mag": 4.0,
-    "time": "2022-03-02T07:22:27.0Z",
-    "source_id": "1102449",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "KEPULAUAN SULA, INDONESIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -77.56,
-      -10.84,
-      -100.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220302_0000046",
-  "properties": {
-    "lastupdate": "2022-03-02T07:20:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -77.56,
-    "auth": "LIM",
-    "lat": -10.84,
-    "depth": 100.0,
-    "unid": "20220302_0000046",
-    "mag": 4.0,
-    "time": "2022-03-02T07:14:26.0Z",
-    "source_id": "1102447",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NEAR COAST OF CENTRAL PERU"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -71.82,
-      -32.23,
-      -32.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220302_0000217",
-  "properties": {
-    "lastupdate": "2022-03-04T01:37:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -71.82,
-    "auth": "GUC",
-    "lat": -32.23,
-    "depth": 32.0,
-    "unid": "20220302_0000217",
-    "mag": 2.5,
-    "time": "2022-03-02T07:11:54.0Z",
-    "source_id": "1103077",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OFFSHORE VALPARAISO, CHILE"
   }
 }]}
