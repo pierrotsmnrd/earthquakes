@@ -1,25 +1,77 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1047528},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1047530},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -93.0,
-      14.47,
+      -93.52,
+      14.6,
+      -11.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220310_0000158",
+  "properties": {
+    "lastupdate": "2022-03-10T20:25:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -93.52,
+    "auth": "UNM",
+    "lat": 14.6,
+    "depth": 11.0,
+    "unid": "20220310_0000158",
+    "mag": 4.5,
+    "time": "2022-03-10T19:58:25.0Z",
+    "source_id": "1105458",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "OFFSHORE CHIAPAS, MEXICO"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.12,
+      41.55,
+      -2.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220310_0000157",
+  "properties": {
+    "lastupdate": "2022-03-10T20:16:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 42.12,
+    "auth": "EMSC",
+    "lat": 41.55,
+    "depth": 2.0,
+    "unid": "20220310_0000157",
+    "mag": 2.8,
+    "time": "2022-03-10T19:55:43.7Z",
+    "source_id": "1105457",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "GEORGIA (SAK'ART'VELO)"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.01,
+      14.48,
       -40.0
     ]
   },
   "type": "Feature",
   "id": "20220310_0000153",
   "properties": {
-    "lastupdate": "2022-03-10T19:51:00.0Z",
+    "lastupdate": "2022-03-10T21:00:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": -93.0,
+    "lon": -93.01,
     "auth": "EMSC",
-    "lat": 14.47,
+    "lat": 14.48,
     "depth": 40.0,
     "unid": "20220310_0000153",
     "mag": 4.9,
-    "time": "2022-03-10T19:34:23.0Z",
+    "time": "2022-03-10T19:34:22.6Z",
     "source_id": "1105451",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "OFFSHORE CHIAPAS, MEXICO"
@@ -22908,24 +22960,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -153.14,
+      -153.18,
       59.7,
-      -110.0
+      -122.0
     ]
   },
   "type": "Feature",
   "id": "20220306_0000149",
   "properties": {
-    "lastupdate": "2022-03-06T17:46:00.0Z",
+    "lastupdate": "2022-03-10T20:08:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": -153.14,
+    "lon": -153.18,
     "auth": "NEIC",
     "lat": 59.7,
-    "depth": 110.0,
+    "depth": 122.0,
     "unid": "20220306_0000149",
     "mag": 3.2,
-    "time": "2022-03-06T16:59:06.3Z",
+    "time": "2022-03-06T16:59:05.6Z",
     "source_id": "1104027",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHERN ALASKA"
@@ -23090,24 +23142,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -73.16,
-      -40.79,
-      -44.0
+      -73.19,
+      -40.73,
+      -66.0
     ]
   },
   "type": "Feature",
   "id": "20220306_0000141",
   "properties": {
-    "lastupdate": "2022-03-06T16:52:00.0Z",
-    "magtype": "m",
+    "lastupdate": "2022-03-10T20:06:00.0Z",
+    "magtype": "ml",
     "evtype": "ke",
-    "lon": -73.16,
-    "auth": "GUC",
-    "lat": -40.79,
-    "depth": 44.0,
+    "lon": -73.19,
+    "auth": "NEIC",
+    "lat": -40.73,
+    "depth": 66.0,
     "unid": "20220306_0000141",
     "mag": 4.0,
-    "time": "2022-03-06T16:34:40.0Z",
+    "time": "2022-03-06T16:34:40.3Z",
     "source_id": "1104018",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "LOS LAGOS, CHILE"
@@ -25945,57 +25997,5 @@
     "source_id": "1103837",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CANARY ISLANDS, SPAIN REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -74.07,
-      18.86,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220306_0000029",
-  "properties": {
-    "lastupdate": "2022-03-06T03:39:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -74.07,
-    "auth": "AYIT",
-    "lat": 18.86,
-    "depth": 5.0,
-    "unid": "20220306_0000029",
-    "mag": 3.8,
-    "time": "2022-03-06T03:33:27.8Z",
-    "source_id": "1103828",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "HAITI REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.63,
-      35.6,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220306_0000038",
-  "properties": {
-    "lastupdate": "2022-03-06T04:28:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -3.63,
-    "auth": "MDD",
-    "lat": 35.6,
-    "depth": 10.0,
-    "unid": "20220306_0000038",
-    "mag": 1.7,
-    "time": "2022-03-06T03:32:14.2Z",
-    "source_id": "1103844",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "STRAIT OF GIBRALTAR"
   }
 }]}
