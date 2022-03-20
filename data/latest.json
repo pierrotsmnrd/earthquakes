@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1049873},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1049878},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      141.8,
+      37.9,
+      -60.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220320_0000106",
+  "properties": {
+    "lastupdate": "2022-03-20T13:30:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 141.8,
+    "auth": "JMA",
+    "lat": 37.9,
+    "depth": 60.0,
+    "unid": "20220320_0000106",
+    "mag": 4.1,
+    "time": "2022-03-20T13:13:30.0Z",
+    "source_id": "1108829",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NEAR EAST COAST OF HONSHU, JAPAN"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      74.94,
+      35.61,
+      -20.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220320_0000105",
+  "properties": {
+    "lastupdate": "2022-03-20T13:55:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": 74.94,
+    "auth": "EMSC",
+    "lat": 35.61,
+    "depth": 20.0,
+    "unid": "20220320_0000105",
+    "mag": 4.5,
+    "time": "2022-03-20T13:06:57.6Z",
+    "source_id": "1108828",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NORTHWESTERN KASHMIR"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -28,24 +80,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      33.94,
-      35.4,
-      -1.0
+      34.02,
+      35.78,
+      -37.0
     ]
   },
   "type": "Feature",
   "id": "20220320_0000102",
   "properties": {
-    "lastupdate": "2022-03-20T12:56:00.0Z",
+    "lastupdate": "2022-03-20T13:34:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": 33.94,
-    "auth": "ISK",
-    "lat": 35.4,
-    "depth": 1.0,
+    "lon": 34.02,
+    "auth": "DDA",
+    "lat": 35.78,
+    "depth": 37.0,
     "unid": "20220320_0000102",
-    "mag": 2.9,
-    "time": "2022-03-20T12:42:28.3Z",
+    "mag": 2.5,
+    "time": "2022-03-20T12:42:34.7Z",
     "source_id": "1108822",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CYPRUS REGION"
@@ -106,24 +158,50 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      56.88,
-      30.76,
-      -10.0
+      36.41,
+      37.39,
+      -7.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220320_0000109",
+  "properties": {
+    "lastupdate": "2022-03-20T13:36:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 36.41,
+    "auth": "DDA",
+    "lat": 37.39,
+    "depth": 7.0,
+    "unid": "20220320_0000109",
+    "mag": 2.1,
+    "time": "2022-03-20T12:22:29.7Z",
+    "source_id": "1108832",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CENTRAL TURKEY"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      56.93,
+      30.82,
+      -2.0
     ]
   },
   "type": "Feature",
   "id": "20220320_0000098",
   "properties": {
-    "lastupdate": "2022-03-20T12:29:00.0Z",
-    "magtype": "m",
+    "lastupdate": "2022-03-20T13:41:00.0Z",
+    "magtype": "mb",
     "evtype": "ke",
-    "lon": 56.88,
-    "auth": "GFZ",
-    "lat": 30.76,
-    "depth": 10.0,
+    "lon": 56.93,
+    "auth": "EMSC",
+    "lat": 30.82,
+    "depth": 2.0,
     "unid": "20220320_0000098",
     "mag": 4.7,
-    "time": "2022-03-20T12:20:50.0Z",
+    "time": "2022-03-20T12:20:47.3Z",
     "source_id": "1108815",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CENTRAL IRAN"
@@ -392,6 +470,32 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      159.75,
+      52.85,
+      -50.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220320_0000108",
+  "properties": {
+    "lastupdate": "2022-03-20T13:30:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": 159.75,
+    "auth": "OBN",
+    "lat": 52.85,
+    "depth": 50.0,
+    "unid": "20220320_0000108",
+    "mag": 4.1,
+    "time": "2022-03-20T11:16:26.0Z",
+    "source_id": "1108831",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "OFF EAST COAST OF KAMCHATKA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       54.68,
       26.88,
       -11.0
@@ -452,7 +556,7 @@
   "type": "Feature",
   "id": "20220320_0000096",
   "properties": {
-    "lastupdate": "2022-03-20T12:23:00.0Z",
+    "lastupdate": "2022-03-20T13:27:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
     "lon": -79.45,
@@ -595,6 +699,32 @@
     "source_id": "1108800",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "PUERTO RICO"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      141.7,
+      37.8,
+      -50.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220320_0000107",
+  "properties": {
+    "lastupdate": "2022-03-20T13:30:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 141.7,
+    "auth": "JMA",
+    "lat": 37.8,
+    "depth": 50.0,
+    "unid": "20220320_0000107",
+    "mag": 4.1,
+    "time": "2022-03-20T10:23:30.0Z",
+    "source_id": "1108830",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NEAR EAST COAST OF HONSHU, JAPAN"
   }
 },{
   "geometry": {
@@ -25867,135 +25997,5 @@
     "source_id": "1107282",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NORTHERN SUMATRA, INDONESIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -115.51,
-      32.67,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220316_0000043",
-  "properties": {
-    "lastupdate": "2022-03-17T04:58:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -115.51,
-    "auth": "NEIC",
-    "lat": 32.67,
-    "depth": 5.0,
-    "unid": "20220316_0000043",
-    "mag": 2.5,
-    "time": "2022-03-16T05:43:13.2Z",
-    "source_id": "1107275",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "MEXICALI-CALEXICO AREA, CALIF."
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      124.68,
-      7.86,
-      -7.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220316_0000044",
-  "properties": {
-    "lastupdate": "2022-03-16T06:00:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 124.68,
-    "auth": "PIVS",
-    "lat": 7.86,
-    "depth": 7.0,
-    "unid": "20220316_0000044",
-    "mag": 3.1,
-    "time": "2022-03-16T05:38:47.0Z",
-    "source_id": "1107278",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "MINDANAO, PHILIPPINES"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -99.91,
-      17.03,
-      -29.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220316_0000114",
-  "properties": {
-    "lastupdate": "2022-03-16T14:06:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -99.91,
-    "auth": "UNM",
-    "lat": 17.03,
-    "depth": 29.0,
-    "unid": "20220316_0000114",
-    "mag": 3.5,
-    "time": "2022-03-16T04:57:32.0Z",
-    "source_id": "1107404",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "GUERRERO, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -72.08,
-      -16.17,
-      -35.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220316_0000040",
-  "properties": {
-    "lastupdate": "2022-03-17T04:33:00.0Z",
-    "magtype": "mb",
-    "evtype": "ke",
-    "lon": -72.08,
-    "auth": "NEIC",
-    "lat": -16.17,
-    "depth": 35.0,
-    "unid": "20220316_0000040",
-    "mag": 4.1,
-    "time": "2022-03-16T04:54:12.3Z",
-    "source_id": "1107269",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NEAR COAST OF SOUTHERN PERU"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -71.79,
-      -15.63,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220316_0000038",
-  "properties": {
-    "lastupdate": "2022-03-16T04:55:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -71.79,
-    "auth": "LIM",
-    "lat": -15.63,
-    "depth": 10.0,
-    "unid": "20220316_0000038",
-    "mag": 4.1,
-    "time": "2022-03-16T04:51:12.0Z",
-    "source_id": "1107268",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SOUTHERN PERU"
   }
 }]}
