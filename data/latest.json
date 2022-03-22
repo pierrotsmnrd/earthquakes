@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1050347},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1050351},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.84,
+      -24.01,
+      -214.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220322_0000026",
+  "properties": {
+    "lastupdate": "2022-03-22T03:50:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -66.84,
+    "auth": "NSNA",
+    "lat": -24.01,
+    "depth": 214.0,
+    "unid": "20220322_0000026",
+    "mag": 3.3,
+    "time": "2022-03-22T03:42:36.0Z",
+    "source_id": "1109462",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "JUJUY, ARGENTINA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      23.65,
+      39.52,
+      -2.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220322_0000025",
+  "properties": {
+    "lastupdate": "2022-03-22T03:41:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 23.65,
+    "auth": "EMSC",
+    "lat": 39.52,
+    "depth": 2.0,
+    "unid": "20220322_0000025",
+    "mag": 2.7,
+    "time": "2022-03-22T02:59:18.2Z",
+    "source_id": "1109457",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "AEGEAN SEA"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -101,6 +153,32 @@
     "source_id": "1109453",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SULAWESI, INDONESIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.95,
+      17.97,
+      -7.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220322_0000024",
+  "properties": {
+    "lastupdate": "2022-03-22T03:38:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -66.95,
+    "auth": "NEIR",
+    "lat": 17.97,
+    "depth": 7.0,
+    "unid": "20220322_0000024",
+    "mag": 2.6,
+    "time": "2022-03-22T02:33:09.9Z",
+    "source_id": "1109460",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "PUERTO RICO"
   }
 },{
   "geometry": {
@@ -25919,83 +25997,5 @@
     "source_id": "1107976",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "LUZON, PHILIPPINES"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      163.79,
-      58.16,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220318_0000032",
-  "properties": {
-    "lastupdate": "2022-03-18T05:08:00.0Z",
-    "magtype": "mb",
-    "evtype": "ke",
-    "lon": 163.79,
-    "auth": "OBN",
-    "lat": 58.16,
-    "depth": 10.0,
-    "unid": "20220318_0000032",
-    "mag": 4.1,
-    "time": "2022-03-18T02:12:32.4Z",
-    "source_id": "1108007",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "KAMCHATKA PENINSULA, RUSSIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      24.71,
-      34.73,
-      -23.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220318_0000041",
-  "properties": {
-    "lastupdate": "2022-03-18T05:56:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 24.71,
-    "auth": "THE",
-    "lat": 34.73,
-    "depth": 23.0,
-    "unid": "20220318_0000041",
-    "mag": 2.2,
-    "time": "2022-03-18T02:04:23.5Z",
-    "source_id": "1107968",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CRETE, GREECE"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -87.89,
-      13.22,
-      -117.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220318_0000010",
-  "properties": {
-    "lastupdate": "2022-03-18T02:06:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -87.89,
-    "auth": "INET",
-    "lat": 13.22,
-    "depth": 117.0,
-    "unid": "20220318_0000010",
-    "mag": 2.6,
-    "time": "2022-03-18T01:56:06.0Z",
-    "source_id": "1107967",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "EL SALVADOR"
   }
 }]}
