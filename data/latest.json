@@ -1,4 +1,82 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1052461},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1052469},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.02,
+      36.16,
+      -3.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220330_0000028",
+  "properties": {
+    "lastupdate": "2022-03-30T04:42:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -118.02,
+    "auth": "NEIR",
+    "lat": 36.16,
+    "depth": 3.0,
+    "unid": "20220330_0000028",
+    "mag": 2.0,
+    "time": "2022-03-30T04:40:27.3Z",
+    "source_id": "1112460",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CENTRAL CALIFORNIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.12,
+      4.09,
+      -35.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220330_0000029",
+  "properties": {
+    "lastupdate": "2022-03-30T04:50:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": 127.12,
+    "auth": "NEIC",
+    "lat": 4.09,
+    "depth": 35.0,
+    "unid": "20220330_0000029",
+    "mag": 4.6,
+    "time": "2022-03-30T04:36:20.5Z",
+    "source_id": "1112461",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "KEPULAUAN TALAUD, INDONESIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      103.12,
+      27.18,
+      -33.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220330_0000027",
+  "properties": {
+    "lastupdate": "2022-03-30T04:31:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": 103.12,
+    "auth": "NEIC",
+    "lat": 27.18,
+    "depth": 33.0,
+    "unid": "20220330_0000027",
+    "mag": 4.5,
+    "time": "2022-03-30T03:52:33.1Z",
+    "source_id": "1112459",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SICHUAN-YUNNAN-GUIZHOU RG, CHINA"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -153,6 +231,32 @@
     "source_id": "1112448",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SPAIN"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -155.5,
+      19.96,
+      -32.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220330_0000030",
+  "properties": {
+    "lastupdate": "2022-03-30T04:55:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -155.5,
+    "auth": "NEIR",
+    "lat": 19.96,
+    "depth": 32.0,
+    "unid": "20220330_0000030",
+    "mag": 2.0,
+    "time": "2022-03-30T02:59:11.0Z",
+    "source_id": "1112464",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "ISLAND OF HAWAII, HAWAII"
   }
 },{
   "geometry": {
@@ -497,23 +601,23 @@
     "type": "Point",
     "coordinates": [
       22.0,
-      38.42,
-      -14.0
+      38.4,
+      -2.0
     ]
   },
   "type": "Feature",
   "id": "20220330_0000005",
   "properties": {
-    "lastupdate": "2022-03-30T00:46:00.0Z",
-    "magtype": "ml",
+    "lastupdate": "2022-03-30T04:54:00.0Z",
+    "magtype": "mb",
     "evtype": "ke",
     "lon": 22.0,
-    "auth": "ATH",
-    "lat": 38.42,
-    "depth": 14.0,
+    "auth": "EMSC",
+    "lat": 38.4,
+    "depth": 2.0,
     "unid": "20220330_0000005",
-    "mag": 3.4,
-    "time": "2022-03-30T00:39:07.3Z",
+    "mag": 4.1,
+    "time": "2022-03-30T00:39:07.6Z",
     "source_id": "1112399",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "GREECE"
@@ -3767,6 +3871,32 @@
     "source_id": "1112204",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "EASTERN TURKEY"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.23,
+      31.62,
+      -5.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220329_0000225",
+  "properties": {
+    "lastupdate": "2022-03-30T04:21:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -104.23,
+    "auth": "TX",
+    "lat": 31.62,
+    "depth": 5.0,
+    "unid": "20220329_0000225",
+    "mag": 2.8,
+    "time": "2022-03-29T12:07:15.2Z",
+    "source_id": "1112457",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "WESTERN TEXAS"
   }
 },{
   "geometry": {
@@ -25867,135 +25997,5 @@
     "source_id": "1110948",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "HALMAHERA, INDONESIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      97.66,
-      38.75,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220325_0000197",
-  "properties": {
-    "lastupdate": "2022-03-25T18:11:00.0Z",
-    "magtype": "mb",
-    "evtype": "ke",
-    "lon": 97.66,
-    "auth": "OBN",
-    "lat": 38.75,
-    "depth": 10.0,
-    "unid": "20220325_0000197",
-    "mag": 4.3,
-    "time": "2022-03-25T16:33:37.8Z",
-    "source_id": "1110962",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NORTHERN QINGHAI, CHINA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      119.04,
-      14.2,
-      -21.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220325_0000193",
-  "properties": {
-    "lastupdate": "2022-03-25T17:55:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 119.04,
-    "auth": "PIVS",
-    "lat": 14.2,
-    "depth": 21.0,
-    "unid": "20220325_0000193",
-    "mag": 4.4,
-    "time": "2022-03-25T16:33:21.0Z",
-    "source_id": "1110958",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "LUZON, PHILIPPINES"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -70.94,
-      -34.76,
-      -109.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220325_0000183",
-  "properties": {
-    "lastupdate": "2022-03-25T18:04:00.0Z",
-    "magtype": "mb",
-    "evtype": "ke",
-    "lon": -70.94,
-    "auth": "NEIC",
-    "lat": -34.76,
-    "depth": 109.0,
-    "unid": "20220325_0000183",
-    "mag": 4.1,
-    "time": "2022-03-25T16:32:05.8Z",
-    "source_id": "1110946",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "LIBERTADOR O'HIGGINS, CHILE"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      97.37,
-      38.58,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220325_0000185",
-  "properties": {
-    "lastupdate": "2022-03-25T17:00:00.0Z",
-    "magtype": "mb",
-    "evtype": "ke",
-    "lon": 97.37,
-    "auth": "EMSC",
-    "lat": 38.58,
-    "depth": 10.0,
-    "unid": "20220325_0000185",
-    "mag": 5.1,
-    "time": "2022-03-25T16:28:43.1Z",
-    "source_id": "1110941",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NORTHERN QINGHAI, CHINA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -119.54,
-      38.52,
-      -1.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220325_0000213",
-  "properties": {
-    "lastupdate": "2022-03-25T19:21:00.0Z",
-    "magtype": "md",
-    "evtype": "ke",
-    "lon": -119.54,
-    "auth": "NC",
-    "lat": 38.52,
-    "depth": 1.0,
-    "unid": "20220325_0000213",
-    "mag": 2.3,
-    "time": "2022-03-25T16:24:59.2Z",
-    "source_id": "1110983",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CENTRAL CALIFORNIA"
   }
 }]}
