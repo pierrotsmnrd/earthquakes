@@ -1,4 +1,82 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1052790},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1052794},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      140.1,
+      35.6,
+      -70.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220331_0000106",
+  "properties": {
+    "lastupdate": "2022-03-31T12:00:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 140.1,
+    "auth": "JMA",
+    "lat": 35.6,
+    "depth": 70.0,
+    "unid": "20220331_0000106",
+    "mag": 4.7,
+    "time": "2022-03-31T11:52:30.0Z",
+    "source_id": "1112951",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NEAR EAST COAST OF HONSHU, JAPAN"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.91,
+      -21.22,
+      -104.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220331_0000104",
+  "properties": {
+    "lastupdate": "2022-03-31T11:16:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -68.91,
+    "auth": "GUC",
+    "lat": -21.22,
+    "depth": 104.0,
+    "unid": "20220331_0000104",
+    "mag": 2.6,
+    "time": "2022-03-31T11:09:21.0Z",
+    "source_id": "1112926",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "TARAPACA, CHILE"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.21,
+      48.8,
+      -2.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220331_0000105",
+  "properties": {
+    "lastupdate": "2022-03-31T11:20:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -0.21,
+    "auth": "STR",
+    "lat": 48.8,
+    "depth": 2.0,
+    "unid": "20220331_0000105",
+    "mag": 2.0,
+    "time": "2022-03-31T10:47:57.8Z",
+    "source_id": "1112927",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "FRANCE"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -106,24 +184,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      170.78,
-      -22.67,
-      -20.0
+      170.8,
+      -22.61,
+      -30.0
     ]
   },
   "type": "Feature",
   "id": "20220331_0000098",
   "properties": {
-    "lastupdate": "2022-03-31T10:38:00.0Z",
-    "magtype": "mb",
+    "lastupdate": "2022-03-31T11:30:00.0Z",
+    "magtype": "mw",
     "evtype": "ke",
-    "lon": 170.78,
+    "lon": 170.8,
     "auth": "EMSC",
-    "lat": -22.67,
-    "depth": 20.0,
+    "lat": -22.61,
+    "depth": 30.0,
     "unid": "20220331_0000098",
-    "mag": 5.1,
-    "time": "2022-03-31T10:16:23.1Z",
+    "mag": 5.4,
+    "time": "2022-03-31T10:16:24.4Z",
     "source_id": "1112915",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHEAST OF LOYALTY ISLANDS"
@@ -574,24 +652,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      170.3,
-      -22.29,
-      -2.0
+      170.18,
+      -22.28,
+      -10.0
     ]
   },
   "type": "Feature",
   "id": "20220331_0000079",
   "properties": {
-    "lastupdate": "2022-03-31T08:36:00.0Z",
+    "lastupdate": "2022-03-31T11:42:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": 170.3,
+    "lon": 170.18,
     "auth": "EMSC",
-    "lat": -22.29,
-    "depth": 2.0,
+    "lat": -22.28,
+    "depth": 10.0,
     "unid": "20220331_0000079",
     "mag": 4.7,
-    "time": "2022-03-31T07:41:34.8Z",
+    "time": "2022-03-31T07:41:36.7Z",
     "source_id": "1112882",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHEAST OF LOYALTY ISLANDS"
@@ -3247,6 +3325,32 @@
     "source_id": "1112713",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "LA RIOJA, ARGENTINA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -10.31,
+      71.47,
+      -1.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220330_0000206",
+  "properties": {
+    "lastupdate": "2022-03-31T11:27:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -10.31,
+    "auth": "BER",
+    "lat": 71.47,
+    "depth": 1.0,
+    "unid": "20220330_0000206",
+    "mag": 2.1,
+    "time": "2022-03-30T21:54:14.7Z",
+    "source_id": "1112928",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "JAN MAYEN ISLAND REGION"
   }
 },{
   "geometry": {
@@ -25893,109 +25997,5 @@
     "source_id": "1111396",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHEASTERN ALASKA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -95.62,
-      15.88,
-      -58.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220326_0000223",
-  "properties": {
-    "lastupdate": "2022-03-27T02:00:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -95.62,
-    "auth": "UNM",
-    "lat": 15.88,
-    "depth": 58.0,
-    "unid": "20220326_0000223",
-    "mag": 3.7,
-    "time": "2022-03-26T22:27:36.0Z",
-    "source_id": "1111443",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OFFSHORE OAXACA, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -163.51,
-      65.81,
-      -14.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220326_0000210",
-  "properties": {
-    "lastupdate": "2022-03-26T22:55:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -163.51,
-    "auth": "NEIC",
-    "lat": 65.81,
-    "depth": 14.0,
-    "unid": "20220326_0000210",
-    "mag": 2.5,
-    "time": "2022-03-26T22:24:03.6Z",
-    "source_id": "1111402",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NORTHERN ALASKA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      122.43,
-      -7.65,
-      -26.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220326_0000207",
-  "properties": {
-    "lastupdate": "2022-03-26T22:35:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 122.43,
-    "auth": "DJA",
-    "lat": -7.65,
-    "depth": 26.0,
-    "unid": "20220326_0000207",
-    "mag": 3.5,
-    "time": "2022-03-26T22:18:36.0Z",
-    "source_id": "1111398",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "FLORES SEA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -71.36,
-      -35.55,
-      -97.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220326_0000206",
-  "properties": {
-    "lastupdate": "2022-03-26T22:34:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -71.36,
-    "auth": "GUC",
-    "lat": -35.55,
-    "depth": 97.0,
-    "unid": "20220326_0000206",
-    "mag": 3.0,
-    "time": "2022-03-26T22:14:37.0Z",
-    "source_id": "1111397",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "MAULE, CHILE"
   }
 }]}
