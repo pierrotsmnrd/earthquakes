@@ -1,4 +1,30 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1053458},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1053459},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.65,
+      -33.78,
+      -91.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220403_0000032",
+  "properties": {
+    "lastupdate": "2022-04-03T04:21:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -70.65,
+    "auth": "GUC",
+    "lat": -33.78,
+    "depth": 91.0,
+    "unid": "20220403_0000032",
+    "mag": 4.0,
+    "time": "2022-04-03T04:06:56.0Z",
+    "source_id": "1113880",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "REGION METROPOLITANA, CHILE"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -24268,7 +24294,7 @@
   "type": "Feature",
   "id": "20220330_0000018",
   "properties": {
-    "lastupdate": "2022-03-30T02:18:00.0Z",
+    "lastupdate": "2022-04-03T04:10:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
     "lon": -104.39,
@@ -24495,23 +24521,23 @@
     "type": "Point",
     "coordinates": [
       -104.39,
-      31.66,
-      -6.0
+      31.67,
+      -12.0
     ]
   },
   "type": "Feature",
   "id": "20220330_0000011",
   "properties": {
-    "lastupdate": "2022-04-03T03:59:00.0Z",
+    "lastupdate": "2022-04-03T04:06:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
     "lon": -104.39,
     "auth": "NEIC",
-    "lat": 31.66,
-    "depth": 6.0,
+    "lat": 31.67,
+    "depth": 12.0,
     "unid": "20220330_0000011",
-    "mag": 2.5,
-    "time": "2022-03-30T01:01:42.8Z",
+    "mag": 3.5,
+    "time": "2022-03-30T01:02:14.3Z",
     "source_id": "1112409",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "WESTERN TEXAS"
@@ -25971,31 +25997,5 @@
     "source_id": "1112350",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "AZERBAIJAN"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      126.39,
-      9.12,
-      -26.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220329_0000168",
-  "properties": {
-    "lastupdate": "2022-03-29T19:25:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 126.39,
-    "auth": "PIVS",
-    "lat": 9.12,
-    "depth": 26.0,
-    "unid": "20220329_0000168",
-    "mag": 3.1,
-    "time": "2022-03-29T19:13:30.0Z",
-    "source_id": "1112330",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "MINDANAO, PHILIPPINES"
   }
 }]}
