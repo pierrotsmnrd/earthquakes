@@ -1,25 +1,77 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1058941},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1058943},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -69.56,
-      -17.69,
-      -138.0
+      -70.98,
+      -15.1,
+      -12.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220424_0000193",
+  "properties": {
+    "lastupdate": "2022-04-24T22:30:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -70.98,
+    "auth": "LIM",
+    "lat": -15.1,
+    "depth": 12.0,
+    "unid": "20220424_0000193",
+    "mag": 3.6,
+    "time": "2022-04-24T22:15:56.0Z",
+    "source_id": "1121892",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SOUTHERN PERU"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.72,
+      4.28,
+      -28.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220424_0000192",
+  "properties": {
+    "lastupdate": "2022-04-24T22:20:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 126.72,
+    "auth": "DJA",
+    "lat": 4.28,
+    "depth": 28.0,
+    "unid": "20220424_0000192",
+    "mag": 4.0,
+    "time": "2022-04-24T22:14:36.0Z",
+    "source_id": "1121889",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "KEPULAUAN TALAUD, INDONESIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.57,
+      -17.68,
+      -146.0
     ]
   },
   "type": "Feature",
   "id": "20220424_0000191",
   "properties": {
-    "lastupdate": "2022-04-24T21:56:00.0Z",
-    "magtype": "m",
+    "lastupdate": "2022-04-24T22:32:00.0Z",
+    "magtype": "mb",
     "evtype": "ke",
-    "lon": -69.56,
-    "auth": "GUC",
-    "lat": -17.69,
-    "depth": 138.0,
+    "lon": -69.57,
+    "auth": "NEIC",
+    "lat": -17.68,
+    "depth": 146.0,
     "unid": "20220424_0000191",
-    "mag": 3.7,
-    "time": "2022-04-24T21:46:11.0Z",
+    "mag": 4.3,
+    "time": "2022-04-24T21:46:09.8Z",
     "source_id": "1121888",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "TARAPACA, CHILE"
@@ -496,23 +548,23 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -69.05,
-      -20.41,
-      -104.0
+      -69.08,
+      -20.43,
+      -106.0
     ]
   },
   "type": "Feature",
   "id": "20220424_0000167",
   "properties": {
-    "lastupdate": "2022-04-24T19:15:00.0Z",
+    "lastupdate": "2022-04-24T22:51:00.0Z",
     "magtype": "m",
     "evtype": "ke",
-    "lon": -69.05,
+    "lon": -69.08,
     "auth": "GUC",
-    "lat": -20.41,
-    "depth": 104.0,
+    "lat": -20.43,
+    "depth": 106.0,
     "unid": "20220424_0000167",
-    "mag": 3.5,
+    "mag": 3.6,
     "time": "2022-04-24T19:07:43.0Z",
     "source_id": "1121853",
     "source_catalog": "EMSC-RTS",
@@ -5358,24 +5410,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      141.85,
-      39.76,
+      141.78,
+      39.69,
       -69.0
     ]
   },
   "type": "Feature",
   "id": "20220423_0000212",
   "properties": {
-    "lastupdate": "2022-04-23T22:48:00.0Z",
+    "lastupdate": "2022-04-24T22:32:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": 141.85,
+    "lon": 141.78,
     "auth": "NEIC",
-    "lat": 39.76,
+    "lat": 39.69,
     "depth": 69.0,
     "unid": "20220423_0000212",
     "mag": 4.4,
-    "time": "2022-04-23T22:19:14.3Z",
+    "time": "2022-04-23T22:19:13.9Z",
     "source_id": "1121554",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "EASTERN HONSHU, JAPAN"
@@ -5826,7 +5878,7 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -69.13,
+      -69.14,
       45.22,
       -5.0
     ]
@@ -5834,10 +5886,10 @@
   "type": "Feature",
   "id": "20220423_0000197",
   "properties": {
-    "lastupdate": "2022-04-24T04:47:00.0Z",
+    "lastupdate": "2022-04-24T22:06:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": -69.13,
+    "lon": -69.14,
     "auth": "NEIC",
     "lat": 45.22,
     "depth": 5.0,
@@ -25943,58 +25995,6 @@
     "mag": 3.1,
     "time": "2022-04-20T16:03:21.0Z",
     "source_id": "1120325",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "PHILIPPINE ISLANDS REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      122.05,
-      -10.94,
-      -36.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220420_0000149",
-  "properties": {
-    "lastupdate": "2022-04-20T16:00:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 122.05,
-    "auth": "DJA",
-    "lat": -10.94,
-    "depth": 36.0,
-    "unid": "20220420_0000149",
-    "mag": 3.3,
-    "time": "2022-04-20T15:57:14.0Z",
-    "source_id": "1120321",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SAVU SEA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      127.28,
-      6.35,
-      -123.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220420_0000150",
-  "properties": {
-    "lastupdate": "2022-04-20T16:01:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 127.28,
-    "auth": "PIVS",
-    "lat": 6.35,
-    "depth": 123.0,
-    "unid": "20220420_0000150",
-    "mag": 3.2,
-    "time": "2022-04-20T15:48:45.0Z",
-    "source_id": "1120322",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "PHILIPPINE ISLANDS REGION"
   }
