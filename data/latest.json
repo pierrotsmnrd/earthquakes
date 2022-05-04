@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1061009},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1061011},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.76,
+      17.96,
+      -7.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220504_0000006",
+  "properties": {
+    "lastupdate": "2022-05-04T02:53:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -66.76,
+    "auth": "NEIR",
+    "lat": 17.96,
+    "depth": 7.0,
+    "unid": "20220504_0000006",
+    "mag": 2.2,
+    "time": "2022-05-04T02:41:58.8Z",
+    "source_id": "1124732",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "PUERTO RICO REGION"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -177.33,
+      -15.84,
+      -402.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220504_0000007",
+  "properties": {
+    "lastupdate": "2022-05-04T03:19:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": -177.33,
+    "auth": "NEIC",
+    "lat": -15.84,
+    "depth": 402.0,
+    "unid": "20220504_0000007",
+    "mag": 4.3,
+    "time": "2022-05-04T02:40:20.3Z",
+    "source_id": "1124733",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "FIJI REGION"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -25945,57 +25997,5 @@
     "source_id": "1123245",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "WESTERN TURKEY"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      41.75,
-      41.22,
-      -19.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220429_0000099",
-  "properties": {
-    "lastupdate": "2022-04-29T12:31:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 41.75,
-    "auth": "ISK",
-    "lat": 41.22,
-    "depth": 19.0,
-    "unid": "20220429_0000099",
-    "mag": 2.5,
-    "time": "2022-04-29T08:02:16.2Z",
-    "source_id": "1123294",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "EASTERN TURKEY"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      14.74,
-      46.29,
-      -16.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220429_0000058",
-  "properties": {
-    "lastupdate": "2022-04-29T07:56:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 14.74,
-    "auth": "LJU",
-    "lat": 46.29,
-    "depth": 16.0,
-    "unid": "20220429_0000058",
-    "mag": 1.1,
-    "time": "2022-04-29T07:54:21.0Z",
-    "source_id": "1123241",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SLOVENIA"
   }
 }]}
