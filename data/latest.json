@@ -1,25 +1,51 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1060997},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1060998},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -116.45,
-      32.04,
-      -17.0
+      -151.81,
+      62.68,
+      -5.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220503_0000176",
+  "properties": {
+    "lastupdate": "2022-05-03T23:37:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -151.81,
+    "auth": "NEIC",
+    "lat": 62.68,
+    "depth": 5.0,
+    "unid": "20220503_0000176",
+    "mag": 2.8,
+    "time": "2022-05-03T23:12:56.7Z",
+    "source_id": "1124720",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CENTRAL ALASKA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.43,
+      32.02,
+      -21.0
     ]
   },
   "type": "Feature",
   "id": "20220503_0000175",
   "properties": {
-    "lastupdate": "2022-05-03T22:59:00.0Z",
+    "lastupdate": "2022-05-03T23:26:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": -116.45,
-    "auth": "NEIR",
-    "lat": 32.04,
-    "depth": 17.0,
+    "lon": -116.43,
+    "auth": "NEIC",
+    "lat": 32.02,
+    "depth": 21.0,
     "unid": "20220503_0000175",
-    "mag": 2.8,
-    "time": "2022-05-03T22:57:37.9Z",
+    "mag": 2.7,
+    "time": "2022-05-03T22:57:36.4Z",
     "source_id": "1124719",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "BAJA CALIFORNIA, MEXICO"
@@ -4476,22 +4502,22 @@
     "coordinates": [
       -113.86,
       37.75,
-      -12.0
+      -7.0
     ]
   },
   "type": "Feature",
   "id": "20220503_0000002",
   "properties": {
-    "lastupdate": "2022-05-03T13:26:00.0Z",
+    "lastupdate": "2022-05-03T23:29:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
     "lon": -113.86,
-    "auth": "UU",
+    "auth": "NN",
     "lat": 37.75,
-    "depth": 12.0,
+    "depth": 7.0,
     "unid": "20220503_0000002",
-    "mag": 2.4,
-    "time": "2022-05-03T00:24:34.7Z",
+    "mag": 2.0,
+    "time": "2022-05-03T00:24:35.1Z",
     "source_id": "1124417",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "UTAH"
@@ -25971,31 +25997,5 @@
     "source_id": "1123235",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "HAWAII REGION, HAWAII"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -82.87,
-      8.35,
-      -15.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220429_0000055",
-  "properties": {
-    "lastupdate": "2022-04-29T15:15:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -82.87,
-    "auth": "UCR",
-    "lat": 8.35,
-    "depth": 15.0,
-    "unid": "20220429_0000055",
-    "mag": 3.9,
-    "time": "2022-04-29T07:32:30.0Z",
-    "source_id": "1123233",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "PANAMA-COSTA RICA BORDER REGION"
   }
 }]}
