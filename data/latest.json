@@ -1,26 +1,156 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1062006},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1062012},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      126.98,
-      3.82,
+      -3.64,
+      35.49,
+      -26.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220508_0000018",
+  "properties": {
+    "lastupdate": "2022-05-08T03:14:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -3.64,
+    "auth": "MDD",
+    "lat": 35.49,
+    "depth": 26.0,
+    "unid": "20220508_0000018",
+    "mag": 1.6,
+    "time": "2022-05-08T02:54:10.1Z",
+    "source_id": "1126132",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "STRAIT OF GIBRALTAR"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.37,
+      35.89,
+      -20.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220508_0000016",
+  "properties": {
+    "lastupdate": "2022-05-08T02:55:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 29.37,
+    "auth": "ISK",
+    "lat": 35.89,
+    "depth": 20.0,
+    "unid": "20220508_0000016",
+    "mag": 2.5,
+    "time": "2022-05-08T02:50:06.9Z",
+    "source_id": "1126130",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "EASTERN MEDITERRANEAN SEA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -150.27,
+      65.25,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220508_0000015",
+  "properties": {
+    "lastupdate": "2022-05-08T03:02:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -150.27,
+    "auth": "NEIC",
+    "lat": 65.25,
+    "depth": 10.0,
+    "unid": "20220508_0000015",
+    "mag": 3.5,
+    "time": "2022-05-08T02:49:02.4Z",
+    "source_id": "1126129",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NORTHERN ALASKA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.39,
+      35.96,
+      -31.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220508_0000014",
+  "properties": {
+    "lastupdate": "2022-05-08T02:52:00.0Z",
+    "magtype": "mw",
+    "evtype": "ke",
+    "lon": 29.39,
+    "auth": "DDA",
+    "lat": 35.96,
+    "depth": 31.0,
+    "unid": "20220508_0000014",
+    "mag": 3.7,
+    "time": "2022-05-08T02:43:50.3Z",
+    "source_id": "1126128",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "EASTERN MEDITERRANEAN SEA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.78,
+      17.91,
+      -7.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220508_0000017",
+  "properties": {
+    "lastupdate": "2022-05-08T03:08:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -66.78,
+    "auth": "NEIR",
+    "lat": 17.91,
+    "depth": 7.0,
+    "unid": "20220508_0000017",
+    "mag": 2.1,
+    "time": "2022-05-08T02:34:26.3Z",
+    "source_id": "1126131",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "PUERTO RICO REGION"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.95,
+      3.72,
       -40.0
     ]
   },
   "type": "Feature",
-  "id": "20220508_0000012",
+  "id": "20220508_0000013",
   "properties": {
-    "lastupdate": "2022-05-08T02:34:00.0Z",
-    "magtype": "m",
+    "lastupdate": "2022-05-08T03:18:00.0Z",
+    "magtype": "mw",
     "evtype": "ke",
-    "lon": 126.98,
+    "lon": 126.95,
     "auth": "EMSC",
-    "lat": 3.82,
+    "lat": 3.72,
     "depth": 40.0,
-    "unid": "20220508_0000012",
-    "mag": 4.9,
-    "time": "2022-05-08T02:18:57.0Z",
-    "source_id": "1126121",
+    "unid": "20220508_0000013",
+    "mag": 5.2,
+    "time": "2022-05-08T02:29:03.3Z",
+    "source_id": "1126126",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "KEPULAUAN TALAUD, INDONESIA"
   }
@@ -29,23 +159,49 @@
     "type": "Point",
     "coordinates": [
       126.97,
-      3.77,
+      3.74,
+      -57.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220508_0000012",
+  "properties": {
+    "lastupdate": "2022-05-08T03:15:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": 126.97,
+    "auth": "EMSC",
+    "lat": 3.74,
+    "depth": 57.0,
+    "unid": "20220508_0000012",
+    "mag": 4.9,
+    "time": "2022-05-08T02:18:57.5Z",
+    "source_id": "1126121",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "KEPULAUAN TALAUD, INDONESIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.89,
+      3.7,
       -40.0
     ]
   },
   "type": "Feature",
   "id": "20220508_0000011",
   "properties": {
-    "lastupdate": "2022-05-08T02:31:00.0Z",
+    "lastupdate": "2022-05-08T03:07:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": 126.97,
+    "lon": 126.89,
     "auth": "EMSC",
-    "lat": 3.77,
+    "lat": 3.7,
     "depth": 40.0,
     "unid": "20220508_0000011",
     "mag": 5.0,
-    "time": "2022-05-08T02:12:47.2Z",
+    "time": "2022-05-08T02:12:47.1Z",
     "source_id": "1126119",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "KEPULAUAN TALAUD, INDONESIA"
@@ -25841,161 +25997,5 @@
     "source_id": "1124609",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "STRAIT OF GIBRALTAR"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -68.45,
-      -34.29,
-      -28.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220503_0000107",
-  "properties": {
-    "lastupdate": "2022-05-03T13:15:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -68.45,
-    "auth": "NSNA",
-    "lat": -34.29,
-    "depth": 28.0,
-    "unid": "20220503_0000107",
-    "mag": 3.1,
-    "time": "2022-05-03T13:09:20.0Z",
-    "source_id": "1124600",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "MENDOZA, ARGENTINA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      141.8,
-      37.8,
-      -60.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220503_0000106",
-  "properties": {
-    "lastupdate": "2022-05-03T13:10:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 141.8,
-    "auth": "JMA",
-    "lat": 37.8,
-    "depth": 60.0,
-    "unid": "20220503_0000106",
-    "mag": 4.0,
-    "time": "2022-05-03T13:04:30.0Z",
-    "source_id": "1124599",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NEAR EAST COAST OF HONSHU, JAPAN"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -122.76,
-      38.84,
-      -13.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220503_0000092",
-  "properties": {
-    "lastupdate": "2022-05-03T13:14:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -122.76,
-    "auth": "NEIC",
-    "lat": 38.84,
-    "depth": 13.0,
-    "unid": "20220503_0000092",
-    "mag": 2.5,
-    "time": "2022-05-03T13:01:07.9Z",
-    "source_id": "1124585",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NORTHERN CALIFORNIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -122.8,
-      38.82,
-      -3.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220503_0000091",
-  "properties": {
-    "lastupdate": "2022-05-03T13:01:00.0Z",
-    "magtype": "md",
-    "evtype": "ke",
-    "lon": -122.8,
-    "auth": "NC",
-    "lat": 38.82,
-    "depth": 3.0,
-    "unid": "20220503_0000091",
-    "mag": 2.7,
-    "time": "2022-05-03T12:59:14.7Z",
-    "source_id": "1124584",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NORTHERN CALIFORNIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -117.36,
-      37.16,
-      -8.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220503_0000089",
-  "properties": {
-    "lastupdate": "2022-05-03T16:31:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -117.36,
-    "auth": "NN",
-    "lat": 37.16,
-    "depth": 8.0,
-    "unid": "20220503_0000089",
-    "mag": 2.3,
-    "time": "2022-05-03T12:52:30.6Z",
-    "source_id": "1124583",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NEVADA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -102.05,
-      32.06,
-      -11.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220503_0000149",
-  "properties": {
-    "lastupdate": "2022-05-03T17:30:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -102.05,
-    "auth": "TX",
-    "lat": 32.06,
-    "depth": 11.0,
-    "unid": "20220503_0000149",
-    "mag": 2.0,
-    "time": "2022-05-03T12:47:41.5Z",
-    "source_id": "1124670",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "WESTERN TEXAS"
   }
 }]}
