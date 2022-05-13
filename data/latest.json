@@ -1,25 +1,103 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1063281},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1063284},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -104.37,
-      31.62,
-      -5.0
+      -70.84,
+      -20.14,
+      -20.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220513_0000108",
+  "properties": {
+    "lastupdate": "2022-05-13T13:49:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -70.84,
+    "auth": "GUC",
+    "lat": -20.14,
+    "depth": 20.0,
+    "unid": "20220513_0000108",
+    "mag": 3.1,
+    "time": "2022-05-13T13:39:10.0Z",
+    "source_id": "1127919",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "OFFSHORE TARAPACA, CHILE"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -116.86,
+      33.34,
+      -8.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220513_0000106",
+  "properties": {
+    "lastupdate": "2022-05-13T13:38:00.0Z",
+    "magtype": "mw",
+    "evtype": "ke",
+    "lon": -116.86,
+    "auth": "NEIR",
+    "lat": 33.34,
+    "depth": 8.0,
+    "unid": "20220513_0000106",
+    "mag": 3.5,
+    "time": "2022-05-13T13:32:36.6Z",
+    "source_id": "1127916",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SOUTHERN CALIFORNIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.02,
+      42.94,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220513_0000107",
+  "properties": {
+    "lastupdate": "2022-05-13T13:39:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 13.02,
+    "auth": "INGV",
+    "lat": 42.94,
+    "depth": 10.0,
+    "unid": "20220513_0000107",
+    "mag": 2.2,
+    "time": "2022-05-13T13:23:58.8Z",
+    "source_id": "1127918",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CENTRAL ITALY"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.39,
+      31.65,
+      -8.0
     ]
   },
   "type": "Feature",
   "id": "20220513_0000105",
   "properties": {
-    "lastupdate": "2022-05-13T13:10:00.0Z",
+    "lastupdate": "2022-05-13T14:02:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": -104.37,
-    "auth": "NEIC",
-    "lat": 31.62,
-    "depth": 5.0,
+    "lon": -104.39,
+    "auth": "TX",
+    "lat": 31.65,
+    "depth": 8.0,
     "unid": "20220513_0000105",
     "mag": 3.0,
-    "time": "2022-05-13T13:02:50.8Z",
+    "time": "2022-05-13T13:02:51.1Z",
     "source_id": "1127912",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "WESTERN TEXAS"
@@ -25919,83 +25997,5 @@
     "source_id": "1126369",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "HALMAHERA, INDONESIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      10.18,
-      46.69,
-      -4.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220508_0000209",
-  "properties": {
-    "lastupdate": "2022-05-09T09:49:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 10.18,
-    "auth": "ZUR",
-    "lat": 46.69,
-    "depth": 4.0,
-    "unid": "20220508_0000209",
-    "mag": 0.9,
-    "time": "2022-05-08T21:44:17.8Z",
-    "source_id": "1126516",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SWITZERLAND"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -111.36,
-      27.33,
-      -16.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220508_0000197",
-  "properties": {
-    "lastupdate": "2022-05-09T01:15:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -111.36,
-    "auth": "UNM",
-    "lat": 27.33,
-    "depth": 16.0,
-    "unid": "20220508_0000197",
-    "mag": 3.6,
-    "time": "2022-05-08T21:44:03.0Z",
-    "source_id": "1126413",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "GULF OF CALIFORNIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -99.14,
-      16.81,
-      -27.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220508_0000198",
-  "properties": {
-    "lastupdate": "2022-05-09T01:15:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -99.14,
-    "auth": "UNM",
-    "lat": 16.81,
-    "depth": 27.0,
-    "unid": "20220508_0000198",
-    "mag": 3.3,
-    "time": "2022-05-08T21:41:04.0Z",
-    "source_id": "1126414",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "GUERRERO, MEXICO"
   }
 }]}
