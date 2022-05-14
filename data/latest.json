@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1063391},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1063394},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.08,
+      12.78,
+      -4.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220514_0000010",
+  "properties": {
+    "lastupdate": "2022-05-14T02:40:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -87.08,
+    "auth": "INET",
+    "lat": 12.78,
+    "depth": 4.0,
+    "unid": "20220514_0000010",
+    "mag": 3.0,
+    "time": "2022-05-14T02:29:12.0Z",
+    "source_id": "1128066",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NEAR COAST OF NICARAGUA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.75,
+      -3.12,
+      -80.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220514_0000009",
+  "properties": {
+    "lastupdate": "2022-05-14T02:42:00.0Z",
+    "magtype": "mw",
+    "evtype": "ke",
+    "lon": 139.75,
+    "auth": "EMSC",
+    "lat": -3.12,
+    "depth": 80.0,
+    "unid": "20220514_0000009",
+    "mag": 5.1,
+    "time": "2022-05-14T02:25:20.1Z",
+    "source_id": "1128065",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "PAPUA, INDONESIA"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -4599,6 +4651,32 @@
     "source_id": "1127794",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHERN SUMATRA, INDONESIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -155.21,
+      19.31,
+      -6.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220513_0000201",
+  "properties": {
+    "lastupdate": "2022-05-14T02:25:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -155.21,
+    "auth": "NEIR",
+    "lat": 19.31,
+    "depth": 6.0,
+    "unid": "20220513_0000201",
+    "mag": 2.3,
+    "time": "2022-05-13T04:32:08.9Z",
+    "source_id": "1128064",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "ISLAND OF HAWAII, HAWAII"
   }
 },{
   "geometry": {
@@ -25919,83 +25997,5 @@
     "source_id": "1126510",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "KEPULAUAN TALAUD, INDONESIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      126.71,
-      4.18,
-      -32.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220509_0000071",
-  "properties": {
-    "lastupdate": "2022-05-09T09:35:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 126.71,
-    "auth": "DJA",
-    "lat": 4.18,
-    "depth": 32.0,
-    "unid": "20220509_0000071",
-    "mag": 4.5,
-    "time": "2022-05-09T09:27:35.0Z",
-    "source_id": "1126511",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "KEPULAUAN TALAUD, INDONESIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -118.8,
-      37.38,
-      -11.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220509_0000069",
-  "properties": {
-    "lastupdate": "2022-05-10T16:57:00.0Z",
-    "magtype": "md",
-    "evtype": "ke",
-    "lon": -118.8,
-    "auth": "NC",
-    "lat": 37.38,
-    "depth": 11.0,
-    "unid": "20220509_0000069",
-    "mag": 2.6,
-    "time": "2022-05-09T09:26:07.6Z",
-    "source_id": "1126508",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CENTRAL CALIFORNIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -93.3,
-      14.12,
-      -12.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220509_0000098",
-  "properties": {
-    "lastupdate": "2022-05-09T13:20:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -93.3,
-    "auth": "UNM",
-    "lat": 14.12,
-    "depth": 12.0,
-    "unid": "20220509_0000098",
-    "mag": 3.9,
-    "time": "2022-05-09T09:25:12.0Z",
-    "source_id": "1126556",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OFF COAST OF CHIAPAS, MEXICO"
   }
 }]}
