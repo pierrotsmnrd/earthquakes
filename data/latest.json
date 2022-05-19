@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1064530},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1064533},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -155.62,
+      19.44,
+      1.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220519_0000031",
+  "properties": {
+    "lastupdate": "2022-05-19T03:40:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -155.62,
+    "auth": "NEIR",
+    "lat": 19.44,
+    "depth": -1.0,
+    "unid": "20220519_0000031",
+    "mag": 2.5,
+    "time": "2022-05-19T03:29:09.8Z",
+    "source_id": "1129624",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "ISLAND OF HAWAII, HAWAII"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -25.37,
+      -57.09,
+      -60.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220519_0000032",
+  "properties": {
+    "lastupdate": "2022-05-19T03:54:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": -25.37,
+    "auth": "EMSC",
+    "lat": -57.09,
+    "depth": 60.0,
+    "unid": "20220519_0000032",
+    "mag": 5.7,
+    "time": "2022-05-19T03:29:09.5Z",
+    "source_id": "1129626",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SOUTH SANDWICH ISLANDS REGION"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -192,7 +244,7 @@
   "type": "Feature",
   "id": "20220519_0000024",
   "properties": {
-    "lastupdate": "2022-05-19T03:14:00.0Z",
+    "lastupdate": "2022-05-19T04:00:00.0Z",
     "magtype": "mw",
     "evtype": "ke",
     "lon": -126.89,
@@ -834,7 +886,7 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      123.73,
+      123.75,
       23.5,
       -33.0
     ]
@@ -842,10 +894,10 @@
   "type": "Feature",
   "id": "20220518_0000165",
   "properties": {
-    "lastupdate": "2022-05-19T00:54:00.0Z",
+    "lastupdate": "2022-05-19T03:41:00.0Z",
     "magtype": "mw",
     "evtype": "ke",
-    "lon": 123.73,
+    "lon": 123.75,
     "auth": "EMSC",
     "lat": 23.5,
     "depth": 33.0,
@@ -25945,57 +25997,5 @@
     "source_id": "1128142",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "WESTERN TEXAS"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -106.07,
-      18.11,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220514_0000097",
-  "properties": {
-    "lastupdate": "2022-05-14T13:00:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -106.07,
-    "auth": "UNM",
-    "lat": 18.11,
-    "depth": 5.0,
-    "unid": "20220514_0000097",
-    "mag": 3.6,
-    "time": "2022-05-14T09:12:47.0Z",
-    "source_id": "1128194",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OFF COAST OF JALISCO, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -86.19,
-      12.02,
-      -8.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220514_0000061",
-  "properties": {
-    "lastupdate": "2022-05-14T10:00:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -86.19,
-    "auth": "INET",
-    "lat": 12.02,
-    "depth": 8.0,
-    "unid": "20220514_0000061",
-    "mag": 2.5,
-    "time": "2022-05-14T09:12:35.0Z",
-    "source_id": "1128137",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NICARAGUA"
   }
 }]}
