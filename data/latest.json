@@ -1,25 +1,51 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1065580},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1065582},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      126.88,
-      4.12,
-      -61.0
+      32.55,
+      41.69,
+      -8.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220523_0000037",
+  "properties": {
+    "lastupdate": "2022-05-23T07:01:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 32.55,
+    "auth": "DDA",
+    "lat": 41.69,
+    "depth": 8.0,
+    "unid": "20220523_0000037",
+    "mag": 2.0,
+    "time": "2022-05-23T06:26:24.9Z",
+    "source_id": "1130998",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CENTRAL TURKEY"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.83,
+      4.21,
+      -40.0
     ]
   },
   "type": "Feature",
   "id": "20220523_0000036",
   "properties": {
-    "lastupdate": "2022-05-23T06:01:00.0Z",
+    "lastupdate": "2022-05-23T06:37:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": 126.88,
-    "auth": "NEIC",
-    "lat": 4.12,
-    "depth": 61.0,
+    "lon": 126.83,
+    "auth": "EMSC",
+    "lat": 4.21,
+    "depth": 40.0,
     "unid": "20220523_0000036",
     "mag": 4.7,
-    "time": "2022-05-23T05:37:53.3Z",
+    "time": "2022-05-23T05:37:51.1Z",
     "source_id": "1130991",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "KEPULAUAN TALAUD, INDONESIA"
@@ -3902,21 +3928,21 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      10.91,
-      44.02,
-      -5.0
+      10.9,
+      44.04,
+      -9.0
     ]
   },
   "type": "Feature",
   "id": "20220522_0000137",
   "properties": {
-    "lastupdate": "2022-05-22T13:40:00.0Z",
+    "lastupdate": "2022-05-23T07:01:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": 10.91,
+    "lon": 10.9,
     "auth": "EMSC",
-    "lat": 44.02,
-    "depth": 5.0,
+    "lat": 44.04,
+    "depth": 9.0,
     "unid": "20220522_0000137",
     "mag": 2.4,
     "time": "2022-05-22T13:19:05.2Z",
@@ -4032,24 +4058,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      142.99,
-      42.2,
-      -60.0
+      142.98,
+      42.22,
+      -51.0
     ]
   },
   "type": "Feature",
   "id": "20220522_0000115",
   "properties": {
-    "lastupdate": "2022-05-22T19:58:00.0Z",
+    "lastupdate": "2022-05-23T06:59:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": 142.99,
+    "lon": 142.98,
     "auth": "EMSC",
-    "lat": 42.2,
-    "depth": 60.0,
+    "lat": 42.22,
+    "depth": 51.0,
     "unid": "20220522_0000115",
     "mag": 4.7,
-    "time": "2022-05-22T12:22:16.5Z",
+    "time": "2022-05-22T12:22:15.6Z",
     "source_id": "1130748",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "HOKKAIDO, JAPAN REGION"
@@ -4450,19 +4476,19 @@
     "coordinates": [
       30.5,
       39.83,
-      -2.0
+      -10.0
     ]
   },
   "type": "Feature",
   "id": "20220522_0000100",
   "properties": {
-    "lastupdate": "2022-05-22T11:12:00.0Z",
+    "lastupdate": "2022-05-23T06:56:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
     "lon": 30.5,
     "auth": "EMSC",
     "lat": 39.83,
-    "depth": 2.0,
+    "depth": 10.0,
     "unid": "20220522_0000100",
     "mag": 2.7,
     "time": "2022-05-22T10:52:30.6Z",
@@ -4495,6 +4521,32 @@
     "source_id": "1130716",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "MINAHASA, SULAWESI, INDONESIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.1,
+      39.75,
+      -2.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220522_0000253",
+  "properties": {
+    "lastupdate": "2022-05-23T07:00:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 22.1,
+    "auth": "EMSC",
+    "lat": 39.75,
+    "depth": 2.0,
+    "unid": "20220522_0000253",
+    "mag": 2.6,
+    "time": "2022-05-22T10:33:59.7Z",
+    "source_id": "1130714",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "GREECE"
   }
 },{
   "geometry": {
@@ -4578,24 +4630,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      43.46,
-      42.53,
-      -2.0
+      43.44,
+      42.54,
+      -8.0
     ]
   },
   "type": "Feature",
   "id": "20220522_0000105",
   "properties": {
-    "lastupdate": "2022-05-22T20:10:00.0Z",
+    "lastupdate": "2022-05-23T06:54:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": 43.46,
+    "lon": 43.44,
     "auth": "EMSC",
-    "lat": 42.53,
-    "depth": 2.0,
+    "lat": 42.54,
+    "depth": 8.0,
     "unid": "20220522_0000105",
     "mag": 2.7,
-    "time": "2022-05-22T10:02:49.2Z",
+    "time": "2022-05-22T10:02:49.8Z",
     "source_id": "1130725",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "GEORGIA (SAK'ART'VELO)"
@@ -4760,27 +4812,27 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -156.11,
-      19.66,
-      -8.0
+      -155.85,
+      19.7,
+      -20.0
     ]
   },
   "type": "Feature",
   "id": "20220522_0000089",
   "properties": {
-    "lastupdate": "2022-05-22T10:27:00.0Z",
+    "lastupdate": "2022-05-23T06:50:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": -156.11,
+    "lon": -155.85,
     "auth": "EMSC",
-    "lat": 19.66,
-    "depth": 8.0,
+    "lat": 19.7,
+    "depth": 20.0,
     "unid": "20220522_0000089",
     "mag": 4.9,
-    "time": "2022-05-22T09:49:42.2Z",
+    "time": "2022-05-22T09:49:45.8Z",
     "source_id": "1130704",
     "source_catalog": "EMSC-RTS",
-    "flynn_region": "HAWAII REGION, HAWAII"
+    "flynn_region": "ISLAND OF HAWAII, HAWAII"
   }
 },{
   "geometry": {
@@ -4838,7 +4890,7 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      70.24,
+      70.25,
       36.54,
       -214.0
     ]
@@ -4846,16 +4898,16 @@
   "type": "Feature",
   "id": "20220522_0000102",
   "properties": {
-    "lastupdate": "2022-05-22T11:41:00.0Z",
+    "lastupdate": "2022-05-23T06:48:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": 70.24,
+    "lon": 70.25,
     "auth": "EMSC",
     "lat": 36.54,
     "depth": 214.0,
     "unid": "20220522_0000102",
     "mag": 4.4,
-    "time": "2022-05-22T09:37:42.0Z",
+    "time": "2022-05-22T09:37:41.9Z",
     "source_id": "1130702",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "HINDU KUSH REGION, AFGHANISTAN"
@@ -5072,24 +5124,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      153.19,
-      -10.22,
+      153.16,
+      -10.26,
       -10.0
     ]
   },
   "type": "Feature",
   "id": "20220522_0000090",
   "properties": {
-    "lastupdate": "2022-05-22T11:26:00.0Z",
+    "lastupdate": "2022-05-23T06:47:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": 153.19,
-    "auth": "NEIC",
-    "lat": -10.22,
+    "lon": 153.16,
+    "auth": "EMSC",
+    "lat": -10.26,
     "depth": 10.0,
     "unid": "20220522_0000090",
     "mag": 4.6,
-    "time": "2022-05-22T08:41:06.7Z",
+    "time": "2022-05-22T08:41:06.2Z",
     "source_id": "1130705",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "D'ENTRECASTEAUX ISLANDS REGION"
@@ -5488,24 +5540,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      25.7,
-      34.15,
-      -2.0
+      25.72,
+      34.18,
+      -10.0
     ]
   },
   "type": "Feature",
   "id": "20220522_0000067",
   "properties": {
-    "lastupdate": "2022-05-22T09:56:00.0Z",
+    "lastupdate": "2022-05-23T06:47:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": 25.7,
+    "lon": 25.72,
     "auth": "EMSC",
-    "lat": 34.15,
-    "depth": 2.0,
+    "lat": 34.18,
+    "depth": 10.0,
     "unid": "20220522_0000067",
-    "mag": 3.7,
-    "time": "2022-05-22T07:22:36.9Z",
+    "mag": 3.6,
+    "time": "2022-05-22T07:22:38.1Z",
     "source_id": "1130670",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CRETE, GREECE"
@@ -12691,23 +12743,23 @@
     "type": "Point",
     "coordinates": [
       26.83,
-      36.47,
+      36.5,
       -100.0
     ]
   },
   "type": "Feature",
   "id": "20220521_0000037",
   "properties": {
-    "lastupdate": "2022-05-21T08:52:00.0Z",
+    "lastupdate": "2022-05-23T06:45:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
     "lon": 26.83,
     "auth": "EMSC",
-    "lat": 36.47,
+    "lat": 36.5,
     "depth": 100.0,
     "unid": "20220521_0000037",
     "mag": 2.5,
-    "time": "2022-05-21T03:04:47.0Z",
+    "time": "2022-05-21T03:04:46.7Z",
     "source_id": "1130327",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "DODECANESE ISLANDS, GREECE"
@@ -14121,20 +14173,20 @@
     "type": "Point",
     "coordinates": [
       21.08,
-      37.87,
-      -2.0
+      37.86,
+      -5.0
     ]
   },
   "type": "Feature",
   "id": "20220520_0000236",
   "properties": {
-    "lastupdate": "2022-05-20T22:26:00.0Z",
+    "lastupdate": "2022-05-23T06:44:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
     "lon": 21.08,
     "auth": "EMSC",
-    "lat": 37.87,
-    "depth": 2.0,
+    "lat": 37.86,
+    "depth": 5.0,
     "unid": "20220520_0000236",
     "mag": 2.1,
     "time": "2022-05-20T21:30:48.7Z",
@@ -21738,24 +21790,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -26.56,
+      -26.7,
       -56.1,
-      -10.0
+      -35.0
     ]
   },
   "type": "Feature",
   "id": "20220519_0000179",
   "properties": {
-    "lastupdate": "2022-05-22T20:06:00.0Z",
+    "lastupdate": "2022-05-23T06:42:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": -26.56,
+    "lon": -26.7,
     "auth": "EMSC",
     "lat": -56.1,
-    "depth": 10.0,
+    "depth": 35.0,
     "unid": "20220519_0000179",
     "mag": 4.9,
-    "time": "2022-05-19T18:41:07.4Z",
+    "time": "2022-05-19T18:41:11.1Z",
     "source_id": "1129854",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTH SANDWICH ISLANDS REGION"
@@ -25945,57 +25997,5 @@
     "source_id": "1129752",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHERN IDAHO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -25.29,
-      -58.87,
-      -35.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220519_0000028",
-  "properties": {
-    "lastupdate": "2022-05-19T07:01:00.0Z",
-    "magtype": "mb",
-    "evtype": "ke",
-    "lon": -25.29,
-    "auth": "EMSC",
-    "lat": -58.87,
-    "depth": 35.0,
-    "unid": "20220519_0000028",
-    "mag": 5.0,
-    "time": "2022-05-19T02:24:51.6Z",
-    "source_id": "1129617",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SOUTH SANDWICH ISLANDS REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -149.01,
-      60.47,
-      -31.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220519_0000025",
-  "properties": {
-    "lastupdate": "2022-05-19T23:32:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -149.01,
-    "auth": "NEIC",
-    "lat": 60.47,
-    "depth": 31.0,
-    "unid": "20220519_0000025",
-    "mag": 3.2,
-    "time": "2022-05-19T02:21:45.7Z",
-    "source_id": "1129611",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "KENAI PENINSULA, ALASKA"
   }
 }]}
