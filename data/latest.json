@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1066990},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1066994},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      112.12,
+      -6.43,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220529_0000077",
+  "properties": {
+    "lastupdate": "2022-05-29T10:15:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 112.12,
+    "auth": "DJA",
+    "lat": -6.43,
+    "depth": 10.0,
+    "unid": "20220529_0000077",
+    "mag": 4.5,
+    "time": "2022-05-29T10:09:32.0Z",
+    "source_id": "1132940",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "JAVA, INDONESIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.85,
+      17.96,
+      -18.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220529_0000078",
+  "properties": {
+    "lastupdate": "2022-05-29T10:22:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -66.85,
+    "auth": "NEIR",
+    "lat": 17.96,
+    "depth": 18.0,
+    "unid": "20220529_0000078",
+    "mag": 2.1,
+    "time": "2022-05-29T10:04:45.6Z",
+    "source_id": "1132941",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "PUERTO RICO"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -626,24 +678,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      141.01,
-      36.28,
-      -43.0
+      140.93,
+      36.27,
+      -45.0
     ]
   },
   "type": "Feature",
   "id": "20220529_0000051",
   "properties": {
-    "lastupdate": "2022-05-29T07:46:00.0Z",
+    "lastupdate": "2022-05-29T10:47:00.0Z",
     "magtype": "mw",
     "evtype": "ke",
-    "lon": 141.01,
+    "lon": 140.93,
     "auth": "EMSC",
-    "lat": 36.28,
-    "depth": 43.0,
+    "lat": 36.27,
+    "depth": 45.0,
     "unid": "20220529_0000051",
     "mag": 5.1,
-    "time": "2022-05-29T06:55:23.3Z",
+    "time": "2022-05-29T06:55:23.6Z",
     "source_id": "1132900",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NEAR EAST COAST OF HONSHU, JAPAN"
@@ -25945,57 +25997,5 @@
     "source_id": "1131672",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SUMBAWA REGION, INDONESIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -99.89,
-      18.08,
-      -58.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220524_0000188",
-  "properties": {
-    "lastupdate": "2022-05-25T01:01:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -99.89,
-    "auth": "UNM",
-    "lat": 18.08,
-    "depth": 58.0,
-    "unid": "20220524_0000188",
-    "mag": 3.1,
-    "time": "2022-05-24T16:30:13.0Z",
-    "source_id": "1131598",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "GUERRERO, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      16.55,
-      45.22,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220524_0000123",
-  "properties": {
-    "lastupdate": "2022-05-24T16:32:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 16.55,
-    "auth": "LJU",
-    "lat": 45.22,
-    "depth": 5.0,
-    "unid": "20220524_0000123",
-    "mag": 1.9,
-    "time": "2022-05-24T16:28:47.0Z",
-    "source_id": "1131494",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "BOSNIA AND HERZEGOVINA"
   }
 }]}
