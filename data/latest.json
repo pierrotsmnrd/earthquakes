@@ -1,4 +1,30 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1067728},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1067729},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.03,
+      13.05,
+      -61.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220601_0000100",
+  "properties": {
+    "lastupdate": "2022-06-01T13:40:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -89.03,
+    "auth": "SNET",
+    "lat": 13.05,
+    "depth": 61.0,
+    "unid": "20220601_0000100",
+    "mag": 3.6,
+    "time": "2022-06-01T13:27:25.0Z",
+    "source_id": "1133931",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "OFFSHORE EL SALVADOR"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -28,23 +54,23 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -103.78,
+      -103.79,
       32.07,
-      -5.0
+      -7.0
     ]
   },
   "type": "Feature",
   "id": "20220601_0000084",
   "properties": {
-    "lastupdate": "2022-06-01T12:40:00.0Z",
+    "lastupdate": "2022-06-01T14:02:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": -103.78,
-    "auth": "NEIC",
+    "lon": -103.79,
+    "auth": "TX",
     "lat": 32.07,
-    "depth": 5.0,
+    "depth": 7.0,
     "unid": "20220601_0000084",
-    "mag": 2.5,
+    "mag": 2.8,
     "time": "2022-06-01T12:33:06.3Z",
     "source_id": "1133911",
     "source_catalog": "EMSC-RTS",
@@ -25971,31 +25997,5 @@
     "source_id": "1132484",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "ANTOFAGASTA, CHILE"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      122.16,
-      20.6,
-      -1.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220527_0000185",
-  "properties": {
-    "lastupdate": "2022-05-27T20:35:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 122.16,
-    "auth": "PIVS",
-    "lat": 20.6,
-    "depth": 1.0,
-    "unid": "20220527_0000185",
-    "mag": 3.5,
-    "time": "2022-05-27T20:07:16.0Z",
-    "source_id": "1132489",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "BATAN ISL REGION, PHILIPPINES"
   }
 }]}
