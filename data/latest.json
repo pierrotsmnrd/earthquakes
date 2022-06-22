@@ -1,25 +1,77 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1072858},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1072861},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -8.62,
-      36.92,
-      -20.0
+      -87.39,
+      12.27,
+      -47.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220622_0000162",
+  "properties": {
+    "lastupdate": "2022-06-22T18:45:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -87.39,
+    "auth": "INET",
+    "lat": 12.27,
+    "depth": 47.0,
+    "unid": "20220622_0000162",
+    "mag": 3.1,
+    "time": "2022-06-22T18:38:06.0Z",
+    "source_id": "1141290",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NEAR COAST OF NICARAGUA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      54.49,
+      27.0,
+      -17.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220622_0000161",
+  "properties": {
+    "lastupdate": "2022-06-22T18:25:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 54.49,
+    "auth": "TEH",
+    "lat": 27.0,
+    "depth": 17.0,
+    "unid": "20220622_0000161",
+    "mag": 3.9,
+    "time": "2022-06-22T18:13:41.9Z",
+    "source_id": "1141289",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SOUTHERN IRAN"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -8.59,
+      36.97,
+      -30.0
     ]
   },
   "type": "Feature",
   "id": "20220622_0000158",
   "properties": {
-    "lastupdate": "2022-06-22T17:53:00.0Z",
+    "lastupdate": "2022-06-22T18:13:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": -8.62,
-    "auth": "INMG",
-    "lat": 36.92,
-    "depth": 20.0,
+    "lon": -8.59,
+    "auth": "EMSC",
+    "lat": 36.97,
+    "depth": 30.0,
     "unid": "20220622_0000158",
     "mag": 2.8,
-    "time": "2022-06-22T17:50:08.0Z",
+    "time": "2022-06-22T17:50:08.4Z",
     "source_id": "1141287",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "WEST OF GIBRALTAR"
@@ -283,6 +335,32 @@
     "source_id": "1141276",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "PYRENEES"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.97,
+      36.45,
+      -2.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220622_0000160",
+  "properties": {
+    "lastupdate": "2022-06-22T18:05:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 22.97,
+    "auth": "THE",
+    "lat": 36.45,
+    "depth": 2.0,
+    "unid": "20220622_0000160",
+    "mag": 2.4,
+    "time": "2022-06-22T16:33:10.4Z",
+    "source_id": "1141273",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SOUTHERN GREECE"
   }
 },{
   "geometry": {
@@ -25919,83 +25997,5 @@
     "source_id": "1139819",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHERN SUMATRA, INDONESIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -66.84,
-      18.07,
-      -14.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220618_0000104",
-  "properties": {
-    "lastupdate": "2022-06-18T12:45:00.0Z",
-    "magtype": "md",
-    "evtype": "ke",
-    "lon": -66.84,
-    "auth": "NEIR",
-    "lat": 18.07,
-    "depth": 14.0,
-    "unid": "20220618_0000104",
-    "mag": 2.9,
-    "time": "2022-06-18T11:14:43.3Z",
-    "source_id": "1139834",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "PUERTO RICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -127.67,
-      42.84,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220618_0000092",
-  "properties": {
-    "lastupdate": "2022-06-18T11:26:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -127.67,
-    "auth": "NEIC",
-    "lat": 42.84,
-    "depth": 10.0,
-    "unid": "20220618_0000092",
-    "mag": 2.9,
-    "time": "2022-06-18T11:05:20.9Z",
-    "source_id": "1139818",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OFF COAST OF OREGON"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.74,
-      35.42,
-      -18.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220618_0000103",
-  "properties": {
-    "lastupdate": "2022-06-18T12:07:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -3.74,
-    "auth": "MDD",
-    "lat": 35.42,
-    "depth": 18.0,
-    "unid": "20220618_0000103",
-    "mag": 2.4,
-    "time": "2022-06-18T11:01:47.8Z",
-    "source_id": "1139831",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "STRAIT OF GIBRALTAR"
   }
 }]}
