@@ -1,4 +1,30 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1073704},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1073706},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.69,
+      35.46,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220626_0000077",
+  "properties": {
+    "lastupdate": "2022-06-26T11:32:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -3.69,
+    "auth": "MDD",
+    "lat": 35.46,
+    "depth": 10.0,
+    "unid": "20220626_0000077",
+    "mag": 2.3,
+    "time": "2022-06-26T11:22:52.4Z",
+    "source_id": "1142479",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "STRAIT OF GIBRALTAR"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -23,6 +49,32 @@
     "source_id": "1142473",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTH ISLAND OF NEW ZEALAND"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.08,
+      34.68,
+      -13.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220626_0000078",
+  "properties": {
+    "lastupdate": "2022-06-26T11:58:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 33.08,
+    "auth": "NIC",
+    "lat": 34.68,
+    "depth": 13.0,
+    "unid": "20220626_0000078",
+    "mag": 2.6,
+    "time": "2022-06-26T10:23:34.7Z",
+    "source_id": "1142474",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CYPRUS REGION"
   }
 },{
   "geometry": {
@@ -25945,57 +25997,5 @@
     "source_id": "1141009",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SULAWESI, INDONESIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      125.67,
-      6.14,
-      -146.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220621_0000190",
-  "properties": {
-    "lastupdate": "2022-06-21T21:40:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 125.67,
-    "auth": "PIVS",
-    "lat": 6.14,
-    "depth": 146.0,
-    "unid": "20220621_0000190",
-    "mag": 3.0,
-    "time": "2022-06-21T21:27:37.0Z",
-    "source_id": "1141011",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "MINDANAO, PHILIPPINES"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -7.21,
-      43.26,
-      -11.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220621_0000192",
-  "properties": {
-    "lastupdate": "2022-06-21T21:46:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -7.21,
-    "auth": "MDD",
-    "lat": 43.26,
-    "depth": 11.0,
-    "unid": "20220621_0000192",
-    "mag": 2.0,
-    "time": "2022-06-21T21:10:37.4Z",
-    "source_id": "1141013",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SPAIN"
   }
 }]}
