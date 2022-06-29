@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1074310},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1074312},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      3.02,
+      36.33,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220629_0000016",
+  "properties": {
+    "lastupdate": "2022-06-29T04:15:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": 3.02,
+    "auth": "MDD",
+    "lat": 36.33,
+    "depth": 10.0,
+    "unid": "20220629_0000016",
+    "mag": 3.1,
+    "time": "2022-06-29T03:50:04.7Z",
+    "source_id": "1143326",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NORTHERN ALGERIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      129.49,
+      -2.7,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220629_0000015",
+  "properties": {
+    "lastupdate": "2022-06-29T03:50:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 129.49,
+    "auth": "DJA",
+    "lat": -2.7,
+    "depth": 10.0,
+    "unid": "20220629_0000015",
+    "mag": 3.9,
+    "time": "2022-06-29T03:43:43.0Z",
+    "source_id": "1143325",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SERAM, INDONESIA"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -25945,57 +25997,5 @@
     "source_id": "1141866",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHERN IDAHO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -66.83,
-      17.93,
-      -14.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220624_0000075",
-  "properties": {
-    "lastupdate": "2022-06-24T11:16:00.0Z",
-    "magtype": "md",
-    "evtype": "ke",
-    "lon": -66.83,
-    "auth": "NEIR",
-    "lat": 17.93,
-    "depth": 14.0,
-    "unid": "20220624_0000075",
-    "mag": 2.4,
-    "time": "2022-06-24T09:21:12.4Z",
-    "source_id": "1141813",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "PUERTO RICO REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -117.09,
-      33.77,
-      -14.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220624_0000065",
-  "properties": {
-    "lastupdate": "2022-06-24T09:10:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -117.09,
-    "auth": "NEIR",
-    "lat": 33.77,
-    "depth": 14.0,
-    "unid": "20220624_0000065",
-    "mag": 2.0,
-    "time": "2022-06-24T09:07:21.7Z",
-    "source_id": "1141793",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SOUTHERN CALIFORNIA"
   }
 }]}
