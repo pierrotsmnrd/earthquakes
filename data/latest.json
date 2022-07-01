@@ -1,4 +1,82 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1074875},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1074878},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.88,
+      17.95,
+      -8.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220701_0000126",
+  "properties": {
+    "lastupdate": "2022-07-01T15:50:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -66.88,
+    "auth": "NEIR",
+    "lat": 17.95,
+    "depth": 8.0,
+    "unid": "20220701_0000126",
+    "mag": 3.2,
+    "time": "2022-07-01T15:23:15.8Z",
+    "source_id": "1144135",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "PUERTO RICO REGION"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.84,
+      -26.12,
+      -26.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220701_0000127",
+  "properties": {
+    "lastupdate": "2022-07-01T16:00:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -70.84,
+    "auth": "GUC",
+    "lat": -26.12,
+    "depth": 26.0,
+    "unid": "20220701_0000127",
+    "mag": 2.6,
+    "time": "2022-07-01T14:58:15.0Z",
+    "source_id": "1144136",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "OFFSHORE ATACAMA, CHILE"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.09,
+      12.88,
+      -1.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220701_0000125",
+  "properties": {
+    "lastupdate": "2022-07-01T15:05:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 125.09,
+    "auth": "PIVS",
+    "lat": 12.88,
+    "depth": 1.0,
+    "unid": "20220701_0000125",
+    "mag": 3.7,
+    "time": "2022-07-01T14:48:02.0Z",
+    "source_id": "1144134",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SAMAR, PHILIPPINES"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -14596,7 +14674,7 @@
   "type": "Feature",
   "id": "20220628_0000218",
   "properties": {
-    "lastupdate": "2022-06-29T17:59:00.0Z",
+    "lastupdate": "2022-07-01T15:27:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
     "lon": -103.55,
@@ -14604,7 +14682,7 @@
     "lat": 31.4,
     "depth": 6.0,
     "unid": "20220628_0000218",
-    "mag": 2.2,
+    "mag": 2.3,
     "time": "2022-06-28T21:31:18.5Z",
     "source_id": "1143495",
     "source_catalog": "EMSC-RTS",
@@ -25919,83 +25997,5 @@
     "source_id": "1142665",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "MICHOACAN, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -0.33,
-      35.79,
-      -8.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220626_0000170",
-  "properties": {
-    "lastupdate": "2022-06-26T20:13:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -0.33,
-    "auth": "MDD",
-    "lat": 35.79,
-    "depth": 8.0,
-    "unid": "20220626_0000170",
-    "mag": 2.9,
-    "time": "2022-06-26T19:59:17.4Z",
-    "source_id": "1142604",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NORTHERN ALGERIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -92.6,
-      14.75,
-      -73.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220626_0000201",
-  "properties": {
-    "lastupdate": "2022-06-27T01:15:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -92.6,
-    "auth": "UNM",
-    "lat": 14.75,
-    "depth": 73.0,
-    "unid": "20220626_0000201",
-    "mag": 3.7,
-    "time": "2022-06-26T19:57:39.0Z",
-    "source_id": "1142666",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OFFSHORE CHIAPAS, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.61,
-      35.45,
-      -19.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220626_0000171",
-  "properties": {
-    "lastupdate": "2022-06-26T20:23:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -3.61,
-    "auth": "MDD",
-    "lat": 35.45,
-    "depth": 19.0,
-    "unid": "20220626_0000171",
-    "mag": 2.1,
-    "time": "2022-06-26T19:54:57.8Z",
-    "source_id": "1142609",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "STRAIT OF GIBRALTAR"
   }
 }]}
