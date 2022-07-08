@@ -1,4 +1,82 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1076383},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1076387},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.96,
+      -21.09,
+      -112.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220707_0000182",
+  "properties": {
+    "lastupdate": "2022-07-07T23:29:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -68.96,
+    "auth": "GUC",
+    "lat": -21.09,
+    "depth": 112.0,
+    "unid": "20220707_0000182",
+    "mag": 2.8,
+    "time": "2022-07-07T23:22:16.0Z",
+    "source_id": "1146274",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "TARAPACA, CHILE"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -155.41,
+      19.23,
+      -31.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220707_0000180",
+  "properties": {
+    "lastupdate": "2022-07-07T23:18:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -155.41,
+    "auth": "NEIR",
+    "lat": 19.23,
+    "depth": 31.0,
+    "unid": "20220707_0000180",
+    "mag": 2.4,
+    "time": "2022-07-07T23:12:31.1Z",
+    "source_id": "1146272",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "ISLAND OF HAWAII, HAWAII"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.96,
+      17.95,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220707_0000181",
+  "properties": {
+    "lastupdate": "2022-07-07T23:37:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -66.96,
+    "auth": "NEIR",
+    "lat": 17.95,
+    "depth": 10.0,
+    "unid": "20220707_0000181",
+    "mag": 2.4,
+    "time": "2022-07-07T23:09:36.2Z",
+    "source_id": "1146273",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "PUERTO RICO"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -309,6 +387,32 @@
     "source_id": "1146254",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "STRAIT OF GIBRALTAR"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -124.28,
+      40.51,
+      -23.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220707_0000183",
+  "properties": {
+    "lastupdate": "2022-07-07T23:35:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -124.28,
+    "auth": "NC",
+    "lat": 40.51,
+    "depth": 23.0,
+    "unid": "20220707_0000183",
+    "mag": 2.1,
+    "time": "2022-07-07T20:23:23.7Z",
+    "source_id": "1146275",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NORTHERN CALIFORNIA"
   }
 },{
   "geometry": {
@@ -1252,22 +1356,22 @@
     "coordinates": [
       -155.48,
       19.49,
-      -2.0
+      0.0
     ]
   },
   "type": "Feature",
   "id": "20220707_0000117",
   "properties": {
-    "lastupdate": "2022-07-07T15:13:00.0Z",
-    "magtype": "md",
+    "lastupdate": "2022-07-08T00:02:00.0Z",
+    "magtype": "ml",
     "evtype": "ke",
     "lon": -155.48,
     "auth": "NEIR",
     "lat": 19.49,
-    "depth": 2.0,
+    "depth": 0.0,
     "unid": "20220707_0000117",
-    "mag": 2.1,
-    "time": "2022-07-07T15:10:23.0Z",
+    "mag": 2.3,
+    "time": "2022-07-07T15:10:22.9Z",
     "source_id": "1146182",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "ISLAND OF HAWAII, HAWAII"
@@ -4396,24 +4500,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -116.11,
+      -116.12,
       33.24,
-      -5.0
+      -10.0
     ]
   },
   "type": "Feature",
   "id": "20220707_0000009",
   "properties": {
-    "lastupdate": "2022-07-07T01:45:00.0Z",
-    "magtype": "ml",
+    "lastupdate": "2022-07-07T23:13:00.0Z",
+    "magtype": "mw",
     "evtype": "ke",
-    "lon": -116.11,
+    "lon": -116.12,
     "auth": "NEIC",
     "lat": 33.24,
-    "depth": 5.0,
+    "depth": 10.0,
     "unid": "20220707_0000009",
-    "mag": 3.3,
-    "time": "2022-07-07T01:30:30.8Z",
+    "mag": 3.4,
+    "time": "2022-07-07T01:30:31.2Z",
     "source_id": "1146006",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHERN CALIFORNIA"
@@ -25893,109 +25997,5 @@
     "source_id": "1144775",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "HALMAHERA, INDONESIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      145.53,
-      -5.98,
-      -111.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220703_0000213",
-  "properties": {
-    "lastupdate": "2022-07-07T17:20:00.0Z",
-    "magtype": "mb",
-    "evtype": "ke",
-    "lon": 145.53,
-    "auth": "NEIC",
-    "lat": -5.98,
-    "depth": 111.0,
-    "unid": "20220703_0000213",
-    "mag": 4.1,
-    "time": "2022-07-03T13:01:35.0Z",
-    "source_id": "1146203",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "EASTERN NEW GUINEA REG., P.N.G."
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -0.45,
-      35.87,
-      -28.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220703_0000097",
-  "properties": {
-    "lastupdate": "2022-07-03T13:07:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -0.45,
-    "auth": "MDD",
-    "lat": 35.87,
-    "depth": 28.0,
-    "unid": "20220703_0000097",
-    "mag": 2.2,
-    "time": "2022-07-03T12:46:45.1Z",
-    "source_id": "1144772",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NORTHERN ALGERIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -0.41,
-      35.82,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220703_0000081",
-  "properties": {
-    "lastupdate": "2022-07-03T12:43:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -0.41,
-    "auth": "MDD",
-    "lat": 35.82,
-    "depth": 5.0,
-    "unid": "20220703_0000081",
-    "mag": 2.4,
-    "time": "2022-07-03T12:31:21.1Z",
-    "source_id": "1144754",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NORTHERN ALGERIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      178.51,
-      -25.7,
-      -498.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220703_0000080",
-  "properties": {
-    "lastupdate": "2022-07-03T12:40:00.0Z",
-    "magtype": "mb",
-    "evtype": "ke",
-    "lon": 178.51,
-    "auth": "GNS",
-    "lat": -25.7,
-    "depth": 498.0,
-    "unid": "20220703_0000080",
-    "mag": 4.8,
-    "time": "2022-07-03T12:24:14.9Z",
-    "source_id": "1144752",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SOUTH OF FIJI ISLANDS"
   }
 }]}
