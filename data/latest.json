@@ -1,4 +1,82 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1080360},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1080363},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.04,
+      -20.89,
+      -107.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220723_0000123",
+  "properties": {
+    "lastupdate": "2022-07-23T15:00:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -69.04,
+    "auth": "GUC",
+    "lat": -20.89,
+    "depth": 107.0,
+    "unid": "20220723_0000123",
+    "mag": 2.5,
+    "time": "2022-07-23T14:48:56.0Z",
+    "source_id": "1151955",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "TARAPACA, CHILE"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      117.3,
+      -11.19,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220723_0000122",
+  "properties": {
+    "lastupdate": "2022-07-23T14:25:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 117.3,
+    "auth": "DJA",
+    "lat": -11.19,
+    "depth": 10.0,
+    "unid": "20220723_0000122",
+    "mag": 3.8,
+    "time": "2022-07-23T14:20:16.0Z",
+    "source_id": "1151931",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SOUTH OF SUMBAWA, INDONESIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.57,
+      35.47,
+      -25.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220723_0000121",
+  "properties": {
+    "lastupdate": "2022-07-23T14:17:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -3.57,
+    "auth": "MDD",
+    "lat": 35.47,
+    "depth": 25.0,
+    "unid": "20220723_0000121",
+    "mag": 2.0,
+    "time": "2022-07-23T13:52:10.7Z",
+    "source_id": "1151930",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "STRAIT OF GIBRALTAR"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -472,22 +550,22 @@
     "coordinates": [
       -178.15,
       -20.34,
-      -611.0
+      -612.0
     ]
   },
   "type": "Feature",
   "id": "20220723_0000089",
   "properties": {
-    "lastupdate": "2022-07-23T12:52:00.0Z",
+    "lastupdate": "2022-07-23T14:23:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
     "lon": -178.15,
     "auth": "EMSC",
     "lat": -20.34,
-    "depth": 611.0,
+    "depth": 612.0,
     "unid": "20220723_0000089",
     "mag": 4.5,
-    "time": "2022-07-23T11:38:45.0Z",
+    "time": "2022-07-23T11:38:44.9Z",
     "source_id": "1151891",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "FIJI REGION"
@@ -4214,27 +4292,27 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -178.44,
-      -30.8,
-      -330.0
+      -179.78,
+      -30.41,
+      -305.0
     ]
   },
   "type": "Feature",
   "id": "20220722_0000255",
   "properties": {
-    "lastupdate": "2022-07-23T04:27:00.0Z",
+    "lastupdate": "2022-07-23T14:15:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": -178.44,
+    "lon": -179.78,
     "auth": "EMSC",
-    "lat": -30.8,
-    "depth": 330.0,
+    "lat": -30.41,
+    "depth": 305.0,
     "unid": "20220722_0000255",
-    "mag": 5.0,
-    "time": "2022-07-22T20:02:51.1Z",
+    "mag": 4.5,
+    "time": "2022-07-22T20:02:50.9Z",
     "source_id": "1151673",
     "source_catalog": "EMSC-RTS",
-    "flynn_region": "KERMADEC ISLANDS, NEW ZEALAND"
+    "flynn_region": "KERMADEC ISLANDS REGION"
   }
 },{
   "geometry": {
@@ -25919,83 +25997,5 @@
     "source_id": "1150356",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SWITZERLAND"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -104.28,
-      31.72,
-      -8.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220719_0000245",
-  "properties": {
-    "lastupdate": "2022-07-21T00:28:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -104.28,
-    "auth": "TX",
-    "lat": 31.72,
-    "depth": 8.0,
-    "unid": "20220719_0000245",
-    "mag": 2.0,
-    "time": "2022-07-19T12:22:19.4Z",
-    "source_id": "1150981",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "WESTERN TEXAS"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -66.9,
-      17.97,
-      -14.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220719_0000101",
-  "properties": {
-    "lastupdate": "2022-07-19T12:43:00.0Z",
-    "magtype": "md",
-    "evtype": "ke",
-    "lon": -66.9,
-    "auth": "NEIR",
-    "lat": 17.97,
-    "depth": 14.0,
-    "unid": "20220719_0000101",
-    "mag": 2.2,
-    "time": "2022-07-19T12:21:36.5Z",
-    "source_id": "1150362",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "PUERTO RICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.61,
-      35.48,
-      -21.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220719_0000098",
-  "properties": {
-    "lastupdate": "2022-07-19T12:11:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -3.61,
-    "auth": "MDD",
-    "lat": 35.48,
-    "depth": 21.0,
-    "unid": "20220719_0000098",
-    "mag": 2.4,
-    "time": "2022-07-19T12:04:48.7Z",
-    "source_id": "1150351",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "STRAIT OF GIBRALTAR"
   }
 }]}
