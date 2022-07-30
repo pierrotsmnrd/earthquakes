@@ -1,8 +1,60 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1081956},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1081959},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -67.49,
+      149.22,
+      44.01,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220730_0000015",
+  "properties": {
+    "lastupdate": "2022-07-30T02:38:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": 149.22,
+    "auth": "EMSC",
+    "lat": 44.01,
+    "depth": 10.0,
+    "unid": "20220730_0000015",
+    "mag": 4.3,
+    "time": "2022-07-30T01:48:03.6Z",
+    "source_id": "1154254",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "KURIL ISLANDS"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -151.26,
+      66.22,
+      -11.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220730_0000014",
+  "properties": {
+    "lastupdate": "2022-07-30T01:47:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -151.26,
+    "auth": "NEIC",
+    "lat": 66.22,
+    "depth": 11.0,
+    "unid": "20220730_0000014",
+    "mag": 2.5,
+    "time": "2022-07-30T01:40:58.0Z",
+    "source_id": "1154253",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NORTHERN ALASKA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.03,
       -19.11,
       -245.0
     ]
@@ -10,19 +62,45 @@
   "type": "Feature",
   "id": "20220730_0000013",
   "properties": {
-    "lastupdate": "2022-07-30T01:28:00.0Z",
-    "magtype": "m",
+    "lastupdate": "2022-07-30T01:39:00.0Z",
+    "magtype": "mb",
     "evtype": "ke",
-    "lon": -67.49,
-    "auth": "GUC",
+    "lon": -67.03,
+    "auth": "NEIC",
     "lat": -19.11,
     "depth": 245.0,
     "unid": "20220730_0000013",
-    "mag": 3.9,
-    "time": "2022-07-30T01:24:22.0Z",
+    "mag": 4.4,
+    "time": "2022-07-30T01:24:18.9Z",
     "source_id": "1154252",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "ORURO, BOLIVIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.62,
+      39.03,
+      -11.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220730_0000016",
+  "properties": {
+    "lastupdate": "2022-07-30T02:38:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -0.62,
+    "auth": "MDD",
+    "lat": 39.03,
+    "depth": 11.0,
+    "unid": "20220730_0000016",
+    "mag": 1.6,
+    "time": "2022-07-30T01:23:48.7Z",
+    "source_id": "1154257",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SPAIN"
   }
 },{
   "geometry": {
@@ -80,24 +158,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      31.68,
+      31.73,
       40.18,
-      -11.0
+      -5.0
     ]
   },
   "type": "Feature",
   "id": "20220730_0000010",
   "properties": {
-    "lastupdate": "2022-07-30T01:01:00.0Z",
+    "lastupdate": "2022-07-30T01:58:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": 31.68,
-    "auth": "ISK",
+    "lon": 31.73,
+    "auth": "EMSC",
     "lat": 40.18,
-    "depth": 11.0,
+    "depth": 5.0,
     "unid": "20220730_0000010",
-    "mag": 2.5,
-    "time": "2022-07-30T00:52:32.2Z",
+    "mag": 2.4,
+    "time": "2022-07-30T00:52:32.4Z",
     "source_id": "1154247",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "WESTERN TURKEY"
@@ -25919,83 +25997,5 @@
     "source_id": "1152772",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "BONIN ISLANDS, JAPAN REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.58,
-      35.56,
-      -18.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220726_0000017",
-  "properties": {
-    "lastupdate": "2022-07-26T02:21:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -3.58,
-    "auth": "MDD",
-    "lat": 35.56,
-    "depth": 18.0,
-    "unid": "20220726_0000017",
-    "mag": 1.7,
-    "time": "2022-07-26T02:10:12.3Z",
-    "source_id": "1152773",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "STRAIT OF GIBRALTAR"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      179.06,
-      -31.63,
-      -300.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220726_0000015",
-  "properties": {
-    "lastupdate": "2022-07-26T02:05:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 179.06,
-    "auth": "GNS",
-    "lat": -31.63,
-    "depth": 300.0,
-    "unid": "20220726_0000015",
-    "mag": 4.6,
-    "time": "2022-07-26T01:59:05.7Z",
-    "source_id": "1152770",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "KERMADEC ISLANDS REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -71.83,
-      -32.66,
-      -19.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220726_0000016",
-  "properties": {
-    "lastupdate": "2022-07-26T02:10:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -71.83,
-    "auth": "GUC",
-    "lat": -32.66,
-    "depth": 19.0,
-    "unid": "20220726_0000016",
-    "mag": 2.5,
-    "time": "2022-07-26T01:49:09.0Z",
-    "source_id": "1152771",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OFFSHORE VALPARAISO, CHILE"
   }
 }]}
