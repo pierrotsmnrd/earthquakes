@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1083046},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1083048},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -155.6,
+      19.44,
+      1.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220803_0000025",
+  "properties": {
+    "lastupdate": "2022-08-03T04:10:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -155.6,
+    "auth": "NEIR",
+    "lat": 19.44,
+    "depth": -1.0,
+    "unid": "20220803_0000025",
+    "mag": 2.2,
+    "time": "2022-08-03T03:57:13.2Z",
+    "source_id": "1155660",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "ISLAND OF HAWAII, HAWAII"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.58,
+      35.47,
+      -19.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220803_0000024",
+  "properties": {
+    "lastupdate": "2022-08-03T04:08:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -3.58,
+    "auth": "MDD",
+    "lat": 35.47,
+    "depth": 19.0,
+    "unid": "20220803_0000024",
+    "mag": 2.2,
+    "time": "2022-08-03T03:41:49.6Z",
+    "source_id": "1155659",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "STRAIT OF GIBRALTAR"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -1666,23 +1718,23 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      138.2,
-      -33.04,
+      138.19,
+      -33.03,
       -4.0
     ]
   },
   "type": "Feature",
   "id": "20220802_0000199",
   "properties": {
-    "lastupdate": "2022-08-02T19:17:00.0Z",
+    "lastupdate": "2022-08-03T03:59:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": 138.2,
+    "lon": 138.19,
     "auth": "AUST",
-    "lat": -33.04,
+    "lat": -33.03,
     "depth": 4.0,
     "unid": "20220802_0000199",
-    "mag": 3.0,
+    "mag": 2.9,
     "time": "2022-08-02T19:05:07.9Z",
     "source_id": "1155560",
     "source_catalog": "EMSC-RTS",
@@ -25945,57 +25997,5 @@
     "source_id": "1154325",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NEAR EAST COAST OF HONSHU, JAPAN"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -92.63,
-      15.17,
-      -105.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220730_0000097",
-  "properties": {
-    "lastupdate": "2022-07-30T13:16:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -92.63,
-    "auth": "UNM",
-    "lat": 15.17,
-    "depth": 105.0,
-    "unid": "20220730_0000097",
-    "mag": 3.7,
-    "time": "2022-07-30T08:51:09.0Z",
-    "source_id": "1154367",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CHIAPAS, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -67.49,
-      18.05,
-      -19.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220730_0000078",
-  "properties": {
-    "lastupdate": "2022-07-30T12:57:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -67.49,
-    "auth": "NEIC",
-    "lat": 18.05,
-    "depth": 19.0,
-    "unid": "20220730_0000078",
-    "mag": 3.1,
-    "time": "2022-07-30T08:44:52.5Z",
-    "source_id": "1154342",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "MONA PASSAGE, PUERTO RICO"
   }
 }]}
