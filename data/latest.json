@@ -1,28 +1,80 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1083044},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1083046},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      104.84,
-      -8.0,
+      -155.6,
+      19.46,
+      1.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220803_0000023",
+  "properties": {
+    "lastupdate": "2022-08-03T03:35:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -155.6,
+    "auth": "NEIR",
+    "lat": 19.46,
+    "depth": -1.0,
+    "unid": "20220803_0000023",
+    "mag": 2.1,
+    "time": "2022-08-03T02:53:56.4Z",
+    "source_id": "1155658",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "ISLAND OF HAWAII, HAWAII"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      104.59,
+      -8.53,
       -10.0
     ]
   },
   "type": "Feature",
   "id": "20220803_0000021",
   "properties": {
-    "lastupdate": "2022-08-03T02:45:00.0Z",
-    "magtype": "m",
+    "lastupdate": "2022-08-03T03:09:00.0Z",
+    "magtype": "mb",
     "evtype": "ke",
-    "lon": 104.84,
-    "auth": "DJA",
-    "lat": -8.0,
+    "lon": 104.59,
+    "auth": "NEIC",
+    "lat": -8.53,
     "depth": 10.0,
     "unid": "20220803_0000021",
-    "mag": 4.2,
-    "time": "2022-08-03T02:40:40.0Z",
+    "mag": 4.3,
+    "time": "2022-08-03T02:40:35.5Z",
     "source_id": "1155653",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHWEST OF SUMATRA, INDONESIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.91,
+      17.84,
+      0.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220803_0000022",
+  "properties": {
+    "lastupdate": "2022-08-03T02:49:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -66.91,
+    "auth": "NEIR",
+    "lat": 17.84,
+    "depth": 0.0,
+    "unid": "20220803_0000022",
+    "mag": 2.0,
+    "time": "2022-08-03T02:35:57.0Z",
+    "source_id": "1155654",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "PUERTO RICO REGION"
   }
 },{
   "geometry": {
@@ -548,7 +600,7 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      141.12,
+      141.13,
       37.33,
       -33.0
     ]
@@ -556,10 +608,10 @@
   "type": "Feature",
   "id": "20220802_0000233",
   "properties": {
-    "lastupdate": "2022-08-03T00:48:00.0Z",
+    "lastupdate": "2022-08-03T03:13:00.0Z",
     "magtype": "mw",
     "evtype": "ke",
-    "lon": 141.12,
+    "lon": 141.13,
     "auth": "EMSC",
     "lat": 37.33,
     "depth": 33.0,
@@ -25945,57 +25997,5 @@
     "source_id": "1154342",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "MONA PASSAGE, PUERTO RICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -94.88,
-      15.5,
-      -28.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220730_0000099",
-  "properties": {
-    "lastupdate": "2022-07-30T13:16:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -94.88,
-    "auth": "UNM",
-    "lat": 15.5,
-    "depth": 28.0,
-    "unid": "20220730_0000099",
-    "mag": 3.9,
-    "time": "2022-07-30T08:41:25.0Z",
-    "source_id": "1154368",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OFFSHORE OAXACA, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      120.6,
-      17.76,
-      -21.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220730_0000066",
-  "properties": {
-    "lastupdate": "2022-07-30T08:55:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 120.6,
-    "auth": "PIVS",
-    "lat": 17.76,
-    "depth": 21.0,
-    "unid": "20220730_0000066",
-    "mag": 3.5,
-    "time": "2022-07-30T08:39:16.0Z",
-    "source_id": "1154323",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "LUZON, PHILIPPINES"
   }
 }]}
