@@ -1,4 +1,108 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1084906},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1084911},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.43,
+      34.95,
+      -9.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220811_0000026",
+  "properties": {
+    "lastupdate": "2022-08-11T04:02:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -119.43,
+    "auth": "NEIR",
+    "lat": 34.95,
+    "depth": 9.0,
+    "unid": "20220811_0000026",
+    "mag": 2.1,
+    "time": "2022-08-11T03:58:49.5Z",
+    "source_id": "1157992",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CENTRAL CALIFORNIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      30.25,
+      0.65,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220811_0000025",
+  "properties": {
+    "lastupdate": "2022-08-11T03:53:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": 30.25,
+    "auth": "NEIC",
+    "lat": 0.65,
+    "depth": 10.0,
+    "unid": "20220811_0000025",
+    "mag": 3.6,
+    "time": "2022-08-11T03:28:19.9Z",
+    "source_id": "1157991",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "LAKE ALBERT REGION, UGANDA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.59,
+      17.44,
+      -21.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220811_0000024",
+  "properties": {
+    "lastupdate": "2022-08-11T03:40:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 120.59,
+    "auth": "PIVS",
+    "lat": 17.44,
+    "depth": 21.0,
+    "unid": "20220811_0000024",
+    "mag": 3.0,
+    "time": "2022-08-11T03:27:16.0Z",
+    "source_id": "1157988",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "LUZON, PHILIPPINES"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -64.99,
+      18.12,
+      -12.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220811_0000023",
+  "properties": {
+    "lastupdate": "2022-08-11T03:35:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -64.99,
+    "auth": "NEIR",
+    "lat": 18.12,
+    "depth": 12.0,
+    "unid": "20220811_0000023",
+    "mag": 3.2,
+    "time": "2022-08-11T03:21:35.4Z",
+    "source_id": "1157986",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "VIRGIN ISLANDS REGION"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -184,27 +288,53 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      78.18,
-      41.04,
+      78.2,
+      41.05,
       -5.0
     ]
   },
   "type": "Feature",
   "id": "20220811_0000015",
   "properties": {
-    "lastupdate": "2022-08-11T02:21:00.0Z",
+    "lastupdate": "2022-08-11T03:30:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": 78.18,
+    "lon": 78.2,
     "auth": "EMSC",
-    "lat": 41.04,
+    "lat": 41.05,
     "depth": 5.0,
     "unid": "20220811_0000015",
     "mag": 4.5,
-    "time": "2022-08-11T01:14:14.3Z",
+    "time": "2022-08-11T01:14:14.4Z",
     "source_id": "1157973",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHERN XINJIANG, CHINA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -155.44,
+      18.91,
+      -39.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220811_0000027",
+  "properties": {
+    "lastupdate": "2022-08-11T04:05:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -155.44,
+    "auth": "NEIR",
+    "lat": 18.91,
+    "depth": 39.0,
+    "unid": "20220811_0000027",
+    "mag": 2.3,
+    "time": "2022-08-11T00:57:48.5Z",
+    "source_id": "1157993",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "HAWAII REGION, HAWAII"
   }
 },{
   "geometry": {
@@ -340,24 +470,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -123.11,
+      -123.1,
       39.43,
-      1.0
+      0.0
     ]
   },
   "type": "Feature",
   "id": "20220811_0000006",
   "properties": {
-    "lastupdate": "2022-08-11T00:43:00.0Z",
+    "lastupdate": "2022-08-11T03:47:00.0Z",
     "magtype": "md",
     "evtype": "ke",
-    "lon": -123.11,
+    "lon": -123.1,
     "auth": "NC",
     "lat": 39.43,
-    "depth": -1.0,
+    "depth": 0.0,
     "unid": "20220811_0000006",
-    "mag": 2.4,
-    "time": "2022-08-11T00:42:00.9Z",
+    "mag": 2.3,
+    "time": "2022-08-11T00:42:01.0Z",
     "source_id": "1157948",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NORTHERN CALIFORNIA"
@@ -25867,135 +25997,5 @@
     "source_id": "1156700",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "OFF E. COAST OF N. ISLAND, N.Z."
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.61,
-      35.4,
-      -25.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220806_0000149",
-  "properties": {
-    "lastupdate": "2022-08-06T19:38:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -3.61,
-    "auth": "MDD",
-    "lat": 35.4,
-    "depth": 25.0,
-    "unid": "20220806_0000149",
-    "mag": 1.8,
-    "time": "2022-08-06T19:05:46.1Z",
-    "source_id": "1156706",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "STRAIT OF GIBRALTAR"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      44.45,
-      38.42,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220806_0000146",
-  "properties": {
-    "lastupdate": "2022-08-06T21:21:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 44.45,
-    "auth": "EMSC",
-    "lat": 38.42,
-    "depth": 5.0,
-    "unid": "20220806_0000146",
-    "mag": 2.9,
-    "time": "2022-08-06T19:03:17.4Z",
-    "source_id": "1156703",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "TURKEY-IRAN BORDER REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      122.76,
-      0.21,
-      -101.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220806_0000148",
-  "properties": {
-    "lastupdate": "2022-08-06T19:35:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 122.76,
-    "auth": "DJA",
-    "lat": 0.21,
-    "depth": 101.0,
-    "unid": "20220806_0000148",
-    "mag": 3.0,
-    "time": "2022-08-06T19:02:22.0Z",
-    "source_id": "1156705",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "MINAHASA, SULAWESI, INDONESIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      26.83,
-      36.67,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220806_0000141",
-  "properties": {
-    "lastupdate": "2022-08-06T21:22:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 26.83,
-    "auth": "EMSC",
-    "lat": 36.67,
-    "depth": 10.0,
-    "unid": "20220806_0000141",
-    "mag": 2.9,
-    "time": "2022-08-06T18:57:15.8Z",
-    "source_id": "1156696",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "DODECANESE ISLANDS, GREECE"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      121.31,
-      19.83,
-      -11.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220806_0000140",
-  "properties": {
-    "lastupdate": "2022-08-06T19:00:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 121.31,
-    "auth": "PIVS",
-    "lat": 19.83,
-    "depth": 11.0,
-    "unid": "20220806_0000140",
-    "mag": 3.2,
-    "time": "2022-08-06T18:50:11.0Z",
-    "source_id": "1156697",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "BABUYAN ISL REGION, PHILIPPINES"
   }
 }]}
