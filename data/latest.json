@@ -1,4 +1,82 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1085347},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1085350},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      169.28,
+      -44.0,
+      -2.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220813_0000016",
+  "properties": {
+    "lastupdate": "2022-08-13T02:55:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 169.28,
+    "auth": "GNS",
+    "lat": -44.0,
+    "depth": 2.0,
+    "unid": "20220813_0000016",
+    "mag": 3.2,
+    "time": "2022-08-13T02:50:24.6Z",
+    "source_id": "1158542",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SOUTH ISLAND OF NEW ZEALAND"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.66,
+      -0.11,
+      -8.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220813_0000017",
+  "properties": {
+    "lastupdate": "2022-08-13T02:55:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -80.66,
+    "auth": "QUI",
+    "lat": -0.11,
+    "depth": 8.0,
+    "unid": "20220813_0000017",
+    "mag": 3.5,
+    "time": "2022-08-13T02:46:42.0Z",
+    "source_id": "1158543",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NEAR COAST OF ECUADOR"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.92,
+      36.45,
+      -15.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220813_0000018",
+  "properties": {
+    "lastupdate": "2022-08-13T02:58:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 12.92,
+    "auth": "INGV",
+    "lat": 36.45,
+    "depth": 15.0,
+    "unid": "20220813_0000018",
+    "mag": 3.4,
+    "time": "2022-08-13T02:42:31.3Z",
+    "source_id": "1158544",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CENTRAL MEDITERRANEAN SEA"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -10,7 +88,7 @@
   "type": "Feature",
   "id": "20220813_0000015",
   "properties": {
-    "lastupdate": "2022-08-13T02:36:00.0Z",
+    "lastupdate": "2022-08-13T03:08:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
     "lon": 7.63,
@@ -18,7 +96,7 @@
     "lat": 46.26,
     "depth": 2.0,
     "unid": "20220813_0000015",
-    "mag": 2.5,
+    "mag": 2.4,
     "time": "2022-08-13T02:32:21.6Z",
     "source_id": "1158539",
     "source_catalog": "EMSC-RTS",
@@ -25919,83 +25997,5 @@
     "source_id": "1157233",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "PUERTO RICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -72.77,
-      73.83,
-      -18.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220808_0000244",
-  "properties": {
-    "lastupdate": "2022-08-09T20:15:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -72.77,
-    "auth": "CN",
-    "lat": 73.83,
-    "depth": 18.0,
-    "unid": "20220808_0000244",
-    "mag": 2.9,
-    "time": "2022-08-08T10:47:07.0Z",
-    "source_id": "1157630",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "BAFFIN BAY"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.63,
-      35.42,
-      -35.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220808_0000093",
-  "properties": {
-    "lastupdate": "2022-08-08T10:54:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -3.63,
-    "auth": "MDD",
-    "lat": 35.42,
-    "depth": 35.0,
-    "unid": "20220808_0000093",
-    "mag": 2.2,
-    "time": "2022-08-08T10:43:36.6Z",
-    "source_id": "1157187",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "STRAIT OF GIBRALTAR"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      125.73,
-      4.13,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220808_0000094",
-  "properties": {
-    "lastupdate": "2022-08-08T11:00:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 125.73,
-    "auth": "PIVS",
-    "lat": 4.13,
-    "depth": 5.0,
-    "unid": "20220808_0000094",
-    "mag": 3.5,
-    "time": "2022-08-08T10:39:27.0Z",
-    "source_id": "1157188",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "KEPULAUAN SANGIHE, INDONESIA"
   }
 }]}
