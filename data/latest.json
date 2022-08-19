@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1086710},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1086713},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -155.38,
+      19.23,
+      -33.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220819_0000026",
+  "properties": {
+    "lastupdate": "2022-08-19T03:57:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -155.38,
+    "auth": "NEIR",
+    "lat": 19.23,
+    "depth": 33.0,
+    "unid": "20220819_0000026",
+    "mag": 2.0,
+    "time": "2022-08-19T03:51:48.3Z",
+    "source_id": "1160348",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "ISLAND OF HAWAII, HAWAII"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      122.79,
+      13.22,
+      -18.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220819_0000027",
+  "properties": {
+    "lastupdate": "2022-08-19T04:00:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 122.79,
+    "auth": "PIVS",
+    "lat": 13.22,
+    "depth": 18.0,
+    "unid": "20220819_0000027",
+    "mag": 3.9,
+    "time": "2022-08-19T03:45:21.0Z",
+    "source_id": "1160349",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "LUZON, PHILIPPINES"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -1193,6 +1245,32 @@
     "source_id": "1160310",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "OAXACA, MEXICO"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.82,
+      37.0,
+      1.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220818_0000179",
+  "properties": {
+    "lastupdate": "2022-08-19T04:18:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -119.82,
+    "auth": "NC",
+    "lat": 37.0,
+    "depth": -1.0,
+    "unid": "20220818_0000179",
+    "mag": 2.0,
+    "time": "2022-08-18T20:57:05.7Z",
+    "source_id": "1160352",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CENTRAL CALIFORNIA"
   }
 },{
   "geometry": {
@@ -22104,22 +22182,22 @@
     "coordinates": [
       -119.45,
       38.58,
-      -8.0
+      -7.0
     ]
   },
   "type": "Feature",
   "id": "20220815_0000019",
   "properties": {
-    "lastupdate": "2022-08-15T04:55:00.0Z",
+    "lastupdate": "2022-08-19T03:43:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
     "lon": -119.45,
     "auth": "NEIC",
     "lat": 38.58,
-    "depth": 8.0,
+    "depth": 7.0,
     "unid": "20220815_0000019",
     "mag": 2.4,
-    "time": "2022-08-15T02:03:04.0Z",
+    "time": "2022-08-15T02:03:04.9Z",
     "source_id": "1159151",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CENTRAL CALIFORNIA"
@@ -25919,83 +25997,5 @@
     "source_id": "1158982",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NEAR COAST OF NICARAGUA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -66.96,
-      17.9,
-      -8.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220814_0000116",
-  "properties": {
-    "lastupdate": "2022-08-14T13:34:00.0Z",
-    "magtype": "md",
-    "evtype": "ke",
-    "lon": -66.96,
-    "auth": "NEIR",
-    "lat": 17.9,
-    "depth": 8.0,
-    "unid": "20220814_0000116",
-    "mag": 2.4,
-    "time": "2022-08-14T13:19:35.4Z",
-    "source_id": "1158981",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "PUERTO RICO REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      27.17,
-      37.96,
-      -7.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220814_0000118",
-  "properties": {
-    "lastupdate": "2022-08-14T16:19:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 27.17,
-    "auth": "EMSC",
-    "lat": 37.96,
-    "depth": 7.0,
-    "unid": "20220814_0000118",
-    "mag": 2.7,
-    "time": "2022-08-14T13:19:34.3Z",
-    "source_id": "1158976",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "WESTERN TURKEY"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -84.86,
-      9.22,
-      -15.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220814_0000178",
-  "properties": {
-    "lastupdate": "2022-08-14T20:05:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -84.86,
-    "auth": "UCR",
-    "lat": 9.22,
-    "depth": 15.0,
-    "unid": "20220814_0000178",
-    "mag": 3.5,
-    "time": "2022-08-14T13:09:30.0Z",
-    "source_id": "1159058",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "COSTA RICA"
   }
 }]}
