@@ -1,25 +1,77 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1086806},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1086808},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      141.8,
-      37.8,
-      -60.0
+      -155.48,
+      19.17,
+      -32.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220819_0000117",
+  "properties": {
+    "lastupdate": "2022-08-19T17:14:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -155.48,
+    "auth": "NEIR",
+    "lat": 19.17,
+    "depth": 32.0,
+    "unid": "20220819_0000117",
+    "mag": 2.2,
+    "time": "2022-08-19T17:10:53.2Z",
+    "source_id": "1160501",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "ISLAND OF HAWAII, HAWAII"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.65,
+      17.56,
+      -7.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220819_0000116",
+  "properties": {
+    "lastupdate": "2022-08-19T17:10:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 120.65,
+    "auth": "PIVS",
+    "lat": 17.56,
+    "depth": 7.0,
+    "unid": "20220819_0000116",
+    "mag": 3.1,
+    "time": "2022-08-19T16:57:19.0Z",
+    "source_id": "1160500",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "LUZON, PHILIPPINES"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      141.64,
+      37.75,
+      -84.0
     ]
   },
   "type": "Feature",
   "id": "20220819_0000114",
   "properties": {
-    "lastupdate": "2022-08-19T16:45:00.0Z",
-    "magtype": "m",
+    "lastupdate": "2022-08-19T17:35:00.0Z",
+    "magtype": "mb",
     "evtype": "ke",
-    "lon": 141.8,
-    "auth": "JMA",
-    "lat": 37.8,
-    "depth": 60.0,
+    "lon": 141.64,
+    "auth": "EMSC",
+    "lat": 37.75,
+    "depth": 84.0,
     "unid": "20220819_0000114",
     "mag": 4.4,
-    "time": "2022-08-19T16:36:30.0Z",
+    "time": "2022-08-19T16:36:02.2Z",
     "source_id": "1160497",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NEAR EAST COAST OF HONSHU, JAPAN"
@@ -25945,57 +25997,5 @@
     "source_id": "1159122",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "OAXACA, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -155.14,
-      56.85,
-      -35.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220814_0000230",
-  "properties": {
-    "lastupdate": "2022-08-15T02:03:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -155.14,
-    "auth": "NEIC",
-    "lat": 56.85,
-    "depth": 35.0,
-    "unid": "20220814_0000230",
-    "mag": 2.6,
-    "time": "2022-08-14T21:39:16.8Z",
-    "source_id": "1159150",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "ALASKA PENINSULA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -93.32,
-      15.99,
-      -127.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220814_0000216",
-  "properties": {
-    "lastupdate": "2022-08-15T01:05:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -93.32,
-    "auth": "UNM",
-    "lat": 15.99,
-    "depth": 127.0,
-    "unid": "20220814_0000216",
-    "mag": 3.5,
-    "time": "2022-08-14T21:31:43.0Z",
-    "source_id": "1159123",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CHIAPAS, MEXICO"
   }
 }]}
