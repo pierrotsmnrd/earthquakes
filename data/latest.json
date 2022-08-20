@@ -1,4 +1,4 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1086939},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1086941},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -28,6 +28,32 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      -100.92,
+      32.85,
+      -5.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220820_0000064",
+  "properties": {
+    "lastupdate": "2022-08-20T10:17:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": -100.92,
+    "auth": "NEIC",
+    "lat": 32.85,
+    "depth": 5.0,
+    "unid": "20220820_0000064",
+    "mag": 2.6,
+    "time": "2022-08-20T09:44:57.0Z",
+    "source_id": "1160692",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "WESTERN TEXAS"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       120.54,
       17.48,
       -21.0
@@ -49,6 +75,32 @@
     "source_id": "1160689",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "LUZON, PHILIPPINES"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.83,
+      17.99,
+      -15.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220820_0000065",
+  "properties": {
+    "lastupdate": "2022-08-20T10:21:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -66.83,
+    "auth": "NEIR",
+    "lat": 17.99,
+    "depth": 15.0,
+    "unid": "20220820_0000065",
+    "mag": 2.3,
+    "time": "2022-08-20T09:17:11.4Z",
+    "source_id": "1160694",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "PUERTO RICO"
   }
 },{
   "geometry": {
@@ -25945,57 +25997,5 @@
     "source_id": "1159306",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "GUERRERO, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -98.48,
-      16.55,
-      -7.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220815_0000123",
-  "properties": {
-    "lastupdate": "2022-08-15T14:06:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -98.48,
-    "auth": "UNM",
-    "lat": 16.55,
-    "depth": 7.0,
-    "unid": "20220815_0000123",
-    "mag": 3.5,
-    "time": "2022-08-15T09:34:33.0Z",
-    "source_id": "1159307",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "GUERRERO, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -159.63,
-      54.18,
-      -43.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220815_0000218",
-  "properties": {
-    "lastupdate": "2022-08-16T04:22:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -159.63,
-    "auth": "NEIC",
-    "lat": 54.18,
-    "depth": 43.0,
-    "unid": "20220815_0000218",
-    "mag": 2.8,
-    "time": "2022-08-15T09:21:00.4Z",
-    "source_id": "1159487",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SOUTH OF ALASKA"
   }
 }]}
