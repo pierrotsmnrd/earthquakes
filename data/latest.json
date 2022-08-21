@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1087155},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1087159},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.2,
+      37.99,
+      -5.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220821_0000103",
+  "properties": {
+    "lastupdate": "2022-08-21T14:55:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 27.2,
+    "auth": "EMSC",
+    "lat": 37.99,
+    "depth": 5.0,
+    "unid": "20220821_0000103",
+    "mag": 2.1,
+    "time": "2022-08-21T14:42:48.0Z",
+    "source_id": "1160994",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "WESTERN TURKEY"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.19,
+      36.17,
+      -12.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220821_0000101",
+  "properties": {
+    "lastupdate": "2022-08-21T14:49:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": -91.19,
+    "auth": "NEIC",
+    "lat": 36.17,
+    "depth": 12.0,
+    "unid": "20220821_0000101",
+    "mag": 3.4,
+    "time": "2022-08-21T14:12:45.2Z",
+    "source_id": "1160991",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "ARKANSAS"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -28,27 +80,53 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -100.93,
+      -100.92,
       32.84,
-      -3.0
+      -5.0
     ]
   },
   "type": "Feature",
   "id": "20220821_0000098",
   "properties": {
-    "lastupdate": "2022-08-21T13:53:00.0Z",
+    "lastupdate": "2022-08-21T14:38:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": -100.93,
+    "lon": -100.92,
     "auth": "NEIC",
     "lat": 32.84,
-    "depth": 3.0,
+    "depth": 5.0,
     "unid": "20220821_0000098",
     "mag": 3.0,
-    "time": "2022-08-21T13:45:22.1Z",
+    "time": "2022-08-21T13:45:22.2Z",
     "source_id": "1160988",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "WESTERN TEXAS"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.1,
+      35.62,
+      -8.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220821_0000100",
+  "properties": {
+    "lastupdate": "2022-08-21T14:17:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 28.1,
+    "auth": "DDA",
+    "lat": 35.62,
+    "depth": 8.0,
+    "unid": "20220821_0000100",
+    "mag": 2.0,
+    "time": "2022-08-21T13:40:26.4Z",
+    "source_id": "1160990",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "EASTERN MEDITERRANEAN SEA"
   }
 },{
   "geometry": {
@@ -106,27 +184,53 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -80.11,
-      -0.75,
-      -10.0
+      -80.02,
+      -0.88,
+      -58.0
     ]
   },
   "type": "Feature",
   "id": "20220821_0000095",
   "properties": {
-    "lastupdate": "2022-08-21T13:32:00.0Z",
-    "magtype": "m",
+    "lastupdate": "2022-08-21T14:38:00.0Z",
+    "magtype": "mb",
     "evtype": "ke",
-    "lon": -80.11,
+    "lon": -80.02,
     "auth": "EMSC",
-    "lat": -0.75,
-    "depth": 10.0,
+    "lat": -0.88,
+    "depth": 58.0,
     "unid": "20220821_0000095",
-    "mag": 4.8,
-    "time": "2022-08-21T13:18:34.6Z",
+    "mag": 4.6,
+    "time": "2022-08-21T13:18:39.2Z",
     "source_id": "1160984",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NEAR COAST OF ECUADOR"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      75.85,
+      16.76,
+      -5.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220821_0000102",
+  "properties": {
+    "lastupdate": "2022-08-21T14:25:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 75.85,
+    "auth": "NDI",
+    "lat": 16.76,
+    "depth": 5.0,
+    "unid": "20220821_0000102",
+    "mag": 3.3,
+    "time": "2022-08-21T12:56:52.0Z",
+    "source_id": "1160992",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "KARNATAKA, INDIA"
   }
 },{
   "geometry": {
@@ -140,7 +244,7 @@
   "type": "Feature",
   "id": "20220821_0000094",
   "properties": {
-    "lastupdate": "2022-08-21T13:25:00.0Z",
+    "lastupdate": "2022-08-21T14:55:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
     "lon": 117.29,
@@ -25893,109 +25997,5 @@
     "source_id": "1159578",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "OAXACA, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -97.3,
-      33.97,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220816_0000065",
-  "properties": {
-    "lastupdate": "2022-08-16T11:46:00.0Z",
-    "magtype": "mb",
-    "evtype": "ke",
-    "lon": -97.3,
-    "auth": "NEIC",
-    "lat": 33.97,
-    "depth": 5.0,
-    "unid": "20220816_0000065",
-    "mag": 2.4,
-    "time": "2022-08-16T09:29:34.4Z",
-    "source_id": "1159534",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OKLAHOMA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.77,
-      38.64,
-      -7.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220816_0000067",
-  "properties": {
-    "lastupdate": "2022-08-16T09:48:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 35.77,
-    "auth": "DDA",
-    "lat": 38.64,
-    "depth": 7.0,
-    "unid": "20220816_0000067",
-    "mag": 2.0,
-    "time": "2022-08-16T09:25:39.0Z",
-    "source_id": "1159536",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CENTRAL TURKEY"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -93.73,
-      15.96,
-      -85.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220816_0000093",
-  "properties": {
-    "lastupdate": "2022-08-16T13:05:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -93.73,
-    "auth": "UNM",
-    "lat": 15.96,
-    "depth": 85.0,
-    "unid": "20220816_0000093",
-    "mag": 3.6,
-    "time": "2022-08-16T09:24:29.0Z",
-    "source_id": "1159579",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CHIAPAS, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -122.08,
-      56.68,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220816_0000144",
-  "properties": {
-    "lastupdate": "2022-08-16T18:00:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -122.08,
-    "auth": "CN",
-    "lat": 56.68,
-    "depth": 5.0,
-    "unid": "20220816_0000144",
-    "mag": 3.1,
-    "time": "2022-08-16T09:04:49.0Z",
-    "source_id": "1159637",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "BRITISH COLUMBIA, CANADA"
   }
 }]}
