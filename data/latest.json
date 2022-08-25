@@ -1,28 +1,80 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1088080},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1088083},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      126.76,
-      7.22,
-      -17.0
+      -68.84,
+      -22.09,
+      -90.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220825_0000137",
+  "properties": {
+    "lastupdate": "2022-08-25T18:56:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -68.84,
+    "auth": "GUC",
+    "lat": -22.09,
+    "depth": 90.0,
+    "unid": "20220825_0000137",
+    "mag": 2.7,
+    "time": "2022-08-25T18:44:05.0Z",
+    "source_id": "1162195",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "ANTOFAGASTA, CHILE"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.96,
+      1.43,
+      -56.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220825_0000136",
+  "properties": {
+    "lastupdate": "2022-08-25T18:05:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 126.96,
+    "auth": "DJA",
+    "lat": 1.43,
+    "depth": 56.0,
+    "unid": "20220825_0000136",
+    "mag": 2.9,
+    "time": "2022-08-25T17:59:07.0Z",
+    "source_id": "1162193",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "MOLUCCA SEA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      124.92,
+      3.7,
+      -10.0
     ]
   },
   "type": "Feature",
   "id": "20220825_0000135",
   "properties": {
-    "lastupdate": "2022-08-25T18:00:00.0Z",
+    "lastupdate": "2022-08-25T18:05:00.0Z",
     "magtype": "m",
     "evtype": "ke",
-    "lon": 126.76,
-    "auth": "PIVS",
-    "lat": 7.22,
-    "depth": 17.0,
+    "lon": 124.92,
+    "auth": "DJA",
+    "lat": 3.7,
+    "depth": 10.0,
     "unid": "20220825_0000135",
-    "mag": 3.8,
-    "time": "2022-08-25T17:46:10.0Z",
+    "mag": 3.5,
+    "time": "2022-08-25T17:47:01.0Z",
     "source_id": "1162191",
     "source_catalog": "EMSC-RTS",
-    "flynn_region": "MINDANAO, PHILIPPINES"
+    "flynn_region": "CELEBES SEA"
   }
 },{
   "geometry": {
@@ -184,24 +236,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -115.74,
+      -115.73,
       32.62,
-      -4.0
+      -5.0
     ]
   },
   "type": "Feature",
   "id": "20220825_0000127",
   "properties": {
-    "lastupdate": "2022-08-25T16:54:00.0Z",
+    "lastupdate": "2022-08-25T18:08:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": -115.74,
+    "lon": -115.73,
     "auth": "NEIR",
     "lat": 32.62,
-    "depth": 4.0,
+    "depth": 5.0,
     "unid": "20220825_0000127",
     "mag": 2.1,
-    "time": "2022-08-25T16:52:40.6Z",
+    "time": "2022-08-25T16:52:40.5Z",
     "source_id": "1162178",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "BAJA CALIFORNIA, MEXICO"
@@ -418,23 +470,23 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -177.43,
-      -31.71,
+      -177.51,
+      -31.69,
       -30.0
     ]
   },
   "type": "Feature",
   "id": "20220825_0000116",
   "properties": {
-    "lastupdate": "2022-08-25T16:00:00.0Z",
+    "lastupdate": "2022-08-25T18:27:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": -177.43,
+    "lon": -177.51,
     "auth": "EMSC",
-    "lat": -31.71,
+    "lat": -31.69,
     "depth": 30.0,
     "unid": "20220825_0000116",
-    "mag": 5.1,
+    "mag": 4.9,
     "time": "2022-08-25T15:40:57.6Z",
     "source_id": "1162158",
     "source_catalog": "EMSC-RTS",
@@ -4521,6 +4573,32 @@
     "source_id": "1161931",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "MINDANAO, PHILIPPINES"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.09,
+      31.62,
+      -7.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220824_0000217",
+  "properties": {
+    "lastupdate": "2022-08-25T18:57:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -104.09,
+    "auth": "TX",
+    "lat": 31.62,
+    "depth": 7.0,
+    "unid": "20220824_0000217",
+    "mag": 2.1,
+    "time": "2022-08-24T18:56:14.3Z",
+    "source_id": "1162196",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "WESTERN TEXAS"
   }
 },{
   "geometry": {
@@ -25919,83 +25997,5 @@
     "source_id": "1160819",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "COQUIMBO, CHILE"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -87.92,
-      12.1,
-      -31.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220820_0000144",
-  "properties": {
-    "lastupdate": "2022-08-20T21:20:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -87.92,
-    "auth": "INET",
-    "lat": 12.1,
-    "depth": 31.0,
-    "unid": "20220820_0000144",
-    "mag": 2.7,
-    "time": "2022-08-20T21:15:15.0Z",
-    "source_id": "1160821",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NEAR COAST OF NICARAGUA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      120.63,
-      17.47,
-      -12.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220820_0000146",
-  "properties": {
-    "lastupdate": "2022-08-20T21:25:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 120.63,
-    "auth": "PIVS",
-    "lat": 17.47,
-    "depth": 12.0,
-    "unid": "20220820_0000146",
-    "mag": 3.0,
-    "time": "2022-08-20T21:10:41.0Z",
-    "source_id": "1160823",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "LUZON, PHILIPPINES"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      31.11,
-      35.79,
-      -40.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220820_0000142",
-  "properties": {
-    "lastupdate": "2022-08-21T09:30:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 31.11,
-    "auth": "EMSC",
-    "lat": 35.79,
-    "depth": 40.0,
-    "unid": "20220820_0000142",
-    "mag": 2.4,
-    "time": "2022-08-20T20:59:09.4Z",
-    "source_id": "1160818",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CYPRUS REGION"
   }
 }]}
