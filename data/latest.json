@@ -1,25 +1,25 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1090233},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1090234},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -72.24,
-      -32.66,
-      -27.0
+      -72.33,
+      -32.69,
+      -18.0
     ]
   },
   "type": "Feature",
   "id": "20220903_0000161",
   "properties": {
-    "lastupdate": "2022-09-03T21:53:00.0Z",
+    "lastupdate": "2022-09-03T22:05:00.0Z",
     "magtype": "m",
     "evtype": "ke",
-    "lon": -72.24,
+    "lon": -72.33,
     "auth": "GUC",
-    "lat": -32.66,
-    "depth": 27.0,
+    "lat": -32.69,
+    "depth": 18.0,
     "unid": "20220903_0000161",
-    "mag": 3.9,
-    "time": "2022-09-03T21:49:44.0Z",
+    "mag": 3.8,
+    "time": "2022-09-03T21:49:42.0Z",
     "source_id": "1165044",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "OFFSHORE VALPARAISO, CHILE"
@@ -75,6 +75,32 @@
     "source_id": "1165039",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "JAVA, INDONESIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.9,
+      36.77,
+      -14.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220903_0000162",
+  "properties": {
+    "lastupdate": "2022-09-03T22:34:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -3.9,
+    "auth": "MDD",
+    "lat": 36.77,
+    "depth": 14.0,
+    "unid": "20220903_0000162",
+    "mag": 1.5,
+    "time": "2022-09-03T21:05:19.9Z",
+    "source_id": "1165047",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "STRAIT OF GIBRALTAR"
   }
 },{
   "geometry": {
@@ -764,15 +790,15 @@
   "type": "Feature",
   "id": "20220903_0000128",
   "properties": {
-    "lastupdate": "2022-09-03T19:36:00.0Z",
-    "magtype": "ml",
+    "lastupdate": "2022-09-03T22:59:00.0Z",
+    "magtype": "mb",
     "evtype": "ke",
     "lon": 22.08,
     "auth": "EMSC",
     "lat": 35.92,
     "depth": 2.0,
     "unid": "20220903_0000128",
-    "mag": 4.0,
+    "mag": 4.4,
     "time": "2022-09-03T17:16:17.1Z",
     "source_id": "1164998",
     "source_catalog": "EMSC-RTS",
@@ -25971,31 +25997,5 @@
     "source_id": "1163618",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SICILY, ITALY"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -82.92,
-      7.91,
-      -3.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220830_0000126",
-  "properties": {
-    "lastupdate": "2022-08-30T15:25:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -82.92,
-    "auth": "UCR",
-    "lat": 7.91,
-    "depth": 3.0,
-    "unid": "20220830_0000126",
-    "mag": 3.2,
-    "time": "2022-08-30T11:29:30.0Z",
-    "source_id": "1163671",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SOUTH OF PANAMA"
   }
 }]}
