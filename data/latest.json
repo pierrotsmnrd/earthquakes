@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1090287},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1090289},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.91,
+      -1.71,
+      -5.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220904_0000039",
+  "properties": {
+    "lastupdate": "2022-09-04T11:40:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -77.91,
+    "auth": "QUI",
+    "lat": -1.71,
+    "depth": 5.0,
+    "unid": "20220904_0000039",
+    "mag": 3.5,
+    "time": "2022-09-04T11:36:59.0Z",
+    "source_id": "1165144",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "ECUADOR"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.92,
+      -25.98,
+      -41.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220904_0000038",
+  "properties": {
+    "lastupdate": "2022-09-04T11:40:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -70.92,
+    "auth": "GUC",
+    "lat": -25.98,
+    "depth": 41.0,
+    "unid": "20220904_0000038",
+    "mag": 3.4,
+    "time": "2022-09-04T11:13:09.0Z",
+    "source_id": "1165143",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "OFFSHORE ANTOFAGASTA, CHILE"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -140,7 +192,7 @@
   "type": "Feature",
   "id": "20220904_0000032",
   "properties": {
-    "lastupdate": "2022-09-04T09:57:00.0Z",
+    "lastupdate": "2022-09-04T11:09:00.0Z",
     "magtype": "m",
     "evtype": "ke",
     "lon": -69.31,
@@ -25945,57 +25997,5 @@
     "source_id": "1163801",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "OFFSHORE OAXACA, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      121.6,
-      -7.43,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220830_0000144",
-  "properties": {
-    "lastupdate": "2022-08-30T18:00:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 121.6,
-    "auth": "DJA",
-    "lat": -7.43,
-    "depth": 10.0,
-    "unid": "20220830_0000144",
-    "mag": 2.8,
-    "time": "2022-08-30T17:39:02.0Z",
-    "source_id": "1163701",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "FLORES SEA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      14.7,
-      37.71,
-      -12.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220830_0000140",
-  "properties": {
-    "lastupdate": "2022-08-30T17:49:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 14.7,
-    "auth": "INGV",
-    "lat": 37.71,
-    "depth": 12.0,
-    "unid": "20220830_0000140",
-    "mag": 2.1,
-    "time": "2022-08-30T17:30:45.1Z",
-    "source_id": "1163697",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SICILY, ITALY"
   }
 }]}
