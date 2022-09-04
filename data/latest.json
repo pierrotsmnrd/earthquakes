@@ -1,4 +1,30 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1090261},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1090262},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.92,
+      -20.83,
+      -114.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220904_0000013",
+  "properties": {
+    "lastupdate": "2022-09-04T04:00:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -68.92,
+    "auth": "GUC",
+    "lat": -20.83,
+    "depth": 114.0,
+    "unid": "20220904_0000013",
+    "mag": 2.8,
+    "time": "2022-09-04T03:48:56.0Z",
+    "source_id": "1165091",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "TARAPACA, CHILE"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -25971,31 +25997,5 @@
     "source_id": "1163666",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "STRAIT OF GIBRALTAR"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -87.69,
-      12.37,
-      -34.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220830_0000117",
-  "properties": {
-    "lastupdate": "2022-08-30T14:55:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -87.69,
-    "auth": "INET",
-    "lat": 12.37,
-    "depth": 34.0,
-    "unid": "20220830_0000117",
-    "mag": 2.6,
-    "time": "2022-08-30T14:48:02.0Z",
-    "source_id": "1163661",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NEAR COAST OF NICARAGUA"
   }
 }]}
