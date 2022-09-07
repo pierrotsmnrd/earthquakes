@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1091031},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1091034},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.41,
+      1.72,
+      -120.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220907_0000045",
+  "properties": {
+    "lastupdate": "2022-09-07T07:55:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 127.41,
+    "auth": "EMSC",
+    "lat": 1.72,
+    "depth": 120.0,
+    "unid": "20220907_0000045",
+    "mag": 4.5,
+    "time": "2022-09-07T07:35:57.7Z",
+    "source_id": "1166142",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "HALMAHERA, INDONESIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.37,
+      12.91,
+      -6.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220907_0000044",
+  "properties": {
+    "lastupdate": "2022-09-07T07:40:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -87.37,
+    "auth": "INET",
+    "lat": 12.91,
+    "depth": 6.0,
+    "unid": "20220907_0000044",
+    "mag": 2.5,
+    "time": "2022-09-07T07:31:39.0Z",
+    "source_id": "1166141",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NEAR COAST OF NICARAGUA"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -10,19 +62,45 @@
   "type": "Feature",
   "id": "20220907_0000043",
   "properties": {
-    "lastupdate": "2022-09-07T07:14:00.0Z",
-    "magtype": "md",
+    "lastupdate": "2022-09-07T07:16:00.0Z",
+    "magtype": "ml",
     "evtype": "ke",
     "lon": -155.43,
     "auth": "NEIR",
     "lat": 19.12,
     "depth": 29.0,
     "unid": "20220907_0000043",
-    "mag": 2.9,
+    "mag": 2.6,
     "time": "2022-09-07T07:11:00.6Z",
     "source_id": "1166139",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "ISLAND OF HAWAII, HAWAII"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.72,
+      -37.52,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220907_0000046",
+  "properties": {
+    "lastupdate": "2022-09-07T07:53:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 139.72,
+    "auth": "AUST",
+    "lat": -37.52,
+    "depth": 10.0,
+    "unid": "20220907_0000046",
+    "mag": 3.2,
+    "time": "2022-09-07T07:03:02.7Z",
+    "source_id": "1166143",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NEAR COAST OF SOUTH AUSTRALIA"
   }
 },{
   "geometry": {
@@ -25919,83 +25997,5 @@
     "source_id": "1164779",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "OFFSHORE OAXACA, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      16.53,
-      37.65,
-      -39.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220902_0000135",
-  "properties": {
-    "lastupdate": "2022-09-02T15:12:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 16.53,
-    "auth": "INGV",
-    "lat": 37.65,
-    "depth": 39.0,
-    "unid": "20220902_0000135",
-    "mag": 2.4,
-    "time": "2022-09-02T14:54:27.8Z",
-    "source_id": "1164671",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "IONIAN SEA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -100.67,
-      32.78,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220902_0000220",
-  "properties": {
-    "lastupdate": "2022-09-04T20:50:00.0Z",
-    "magtype": "mb",
-    "evtype": "ke",
-    "lon": -100.67,
-    "auth": "NEIC",
-    "lat": 32.78,
-    "depth": 5.0,
-    "unid": "20220902_0000220",
-    "mag": 2.8,
-    "time": "2022-09-02T14:52:09.3Z",
-    "source_id": "1164811",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "WESTERN TEXAS"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -74.01,
-      18.83,
-      -1.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220902_0000134",
-  "properties": {
-    "lastupdate": "2022-09-03T17:14:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -74.01,
-    "auth": "AYIT",
-    "lat": 18.83,
-    "depth": 1.0,
-    "unid": "20220902_0000134",
-    "mag": 3.4,
-    "time": "2022-09-02T14:49:01.1Z",
-    "source_id": "1164670",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "HAITI REGION"
   }
 }]}
