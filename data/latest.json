@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1091009},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1091012},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -80.54,
+      0.34,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220907_0000027",
+  "properties": {
+    "lastupdate": "2022-09-07T04:25:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -80.54,
+    "auth": "QUI",
+    "lat": 0.34,
+    "depth": 10.0,
+    "unid": "20220907_0000027",
+    "mag": 4.2,
+    "time": "2022-09-07T04:21:13.0Z",
+    "source_id": "1166111",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NEAR COAST OF ECUADOR"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.66,
+      17.56,
+      -7.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220907_0000026",
+  "properties": {
+    "lastupdate": "2022-09-07T04:15:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 120.66,
+    "auth": "PIVS",
+    "lat": 17.56,
+    "depth": 7.0,
+    "unid": "20220907_0000026",
+    "mag": 3.4,
+    "time": "2022-09-07T03:59:06.0Z",
+    "source_id": "1166108",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "LUZON, PHILIPPINES"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -28,6 +80,32 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      -25.72,
+      -59.58,
+      -2.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220907_0000025",
+  "properties": {
+    "lastupdate": "2022-09-07T04:14:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": -25.72,
+    "auth": "EMSC",
+    "lat": -59.58,
+    "depth": 2.0,
+    "unid": "20220907_0000025",
+    "mag": 4.9,
+    "time": "2022-09-07T03:39:54.4Z",
+    "source_id": "1166106",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SOUTH SANDWICH ISLANDS REGION"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       -72.3,
       -33.56,
       -44.0
@@ -36,7 +114,7 @@
   "type": "Feature",
   "id": "20220907_0000023",
   "properties": {
-    "lastupdate": "2022-09-07T03:47:00.0Z",
+    "lastupdate": "2022-09-07T03:55:00.0Z",
     "magtype": "m",
     "evtype": "ke",
     "lon": -72.3,
@@ -54,24 +132,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -118.03,
-      38.14,
+      -118.04,
+      38.13,
       -10.0
     ]
   },
   "type": "Feature",
   "id": "20220907_0000022",
   "properties": {
-    "lastupdate": "2022-09-07T03:36:00.0Z",
+    "lastupdate": "2022-09-07T03:55:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": -118.03,
+    "lon": -118.04,
     "auth": "NEIC",
-    "lat": 38.14,
+    "lat": 38.13,
     "depth": 10.0,
     "unid": "20220907_0000022",
     "mag": 2.7,
-    "time": "2022-09-07T03:21:19.7Z",
+    "time": "2022-09-07T03:21:19.3Z",
     "source_id": "1166101",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NEVADA"
@@ -1537,19 +1615,19 @@
     "type": "Point",
     "coordinates": [
       121.93,
-      0.38,
+      0.37,
       -183.0
     ]
   },
   "type": "Feature",
   "id": "20220906_0000173",
   "properties": {
-    "lastupdate": "2022-09-06T21:37:00.0Z",
+    "lastupdate": "2022-09-07T04:34:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
     "lon": 121.93,
     "auth": "EMSC",
-    "lat": 0.38,
+    "lat": 0.37,
     "depth": 183.0,
     "unid": "20220906_0000173",
     "mag": 4.5,
@@ -1726,7 +1804,7 @@
   "type": "Feature",
   "id": "20220906_0000172",
   "properties": {
-    "lastupdate": "2022-09-06T20:28:00.0Z",
+    "lastupdate": "2022-09-07T04:03:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
     "lon": 102.12,
@@ -25919,83 +25997,5 @@
     "source_id": "1164634",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "STRAIT OF GIBRALTAR"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.32,
-      47.68,
-      0.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220902_0000102",
-  "properties": {
-    "lastupdate": "2022-09-02T12:31:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 8.32,
-    "auth": "ZUR",
-    "lat": 47.68,
-    "depth": 0.0,
-    "unid": "20220902_0000102",
-    "mag": 1.1,
-    "time": "2022-09-02T12:27:13.1Z",
-    "source_id": "1164627",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "GERMANY"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      121.58,
-      -4.02,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220902_0000104",
-  "properties": {
-    "lastupdate": "2022-09-02T12:35:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 121.58,
-    "auth": "DJA",
-    "lat": -4.02,
-    "depth": 10.0,
-    "unid": "20220902_0000104",
-    "mag": 3.1,
-    "time": "2022-09-02T12:27:04.0Z",
-    "source_id": "1164629",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SULAWESI, INDONESIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -71.69,
-      -30.84,
-      -27.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220902_0000103",
-  "properties": {
-    "lastupdate": "2022-09-02T12:32:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -71.69,
-    "auth": "GUC",
-    "lat": -30.84,
-    "depth": 27.0,
-    "unid": "20220902_0000103",
-    "mag": 2.6,
-    "time": "2022-09-02T12:19:12.0Z",
-    "source_id": "1164628",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "COQUIMBO, CHILE"
   }
 }]}
