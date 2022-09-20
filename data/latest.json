@@ -1,4 +1,82 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1094695},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1094700},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.61,
+      33.18,
+      -2.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220920_0000208",
+  "properties": {
+    "lastupdate": "2022-09-20T22:45:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -115.61,
+    "auth": "NEIR",
+    "lat": 33.18,
+    "depth": 2.0,
+    "unid": "20220920_0000208",
+    "mag": 2.3,
+    "time": "2022-09-20T22:41:41.3Z",
+    "source_id": "1170944",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SOUTHERN CALIFORNIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      98.57,
+      -1.16,
+      -8.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220920_0000207",
+  "properties": {
+    "lastupdate": "2022-09-20T22:39:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 98.57,
+    "auth": "EMSC",
+    "lat": -1.16,
+    "depth": 8.0,
+    "unid": "20220920_0000207",
+    "mag": 4.9,
+    "time": "2022-09-20T22:25:01.2Z",
+    "source_id": "1170941",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "KEP. MENTAWAI REGION, INDONESIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      157.78,
+      51.0,
+      -75.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220920_0000206",
+  "properties": {
+    "lastupdate": "2022-09-20T22:17:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": 157.78,
+    "auth": "NEIC",
+    "lat": 51.0,
+    "depth": 75.0,
+    "unid": "20220920_0000206",
+    "mag": 4.5,
+    "time": "2022-09-20T21:44:38.3Z",
+    "source_id": "1170939",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NEAR EAST COAST OF KAMCHATKA"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -264,22 +342,22 @@
     "coordinates": [
       -115.61,
       33.18,
-      -1.0
+      0.0
     ]
   },
   "type": "Feature",
   "id": "20220920_0000189",
   "properties": {
-    "lastupdate": "2022-09-20T20:13:00.0Z",
+    "lastupdate": "2022-09-20T22:51:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
     "lon": -115.61,
     "auth": "NEIR",
     "lat": 33.18,
-    "depth": 1.0,
+    "depth": 0.0,
     "unid": "20220920_0000189",
-    "mag": 2.0,
-    "time": "2022-09-20T20:09:46.4Z",
+    "mag": 2.1,
+    "time": "2022-09-20T20:09:46.1Z",
     "source_id": "1170912",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHERN CALIFORNIA"
@@ -4963,6 +5041,32 @@
     "source_id": "1170645",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "TAIWAN"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -148.65,
+      68.61,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220920_0000209",
+  "properties": {
+    "lastupdate": "2022-09-20T22:51:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -148.65,
+    "auth": "NEIC",
+    "lat": 68.61,
+    "depth": 10.0,
+    "unid": "20220920_0000209",
+    "mag": 2.5,
+    "time": "2022-09-20T01:21:52.7Z",
+    "source_id": "1170946",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NORTHERN ALASKA"
   }
 },{
   "geometry": {
@@ -16070,24 +16174,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -81.82,
-      8.67,
-      -5.0
+      -81.85,
+      8.7,
+      -1.0
     ]
   },
   "type": "Feature",
   "id": "20220918_0000056",
   "properties": {
-    "lastupdate": "2022-09-18T15:55:00.0Z",
+    "lastupdate": "2022-09-20T23:01:00.0Z",
     "magtype": "m",
     "evtype": "ke",
-    "lon": -81.82,
-    "auth": "UCR",
-    "lat": 8.67,
-    "depth": 5.0,
+    "lon": -81.85,
+    "auth": "IGC",
+    "lat": 8.7,
+    "depth": 1.0,
     "unid": "20220918_0000056",
-    "mag": 3.2,
-    "time": "2022-09-18T05:55:30.0Z",
+    "mag": 3.4,
+    "time": "2022-09-18T05:55:17.0Z",
     "source_id": "1169991",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "PANAMA"
@@ -25893,109 +25997,5 @@
     "source_id": "1169476",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "TURKEY-IRAQ BORDER REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -176.1,
-      -22.03,
-      -182.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220916_0000155",
-  "properties": {
-    "lastupdate": "2022-09-17T19:45:00.0Z",
-    "magtype": "mb",
-    "evtype": "ke",
-    "lon": -176.1,
-    "auth": "EMSC",
-    "lat": -22.03,
-    "depth": 182.0,
-    "unid": "20220916_0000155",
-    "mag": 4.6,
-    "time": "2022-09-16T17:22:30.3Z",
-    "source_id": "1169496",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SOUTH OF FIJI ISLANDS"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -100.63,
-      17.35,
-      -20.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220916_0000204",
-  "properties": {
-    "lastupdate": "2022-09-17T01:05:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -100.63,
-    "auth": "UNM",
-    "lat": 17.35,
-    "depth": 20.0,
-    "unid": "20220916_0000204",
-    "mag": 3.4,
-    "time": "2022-09-16T17:20:13.0Z",
-    "source_id": "1169576",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "GUERRERO, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -67.06,
-      17.95,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220916_0000142",
-  "properties": {
-    "lastupdate": "2022-09-16T17:36:00.0Z",
-    "magtype": "md",
-    "evtype": "ke",
-    "lon": -67.06,
-    "auth": "NEIR",
-    "lat": 17.95,
-    "depth": 5.0,
-    "unid": "20220916_0000142",
-    "mag": 2.2,
-    "time": "2022-09-16T17:18:30.1Z",
-    "source_id": "1169474",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "PUERTO RICO REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.64,
-      35.48,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220916_0000143",
-  "properties": {
-    "lastupdate": "2022-09-16T17:37:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -3.64,
-    "auth": "MDD",
-    "lat": 35.48,
-    "depth": 5.0,
-    "unid": "20220916_0000143",
-    "mag": 2.1,
-    "time": "2022-09-16T17:09:03.4Z",
-    "source_id": "1169475",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "STRAIT OF GIBRALTAR"
   }
 }]}
