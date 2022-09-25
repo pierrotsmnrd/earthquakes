@@ -1,25 +1,103 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1095705},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1095708},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -87.69,
-      12.07,
-      -30.0
+      -103.15,
+      18.1,
+      -5.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220925_0000020",
+  "properties": {
+    "lastupdate": "2022-09-25T04:56:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -103.15,
+    "auth": "UNM",
+    "lat": 18.1,
+    "depth": 5.0,
+    "unid": "20220925_0000020",
+    "mag": 4.0,
+    "time": "2022-09-25T04:45:12.0Z",
+    "source_id": "1172244",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "OFFSHORE MICHOACAN, MEXICO"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.78,
+      36.23,
+      -2.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220925_0000022",
+  "properties": {
+    "lastupdate": "2022-09-25T05:12:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -7.78,
+    "auth": "MDD",
+    "lat": 36.23,
+    "depth": 2.0,
+    "unid": "20220925_0000022",
+    "mag": 2.3,
+    "time": "2022-09-25T04:39:23.5Z",
+    "source_id": "1172246",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "STRAIT OF GIBRALTAR"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -5.18,
+      36.64,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220925_0000021",
+  "properties": {
+    "lastupdate": "2022-09-25T05:07:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -5.18,
+    "auth": "MDD",
+    "lat": 36.64,
+    "depth": 10.0,
+    "unid": "20220925_0000021",
+    "mag": 1.5,
+    "time": "2022-09-25T04:38:20.4Z",
+    "source_id": "1172245",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "STRAIT OF GIBRALTAR"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.42,
+      12.29,
+      -60.0
     ]
   },
   "type": "Feature",
   "id": "20220925_0000019",
   "properties": {
-    "lastupdate": "2022-09-25T04:26:00.0Z",
-    "magtype": "m",
+    "lastupdate": "2022-09-25T04:54:00.0Z",
+    "magtype": "mb",
     "evtype": "ke",
-    "lon": -87.69,
-    "auth": "INET",
-    "lat": 12.07,
-    "depth": 30.0,
+    "lon": -87.42,
+    "auth": "EMSC",
+    "lat": 12.29,
+    "depth": 60.0,
     "unid": "20220925_0000019",
-    "mag": 4.3,
-    "time": "2022-09-25T04:19:18.0Z",
+    "mag": 4.5,
+    "time": "2022-09-25T04:19:21.7Z",
     "source_id": "1172243",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NEAR COAST OF NICARAGUA"
@@ -296,7 +374,7 @@
   "type": "Feature",
   "id": "20220925_0000009",
   "properties": {
-    "lastupdate": "2022-09-25T02:42:00.0Z",
+    "lastupdate": "2022-09-25T05:13:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
     "lon": 25.14,
@@ -305,7 +383,7 @@
     "depth": 5.0,
     "unid": "20220925_0000009",
     "mag": 2.7,
-    "time": "2022-09-25T02:04:08.1Z",
+    "time": "2022-09-25T02:04:08.2Z",
     "source_id": "1172230",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "AEGEAN SEA"
@@ -25919,83 +25997,5 @@
     "source_id": "1170870",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "KERMADEC ISLANDS REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -155.44,
-      19.23,
-      -38.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220920_0000157",
-  "properties": {
-    "lastupdate": "2022-09-20T17:33:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -155.44,
-    "auth": "NEIC",
-    "lat": 19.23,
-    "depth": 38.0,
-    "unid": "20220920_0000157",
-    "mag": 2.9,
-    "time": "2022-09-20T17:09:35.6Z",
-    "source_id": "1170867",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "ISLAND OF HAWAII, HAWAII"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      21.19,
-      37.26,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220920_0000155",
-  "properties": {
-    "lastupdate": "2022-09-21T06:37:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 21.19,
-    "auth": "EMSC",
-    "lat": 37.26,
-    "depth": 10.0,
-    "unid": "20220920_0000155",
-    "mag": 3.3,
-    "time": "2022-09-20T16:42:42.2Z",
-    "source_id": "1170861",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SOUTHERN GREECE"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -123.19,
-      39.8,
-      -6.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220920_0000152",
-  "properties": {
-    "lastupdate": "2022-09-20T16:57:00.0Z",
-    "magtype": "md",
-    "evtype": "ke",
-    "lon": -123.19,
-    "auth": "NC",
-    "lat": 39.8,
-    "depth": 6.0,
-    "unid": "20220920_0000152",
-    "mag": 2.1,
-    "time": "2022-09-20T16:42:13.8Z",
-    "source_id": "1170860",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NORTHERN CALIFORNIA"
   }
 }]}
