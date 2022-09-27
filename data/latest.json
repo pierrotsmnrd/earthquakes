@@ -1,25 +1,207 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1096368},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1096378},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      42.88,
-      40.9,
+      167.5,
+      -46.51,
+      -22.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220927_0000217",
+  "properties": {
+    "lastupdate": "2022-09-27T20:55:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 167.5,
+    "auth": "GNS",
+    "lat": -46.51,
+    "depth": 22.0,
+    "unid": "20220927_0000217",
+    "mag": 3.0,
+    "time": "2022-09-27T20:51:48.4Z",
+    "source_id": "1173138",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "OFF W. COAST OF S. ISLAND, N.Z."
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      114.9,
+      -9.93,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220927_0000215",
+  "properties": {
+    "lastupdate": "2022-09-27T20:45:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 114.9,
+    "auth": "DJA",
+    "lat": -9.93,
+    "depth": 10.0,
+    "unid": "20220927_0000215",
+    "mag": 4.2,
+    "time": "2022-09-27T20:37:43.0Z",
+    "source_id": "1173135",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SOUTH OF BALI, INDONESIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.71,
+      -30.09,
+      -86.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220927_0000214",
+  "properties": {
+    "lastupdate": "2022-09-27T20:30:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -68.71,
+    "auth": "NSNA",
+    "lat": -30.09,
+    "depth": 86.0,
+    "unid": "20220927_0000214",
+    "mag": 3.0,
+    "time": "2022-09-27T20:24:24.0Z",
+    "source_id": "1173133",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SAN JUAN, ARGENTINA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.63,
+      38.75,
+      -160.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220927_0000213",
+  "properties": {
+    "lastupdate": "2022-09-27T20:28:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 15.63,
+    "auth": "INGV",
+    "lat": 38.75,
+    "depth": 160.0,
+    "unid": "20220927_0000213",
+    "mag": 2.7,
+    "time": "2022-09-27T20:18:12.0Z",
+    "source_id": "1173131",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SICILY, ITALY"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      109.77,
+      -9.14,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220927_0000212",
+  "properties": {
+    "lastupdate": "2022-09-27T20:15:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 109.77,
+    "auth": "DJA",
+    "lat": -9.14,
+    "depth": 10.0,
+    "unid": "20220927_0000212",
+    "mag": 3.5,
+    "time": "2022-09-27T20:06:25.0Z",
+    "source_id": "1173128",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SOUTH OF JAVA, INDONESIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -35.18,
+      53.95,
+      -2.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220927_0000211",
+  "properties": {
+    "lastupdate": "2022-09-27T20:36:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": -35.18,
+    "auth": "EMSC",
+    "lat": 53.95,
+    "depth": 2.0,
+    "unid": "20220927_0000211",
+    "mag": 4.7,
+    "time": "2022-09-27T19:53:45.3Z",
+    "source_id": "1173126",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "REYKJANES RIDGE"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -35.08,
+      54.16,
+      -2.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20220927_0000216",
+  "properties": {
+    "lastupdate": "2022-09-27T20:56:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": -35.08,
+    "auth": "EMSC",
+    "lat": 54.16,
+    "depth": 2.0,
+    "unid": "20220927_0000216",
+    "mag": 4.6,
+    "time": "2022-09-27T19:39:27.0Z",
+    "source_id": "1173130",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "REYKJANES RIDGE"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      42.81,
+      40.81,
       -2.0
     ]
   },
   "type": "Feature",
   "id": "20220927_0000210",
   "properties": {
-    "lastupdate": "2022-09-27T19:58:00.0Z",
+    "lastupdate": "2022-09-27T20:08:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": 42.88,
+    "lon": 42.81,
     "auth": "EMSC",
-    "lat": 40.9,
+    "lat": 40.81,
     "depth": 2.0,
     "unid": "20220927_0000210",
     "mag": 3.5,
-    "time": "2022-09-27T19:34:26.4Z",
+    "time": "2022-09-27T19:34:26.9Z",
     "source_id": "1173122",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "EASTERN TURKEY"
@@ -210,24 +392,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -35.19,
-      53.87,
-      -33.0
+      -35.27,
+      53.82,
+      -5.0
     ]
   },
   "type": "Feature",
   "id": "20220927_0000201",
   "properties": {
-    "lastupdate": "2022-09-27T19:57:00.0Z",
+    "lastupdate": "2022-09-27T20:39:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": -35.19,
+    "lon": -35.27,
     "auth": "EMSC",
-    "lat": 53.87,
-    "depth": 33.0,
+    "lat": 53.82,
+    "depth": 5.0,
     "unid": "20220927_0000201",
-    "mag": 4.6,
-    "time": "2022-09-27T19:04:53.3Z",
+    "mag": 4.7,
+    "time": "2022-09-27T19:04:48.4Z",
     "source_id": "1173109",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "REYKJANES RIDGE"
@@ -1225,23 +1407,23 @@
     "type": "Point",
     "coordinates": [
       -104.3,
-      31.65,
-      -5.0
+      31.66,
+      -7.0
     ]
   },
   "type": "Feature",
   "id": "20220927_0000173",
   "properties": {
-    "lastupdate": "2022-09-27T16:30:00.0Z",
+    "lastupdate": "2022-09-27T20:48:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
     "lon": -104.3,
-    "auth": "NEIC",
-    "lat": 31.65,
-    "depth": 5.0,
+    "auth": "TX",
+    "lat": 31.66,
+    "depth": 7.0,
     "unid": "20220927_0000173",
     "mag": 2.5,
-    "time": "2022-09-27T15:23:37.3Z",
+    "time": "2022-09-27T15:23:37.5Z",
     "source_id": "1173060",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "WESTERN TEXAS"
@@ -25815,187 +25997,5 @@
     "source_id": "1171813",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "OAXACA, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      21.45,
-      36.27,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220923_0000088",
-  "properties": {
-    "lastupdate": "2022-09-23T11:11:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 21.45,
-    "auth": "THE",
-    "lat": 36.27,
-    "depth": 5.0,
-    "unid": "20220923_0000088",
-    "mag": 2.6,
-    "time": "2022-09-23T07:30:12.0Z",
-    "source_id": "1171757",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SOUTHERN GREECE"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -88.03,
-      12.55,
-      -32.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220923_0000058",
-  "properties": {
-    "lastupdate": "2022-09-23T07:30:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -88.03,
-    "auth": "INET",
-    "lat": 12.55,
-    "depth": 32.0,
-    "unid": "20220923_0000058",
-    "mag": 3.8,
-    "time": "2022-09-23T07:28:10.0Z",
-    "source_id": "1171756",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NEAR COAST OF NICARAGUA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.15,
-      47.21,
-      -19.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220923_0000054",
-  "properties": {
-    "lastupdate": "2022-09-23T07:24:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 7.15,
-    "auth": "ZUR",
-    "lat": 47.21,
-    "depth": 19.0,
-    "unid": "20220923_0000054",
-    "mag": 1.8,
-    "time": "2022-09-23T07:20:03.3Z",
-    "source_id": "1171752",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SWITZERLAND"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      127.62,
-      -7.74,
-      -167.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220923_0000055",
-  "properties": {
-    "lastupdate": "2022-09-23T08:09:00.0Z",
-    "magtype": "mb",
-    "evtype": "ke",
-    "lon": 127.62,
-    "auth": "EMSC",
-    "lat": -7.74,
-    "depth": 167.0,
-    "unid": "20220923_0000055",
-    "mag": 4.3,
-    "time": "2022-09-23T07:19:15.5Z",
-    "source_id": "1171753",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "KEPULAUAN BARAT DAYA, INDONESIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      73.2,
-      39.51,
-      -1.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220923_0000219",
-  "properties": {
-    "lastupdate": "2022-09-26T04:57:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 73.2,
-    "auth": "KIS",
-    "lat": 39.51,
-    "depth": 1.0,
-    "unid": "20220923_0000219",
-    "mag": 3.2,
-    "time": "2022-09-23T07:19:04.9Z",
-    "source_id": "1172554",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "KYRGYZSTAN"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -156.43,
-      19.14,
-      -15.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220923_0000052",
-  "properties": {
-    "lastupdate": "2022-09-23T07:30:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -156.43,
-    "auth": "NEIC",
-    "lat": 19.14,
-    "depth": 15.0,
-    "unid": "20220923_0000052",
-    "mag": 3.1,
-    "time": "2022-09-23T07:17:06.8Z",
-    "source_id": "1171750",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "HAWAII REGION, HAWAII"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      20.39,
-      38.63,
-      -1.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20220923_0000080",
-  "properties": {
-    "lastupdate": "2022-09-23T10:07:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 20.39,
-    "auth": "THE",
-    "lat": 38.63,
-    "depth": 1.0,
-    "unid": "20220923_0000080",
-    "mag": 2.6,
-    "time": "2022-09-23T07:09:38.5Z",
-    "source_id": "1171747",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "GREECE"
   }
 }]}
