@@ -1,25 +1,51 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1098943},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1098946},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      126.9,
+      -71.13,
+      -34.98,
+      -74.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221006_0000140",
+  "properties": {
+    "lastupdate": "2022-10-06T18:02:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -71.13,
+    "auth": "GUC",
+    "lat": -34.98,
+    "depth": 74.0,
+    "unid": "20221006_0000140",
+    "mag": 3.3,
+    "time": "2022-10-06T17:57:51.0Z",
+    "source_id": "1176456",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "MAULE, CHILE"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.92,
       27.71,
-      -164.0
+      -168.0
     ]
   },
   "type": "Feature",
   "id": "20221006_0000138",
   "properties": {
-    "lastupdate": "2022-10-06T17:01:00.0Z",
+    "lastupdate": "2022-10-06T17:22:00.0Z",
     "magtype": "mw",
     "evtype": "ke",
-    "lon": 126.9,
+    "lon": 126.92,
     "auth": "EMSC",
     "lat": 27.71,
-    "depth": 164.0,
+    "depth": 168.0,
     "unid": "20221006_0000138",
-    "mag": 5.3,
-    "time": "2022-10-06T16:36:08.7Z",
+    "mag": 5.4,
+    "time": "2022-10-06T16:36:09.1Z",
     "source_id": "1176441",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NORTHWEST OF RYUKYU ISLANDS"
@@ -127,6 +153,32 @@
     "source_id": "1176434",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "BAJA CALIFORNIA, MEXICO"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      45.32,
+      39.41,
+      -5.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221006_0000139",
+  "properties": {
+    "lastupdate": "2022-10-06T18:02:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 45.32,
+    "auth": "EMSC",
+    "lat": 39.41,
+    "depth": 5.0,
+    "unid": "20221006_0000139",
+    "mag": 2.4,
+    "time": "2022-10-06T15:48:09.0Z",
+    "source_id": "1176455",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NAXCIVAN, AZERBAIJAN"
   }
 },{
   "geometry": {
@@ -25945,57 +25997,5 @@
     "source_id": "1174992",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "GULF OF CALIFORNIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -8.01,
-      42.09,
-      -4.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221002_0000253",
-  "properties": {
-    "lastupdate": "2022-10-02T19:53:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -8.01,
-    "auth": "MDD",
-    "lat": 42.09,
-    "depth": 4.0,
-    "unid": "20221002_0000253",
-    "mag": 1.8,
-    "time": "2022-10-02T19:44:28.2Z",
-    "source_id": "1174981",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SPAIN"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -4.03,
-      37.15,
-      -9.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221002_0000251",
-  "properties": {
-    "lastupdate": "2022-10-02T19:40:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -4.03,
-    "auth": "MDD",
-    "lat": 37.15,
-    "depth": 9.0,
-    "unid": "20221002_0000251",
-    "mag": 1.5,
-    "time": "2022-10-02T19:28:46.9Z",
-    "source_id": "1174979",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SPAIN"
   }
 }]}
