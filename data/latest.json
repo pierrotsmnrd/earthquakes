@@ -1,4 +1,30 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1099534},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1099536},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -177.75,
+      -19.71,
+      -429.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221009_0000057",
+  "properties": {
+    "lastupdate": "2022-10-09T10:00:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": -177.75,
+    "auth": "NEIC",
+    "lat": -19.71,
+    "depth": 429.0,
+    "unid": "20221009_0000057",
+    "mag": 4.5,
+    "time": "2022-10-09T09:35:27.1Z",
+    "source_id": "1177218",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "FIJI REGION"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -28,24 +54,50 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      120.56,
-      14.04,
-      -202.0
+      12.43,
+      43.58,
+      -9.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221009_0000056",
+  "properties": {
+    "lastupdate": "2022-10-09T09:04:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 12.43,
+    "auth": "INGV",
+    "lat": 43.58,
+    "depth": 9.0,
+    "unid": "20221009_0000056",
+    "mag": 2.0,
+    "time": "2022-10-09T08:56:21.4Z",
+    "source_id": "1177215",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CENTRAL ITALY"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      120.78,
+      14.0,
+      -223.0
     ]
   },
   "type": "Feature",
   "id": "20221009_0000054",
   "properties": {
-    "lastupdate": "2022-10-09T09:00:00.0Z",
-    "magtype": "m",
+    "lastupdate": "2022-10-09T09:24:00.0Z",
+    "magtype": "mb",
     "evtype": "ke",
-    "lon": 120.56,
-    "auth": "PIVS",
-    "lat": 14.04,
-    "depth": 202.0,
+    "lon": 120.78,
+    "auth": "EMSC",
+    "lat": 14.0,
+    "depth": 223.0,
     "unid": "20221009_0000054",
-    "mag": 3.4,
-    "time": "2022-10-09T08:44:04.0Z",
+    "mag": 4.4,
+    "time": "2022-10-09T08:44:03.8Z",
     "source_id": "1177210",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "LUZON, PHILIPPINES"
@@ -25945,57 +25997,5 @@
     "source_id": "1175819",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "STRAIT OF GIBRALTAR"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -98.26,
-      16.45,
-      -7.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221004_0000252",
-  "properties": {
-    "lastupdate": "2022-10-05T01:05:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -98.26,
-    "auth": "UNM",
-    "lat": 16.45,
-    "depth": 7.0,
-    "unid": "20221004_0000252",
-    "mag": 3.1,
-    "time": "2022-10-04T20:47:55.0Z",
-    "source_id": "1175879",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OAXACA, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -0.53,
-      39.81,
-      -7.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221004_0000214",
-  "properties": {
-    "lastupdate": "2022-10-04T21:37:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -0.53,
-    "auth": "MDD",
-    "lat": 39.81,
-    "depth": 7.0,
-    "unid": "20221004_0000214",
-    "mag": 1.9,
-    "time": "2022-10-04T20:40:37.8Z",
-    "source_id": "1175811",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SPAIN"
   }
 }]}
