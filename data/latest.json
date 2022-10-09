@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1099598},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1099602},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.16,
+      35.9,
+      -8.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221009_0000119",
+  "properties": {
+    "lastupdate": "2022-10-09T17:52:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -84.16,
+    "auth": "SE",
+    "lat": 35.9,
+    "depth": 8.0,
+    "unid": "20221009_0000119",
+    "mag": 2.5,
+    "time": "2022-10-09T17:31:09.7Z",
+    "source_id": "1177298",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "EASTERN TENNESSEE"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.36,
+      31.61,
+      -5.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221009_0000118",
+  "properties": {
+    "lastupdate": "2022-10-09T17:49:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -104.36,
+    "auth": "NEIC",
+    "lat": 31.61,
+    "depth": 5.0,
+    "unid": "20221009_0000118",
+    "mag": 2.6,
+    "time": "2022-10-09T17:21:35.7Z",
+    "source_id": "1177296",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "WESTERN TEXAS"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -23,6 +75,32 @@
     "source_id": "1177293",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHERN CALIFORNIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      45.24,
+      38.46,
+      -2.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221009_0000117",
+  "properties": {
+    "lastupdate": "2022-10-09T17:28:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 45.24,
+    "auth": "EMSC",
+    "lat": 38.46,
+    "depth": 2.0,
+    "unid": "20221009_0000117",
+    "mag": 2.8,
+    "time": "2022-10-09T16:44:59.8Z",
+    "source_id": "1177295",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NORTHWESTERN IRAN"
   }
 },{
   "geometry": {
@@ -25919,83 +25997,5 @@
     "source_id": "1175889",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "ISLAND OF HAWAII, HAWAII"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      138.21,
-      -32.47,
-      -4.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221005_0000215",
-  "properties": {
-    "lastupdate": "2022-10-05T20:29:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 138.21,
-    "auth": "AUST",
-    "lat": -32.47,
-    "depth": 4.0,
-    "unid": "20221005_0000215",
-    "mag": 2.1,
-    "time": "2022-10-05T01:09:17.0Z",
-    "source_id": "1176150",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NEAR COAST OF SOUTH AUSTRALIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      44.95,
-      38.49,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221005_0000027",
-  "properties": {
-    "lastupdate": "2022-10-05T01:59:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 44.95,
-    "auth": "ISK",
-    "lat": 38.49,
-    "depth": 5.0,
-    "unid": "20221005_0000027",
-    "mag": 2.9,
-    "time": "2022-10-05T01:08:51.6Z",
-    "source_id": "1175900",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "TURKEY-IRAN BORDER REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -149.37,
-      62.86,
-      -74.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221005_0000024",
-  "properties": {
-    "lastupdate": "2022-10-05T01:49:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -149.37,
-    "auth": "NEIC",
-    "lat": 62.86,
-    "depth": 74.0,
-    "unid": "20221005_0000024",
-    "mag": 2.6,
-    "time": "2022-10-05T01:08:33.6Z",
-    "source_id": "1175895",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CENTRAL ALASKA"
   }
 }]}
