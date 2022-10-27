@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1103850},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1103852},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -155.39,
+      19.25,
+      -30.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221027_0000044",
+  "properties": {
+    "lastupdate": "2022-10-27T06:01:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -155.39,
+    "auth": "NEIR",
+    "lat": 19.25,
+    "depth": 30.0,
+    "unid": "20221027_0000044",
+    "mag": 2.8,
+    "time": "2022-10-27T05:57:40.8Z",
+    "source_id": "1182947",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "ISLAND OF HAWAII, HAWAII"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.71,
+      -20.96,
+      -56.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221027_0000042",
+  "properties": {
+    "lastupdate": "2022-10-27T05:25:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -69.71,
+    "auth": "GUC",
+    "lat": -20.96,
+    "depth": 56.0,
+    "unid": "20221027_0000042",
+    "mag": 2.8,
+    "time": "2022-10-27T05:11:52.0Z",
+    "source_id": "1182943",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "TARAPACA, CHILE"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -49,6 +101,32 @@
     "source_id": "1182937",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "AEGEAN SEA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -65.36,
+      19.01,
+      -26.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221027_0000043",
+  "properties": {
+    "lastupdate": "2022-10-27T05:43:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -65.36,
+    "auth": "NEIR",
+    "lat": 19.01,
+    "depth": 26.0,
+    "unid": "20221027_0000043",
+    "mag": 3.3,
+    "time": "2022-10-27T04:56:47.2Z",
+    "source_id": "1182944",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "PUERTO RICO REGION"
   }
 },{
   "geometry": {
@@ -4066,7 +4144,7 @@
   "type": "Feature",
   "id": "20221026_0000057",
   "properties": {
-    "lastupdate": "2022-10-27T05:03:00.0Z",
+    "lastupdate": "2022-10-27T05:19:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
     "lon": -116.75,
@@ -4074,8 +4152,8 @@
     "lat": 33.65,
     "depth": 10.0,
     "unid": "20221026_0000057",
-    "mag": 2.5,
-    "time": "2022-10-26T08:15:08.0Z",
+    "mag": 2.7,
+    "time": "2022-10-26T08:14:34.2Z",
     "source_id": "1182710",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHERN CALIFORNIA"
@@ -25919,83 +25997,5 @@
     "source_id": "1181527",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "THE NETHERLANDS"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -150.32,
-      61.02,
-      -52.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221022_0000075",
-  "properties": {
-    "lastupdate": "2022-10-22T10:32:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -150.32,
-    "auth": "NEIC",
-    "lat": 61.02,
-    "depth": 52.0,
-    "unid": "20221022_0000075",
-    "mag": 2.5,
-    "time": "2022-10-22T10:13:12.8Z",
-    "source_id": "1181526",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SOUTHERN ALASKA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -68.83,
-      -20.98,
-      -117.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221022_0000074",
-  "properties": {
-    "lastupdate": "2022-10-22T10:15:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -68.83,
-    "auth": "GUC",
-    "lat": -20.98,
-    "depth": 117.0,
-    "unid": "20221022_0000074",
-    "mag": 2.9,
-    "time": "2022-10-22T10:04:47.0Z",
-    "source_id": "1181524",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "ANTOFAGASTA, CHILE"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -82.33,
-      7.52,
-      -22.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221022_0000073",
-  "properties": {
-    "lastupdate": "2022-10-22T10:06:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -82.33,
-    "auth": "IGC",
-    "lat": 7.52,
-    "depth": 22.0,
-    "unid": "20221022_0000073",
-    "mag": 3.3,
-    "time": "2022-10-22T10:03:16.0Z",
-    "source_id": "1181523",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SOUTH OF PANAMA"
   }
 }]}
