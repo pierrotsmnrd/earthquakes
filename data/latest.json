@@ -1,25 +1,103 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1104539},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1104543},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      20.08,
-      37.49,
-      -2.0
+      163.39,
+      -11.42,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221030_0000050",
+  "properties": {
+    "lastupdate": "2022-10-30T09:44:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": 163.39,
+    "auth": "EMSC",
+    "lat": -11.42,
+    "depth": 10.0,
+    "unid": "20221030_0000050",
+    "mag": 4.8,
+    "time": "2022-10-30T09:24:04.8Z",
+    "source_id": "1183912",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SOLOMON ISLANDS"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -16.33,
+      65.21,
+      -4.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221030_0000051",
+  "properties": {
+    "lastupdate": "2022-10-30T09:45:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -16.33,
+    "auth": "REY",
+    "lat": 65.21,
+    "depth": 4.0,
+    "unid": "20221030_0000051",
+    "mag": 2.9,
+    "time": "2022-10-30T09:23:06.0Z",
+    "source_id": "1183913",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "ICELAND"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.53,
+      36.94,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221030_0000049",
+  "properties": {
+    "lastupdate": "2022-10-30T09:26:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -2.53,
+    "auth": "MDD",
+    "lat": 36.94,
+    "depth": 10.0,
+    "unid": "20221030_0000049",
+    "mag": 1.6,
+    "time": "2022-10-30T09:12:01.0Z",
+    "source_id": "1183910",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "STRAIT OF GIBRALTAR"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      20.12,
+      37.5,
+      -10.0
     ]
   },
   "type": "Feature",
   "id": "20221030_0000047",
   "properties": {
-    "lastupdate": "2022-10-30T08:57:00.0Z",
-    "magtype": "ml",
+    "lastupdate": "2022-10-30T09:52:00.0Z",
+    "magtype": "mb",
     "evtype": "ke",
-    "lon": 20.08,
+    "lon": 20.12,
     "auth": "EMSC",
-    "lat": 37.49,
-    "depth": 2.0,
+    "lat": 37.5,
+    "depth": 10.0,
     "unid": "20221030_0000047",
     "mag": 4.2,
-    "time": "2022-10-30T08:49:10.2Z",
+    "time": "2022-10-30T08:49:11.1Z",
     "source_id": "1183903",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "IONIAN SEA"
@@ -28,24 +106,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -97.41,
-      29.22,
-      -5.0
+      -97.47,
+      29.24,
+      -3.0
     ]
   },
   "type": "Feature",
   "id": "20221030_0000046",
   "properties": {
-    "lastupdate": "2022-10-30T08:41:00.0Z",
-    "magtype": "mb",
+    "lastupdate": "2022-10-30T09:05:00.0Z",
+    "magtype": "ml",
     "evtype": "ke",
-    "lon": -97.41,
-    "auth": "NEIC",
-    "lat": 29.22,
-    "depth": 5.0,
+    "lon": -97.47,
+    "auth": "TX",
+    "lat": 29.24,
+    "depth": 3.0,
     "unid": "20221030_0000046",
-    "mag": 3.4,
-    "time": "2022-10-30T08:26:32.9Z",
+    "mag": 4.5,
+    "time": "2022-10-30T08:26:33.2Z",
     "source_id": "1183902",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHERN TEXAS"
@@ -205,6 +283,32 @@
     "source_id": "1183892",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "JUJUY, ARGENTINA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      22.48,
+      35.47,
+      -19.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221030_0000052",
+  "properties": {
+    "lastupdate": "2022-10-30T09:58:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 22.48,
+    "auth": "THE",
+    "lat": 35.47,
+    "depth": 19.0,
+    "unid": "20221030_0000052",
+    "mag": 2.7,
+    "time": "2022-10-30T06:52:30.8Z",
+    "source_id": "1183915",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CENTRAL MEDITERRANEAN SEA"
   }
 },{
   "geometry": {
@@ -25893,109 +25997,5 @@
     "source_id": "1182429",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "PUERTO RICO REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -68.8,
-      -31.24,
-      -96.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221025_0000067",
-  "properties": {
-    "lastupdate": "2022-10-25T10:21:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -68.8,
-    "auth": "NSNA",
-    "lat": -31.24,
-    "depth": 96.0,
-    "unid": "20221025_0000067",
-    "mag": 3.3,
-    "time": "2022-10-25T10:11:28.0Z",
-    "source_id": "1182423",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SAN JUAN, ARGENTINA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -82.4,
-      7.58,
-      -25.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221025_0000066",
-  "properties": {
-    "lastupdate": "2022-10-25T16:25:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -82.4,
-    "auth": "UCR",
-    "lat": 7.58,
-    "depth": 25.0,
-    "unid": "20221025_0000066",
-    "mag": 3.8,
-    "time": "2022-10-25T09:55:30.0Z",
-    "source_id": "1182420",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SOUTH OF PANAMA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      44.85,
-      38.53,
-      -2.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221025_0000069",
-  "properties": {
-    "lastupdate": "2022-10-25T12:10:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 44.85,
-    "auth": "EMSC",
-    "lat": 38.53,
-    "depth": 2.0,
-    "unid": "20221025_0000069",
-    "mag": 3.2,
-    "time": "2022-10-25T09:50:38.7Z",
-    "source_id": "1182417",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "TURKEY-IRAN BORDER REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      178.72,
-      -37.46,
-      -18.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221025_0000065",
-  "properties": {
-    "lastupdate": "2022-10-25T10:00:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 178.72,
-    "auth": "GNS",
-    "lat": -37.46,
-    "depth": 18.0,
-    "unid": "20221025_0000065",
-    "mag": 3.0,
-    "time": "2022-10-25T09:50:09.7Z",
-    "source_id": "1182419",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OFF E. COAST OF N. ISLAND, N.Z."
   }
 }]}
