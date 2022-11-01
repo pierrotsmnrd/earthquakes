@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1104937},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1104939},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      81.11,
+      22.73,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221101_0000016",
+  "properties": {
+    "lastupdate": "2022-11-01T03:35:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 81.11,
+    "auth": "NDI",
+    "lat": 22.73,
+    "depth": 10.0,
+    "unid": "20221101_0000016",
+    "mag": 4.3,
+    "time": "2022-11-01T03:13:50.0Z",
+    "source_id": "1184466",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CHHATTISGARH REGION, INDIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      15.21,
+      38.38,
+      -112.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221101_0000015",
+  "properties": {
+    "lastupdate": "2022-11-01T03:10:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 15.21,
+    "auth": "INGV",
+    "lat": 38.38,
+    "depth": 112.0,
+    "unid": "20221101_0000015",
+    "mag": 2.0,
+    "time": "2022-11-01T03:01:49.6Z",
+    "source_id": "1184464",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SICILY, ITALY"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -106,24 +158,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -178.78,
-      -31.23,
-      -70.0
+      -178.75,
+      -31.26,
+      -73.0
     ]
   },
   "type": "Feature",
   "id": "20221101_0000009",
   "properties": {
-    "lastupdate": "2022-11-01T02:14:00.0Z",
+    "lastupdate": "2022-11-01T03:23:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": -178.78,
+    "lon": -178.75,
     "auth": "NEIC",
-    "lat": -31.23,
-    "depth": 70.0,
+    "lat": -31.26,
+    "depth": 73.0,
     "unid": "20221101_0000009",
-    "mag": 4.8,
-    "time": "2022-11-01T01:45:00.6Z",
+    "mag": 4.6,
+    "time": "2022-11-01T01:45:00.7Z",
     "source_id": "1184438",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "KERMADEC ISLANDS REGION"
@@ -25945,57 +25997,5 @@
     "source_id": "1183223",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CENTRAL CALIFORNIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      120.51,
-      13.73,
-      -94.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221027_0000064",
-  "properties": {
-    "lastupdate": "2022-10-28T02:20:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 120.51,
-    "auth": "PIVS",
-    "lat": 13.73,
-    "depth": 94.0,
-    "unid": "20221027_0000064",
-    "mag": 3.3,
-    "time": "2022-10-27T08:26:00.0Z",
-    "source_id": "1182972",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "MINDORO, PHILIPPINES"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      16.96,
-      41.72,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221027_0000062",
-  "properties": {
-    "lastupdate": "2022-10-27T08:35:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 16.96,
-    "auth": "INGV",
-    "lat": 41.72,
-    "depth": 10.0,
-    "unid": "20221027_0000062",
-    "mag": 2.2,
-    "time": "2022-10-27T08:21:57.8Z",
-    "source_id": "1182970",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SOUTHERN ITALY"
   }
 }]}
