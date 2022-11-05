@@ -1,25 +1,103 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1106005},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1106009},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -155.52,
+      19.14,
+      -37.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221105_0000152",
+  "properties": {
+    "lastupdate": "2022-11-05T20:59:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -155.52,
+    "auth": "NEIR",
+    "lat": 19.14,
+    "depth": 37.0,
+    "unid": "20221105_0000152",
+    "mag": 2.1,
+    "time": "2022-11-05T20:56:12.8Z",
+    "source_id": "1185999",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "ISLAND OF HAWAII, HAWAII"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.27,
+      33.82,
+      -14.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221105_0000150",
+  "properties": {
+    "lastupdate": "2022-11-05T20:42:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -118.27,
+    "auth": "CSLC",
+    "lat": 33.82,
+    "depth": 14.0,
+    "unid": "20221105_0000150",
+    "mag": 2.7,
+    "time": "2022-11-05T20:39:32.3Z",
+    "source_id": "1185993",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "GREATER LOS ANGELES AREA, CALIF."
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      122.39,
+      -8.92,
+      -54.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221105_0000149",
+  "properties": {
+    "lastupdate": "2022-11-05T20:15:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 122.39,
+    "auth": "DJA",
+    "lat": -8.92,
+    "depth": 54.0,
+    "unid": "20221105_0000149",
+    "mag": 2.5,
+    "time": "2022-11-05T19:53:04.0Z",
+    "source_id": "1185991",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "FLORES REGION, INDONESIA"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
       127.42,
       0.15,
-      -149.0
+      -150.0
     ]
   },
   "type": "Feature",
   "id": "20221105_0000147",
   "properties": {
-    "lastupdate": "2022-11-05T19:58:00.0Z",
+    "lastupdate": "2022-11-05T20:25:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
     "lon": 127.42,
     "auth": "EMSC",
     "lat": 0.15,
-    "depth": 149.0,
+    "depth": 150.0,
     "unid": "20221105_0000147",
     "mag": 4.9,
-    "time": "2022-11-05T19:41:29.6Z",
+    "time": "2022-11-05T19:41:29.5Z",
     "source_id": "1185988",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "HALMAHERA, INDONESIA"
@@ -106,24 +184,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -121.25,
-      36.63,
-      -9.0
+      -121.26,
+      36.62,
+      -15.0
     ]
   },
   "type": "Feature",
   "id": "20221105_0000140",
   "properties": {
-    "lastupdate": "2022-11-05T19:10:00.0Z",
-    "magtype": "md",
+    "lastupdate": "2022-11-05T20:52:00.0Z",
+    "magtype": "ml",
     "evtype": "ke",
-    "lon": -121.25,
-    "auth": "NC",
-    "lat": 36.63,
-    "depth": 9.0,
+    "lon": -121.26,
+    "auth": "NEIC",
+    "lat": 36.62,
+    "depth": 15.0,
     "unid": "20221105_0000140",
-    "mag": 2.9,
-    "time": "2022-11-05T19:06:48.6Z",
+    "mag": 2.6,
+    "time": "2022-11-05T19:06:48.3Z",
     "source_id": "1185979",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CENTRAL CALIFORNIA"
@@ -465,6 +543,32 @@
     "source_id": "1185962",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "STRAIT OF GIBRALTAR"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -153.38,
+      60.1,
+      -155.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221105_0000151",
+  "properties": {
+    "lastupdate": "2022-11-05T20:44:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -153.38,
+    "auth": "NEIC",
+    "lat": 60.1,
+    "depth": 155.0,
+    "unid": "20221105_0000151",
+    "mag": 3.2,
+    "time": "2022-11-05T17:16:41.0Z",
+    "source_id": "1185994",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SOUTHERN ALASKA"
   }
 },{
   "geometry": {
@@ -25893,109 +25997,5 @@
     "source_id": "1184422",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NEAR N COAST OF PAPUA, INDONESIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -97.47,
-      29.24,
-      -3.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221101_0000158",
-  "properties": {
-    "lastupdate": "2022-11-02T07:32:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -97.47,
-    "auth": "EMSC",
-    "lat": 29.24,
-    "depth": 3.0,
-    "unid": "20221101_0000158",
-    "mag": 2.2,
-    "time": "2022-11-01T00:02:25.7Z",
-    "source_id": "1184704",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SOUTHERN TEXAS"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -152.34,
-      61.09,
-      -118.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221031_0000220",
-  "properties": {
-    "lastupdate": "2022-11-01T23:24:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -152.34,
-    "auth": "NEIC",
-    "lat": 61.09,
-    "depth": 118.0,
-    "unid": "20221031_0000220",
-    "mag": 2.5,
-    "time": "2022-10-31T23:58:34.5Z",
-    "source_id": "1184730",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SOUTHERN ALASKA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -71.46,
-      -30.7,
-      -28.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221031_0000191",
-  "properties": {
-    "lastupdate": "2022-10-31T23:59:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -71.46,
-    "auth": "GUC",
-    "lat": -30.7,
-    "depth": 28.0,
-    "unid": "20221031_0000191",
-    "mag": 3.8,
-    "time": "2022-10-31T23:47:40.0Z",
-    "source_id": "1184418",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "COQUIMBO, CHILE"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      127.14,
-      4.69,
-      -3.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221031_0000192",
-  "properties": {
-    "lastupdate": "2022-11-01T00:00:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 127.14,
-    "auth": "PIVS",
-    "lat": 4.69,
-    "depth": 3.0,
-    "unid": "20221031_0000192",
-    "mag": 3.9,
-    "time": "2022-10-31T23:43:10.0Z",
-    "source_id": "1184419",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "KEPULAUAN TALAUD, INDONESIA"
   }
 }]}
