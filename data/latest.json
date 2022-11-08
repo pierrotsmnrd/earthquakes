@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1106526},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1106528},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      115.92,
+      -8.31,
+      -12.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221108_0000019",
+  "properties": {
+    "lastupdate": "2022-11-08T03:15:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 115.92,
+    "auth": "DJA",
+    "lat": -8.31,
+    "depth": 12.0,
+    "unid": "20221108_0000019",
+    "mag": 3.0,
+    "time": "2022-11-08T03:08:05.0Z",
+    "source_id": "1186693",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "BALI REGION, INDONESIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      127.21,
+      1.56,
+      -124.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221108_0000018",
+  "properties": {
+    "lastupdate": "2022-11-08T02:50:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 127.21,
+    "auth": "DJA",
+    "lat": 1.56,
+    "depth": 124.0,
+    "unid": "20221108_0000018",
+    "mag": 3.4,
+    "time": "2022-11-08T02:39:49.0Z",
+    "source_id": "1186692",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "HALMAHERA, INDONESIA"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -158,24 +210,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      167.68,
-      -19.1,
-      -10.0
+      167.88,
+      -19.29,
+      -40.0
     ]
   },
   "type": "Feature",
   "id": "20221108_0000013",
   "properties": {
-    "lastupdate": "2022-11-08T01:44:00.0Z",
-    "magtype": "mb",
+    "lastupdate": "2022-11-08T03:02:00.0Z",
+    "magtype": "mw",
     "evtype": "ke",
-    "lon": 167.68,
-    "auth": "NEIC",
-    "lat": -19.1,
-    "depth": 10.0,
+    "lon": 167.88,
+    "auth": "EMSC",
+    "lat": -19.29,
+    "depth": 40.0,
     "unid": "20221108_0000013",
-    "mag": 5.2,
-    "time": "2022-11-08T01:26:31.9Z",
+    "mag": 5.0,
+    "time": "2022-11-08T01:26:35.4Z",
     "source_id": "1186672",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "VANUATU REGION"
@@ -25945,57 +25997,5 @@
     "source_id": "1185178",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "ISLAND OF HAWAII, HAWAII"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -110.12,
-      25.78,
-      -24.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221103_0000099",
-  "properties": {
-    "lastupdate": "2022-11-03T14:06:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -110.12,
-    "auth": "UNM",
-    "lat": 25.78,
-    "depth": 24.0,
-    "unid": "20221103_0000099",
-    "mag": 4.2,
-    "time": "2022-11-03T09:36:21.0Z",
-    "source_id": "1185238",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "GULF OF CALIFORNIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -110.09,
-      25.56,
-      -16.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221103_0000100",
-  "properties": {
-    "lastupdate": "2022-11-03T14:06:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -110.09,
-    "auth": "UNM",
-    "lat": 25.56,
-    "depth": 16.0,
-    "unid": "20221103_0000100",
-    "mag": 3.9,
-    "time": "2022-11-03T09:30:49.0Z",
-    "source_id": "1185239",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "GULF OF CALIFORNIA"
   }
 }]}
