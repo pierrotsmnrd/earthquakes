@@ -1,4 +1,82 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1107512},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1107516},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.76,
+      -21.95,
+      -125.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221112_0000021",
+  "properties": {
+    "lastupdate": "2022-11-12T02:56:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -68.76,
+    "auth": "GUC",
+    "lat": -21.95,
+    "depth": 125.0,
+    "unid": "20221112_0000021",
+    "mag": 3.6,
+    "time": "2022-11-12T02:48:06.0Z",
+    "source_id": "1188100",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "ANTOFAGASTA, CHILE"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      179.82,
+      -37.34,
+      -11.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221112_0000019",
+  "properties": {
+    "lastupdate": "2022-11-12T02:40:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 179.82,
+    "auth": "GNS",
+    "lat": -37.34,
+    "depth": 11.0,
+    "unid": "20221112_0000019",
+    "mag": 3.3,
+    "time": "2022-11-12T02:36:15.2Z",
+    "source_id": "1188096",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "OFF E. COAST OF N. ISLAND, N.Z."
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      125.75,
+      9.17,
+      -17.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221112_0000020",
+  "properties": {
+    "lastupdate": "2022-11-12T02:40:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 125.75,
+    "auth": "PIVS",
+    "lat": 9.17,
+    "depth": 17.0,
+    "unid": "20221112_0000020",
+    "mag": 3.2,
+    "time": "2022-11-12T02:29:21.0Z",
+    "source_id": "1188097",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "MINDANAO, PHILIPPINES"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -49,6 +127,32 @@
     "source_id": "1188093",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "ATACAMA, CHILE"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -152.02,
+      61.48,
+      -107.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221112_0000018",
+  "properties": {
+    "lastupdate": "2022-11-12T02:38:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -152.02,
+    "auth": "NEIC",
+    "lat": 61.48,
+    "depth": 107.0,
+    "unid": "20221112_0000018",
+    "mag": 2.7,
+    "time": "2022-11-12T01:55:56.9Z",
+    "source_id": "1188095",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SOUTHERN ALASKA"
   }
 },{
   "geometry": {
@@ -394,19 +498,19 @@
     "coordinates": [
       13.34,
       43.9,
-      0.0
+      -2.0
     ]
   },
   "type": "Feature",
   "id": "20221112_0000003",
   "properties": {
-    "lastupdate": "2022-11-12T00:58:00.0Z",
+    "lastupdate": "2022-11-12T03:09:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
     "lon": 13.34,
     "auth": "EMSC",
     "lat": 43.9,
-    "depth": 0.0,
+    "depth": 2.0,
     "unid": "20221112_0000003",
     "mag": 2.9,
     "time": "2022-11-12T00:35:44.9Z",
@@ -25893,109 +25997,5 @@
     "source_id": "1186619",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "PUERTO RICO REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.66,
-      35.45,
-      -9.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221107_0000172",
-  "properties": {
-    "lastupdate": "2022-11-07T22:27:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -3.66,
-    "auth": "MDD",
-    "lat": 35.45,
-    "depth": 9.0,
-    "unid": "20221107_0000172",
-    "mag": 2.0,
-    "time": "2022-11-07T21:13:46.9Z",
-    "source_id": "1186629",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "STRAIT OF GIBRALTAR"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -98.07,
-      16.26,
-      -14.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221107_0000193",
-  "properties": {
-    "lastupdate": "2022-11-08T02:00:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -98.07,
-    "auth": "UNM",
-    "lat": 16.26,
-    "depth": 14.0,
-    "unid": "20221107_0000193",
-    "mag": 3.5,
-    "time": "2022-11-07T21:06:50.0Z",
-    "source_id": "1186679",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OAXACA, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.66,
-      35.47,
-      -20.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221107_0000162",
-  "properties": {
-    "lastupdate": "2022-11-08T07:07:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -3.66,
-    "auth": "EMSC",
-    "lat": 35.47,
-    "depth": 20.0,
-    "unid": "20221107_0000162",
-    "mag": 2.1,
-    "time": "2022-11-07T21:05:20.8Z",
-    "source_id": "1186616",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "STRAIT OF GIBRALTAR"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -175.32,
-      51.6,
-      -26.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221107_0000178",
-  "properties": {
-    "lastupdate": "2022-11-07T23:05:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -175.32,
-    "auth": "NEIR",
-    "lat": 51.6,
-    "depth": 26.0,
-    "unid": "20221107_0000178",
-    "mag": 3.7,
-    "time": "2022-11-07T20:45:52.6Z",
-    "source_id": "1186639",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "ANDREANOF ISLANDS, ALEUTIAN IS."
   }
 }]}
