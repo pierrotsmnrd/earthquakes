@@ -1,25 +1,207 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1107832},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1107839},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      13.38,
-      43.98,
+      42.3,
+      38.74,
+      -1.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221113_0000123",
+  "properties": {
+    "lastupdate": "2022-11-13T13:07:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 42.3,
+    "auth": "EMSC",
+    "lat": 38.74,
+    "depth": 1.0,
+    "unid": "20221113_0000123",
+    "mag": 3.9,
+    "time": "2022-11-13T12:58:46.2Z",
+    "source_id": "1188586",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "EASTERN TURKEY"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -166.29,
+      53.09,
+      -35.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221113_0000122",
+  "properties": {
+    "lastupdate": "2022-11-13T12:48:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -166.29,
+    "auth": "NEIC",
+    "lat": 53.09,
+    "depth": 35.0,
+    "unid": "20221113_0000122",
+    "mag": 3.6,
+    "time": "2022-11-13T12:33:32.2Z",
+    "source_id": "1188584",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "FOX ISLANDS, ALEUTIAN ISLANDS"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.32,
+      43.94,
       -7.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221113_0000121",
+  "properties": {
+    "lastupdate": "2022-11-13T12:47:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 13.32,
+    "auth": "INGV",
+    "lat": 43.94,
+    "depth": 7.0,
+    "unid": "20221113_0000121",
+    "mag": 2.2,
+    "time": "2022-11-13T12:32:35.2Z",
+    "source_id": "1188583",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CENTRAL ITALY"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      81.91,
+      33.54,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221113_0000120",
+  "properties": {
+    "lastupdate": "2022-11-13T12:35:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 81.91,
+    "auth": "NDI",
+    "lat": 33.54,
+    "depth": 10.0,
+    "unid": "20221113_0000120",
+    "mag": 3.9,
+    "time": "2022-11-13T12:20:43.0Z",
+    "source_id": "1188582",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "WESTERN XIZANG"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.77,
+      7.29,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221113_0000119",
+  "properties": {
+    "lastupdate": "2022-11-13T12:44:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": -71.77,
+    "auth": "EMSC",
+    "lat": 7.29,
+    "depth": 10.0,
+    "unid": "20221113_0000119",
+    "mag": 4.6,
+    "time": "2022-11-13T12:13:21.0Z",
+    "source_id": "1188581",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "APURE, VENEZUELA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.56,
+      -27.99,
+      -189.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221113_0000118",
+  "properties": {
+    "lastupdate": "2022-11-13T12:16:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -66.56,
+    "auth": "NSNA",
+    "lat": -27.99,
+    "depth": 189.0,
+    "unid": "20221113_0000118",
+    "mag": 3.7,
+    "time": "2022-11-13T12:08:57.0Z",
+    "source_id": "1188579",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CATAMARCA, ARGENTINA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      121.26,
+      -10.0,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221113_0000117",
+  "properties": {
+    "lastupdate": "2022-11-13T12:05:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 121.26,
+    "auth": "DJA",
+    "lat": -10.0,
+    "depth": 10.0,
+    "unid": "20221113_0000117",
+    "mag": 3.2,
+    "time": "2022-11-13T11:57:52.0Z",
+    "source_id": "1188577",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SAVU SEA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.36,
+      43.97,
+      -6.0
     ]
   },
   "type": "Feature",
   "id": "20221113_0000115",
   "properties": {
-    "lastupdate": "2022-11-13T11:58:00.0Z",
+    "lastupdate": "2022-11-13T12:14:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": 13.38,
+    "lon": 13.36,
     "auth": "INGV",
-    "lat": 43.98,
-    "depth": 7.0,
+    "lat": 43.97,
+    "depth": 6.0,
     "unid": "20221113_0000115",
-    "mag": 2.4,
-    "time": "2022-11-13T11:29:49.0Z",
+    "mag": 2.1,
+    "time": "2022-11-13T11:29:19.1Z",
     "source_id": "1188575",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CENTRAL ITALY"
@@ -54,24 +236,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      41.59,
-      43.33,
-      -40.0
+      41.5,
+      43.35,
+      -2.0
     ]
   },
   "type": "Feature",
   "id": "20221113_0000116",
   "properties": {
-    "lastupdate": "2022-11-13T12:00:00.0Z",
-    "magtype": "ml",
+    "lastupdate": "2022-11-13T12:51:00.0Z",
+    "magtype": "mb",
     "evtype": "ke",
-    "lon": 41.59,
+    "lon": 41.5,
     "auth": "EMSC",
-    "lat": 43.33,
-    "depth": 40.0,
+    "lat": 43.35,
+    "depth": 2.0,
     "unid": "20221113_0000116",
-    "mag": 4.0,
-    "time": "2022-11-13T11:20:49.1Z",
+    "mag": 4.1,
+    "time": "2022-11-13T11:20:46.4Z",
     "source_id": "1188568",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CAUCASUS REGION, RUSSIA"
@@ -25813,188 +25995,6 @@
     "mag": 2.2,
     "time": "2022-11-09T07:44:24.7Z",
     "source_id": "1187099",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CENTRAL ITALY"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      121.29,
-      22.95,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221109_0000079",
-  "properties": {
-    "lastupdate": "2022-11-09T09:03:00.0Z",
-    "magtype": "mb",
-    "evtype": "ke",
-    "lon": 121.29,
-    "auth": "EMSC",
-    "lat": 22.95,
-    "depth": 10.0,
-    "unid": "20221109_0000079",
-    "mag": 4.7,
-    "time": "2022-11-09T07:42:08.9Z",
-    "source_id": "1187097",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "TAIWAN REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      13.28,
-      43.97,
-      -9.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221109_0000080",
-  "properties": {
-    "lastupdate": "2022-11-09T07:51:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 13.28,
-    "auth": "INGV",
-    "lat": 43.97,
-    "depth": 9.0,
-    "unid": "20221109_0000080",
-    "mag": 2.0,
-    "time": "2022-11-09T07:33:28.7Z",
-    "source_id": "1187098",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CENTRAL ITALY"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      13.31,
-      43.98,
-      -9.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221109_0000078",
-  "properties": {
-    "lastupdate": "2022-11-09T07:46:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 13.31,
-    "auth": "INGV",
-    "lat": 43.98,
-    "depth": 9.0,
-    "unid": "20221109_0000078",
-    "mag": 2.7,
-    "time": "2022-11-09T07:31:18.7Z",
-    "source_id": "1187096",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CENTRAL ITALY"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      13.27,
-      43.96,
-      -8.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221109_0000077",
-  "properties": {
-    "lastupdate": "2022-11-09T07:46:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 13.27,
-    "auth": "INGV",
-    "lat": 43.96,
-    "depth": 8.0,
-    "unid": "20221109_0000077",
-    "mag": 2.1,
-    "time": "2022-11-09T07:30:17.8Z",
-    "source_id": "1187095",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CENTRAL ITALY"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      56.28,
-      35.3,
-      -19.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221109_0000074",
-  "properties": {
-    "lastupdate": "2022-11-09T07:37:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 56.28,
-    "auth": "TEH",
-    "lat": 35.3,
-    "depth": 19.0,
-    "unid": "20221109_0000074",
-    "mag": 4.0,
-    "time": "2022-11-09T07:24:33.7Z",
-    "source_id": "1187093",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NORTHEASTERN IRAN"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      13.3,
-      43.93,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221109_0000071",
-  "properties": {
-    "lastupdate": "2022-11-09T07:35:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 13.3,
-    "auth": "INGV",
-    "lat": 43.93,
-    "depth": 10.0,
-    "unid": "20221109_0000071",
-    "mag": 3.1,
-    "time": "2022-11-09T07:15:40.3Z",
-    "source_id": "1187089",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CENTRAL ITALY"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      13.29,
-      43.98,
-      -4.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221109_0000072",
-  "properties": {
-    "lastupdate": "2022-11-09T07:41:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 13.29,
-    "auth": "INGV",
-    "lat": 43.98,
-    "depth": 4.0,
-    "unid": "20221109_0000072",
-    "mag": 2.3,
-    "time": "2022-11-09T07:11:36.9Z",
-    "source_id": "1187090",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CENTRAL ITALY"
   }
