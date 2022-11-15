@@ -1,4 +1,82 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1108319},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1108323},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.81,
+      8.39,
+      -12.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221115_0000015",
+  "properties": {
+    "lastupdate": "2022-11-15T03:15:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -82.81,
+    "auth": "IGC",
+    "lat": 8.39,
+    "depth": 12.0,
+    "unid": "20221115_0000015",
+    "mag": 2.5,
+    "time": "2022-11-15T03:12:33.0Z",
+    "source_id": "1189189",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "PANAMA-COSTA RICA BORDER REGION"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.69,
+      18.57,
+      -105.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221115_0000016",
+  "properties": {
+    "lastupdate": "2022-11-15T03:19:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -66.69,
+    "auth": "NEIR",
+    "lat": 18.57,
+    "depth": 105.0,
+    "unid": "20221115_0000016",
+    "mag": 3.2,
+    "time": "2022-11-15T02:59:05.9Z",
+    "source_id": "1189190",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "PUERTO RICO REGION"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.94,
+      -33.19,
+      -20.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221115_0000014",
+  "properties": {
+    "lastupdate": "2022-11-15T03:01:00.0Z",
+    "magtype": "mw",
+    "evtype": "ke",
+    "lon": -71.94,
+    "auth": "EMSC",
+    "lat": -33.19,
+    "depth": 20.0,
+    "unid": "20221115_0000014",
+    "mag": 4.3,
+    "time": "2022-11-15T02:43:23.5Z",
+    "source_id": "1189187",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "OFFSHORE VALPARAISO, CHILE"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -23,6 +101,32 @@
     "source_id": "1189184",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "ST. LAWRENCE VALLEY REG., CANADA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -68.83,
+      -21.25,
+      -113.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221115_0000013",
+  "properties": {
+    "lastupdate": "2022-11-15T02:42:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -68.83,
+    "auth": "GUC",
+    "lat": -21.25,
+    "depth": 113.0,
+    "unid": "20221115_0000013",
+    "mag": 3.0,
+    "time": "2022-11-15T02:19:58.0Z",
+    "source_id": "1189185",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "TARAPACA, CHILE"
   }
 },{
   "geometry": {
@@ -25893,109 +25997,5 @@
     "source_id": "1187755",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "ANTOFAGASTA, CHILE"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      134.24,
-      -0.66,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221110_0000232",
-  "properties": {
-    "lastupdate": "2022-11-11T00:05:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 134.24,
-    "auth": "DJA",
-    "lat": -0.66,
-    "depth": 10.0,
-    "unid": "20221110_0000232",
-    "mag": 4.0,
-    "time": "2022-11-10T23:57:55.0Z",
-    "source_id": "1187746",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NEAR N COAST OF PAPUA, INDONESIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      125.24,
-      -9.8,
-      -11.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221110_0000230",
-  "properties": {
-    "lastupdate": "2022-11-10T23:45:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 125.24,
-    "auth": "DJA",
-    "lat": -9.8,
-    "depth": 11.0,
-    "unid": "20221110_0000230",
-    "mag": 3.9,
-    "time": "2022-11-10T23:38:11.0Z",
-    "source_id": "1187743",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "EAST TIMOR REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      121.92,
-      10.41,
-      -1.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221110_0000231",
-  "properties": {
-    "lastupdate": "2022-11-10T23:50:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 121.92,
-    "auth": "PIVS",
-    "lat": 10.41,
-    "depth": 1.0,
-    "unid": "20221110_0000231",
-    "mag": 3.1,
-    "time": "2022-11-10T23:36:27.0Z",
-    "source_id": "1187744",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "PANAY, PHILIPPINES"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -98.48,
-      34.72,
-      -21.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221110_0000226",
-  "properties": {
-    "lastupdate": "2022-11-11T16:26:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -98.48,
-    "auth": "OK",
-    "lat": 34.72,
-    "depth": 21.0,
-    "unid": "20221110_0000226",
-    "mag": 2.8,
-    "time": "2022-11-10T23:25:48.9Z",
-    "source_id": "1187740",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OKLAHOMA"
   }
 }]}
