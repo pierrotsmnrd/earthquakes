@@ -1,4 +1,82 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1108822},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1108825},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      179.34,
+      -37.76,
+      -12.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221117_0000021",
+  "properties": {
+    "lastupdate": "2022-11-17T04:00:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 179.34,
+    "auth": "GNS",
+    "lat": -37.76,
+    "depth": 12.0,
+    "unid": "20221117_0000021",
+    "mag": 3.4,
+    "time": "2022-11-17T03:55:38.6Z",
+    "source_id": "1189884",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "OFF E. COAST OF N. ISLAND, N.Z."
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.26,
+      13.35,
+      -29.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221117_0000019",
+  "properties": {
+    "lastupdate": "2022-11-17T03:30:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -90.26,
+    "auth": "SNET",
+    "lat": 13.35,
+    "depth": 29.0,
+    "unid": "20221117_0000019",
+    "mag": 3.6,
+    "time": "2022-11-17T03:21:00.0Z",
+    "source_id": "1189881",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "OFFSHORE EL SALVADOR"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.94,
+      17.96,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221117_0000020",
+  "properties": {
+    "lastupdate": "2022-11-17T03:58:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -66.94,
+    "auth": "NEIR",
+    "lat": 17.96,
+    "depth": 10.0,
+    "unid": "20221117_0000020",
+    "mag": 2.1,
+    "time": "2022-11-17T03:14:57.7Z",
+    "source_id": "1189883",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "PUERTO RICO"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -288,24 +366,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -103.98,
+      -103.99,
       31.61,
-      -10.0
+      -9.0
     ]
   },
   "type": "Feature",
   "id": "20221117_0000016",
   "properties": {
-    "lastupdate": "2022-11-17T02:08:00.0Z",
+    "lastupdate": "2022-11-17T03:32:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": -103.98,
-    "auth": "TX",
+    "lon": -103.99,
+    "auth": "NEIC",
     "lat": 31.61,
-    "depth": 10.0,
+    "depth": 9.0,
     "unid": "20221117_0000016",
-    "mag": 2.9,
-    "time": "2022-11-17T01:07:11.9Z",
+    "mag": 2.7,
+    "time": "2022-11-17T01:07:12.1Z",
     "source_id": "1189874",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "WESTERN TEXAS"
@@ -374,7 +452,7 @@
   "type": "Feature",
   "id": "20221117_0000004",
   "properties": {
-    "lastupdate": "2022-11-17T01:47:00.0Z",
+    "lastupdate": "2022-11-17T03:57:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
     "lon": 142.32,
@@ -25919,83 +25997,5 @@
     "source_id": "1188377",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CRETE, GREECE"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.73,
-      35.52,
-      0.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221113_0000020",
-  "properties": {
-    "lastupdate": "2022-11-13T02:18:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -3.73,
-    "auth": "MDD",
-    "lat": 35.52,
-    "depth": 0.0,
-    "unid": "20221113_0000020",
-    "mag": 2.1,
-    "time": "2022-11-13T01:40:06.1Z",
-    "source_id": "1188409",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "STRAIT OF GIBRALTAR"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      179.63,
-      -34.16,
-      -372.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221113_0000009",
-  "properties": {
-    "lastupdate": "2022-11-13T01:45:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 179.63,
-    "auth": "GNS",
-    "lat": -34.16,
-    "depth": 372.0,
-    "unid": "20221113_0000009",
-    "mag": 3.8,
-    "time": "2022-11-13T01:37:56.8Z",
-    "source_id": "1188378",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SOUTH OF KERMADEC ISLANDS"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      13.36,
-      43.95,
-      -8.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221113_0000008",
-  "properties": {
-    "lastupdate": "2022-11-13T01:37:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 13.36,
-    "auth": "INGV",
-    "lat": 43.95,
-    "depth": 8.0,
-    "unid": "20221113_0000008",
-    "mag": 2.2,
-    "time": "2022-11-13T01:27:52.4Z",
-    "source_id": "1188376",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CENTRAL ITALY"
   }
 }]}
