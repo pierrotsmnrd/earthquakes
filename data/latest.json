@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1109125},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1109128},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -177.6,
+      -29.87,
+      -20.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221118_0000037",
+  "properties": {
+    "lastupdate": "2022-11-18T06:55:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": -177.6,
+    "auth": "EMSC",
+    "lat": -29.87,
+    "depth": 20.0,
+    "unid": "20221118_0000037",
+    "mag": 5.3,
+    "time": "2022-11-18T06:37:02.4Z",
+    "source_id": "1190297",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "KERMADEC ISLANDS, NEW ZEALAND"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.67,
+      -31.39,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221118_0000036",
+  "properties": {
+    "lastupdate": "2022-11-18T06:06:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -67.67,
+    "auth": "NSNA",
+    "lat": -31.39,
+    "depth": 10.0,
+    "unid": "20221118_0000036",
+    "mag": 3.2,
+    "time": "2022-11-18T05:57:56.0Z",
+    "source_id": "1190293",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SAN JUAN, ARGENTINA"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -54,24 +106,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -104.61,
-      31.64,
-      -5.0
+      -104.54,
+      31.67,
+      -6.0
     ]
   },
   "type": "Feature",
   "id": "20221118_0000033",
   "properties": {
-    "lastupdate": "2022-11-18T05:46:00.0Z",
+    "lastupdate": "2022-11-18T06:01:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": -104.61,
-    "auth": "NEIC",
-    "lat": 31.64,
-    "depth": 5.0,
+    "lon": -104.54,
+    "auth": "TX",
+    "lat": 31.67,
+    "depth": 6.0,
     "unid": "20221118_0000033",
     "mag": 2.9,
-    "time": "2022-11-18T05:34:56.1Z",
+    "time": "2022-11-18T05:34:56.0Z",
     "source_id": "1190290",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "WESTERN TEXAS"
@@ -25945,57 +25997,5 @@
     "source_id": "1188768",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SPAIN"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      13.34,
-      43.98,
-      -7.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221113_0000259",
-  "properties": {
-    "lastupdate": "2022-11-13T23:54:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 13.34,
-    "auth": "INGV",
-    "lat": 43.98,
-    "depth": 7.0,
-    "unid": "20221113_0000259",
-    "mag": 2.0,
-    "time": "2022-11-13T23:44:42.5Z",
-    "source_id": "1188757",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CENTRAL ITALY"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -71.93,
-      -32.17,
-      -26.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221113_0000261",
-  "properties": {
-    "lastupdate": "2022-11-13T23:54:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -71.93,
-    "auth": "GUC",
-    "lat": -32.17,
-    "depth": 26.0,
-    "unid": "20221113_0000261",
-    "mag": 2.7,
-    "time": "2022-11-13T23:44:11.0Z",
-    "source_id": "1188759",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OFFSHORE VALPARAISO, CHILE"
   }
 }]}
