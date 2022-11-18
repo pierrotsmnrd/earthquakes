@@ -1,4 +1,30 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1109156},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1109159},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      27.74,
+      39.26,
+      -5.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221118_0000057",
+  "properties": {
+    "lastupdate": "2022-11-18T09:51:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 27.74,
+    "auth": "EMSC",
+    "lat": 39.26,
+    "depth": 5.0,
+    "unid": "20221118_0000057",
+    "mag": 2.6,
+    "time": "2022-11-18T09:24:37.4Z",
+    "source_id": "1190341",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "WESTERN TURKEY"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -23,6 +49,32 @@
     "source_id": "1190338",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CENTRAL ITALY"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.34,
+      18.12,
+      -5.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221118_0000056",
+  "properties": {
+    "lastupdate": "2022-11-18T09:10:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -103.34,
+    "auth": "UNM",
+    "lat": 18.12,
+    "depth": 5.0,
+    "unid": "20221118_0000056",
+    "mag": 4.0,
+    "time": "2022-11-18T08:38:15.0Z",
+    "source_id": "1190339",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "OFFSHORE MICHOACAN, MEXICO"
   }
 },{
   "geometry": {
@@ -55,23 +107,23 @@
     "type": "Point",
     "coordinates": [
       159.78,
-      53.09,
+      53.05,
       -60.0
     ]
   },
   "type": "Feature",
   "id": "20221118_0000053",
   "properties": {
-    "lastupdate": "2022-11-18T08:55:00.0Z",
+    "lastupdate": "2022-11-18T09:56:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
     "lon": 159.78,
     "auth": "EMSC",
-    "lat": 53.09,
+    "lat": 53.05,
     "depth": 60.0,
     "unid": "20221118_0000053",
     "mag": 5.0,
-    "time": "2022-11-18T08:33:27.7Z",
+    "time": "2022-11-18T08:33:27.8Z",
     "source_id": "1190335",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NEAR EAST COAST OF KAMCHATKA"
@@ -25945,57 +25997,5 @@
     "source_id": "1188802",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "OFFSHORE BIO-BIO, CHILE"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -68.45,
-      18.08,
-      -134.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221114_0000021",
-  "properties": {
-    "lastupdate": "2022-11-17T22:42:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -68.45,
-    "auth": "NEIC",
-    "lat": 18.08,
-    "depth": 134.0,
-    "unid": "20221114_0000021",
-    "mag": 3.0,
-    "time": "2022-11-14T02:21:01.1Z",
-    "source_id": "1188806",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "DOMINICAN REPUBLIC REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      29.04,
-      38.79,
-      -8.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221114_0000018",
-  "properties": {
-    "lastupdate": "2022-11-14T07:43:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 29.04,
-    "auth": "EMSC",
-    "lat": 38.79,
-    "depth": 8.0,
-    "unid": "20221114_0000018",
-    "mag": 3.3,
-    "time": "2022-11-14T02:11:02.5Z",
-    "source_id": "1188797",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "WESTERN TURKEY"
   }
 }]}
