@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1109107},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1109111},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.59,
+      31.64,
+      -5.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221118_0000021",
+  "properties": {
+    "lastupdate": "2022-11-18T03:17:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -104.59,
+    "auth": "NEIC",
+    "lat": 31.64,
+    "depth": 5.0,
+    "unid": "20221118_0000021",
+    "mag": 2.6,
+    "time": "2022-11-18T03:10:15.8Z",
+    "source_id": "1190267",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "WESTERN TEXAS"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -178.73,
+      -32.85,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221118_0000020",
+  "properties": {
+    "lastupdate": "2022-11-18T03:09:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": -178.73,
+    "auth": "NEIC",
+    "lat": -32.85,
+    "depth": 10.0,
+    "unid": "20221118_0000020",
+    "mag": 4.6,
+    "time": "2022-11-18T02:44:16.5Z",
+    "source_id": "1190265",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SOUTH OF KERMADEC ISLANDS"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -881,6 +933,32 @@
     "source_id": "1190178",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NEVADA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      118.38,
+      -30.89,
+      -2.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221117_0000246",
+  "properties": {
+    "lastupdate": "2022-11-18T03:01:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 118.38,
+    "auth": "AUST",
+    "lat": -30.89,
+    "depth": 2.0,
+    "unid": "20221117_0000246",
+    "mag": 2.1,
+    "time": "2022-11-17T22:09:22.0Z",
+    "source_id": "1190266",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "WESTERN AUSTRALIA"
   }
 },{
   "geometry": {
@@ -25919,83 +25997,5 @@
     "source_id": "1188745",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "OFFSHORE VALPARAISO, CHILE"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -155.24,
-      19.21,
-      -44.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221113_0000286",
-  "properties": {
-    "lastupdate": "2022-11-14T21:00:00.0Z",
-    "magtype": "md",
-    "evtype": "ke",
-    "lon": -155.24,
-    "auth": "NEIR",
-    "lat": 19.21,
-    "depth": 44.0,
-    "unid": "20221113_0000286",
-    "mag": 2.8,
-    "time": "2022-11-13T22:27:10.8Z",
-    "source_id": "1189102",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "ISLAND OF HAWAII, HAWAII"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -112.27,
-      28.05,
-      -11.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221113_0000267",
-  "properties": {
-    "lastupdate": "2022-11-14T02:05:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -112.27,
-    "auth": "UNM",
-    "lat": 28.05,
-    "depth": 11.0,
-    "unid": "20221113_0000267",
-    "mag": 3.7,
-    "time": "2022-11-13T22:25:18.0Z",
-    "source_id": "1188785",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "GULF OF CALIFORNIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -102.21,
-      19.54,
-      -2.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221113_0000266",
-  "properties": {
-    "lastupdate": "2022-11-14T02:05:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -102.21,
-    "auth": "UNM",
-    "lat": 19.54,
-    "depth": 2.0,
-    "unid": "20221113_0000266",
-    "mag": 3.6,
-    "time": "2022-11-13T22:19:00.0Z",
-    "source_id": "1188786",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "MICHOACAN, MEXICO"
   }
 }]}
