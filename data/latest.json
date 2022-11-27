@@ -1,25 +1,51 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1111436},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1111438},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -155.37,
-      19.15,
-      -29.0
+      -155.5,
+      19.22,
+      -32.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221127_0000101",
+  "properties": {
+    "lastupdate": "2022-11-27T13:19:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -155.5,
+    "auth": "NEIR",
+    "lat": 19.22,
+    "depth": 32.0,
+    "unid": "20221127_0000101",
+    "mag": 2.8,
+    "time": "2022-11-27T13:14:24.7Z",
+    "source_id": "1193485",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "ISLAND OF HAWAII, HAWAII"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -155.39,
+      19.17,
+      -38.0
     ]
   },
   "type": "Feature",
   "id": "20221127_0000099",
   "properties": {
-    "lastupdate": "2022-11-27T13:00:00.0Z",
+    "lastupdate": "2022-11-27T13:07:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": -155.37,
-    "auth": "NEIR",
-    "lat": 19.15,
-    "depth": 29.0,
+    "lon": -155.39,
+    "auth": "NEIC",
+    "lat": 19.17,
+    "depth": 38.0,
     "unid": "20221127_0000099",
-    "mag": 2.2,
-    "time": "2022-11-27T12:54:32.9Z",
+    "mag": 2.6,
+    "time": "2022-11-27T12:54:31.3Z",
     "source_id": "1193481",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "ISLAND OF HAWAII, HAWAII"
@@ -106,24 +132,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      120.83,
+      120.84,
       19.13,
-      -30.0
+      -20.0
     ]
   },
   "type": "Feature",
   "id": "20221127_0000098",
   "properties": {
-    "lastupdate": "2022-11-27T12:55:00.0Z",
+    "lastupdate": "2022-11-27T13:42:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": 120.83,
-    "auth": "NEIC",
+    "lon": 120.84,
+    "auth": "EMSC",
     "lat": 19.13,
-    "depth": 30.0,
+    "depth": 20.0,
     "unid": "20221127_0000098",
     "mag": 4.3,
-    "time": "2022-11-27T12:31:51.5Z",
+    "time": "2022-11-27T12:31:50.5Z",
     "source_id": "1193480",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "BABUYAN ISL REGION, PHILIPPINES"
@@ -314,24 +340,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      27.49,
-      35.31,
-      -30.0
+      27.56,
+      35.32,
+      -2.0
     ]
   },
   "type": "Feature",
   "id": "20221127_0000090",
   "properties": {
-    "lastupdate": "2022-11-27T12:16:00.0Z",
+    "lastupdate": "2022-11-27T13:40:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": 27.49,
+    "lon": 27.56,
     "auth": "EMSC",
-    "lat": 35.31,
-    "depth": 30.0,
+    "lat": 35.32,
+    "depth": 2.0,
     "unid": "20221127_0000090",
-    "mag": 2.9,
-    "time": "2022-11-27T11:32:25.9Z",
+    "mag": 3.0,
+    "time": "2022-11-27T11:32:23.3Z",
     "source_id": "1193465",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "DODECANESE ISLANDS, GREECE"
@@ -25971,31 +25997,5 @@
     "source_id": "1192011",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "WESTERN TEXAS"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      23.54,
-      39.67,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221123_0000026",
-  "properties": {
-    "lastupdate": "2022-11-23T07:40:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 23.54,
-    "auth": "EMSC",
-    "lat": 39.67,
-    "depth": 10.0,
-    "unid": "20221123_0000026",
-    "mag": 3.6,
-    "time": "2022-11-23T01:57:55.6Z",
-    "source_id": "1191996",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "AEGEAN SEA"
   }
 }]}
