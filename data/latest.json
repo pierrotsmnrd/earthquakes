@@ -1,4 +1,30 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1111382},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1111386},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.01,
+      -22.72,
+      -99.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221127_0000059",
+  "properties": {
+    "lastupdate": "2022-11-27T07:36:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -69.01,
+    "auth": "GUC",
+    "lat": -22.72,
+    "depth": 99.0,
+    "unid": "20221127_0000059",
+    "mag": 2.5,
+    "time": "2022-11-27T07:08:00.0Z",
+    "source_id": "1193423",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "ANTOFAGASTA, CHILE"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -9440,6 +9466,32 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      -153.27,
+      59.8,
+      -117.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221125_0000227",
+  "properties": {
+    "lastupdate": "2022-11-27T07:31:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -153.27,
+    "auth": "NEIC",
+    "lat": 59.8,
+    "depth": 117.0,
+    "unid": "20221125_0000227",
+    "mag": 2.7,
+    "time": "2022-11-25T14:30:38.2Z",
+    "source_id": "1193421",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SOUTHERN ALASKA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       -104.46,
       31.67,
       -20.0
@@ -9461,6 +9513,32 @@
     "source_id": "1192907",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "WESTERN TEXAS"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -144.54,
+      69.25,
+      -13.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221125_0000226",
+  "properties": {
+    "lastupdate": "2022-11-27T07:23:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -144.54,
+    "auth": "NEIC",
+    "lat": 69.25,
+    "depth": 13.0,
+    "unid": "20221125_0000226",
+    "mag": 2.6,
+    "time": "2022-11-25T14:06:07.4Z",
+    "source_id": "1193420",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NORTHERN ALASKA"
   }
 },{
   "geometry": {
@@ -9544,24 +9622,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -61.19,
-      17.7,
-      -27.0
+      -60.98,
+      17.8,
+      -26.0
     ]
   },
   "type": "Feature",
   "id": "20221125_0000124",
   "properties": {
-    "lastupdate": "2022-11-25T22:50:00.0Z",
+    "lastupdate": "2022-11-27T07:05:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": -61.19,
-    "auth": "GFZ",
-    "lat": 17.7,
-    "depth": 27.0,
+    "lon": -60.98,
+    "auth": "NEIC",
+    "lat": 17.8,
+    "depth": 26.0,
     "unid": "20221125_0000124",
-    "mag": 4.5,
-    "time": "2022-11-25T13:48:29.7Z",
+    "mag": 4.6,
+    "time": "2022-11-25T13:48:27.2Z",
     "source_id": "1192901",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "ANTIGUA AND BARBUDA REGION"
@@ -25917,84 +25995,6 @@
     "mag": 2.1,
     "time": "2022-11-22T22:37:32.6Z",
     "source_id": "1192256",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "WESTERN TEXAS"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.34,
-      30.47,
-      -9.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221122_0000230",
-  "properties": {
-    "lastupdate": "2022-11-23T02:01:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -116.34,
-    "auth": "UNM",
-    "lat": 30.47,
-    "depth": 9.0,
-    "unid": "20221122_0000230",
-    "mag": 3.4,
-    "time": "2022-11-22T22:37:07.0Z",
-    "source_id": "1192001",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OFFSHORE BAJA CALIFORNIA, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      72.94,
-      19.95,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221122_0000209",
-  "properties": {
-    "lastupdate": "2022-11-22T22:45:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 72.94,
-    "auth": "NDI",
-    "lat": 19.95,
-    "depth": 5.0,
-    "unid": "20221122_0000209",
-    "mag": 3.6,
-    "time": "2022-11-22T22:34:35.0Z",
-    "source_id": "1191928",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NEAR COAST OF MAHARASHTRA, INDIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -103.22,
-      31.11,
-      -2.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221122_0000245",
-  "properties": {
-    "lastupdate": "2022-11-23T19:58:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -103.22,
-    "auth": "TX",
-    "lat": 31.11,
-    "depth": 2.0,
-    "unid": "20221122_0000245",
-    "mag": 2.2,
-    "time": "2022-11-22T22:28:04.0Z",
-    "source_id": "1192290",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "WESTERN TEXAS"
   }
