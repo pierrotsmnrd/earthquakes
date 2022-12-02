@@ -1,4 +1,30 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1112945},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1112948},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      178.79,
+      -35.54,
+      -257.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221202_0000074",
+  "properties": {
+    "lastupdate": "2022-12-02T11:35:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 178.79,
+    "auth": "GNS",
+    "lat": -35.54,
+    "depth": 257.0,
+    "unid": "20221202_0000074",
+    "mag": 3.3,
+    "time": "2022-12-02T11:27:27.5Z",
+    "source_id": "1195653",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "OFF E. COAST OF N. ISLAND, N.Z."
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -699,6 +725,32 @@
     "source_id": "1195590",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CENTRAL ITALY"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.05,
+      19.36,
+      -22.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221202_0000073",
+  "properties": {
+    "lastupdate": "2022-12-02T11:20:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -70.05,
+    "auth": "UASD",
+    "lat": 19.36,
+    "depth": 22.0,
+    "unid": "20221202_0000073",
+    "mag": 3.0,
+    "time": "2022-12-02T06:13:41.0Z",
+    "source_id": "1195652",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "DOMINICAN REPUBLIC"
   }
 },{
   "geometry": {
@@ -25945,57 +25997,5 @@
     "source_id": "1194123",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "GUERRERO, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.63,
-      35.51,
-      -18.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221128_0000241",
-  "properties": {
-    "lastupdate": "2022-11-28T20:19:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -3.63,
-    "auth": "MDD",
-    "lat": 35.51,
-    "depth": 18.0,
-    "unid": "20221128_0000241",
-    "mag": 2.4,
-    "time": "2022-11-28T19:54:21.4Z",
-    "source_id": "1193991",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "STRAIT OF GIBRALTAR"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -155.47,
-      19.52,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221128_0000239",
-  "properties": {
-    "lastupdate": "2022-11-29T18:04:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -155.47,
-    "auth": "NEIC",
-    "lat": 19.52,
-    "depth": 5.0,
-    "unid": "20221128_0000239",
-    "mag": 2.6,
-    "time": "2022-11-28T19:48:34.0Z",
-    "source_id": "1193988",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "ISLAND OF HAWAII, HAWAII"
   }
 }]}
