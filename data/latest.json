@@ -1,4 +1,30 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1114538},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1114540},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      168.58,
+      -44.15,
+      -6.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221208_0000149",
+  "properties": {
+    "lastupdate": "2022-12-08T18:50:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 168.58,
+    "auth": "GNS",
+    "lat": -44.15,
+    "depth": 6.0,
+    "unid": "20221208_0000149",
+    "mag": 3.7,
+    "time": "2022-12-08T18:49:13.5Z",
+    "source_id": "1197935",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SOUTH ISLAND OF NEW ZEALAND"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -1193,6 +1219,32 @@
     "source_id": "1197821",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SAMOA ISLANDS REGION"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -103.84,
+      32.0,
+      -8.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221208_0000148",
+  "properties": {
+    "lastupdate": "2022-12-08T18:38:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -103.84,
+    "auth": "TX",
+    "lat": 32.0,
+    "depth": 8.0,
+    "unid": "20221208_0000148",
+    "mag": 2.0,
+    "time": "2022-12-08T10:04:36.8Z",
+    "source_id": "1197933",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NEW MEXICO"
   }
 },{
   "geometry": {
@@ -25945,57 +25997,5 @@
     "source_id": "1196323",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CANARY ISLANDS, SPAIN REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -86.58,
-      13.25,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221204_0000067",
-  "properties": {
-    "lastupdate": "2022-12-04T10:35:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -86.58,
-    "auth": "INET",
-    "lat": 13.25,
-    "depth": 10.0,
-    "unid": "20221204_0000067",
-    "mag": 2.9,
-    "time": "2022-12-04T10:28:53.0Z",
-    "source_id": "1196322",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NICARAGUA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -97.42,
-      15.43,
-      -16.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221204_0000102",
-  "properties": {
-    "lastupdate": "2022-12-04T14:06:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -97.42,
-    "auth": "UNM",
-    "lat": 15.43,
-    "depth": 16.0,
-    "unid": "20221204_0000102",
-    "mag": 3.4,
-    "time": "2022-12-04T10:24:59.0Z",
-    "source_id": "1196380",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OFFSHORE OAXACA, MEXICO"
   }
 }]}
