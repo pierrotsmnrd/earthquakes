@@ -1,4 +1,82 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1115277},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1115280},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.29,
+      -30.32,
+      -53.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221211_0000178",
+  "properties": {
+    "lastupdate": "2022-12-12T00:01:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -71.29,
+    "auth": "GUC",
+    "lat": -30.32,
+    "depth": 53.0,
+    "unid": "20221211_0000178",
+    "mag": 3.9,
+    "time": "2022-12-11T23:58:12.0Z",
+    "source_id": "1199007",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "COQUIMBO, CHILE"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.17,
+      -10.08,
+      -64.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221211_0000176",
+  "properties": {
+    "lastupdate": "2022-12-11T23:10:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 123.17,
+    "auth": "DJA",
+    "lat": -10.08,
+    "depth": 64.0,
+    "unid": "20221211_0000176",
+    "mag": 4.5,
+    "time": "2022-12-11T23:04:50.0Z",
+    "source_id": "1199003",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "TIMOR REGION, INDONESIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.3,
+      44.62,
+      -20.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221211_0000177",
+  "properties": {
+    "lastupdate": "2022-12-11T23:19:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 10.3,
+    "auth": "INGV",
+    "lat": 44.62,
+    "depth": 20.0,
+    "unid": "20221211_0000177",
+    "mag": 2.2,
+    "time": "2022-12-11T22:59:35.0Z",
+    "source_id": "1199004",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NORTHERN ITALY"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -8010,24 +8088,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      120.17,
-      -18.05,
+      120.18,
+      -18.04,
       -10.0
     ]
   },
   "type": "Feature",
   "id": "20221210_0000085",
   "properties": {
-    "lastupdate": "2022-12-10T10:29:00.0Z",
+    "lastupdate": "2022-12-11T23:32:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": 120.17,
+    "lon": 120.18,
     "auth": "AUST",
-    "lat": -18.05,
+    "lat": -18.04,
     "depth": 10.0,
     "unid": "20221210_0000085",
-    "mag": 3.2,
-    "time": "2022-12-10T10:08:05.1Z",
+    "mag": 3.1,
+    "time": "2022-12-10T10:08:05.3Z",
     "source_id": "1198510",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "WESTERN AUSTRALIA"
@@ -25919,83 +25997,5 @@
     "source_id": "1197431",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "OFF E. COAST OF N. ISLAND, N.Z."
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -155.6,
-      19.47,
-      1.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221207_0000090",
-  "properties": {
-    "lastupdate": "2022-12-07T23:53:00.0Z",
-    "magtype": "md",
-    "evtype": "ke",
-    "lon": -155.6,
-    "auth": "NEIR",
-    "lat": 19.47,
-    "depth": -1.0,
-    "unid": "20221207_0000090",
-    "mag": 2.1,
-    "time": "2022-12-07T07:40:33.1Z",
-    "source_id": "1197455",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "ISLAND OF HAWAII, HAWAII"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -115.8,
-      38.37,
-      -3.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221207_0000074",
-  "properties": {
-    "lastupdate": "2022-12-07T16:56:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -115.8,
-    "auth": "NN",
-    "lat": 38.37,
-    "depth": 3.0,
-    "unid": "20221207_0000074",
-    "mag": 3.0,
-    "time": "2022-12-07T07:38:27.9Z",
-    "source_id": "1197429",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NEVADA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -87.09,
-      11.62,
-      -16.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221207_0000073",
-  "properties": {
-    "lastupdate": "2022-12-07T07:40:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -87.09,
-    "auth": "INET",
-    "lat": 11.62,
-    "depth": 16.0,
-    "unid": "20221207_0000073",
-    "mag": 2.8,
-    "time": "2022-12-07T07:34:24.0Z",
-    "source_id": "1197428",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NEAR COAST OF NICARAGUA"
   }
 }]}
