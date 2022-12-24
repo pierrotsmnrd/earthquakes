@@ -1,25 +1,103 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1118188},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1118191},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      138.8,
-      28.31,
-      -524.0
+      -131.53,
+      53.87,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221224_0000088",
+  "properties": {
+    "lastupdate": "2022-12-24T09:55:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -131.53,
+    "auth": "NEIC",
+    "lat": 53.87,
+    "depth": 10.0,
+    "unid": "20221224_0000088",
+    "mag": 4.0,
+    "time": "2022-12-24T09:32:58.9Z",
+    "source_id": "1203300",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "HECATE STRAIT REGION, CANADA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -131.66,
+      53.88,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221224_0000087",
+  "properties": {
+    "lastupdate": "2022-12-24T09:57:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": -131.66,
+    "auth": "EMSC",
+    "lat": 53.88,
+    "depth": 10.0,
+    "unid": "20221224_0000087",
+    "mag": 4.5,
+    "time": "2022-12-24T09:01:22.3Z",
+    "source_id": "1203296",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "HECATE STRAIT REGION, CANADA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.87,
+      35.32,
+      -26.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221224_0000086",
+  "properties": {
+    "lastupdate": "2022-12-24T09:11:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -4.87,
+    "auth": "MDD",
+    "lat": 35.32,
+    "depth": 26.0,
+    "unid": "20221224_0000086",
+    "mag": 3.3,
+    "time": "2022-12-24T08:38:21.0Z",
+    "source_id": "1203298",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "STRAIT OF GIBRALTAR"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      138.74,
+      28.33,
+      -533.0
     ]
   },
   "type": "Feature",
   "id": "20221224_0000085",
   "properties": {
-    "lastupdate": "2022-12-24T09:00:00.0Z",
+    "lastupdate": "2022-12-24T09:35:00.0Z",
     "magtype": "mw",
     "evtype": "ke",
-    "lon": 138.8,
+    "lon": 138.74,
     "auth": "EMSC",
-    "lat": 28.31,
-    "depth": 524.0,
+    "lat": 28.33,
+    "depth": 533.0,
     "unid": "20221224_0000085",
     "mag": 5.5,
-    "time": "2022-12-24T08:35:41.8Z",
+    "time": "2022-12-24T08:35:42.3Z",
     "source_id": "1203289",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "BONIN ISLANDS, JAPAN REGION"
@@ -237,20 +315,20 @@
     "type": "Point",
     "coordinates": [
       14.4,
-      45.56,
-      -5.0
+      45.57,
+      -2.0
     ]
   },
   "type": "Feature",
   "id": "20221224_0000071",
   "properties": {
-    "lastupdate": "2022-12-24T07:57:00.0Z",
+    "lastupdate": "2022-12-24T09:14:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
     "lon": 14.4,
     "auth": "EMSC",
-    "lat": 45.56,
-    "depth": 5.0,
+    "lat": 45.57,
+    "depth": 2.0,
     "unid": "20221224_0000071",
     "mag": 2.3,
     "time": "2022-12-24T07:14:27.4Z",
@@ -25919,83 +25997,5 @@
     "source_id": "1201779",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "PANAMA-COSTA RICA BORDER REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -146.38,
-      61.56,
-      -35.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221220_0000012",
-  "properties": {
-    "lastupdate": "2022-12-20T02:34:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -146.38,
-    "auth": "NEIC",
-    "lat": 61.56,
-    "depth": 35.0,
-    "unid": "20221220_0000012",
-    "mag": 2.6,
-    "time": "2022-12-20T01:14:26.0Z",
-    "source_id": "1201808",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SOUTHERN ALASKA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      118.0,
-      -8.31,
-      -16.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221220_0000004",
-  "properties": {
-    "lastupdate": "2022-12-20T01:15:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 118.0,
-    "auth": "DJA",
-    "lat": -8.31,
-    "depth": 16.0,
-    "unid": "20221220_0000004",
-    "mag": 2.9,
-    "time": "2022-12-20T01:08:34.0Z",
-    "source_id": "1201775",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SUMBAWA REGION, INDONESIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -155.41,
-      19.27,
-      -30.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221220_0000002",
-  "properties": {
-    "lastupdate": "2022-12-20T02:09:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -155.41,
-    "auth": "NEIC",
-    "lat": 19.27,
-    "depth": 30.0,
-    "unid": "20221220_0000002",
-    "mag": 2.7,
-    "time": "2022-12-20T01:05:53.8Z",
-    "source_id": "1201772",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "ISLAND OF HAWAII, HAWAII"
   }
 }]}
