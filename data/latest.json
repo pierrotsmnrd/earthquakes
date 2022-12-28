@@ -1,28 +1,54 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1118986},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1118988},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      32.19,
-      34.08,
-      -2.0
+      32.16,
+      34.6,
+      -60.0
     ]
   },
   "type": "Feature",
   "id": "20221228_0000015",
   "properties": {
-    "lastupdate": "2022-12-28T02:14:00.0Z",
-    "magtype": "ml",
+    "lastupdate": "2022-12-28T02:43:00.0Z",
+    "magtype": "mb",
     "evtype": "ke",
-    "lon": 32.19,
+    "lon": 32.16,
     "auth": "EMSC",
-    "lat": 34.08,
-    "depth": 2.0,
+    "lat": 34.6,
+    "depth": 60.0,
     "unid": "20221228_0000015",
-    "mag": 4.2,
-    "time": "2022-12-28T02:10:57.4Z",
+    "mag": 4.0,
+    "time": "2022-12-28T02:11:06.4Z",
     "source_id": "1204431",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CYPRUS REGION"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.89,
+      37.79,
+      0.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221228_0000016",
+  "properties": {
+    "lastupdate": "2022-12-28T02:12:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 26.89,
+    "auth": "EMSC",
+    "lat": 37.79,
+    "depth": 0.0,
+    "unid": "20221228_0000016",
+    "mag": 2.3,
+    "time": "2022-12-28T01:59:26.5Z",
+    "source_id": "1204416",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "DODECANESE ISLANDS, GREECE"
   }
 },{
   "geometry": {
@@ -4807,6 +4833,32 @@
     "source_id": "1204136",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "COQUIMBO, CHILE"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -152.07,
+      62.67,
+      -4.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221227_0000206",
+  "properties": {
+    "lastupdate": "2022-12-28T02:47:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -152.07,
+    "auth": "NEIC",
+    "lat": 62.67,
+    "depth": 4.0,
+    "unid": "20221227_0000206",
+    "mag": 2.9,
+    "time": "2022-12-27T04:59:08.2Z",
+    "source_id": "1204434",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CENTRAL ALASKA"
   }
 },{
   "geometry": {
@@ -25945,57 +25997,5 @@
     "source_id": "1202922",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "PUERTO RICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      122.54,
-      -0.23,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221223_0000037",
-  "properties": {
-    "lastupdate": "2022-12-23T05:45:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 122.54,
-    "auth": "DJA",
-    "lat": -0.23,
-    "depth": 10.0,
-    "unid": "20221223_0000037",
-    "mag": 2.5,
-    "time": "2022-12-23T05:16:58.0Z",
-    "source_id": "1202920",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SULAWESI, INDONESIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      116.44,
-      -9.12,
-      -25.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221223_0000033",
-  "properties": {
-    "lastupdate": "2022-12-23T05:20:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 116.44,
-    "auth": "DJA",
-    "lat": -9.12,
-    "depth": 25.0,
-    "unid": "20221223_0000033",
-    "mag": 3.0,
-    "time": "2022-12-23T05:09:40.0Z",
-    "source_id": "1202916",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "LOMBOK REGION, INDONESIA"
   }
 }]}
