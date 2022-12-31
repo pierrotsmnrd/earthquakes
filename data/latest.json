@@ -1,25 +1,103 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1119812},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1119817},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -124.39,
+      -93.36,
+      15.22,
+      -75.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221231_0000146",
+  "properties": {
+    "lastupdate": "2022-12-31T18:55:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -93.36,
+    "auth": "UNM",
+    "lat": 15.22,
+    "depth": 75.0,
+    "unid": "20221231_0000146",
+    "mag": 4.0,
+    "time": "2022-12-31T18:36:19.0Z",
+    "source_id": "1205634",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "OFFSHORE CHIAPAS, MEXICO"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.85,
+      17.94,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221231_0000145",
+  "properties": {
+    "lastupdate": "2022-12-31T18:50:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -66.85,
+    "auth": "NEIR",
+    "lat": 17.94,
+    "depth": 10.0,
+    "unid": "20221231_0000145",
+    "mag": 2.4,
+    "time": "2022-12-31T18:29:37.1Z",
+    "source_id": "1205633",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "PUERTO RICO REGION"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -155.46,
+      19.21,
+      -30.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221231_0000143",
+  "properties": {
+    "lastupdate": "2022-12-31T18:08:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -155.46,
+    "auth": "NEIR",
+    "lat": 19.21,
+    "depth": 30.0,
+    "unid": "20221231_0000143",
+    "mag": 2.4,
+    "time": "2022-12-31T18:02:53.7Z",
+    "source_id": "1205628",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "ISLAND OF HAWAII, HAWAII"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -124.52,
       40.53,
-      -18.0
+      -29.0
     ]
   },
   "type": "Feature",
   "id": "20221231_0000141",
   "properties": {
-    "lastupdate": "2022-12-31T17:58:00.0Z",
-    "magtype": "md",
+    "lastupdate": "2022-12-31T18:41:00.0Z",
+    "magtype": "ml",
     "evtype": "ke",
-    "lon": -124.39,
-    "auth": "NC",
+    "lon": -124.52,
+    "auth": "NEIC",
     "lat": 40.53,
-    "depth": 18.0,
+    "depth": 29.0,
     "unid": "20221231_0000141",
-    "mag": 2.8,
-    "time": "2022-12-31T17:57:17.9Z",
+    "mag": 2.7,
+    "time": "2022-12-31T17:57:16.1Z",
     "source_id": "1205627",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "OFFSHORE NORTHERN CALIFORNIA"
@@ -106,24 +184,50 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      48.52,
-      34.03,
+      20.85,
+      39.36,
+      -21.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221231_0000142",
+  "properties": {
+    "lastupdate": "2022-12-31T18:01:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 20.85,
+    "auth": "THE",
+    "lat": 39.36,
+    "depth": 21.0,
+    "unid": "20221231_0000142",
+    "mag": 2.7,
+    "time": "2022-12-31T17:13:47.1Z",
+    "source_id": "1205619",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "GREECE"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      48.36,
+      33.66,
       -10.0
     ]
   },
   "type": "Feature",
   "id": "20221231_0000135",
   "properties": {
-    "lastupdate": "2022-12-31T17:18:00.0Z",
-    "magtype": "ml",
+    "lastupdate": "2022-12-31T18:53:00.0Z",
+    "magtype": "mb",
     "evtype": "ke",
-    "lon": 48.52,
-    "auth": "TEH",
-    "lat": 34.03,
+    "lon": 48.36,
+    "auth": "EMSC",
+    "lat": 33.66,
     "depth": 10.0,
     "unid": "20221231_0000135",
-    "mag": 3.7,
-    "time": "2022-12-31T17:05:38.5Z",
+    "mag": 4.1,
+    "time": "2022-12-31T17:05:39.2Z",
     "source_id": "1205620",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "WESTERN IRAN"
@@ -231,6 +335,32 @@
     "source_id": "1205615",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "MINAHASA, SULAWESI, INDONESIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      149.89,
+      45.17,
+      -100.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20221231_0000144",
+  "properties": {
+    "lastupdate": "2022-12-31T18:08:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": 149.89,
+    "auth": "OBN",
+    "lat": 45.17,
+    "depth": 100.0,
+    "unid": "20221231_0000144",
+    "mag": 4.0,
+    "time": "2022-12-31T16:29:39.5Z",
+    "source_id": "1205629",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "KURIL ISLANDS"
   }
 },{
   "geometry": {
@@ -2888,24 +3018,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -68.68,
-      -23.06,
+      -68.66,
+      -23.04,
       -80.0
     ]
   },
   "type": "Feature",
   "id": "20221231_0000028",
   "properties": {
-    "lastupdate": "2022-12-31T04:22:00.0Z",
+    "lastupdate": "2022-12-31T18:55:00.0Z",
     "magtype": "mw",
     "evtype": "ke",
-    "lon": -68.68,
+    "lon": -68.66,
     "auth": "EMSC",
-    "lat": -23.06,
+    "lat": -23.04,
     "depth": 80.0,
     "unid": "20221231_0000028",
     "mag": 5.1,
-    "time": "2022-12-31T03:31:42.2Z",
+    "time": "2022-12-31T03:31:42.1Z",
     "source_id": "1205441",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "ANTOFAGASTA, CHILE"
@@ -25867,135 +25997,5 @@
     "source_id": "1204014",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "ICELAND REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -22.72,
-      63.82,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221226_0000154",
-  "properties": {
-    "lastupdate": "2022-12-26T20:05:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -22.72,
-    "auth": "REY",
-    "lat": 63.82,
-    "depth": 5.0,
-    "unid": "20221226_0000154",
-    "mag": 3.0,
-    "time": "2022-12-26T19:53:12.0Z",
-    "source_id": "1204015",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "ICELAND REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      178.93,
-      -36.25,
-      -313.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221226_0000152",
-  "properties": {
-    "lastupdate": "2022-12-26T19:55:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 178.93,
-    "auth": "GNS",
-    "lat": -36.25,
-    "depth": 313.0,
-    "unid": "20221226_0000152",
-    "mag": 4.0,
-    "time": "2022-12-26T19:51:43.4Z",
-    "source_id": "1204011",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OFF E. COAST OF N. ISLAND, N.Z."
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -155.6,
-      19.91,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221226_0000150",
-  "properties": {
-    "lastupdate": "2022-12-27T16:34:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -155.6,
-    "auth": "NEIC",
-    "lat": 19.91,
-    "depth": 5.0,
-    "unid": "20221226_0000150",
-    "mag": 2.5,
-    "time": "2022-12-26T19:44:35.0Z",
-    "source_id": "1204008",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "ISLAND OF HAWAII, HAWAII"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -69.52,
-      -25.04,
-      -84.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221226_0000151",
-  "properties": {
-    "lastupdate": "2022-12-26T19:53:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -69.52,
-    "auth": "GUC",
-    "lat": -25.04,
-    "depth": 84.0,
-    "unid": "20221226_0000151",
-    "mag": 2.8,
-    "time": "2022-12-26T19:43:39.0Z",
-    "source_id": "1204010",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "ANTOFAGASTA, CHILE"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -104.1,
-      21.25,
-      -16.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221226_0000193",
-  "properties": {
-    "lastupdate": "2022-12-27T02:11:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -104.1,
-    "auth": "UNM",
-    "lat": 21.25,
-    "depth": 16.0,
-    "unid": "20221226_0000193",
-    "mag": 3.5,
-    "time": "2022-12-26T19:40:03.0Z",
-    "source_id": "1204101",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NAYARIT, MEXICO"
   }
 }]}
