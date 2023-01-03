@@ -1,28 +1,132 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1120364},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1120368},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -70.09,
-      -18.29,
-      -42.0
+      -87.82,
+      12.46,
+      -30.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230103_0000015",
+  "properties": {
+    "lastupdate": "2023-01-03T02:50:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -87.82,
+    "auth": "INET",
+    "lat": 12.46,
+    "depth": 30.0,
+    "unid": "20230103_0000015",
+    "mag": 3.4,
+    "time": "2023-01-03T02:46:07.0Z",
+    "source_id": "1206427",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NEAR COAST OF NICARAGUA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.75,
+      12.28,
+      -26.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230103_0000014",
+  "properties": {
+    "lastupdate": "2023-01-03T02:45:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -87.75,
+    "auth": "INET",
+    "lat": 12.28,
+    "depth": 26.0,
+    "unid": "20230103_0000014",
+    "mag": 3.0,
+    "time": "2023-01-03T02:37:02.0Z",
+    "source_id": "1206426",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NEAR COAST OF NICARAGUA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.41,
+      -29.52,
+      -39.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230103_0000012",
+  "properties": {
+    "lastupdate": "2023-01-03T02:34:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -71.41,
+    "auth": "GUC",
+    "lat": -29.52,
+    "depth": 39.0,
+    "unid": "20230103_0000012",
+    "mag": 2.7,
+    "time": "2023-01-03T02:25:37.0Z",
+    "source_id": "1206424",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "OFFSHORE COQUIMBO, CHILE"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -70.1,
+      -18.33,
+      -91.0
     ]
   },
   "type": "Feature",
   "id": "20230103_0000010",
   "properties": {
-    "lastupdate": "2023-01-03T02:13:00.0Z",
+    "lastupdate": "2023-01-03T02:21:00.0Z",
     "magtype": "m",
     "evtype": "ke",
-    "lon": -70.09,
+    "lon": -70.1,
     "auth": "GUC",
-    "lat": -18.29,
-    "depth": 42.0,
+    "lat": -18.33,
+    "depth": 91.0,
     "unid": "20230103_0000010",
-    "mag": 3.8,
-    "time": "2023-01-03T02:09:58.0Z",
+    "mag": 3.6,
+    "time": "2023-01-03T02:09:55.0Z",
     "source_id": "1206420",
     "source_catalog": "EMSC-RTS",
-    "flynn_region": "OFFSHORE TARAPACA, CHILE"
+    "flynn_region": "TARAPACA, CHILE"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -66.34,
+      18.37,
+      -60.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230103_0000013",
+  "properties": {
+    "lastupdate": "2023-01-03T02:39:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -66.34,
+    "auth": "NEIR",
+    "lat": 18.37,
+    "depth": 60.0,
+    "unid": "20230103_0000013",
+    "mag": 3.0,
+    "time": "2023-01-03T02:05:19.7Z",
+    "source_id": "1206425",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "PUERTO RICO"
   }
 },{
   "geometry": {
@@ -1094,24 +1198,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -29.52,
-      40.58,
-      -10.0
+      -29.47,
+      40.85,
+      -40.0
     ]
   },
   "type": "Feature",
   "id": "20230102_0000204",
   "properties": {
-    "lastupdate": "2023-01-02T22:58:00.0Z",
+    "lastupdate": "2023-01-03T03:00:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": -29.52,
+    "lon": -29.47,
     "auth": "EMSC",
-    "lat": 40.58,
-    "depth": 10.0,
+    "lat": 40.85,
+    "depth": 40.0,
     "unid": "20230102_0000204",
     "mag": 4.9,
-    "time": "2023-01-02T21:37:27.1Z",
+    "time": "2023-01-02T21:37:32.3Z",
     "source_id": "1206341",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "AZORES ISLANDS REGION"
@@ -25891,110 +25995,6 @@
     "mag": 3.4,
     "time": "2022-12-29T09:33:43.0Z",
     "source_id": "1204919",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "VERACRUZ, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      120.72,
-      -1.22,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221229_0000064",
-  "properties": {
-    "lastupdate": "2022-12-29T09:30:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 120.72,
-    "auth": "DJA",
-    "lat": -1.22,
-    "depth": 10.0,
-    "unid": "20221229_0000064",
-    "mag": 3.0,
-    "time": "2022-12-29T09:20:55.0Z",
-    "source_id": "1204853",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SULAWESI, INDONESIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      117.55,
-      -9.53,
-      -28.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221229_0000063",
-  "properties": {
-    "lastupdate": "2022-12-29T09:25:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 117.55,
-    "auth": "DJA",
-    "lat": -9.53,
-    "depth": 28.0,
-    "unid": "20221229_0000063",
-    "mag": 3.6,
-    "time": "2022-12-29T09:16:51.0Z",
-    "source_id": "1204852",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SUMBAWA REGION, INDONESIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      21.6,
-      37.06,
-      -16.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221229_0000066",
-  "properties": {
-    "lastupdate": "2022-12-29T09:50:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 21.6,
-    "auth": "THE",
-    "lat": 37.06,
-    "depth": 16.0,
-    "unid": "20221229_0000066",
-    "mag": 3.0,
-    "time": "2022-12-29T09:09:41.1Z",
-    "source_id": "1204851",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SOUTHERN GREECE"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -94.92,
-      17.28,
-      -127.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221229_0000098",
-  "properties": {
-    "lastupdate": "2022-12-29T14:11:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -94.92,
-    "auth": "UNM",
-    "lat": 17.28,
-    "depth": 127.0,
-    "unid": "20221229_0000098",
-    "mag": 3.2,
-    "time": "2022-12-29T08:59:43.0Z",
-    "source_id": "1204920",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "VERACRUZ, MEXICO"
   }
