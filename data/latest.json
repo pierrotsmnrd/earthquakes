@@ -1,25 +1,77 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1120787},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1120789},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -117.77,
-      36.02,
-      -1.0
+      7.63,
+      46.22,
+      -5.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230104_0000143",
+  "properties": {
+    "lastupdate": "2023-01-04T21:52:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 7.63,
+    "auth": "ZUR",
+    "lat": 46.22,
+    "depth": 5.0,
+    "unid": "20230104_0000143",
+    "mag": 1.1,
+    "time": "2023-01-04T21:47:03.8Z",
+    "source_id": "1207044",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SWITZERLAND"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.65,
+      46.22,
+      -2.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230104_0000142",
+  "properties": {
+    "lastupdate": "2023-01-04T21:40:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 7.65,
+    "auth": "ZUR",
+    "lat": 46.22,
+    "depth": 2.0,
+    "unid": "20230104_0000142",
+    "mag": 1.4,
+    "time": "2023-01-04T21:35:52.4Z",
+    "source_id": "1207041",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SWITZERLAND"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -117.78,
+      36.03,
+      -4.0
     ]
   },
   "type": "Feature",
   "id": "20230104_0000139",
   "properties": {
-    "lastupdate": "2023-01-04T20:52:00.0Z",
+    "lastupdate": "2023-01-04T21:18:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": -117.77,
-    "auth": "NEIR",
-    "lat": 36.02,
-    "depth": 1.0,
+    "lon": -117.78,
+    "auth": "NEIC",
+    "lat": 36.03,
+    "depth": 4.0,
     "unid": "20230104_0000139",
-    "mag": 3.0,
-    "time": "2023-01-04T20:49:34.1Z",
+    "mag": 2.8,
+    "time": "2023-01-04T20:49:33.6Z",
     "source_id": "1207036",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CENTRAL CALIFORNIA"
@@ -25945,57 +25997,5 @@
     "source_id": "1205528",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "PUERTO RICO REGION"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -104.03,
-      19.38,
-      -26.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221231_0000102",
-  "properties": {
-    "lastupdate": "2022-12-31T14:05:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -104.03,
-    "auth": "UNM",
-    "lat": 19.38,
-    "depth": 26.0,
-    "unid": "20221231_0000102",
-    "mag": 3.4,
-    "time": "2022-12-31T10:02:31.0Z",
-    "source_id": "1205579",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "COLIMA, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -103.95,
-      19.38,
-      -26.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221231_0000104",
-  "properties": {
-    "lastupdate": "2022-12-31T14:05:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -103.95,
-    "auth": "UNM",
-    "lat": 19.38,
-    "depth": 26.0,
-    "unid": "20221231_0000104",
-    "mag": 3.5,
-    "time": "2022-12-31T09:57:10.0Z",
-    "source_id": "1205580",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "COLIMA, MEXICO"
   }
 }]}
