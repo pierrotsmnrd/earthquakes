@@ -1,25 +1,77 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1120648},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1120651},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.76,
+      35.59,
+      -2.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230104_0000020",
+  "properties": {
+    "lastupdate": "2023-01-04T02:56:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 25.76,
+    "auth": "EMSC",
+    "lat": 35.59,
+    "depth": 2.0,
+    "unid": "20230104_0000020",
+    "mag": 3.8,
+    "time": "2023-01-04T02:31:12.7Z",
+    "source_id": "1206811",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CRETE, GREECE"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
       -35.06,
-      53.96,
-      -80.0
+      54.02,
+      -2.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230104_0000019",
+  "properties": {
+    "lastupdate": "2023-01-04T02:45:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": -35.06,
+    "auth": "EMSC",
+    "lat": 54.02,
+    "depth": 2.0,
+    "unid": "20230104_0000019",
+    "mag": 4.7,
+    "time": "2023-01-04T02:25:03.7Z",
+    "source_id": "1206812",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "REYKJANES RIDGE"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -35.11,
+      53.94,
+      -10.0
     ]
   },
   "type": "Feature",
   "id": "20230104_0000017",
   "properties": {
-    "lastupdate": "2023-01-04T02:17:00.0Z",
-    "magtype": "mb",
+    "lastupdate": "2023-01-04T02:32:00.0Z",
+    "magtype": "mw",
     "evtype": "ke",
-    "lon": -35.06,
+    "lon": -35.11,
     "auth": "EMSC",
-    "lat": 53.96,
-    "depth": 80.0,
+    "lat": 53.94,
+    "depth": 10.0,
     "unid": "20230104_0000017",
-    "mag": 5.1,
-    "time": "2023-01-04T02:08:09.1Z",
+    "mag": 5.3,
+    "time": "2023-01-04T02:08:01.1Z",
     "source_id": "1206807",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "REYKJANES RIDGE"
@@ -80,24 +132,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      169.79,
-      0.2,
-      -40.0
+      170.0,
+      0.13,
+      -2.0
     ]
   },
   "type": "Feature",
   "id": "20230104_0000018",
   "properties": {
-    "lastupdate": "2023-01-04T02:20:00.0Z",
-    "magtype": "m",
+    "lastupdate": "2023-01-04T02:36:00.0Z",
+    "magtype": "mb",
     "evtype": "ke",
-    "lon": 169.79,
+    "lon": 170.0,
     "auth": "EMSC",
-    "lat": 0.2,
-    "depth": 40.0,
+    "lat": 0.13,
+    "depth": 2.0,
     "unid": "20230104_0000018",
-    "mag": 5.3,
-    "time": "2023-01-04T02:02:17.3Z",
+    "mag": 5.4,
+    "time": "2023-01-04T02:02:10.6Z",
     "source_id": "1206808",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "GILBERT ISLANDS, KIRIBATI REGION"
@@ -2941,23 +2993,23 @@
     "type": "Point",
     "coordinates": [
       -155.28,
-      19.42,
-      0.0
+      19.41,
+      -1.0
     ]
   },
   "type": "Feature",
   "id": "20230103_0000147",
   "properties": {
-    "lastupdate": "2023-01-03T15:30:00.0Z",
+    "lastupdate": "2023-01-04T02:40:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
     "lon": -155.28,
     "auth": "NEIR",
-    "lat": 19.42,
-    "depth": 0.0,
+    "lat": 19.41,
+    "depth": 1.0,
     "unid": "20230103_0000147",
     "mag": 2.4,
-    "time": "2023-01-03T15:24:53.2Z",
+    "time": "2023-01-03T15:24:53.3Z",
     "source_id": "1206622",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "ISLAND OF HAWAII, HAWAII"
@@ -25945,57 +25997,5 @@
     "source_id": "1205414",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "GUERRERO, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -98.14,
-      16.53,
-      -31.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221230_0000195",
-  "properties": {
-    "lastupdate": "2022-12-31T02:01:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -98.14,
-    "auth": "UNM",
-    "lat": 16.53,
-    "depth": 31.0,
-    "unid": "20221230_0000195",
-    "mag": 3.7,
-    "time": "2022-12-30T19:21:47.0Z",
-    "source_id": "1205415",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OAXACA, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      177.28,
-      -36.45,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221230_0000150",
-  "properties": {
-    "lastupdate": "2022-12-30T19:25:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 177.28,
-    "auth": "GNS",
-    "lat": -36.45,
-    "depth": 5.0,
-    "unid": "20221230_0000150",
-    "mag": 3.3,
-    "time": "2022-12-30T19:20:13.4Z",
-    "source_id": "1205326",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OFF E. COAST OF N. ISLAND, N.Z."
   }
 }]}
