@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1120797},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1120801},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      174.98,
+      -40.11,
+      -20.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230105_0000001",
+  "properties": {
+    "lastupdate": "2023-01-05T01:15:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 174.98,
+    "auth": "GNS",
+    "lat": -40.11,
+    "depth": 20.0,
+    "unid": "20230105_0000001",
+    "mag": 3.2,
+    "time": "2023-01-05T01:10:50.8Z",
+    "source_id": "1207074",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "COOK STRAIT, NEW ZEALAND"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -147.43,
+      60.03,
+      -20.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230104_0000152",
+  "properties": {
+    "lastupdate": "2023-01-05T00:05:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -147.43,
+    "auth": "NEIC",
+    "lat": 60.03,
+    "depth": 20.0,
+    "unid": "20230104_0000152",
+    "mag": 3.0,
+    "time": "2023-01-04T23:46:50.6Z",
+    "source_id": "1207063",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SOUTHERN ALASKA"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -80,24 +132,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -68.96,
-      -19.14,
-      -125.0
+      -68.91,
+      -19.08,
+      -115.0
     ]
   },
   "type": "Feature",
   "id": "20230104_0000148",
   "properties": {
-    "lastupdate": "2023-01-04T23:42:00.0Z",
+    "lastupdate": "2023-01-05T00:22:00.0Z",
     "magtype": "mw",
     "evtype": "ke",
-    "lon": -68.96,
+    "lon": -68.91,
     "auth": "EMSC",
-    "lat": -19.14,
-    "depth": 125.0,
+    "lat": -19.08,
+    "depth": 115.0,
     "unid": "20230104_0000148",
-    "mag": 5.2,
-    "time": "2023-01-04T23:23:46.0Z",
+    "mag": 5.1,
+    "time": "2023-01-04T23:23:45.7Z",
     "source_id": "1207054",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "TARAPACA, CHILE"
@@ -25945,57 +25997,5 @@
     "source_id": "1205548",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SULAWESI, INDONESIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.73,
-      35.58,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221231_0000078",
-  "properties": {
-    "lastupdate": "2022-12-31T11:33:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -3.73,
-    "auth": "MDD",
-    "lat": 35.58,
-    "depth": 10.0,
-    "unid": "20221231_0000078",
-    "mag": 2.1,
-    "time": "2022-12-31T11:25:51.0Z",
-    "source_id": "1205540",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "STRAIT OF GIBRALTAR"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      25.81,
-      35.56,
-      -15.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20221231_0000115",
-  "properties": {
-    "lastupdate": "2022-12-31T14:17:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 25.81,
-    "auth": "THE",
-    "lat": 35.56,
-    "depth": 15.0,
-    "unid": "20221231_0000115",
-    "mag": 2.4,
-    "time": "2022-12-31T11:15:06.3Z",
-    "source_id": "1205538",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CRETE, GREECE"
   }
 }]}
