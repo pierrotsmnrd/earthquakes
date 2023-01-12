@@ -1,4 +1,30 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1122511},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1122513},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.42,
+      -18.41,
+      -145.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230112_0000088",
+  "properties": {
+    "lastupdate": "2023-01-12T14:00:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": -69.42,
+    "auth": "EMSC",
+    "lat": -18.41,
+    "depth": 145.0,
+    "unid": "20230112_0000088",
+    "mag": 4.8,
+    "time": "2023-01-12T13:14:02.7Z",
+    "source_id": "1209848",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "TARAPACA, CHILE"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -28,24 +54,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -175.39,
-      -23.18,
+      -175.46,
+      -23.16,
       -10.0
     ]
   },
   "type": "Feature",
   "id": "20230112_0000087",
   "properties": {
-    "lastupdate": "2023-01-12T12:51:00.0Z",
+    "lastupdate": "2023-01-12T13:29:00.0Z",
     "magtype": "mw",
     "evtype": "ke",
-    "lon": -175.39,
+    "lon": -175.46,
     "auth": "EMSC",
-    "lat": -23.18,
+    "lat": -23.16,
     "depth": 10.0,
     "unid": "20230112_0000087",
     "mag": 5.3,
-    "time": "2023-01-12T12:28:37.4Z",
+    "time": "2023-01-12T12:28:37.6Z",
     "source_id": "1209845",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "TONGA REGION"
@@ -959,6 +985,32 @@
     "source_id": "1209762",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NORTH ISLAND OF NEW ZEALAND"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -84.72,
+      37.75,
+      -34.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230112_0000089",
+  "properties": {
+    "lastupdate": "2023-01-12T13:21:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -84.72,
+    "auth": "SE",
+    "lat": 37.75,
+    "depth": 34.0,
+    "unid": "20230112_0000089",
+    "mag": 2.6,
+    "time": "2023-01-12T08:07:27.7Z",
+    "source_id": "1209849",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "EASTERN KENTUCKY"
   }
 },{
   "geometry": {
@@ -25945,57 +25997,5 @@
     "source_id": "1208081",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "DODECANESE ISLANDS, GREECE"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      30.98,
-      40.78,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230107_0000208",
-  "properties": {
-    "lastupdate": "2023-01-08T09:25:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 30.98,
-    "auth": "EMSC",
-    "lat": 40.78,
-    "depth": 5.0,
-    "unid": "20230107_0000208",
-    "mag": 2.6,
-    "time": "2023-01-07T23:45:55.8Z",
-    "source_id": "1208080",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "WESTERN TURKEY"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -73.14,
-      -32.92,
-      -22.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230107_0000210",
-  "properties": {
-    "lastupdate": "2023-01-08T00:01:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -73.14,
-    "auth": "GUC",
-    "lat": -32.92,
-    "depth": 22.0,
-    "unid": "20230107_0000210",
-    "mag": 3.4,
-    "time": "2023-01-07T23:38:11.0Z",
-    "source_id": "1208082",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OFF COAST OF VALPARAISO, CHILE"
   }
 }]}
