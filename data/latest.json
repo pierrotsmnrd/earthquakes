@@ -1,4 +1,82 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1122762},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1122766},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.1,
+      6.88,
+      -146.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230113_0000127",
+  "properties": {
+    "lastupdate": "2023-01-13T17:00:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -73.1,
+    "auth": "EMSC",
+    "lat": 6.88,
+    "depth": 146.0,
+    "unid": "20230113_0000127",
+    "mag": 4.8,
+    "time": "2023-01-13T16:41:43.3Z",
+    "source_id": "1210245",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NORTHERN COLOMBIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.07,
+      37.15,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230113_0000125",
+  "properties": {
+    "lastupdate": "2023-01-13T16:40:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -4.07,
+    "auth": "MDD",
+    "lat": 37.15,
+    "depth": 10.0,
+    "unid": "20230113_0000125",
+    "mag": 1.5,
+    "time": "2023-01-13T16:21:34.1Z",
+    "source_id": "1210244",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SPAIN"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.04,
+      37.15,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230113_0000124",
+  "properties": {
+    "lastupdate": "2023-01-13T16:36:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -4.04,
+    "auth": "MDD",
+    "lat": 37.15,
+    "depth": 10.0,
+    "unid": "20230113_0000124",
+    "mag": 2.0,
+    "time": "2023-01-13T16:18:17.5Z",
+    "source_id": "1210242",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SPAIN"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -28,21 +106,21 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -82.38,
-      8.83,
-      -8.0
+      -82.42,
+      8.79,
+      -11.0
     ]
   },
   "type": "Feature",
   "id": "20230113_0000119",
   "properties": {
-    "lastupdate": "2023-01-13T15:45:00.0Z",
+    "lastupdate": "2023-01-13T16:35:00.0Z",
     "magtype": "m",
     "evtype": "ke",
-    "lon": -82.38,
+    "lon": -82.42,
     "auth": "IGC",
-    "lat": 8.83,
-    "depth": 8.0,
+    "lat": 8.79,
+    "depth": 11.0,
     "unid": "20230113_0000119",
     "mag": 3.2,
     "time": "2023-01-13T15:44:14.0Z",
@@ -80,24 +158,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      138.53,
-      -2.59,
-      -40.0
+      138.51,
+      -2.75,
+      -47.0
     ]
   },
   "type": "Feature",
   "id": "20230113_0000121",
   "properties": {
-    "lastupdate": "2023-01-13T15:55:00.0Z",
-    "magtype": "m",
+    "lastupdate": "2023-01-13T16:34:00.0Z",
+    "magtype": "mw",
     "evtype": "ke",
-    "lon": 138.53,
+    "lon": 138.51,
     "auth": "EMSC",
-    "lat": -2.59,
-    "depth": 40.0,
+    "lat": -2.75,
+    "depth": 47.0,
     "unid": "20230113_0000121",
-    "mag": 4.9,
-    "time": "2023-01-13T15:41:44.4Z",
+    "mag": 5.0,
+    "time": "2023-01-13T15:41:43.9Z",
     "source_id": "1210236",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "PAPUA, INDONESIA"
@@ -288,24 +366,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      26.6,
-      34.59,
-      -5.0
+      26.53,
+      34.67,
+      -10.0
     ]
   },
   "type": "Feature",
   "id": "20230113_0000112",
   "properties": {
-    "lastupdate": "2023-01-13T14:31:00.0Z",
+    "lastupdate": "2023-01-13T16:56:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": 26.6,
-    "auth": "ATH",
-    "lat": 34.59,
-    "depth": 5.0,
+    "lon": 26.53,
+    "auth": "THE",
+    "lat": 34.67,
+    "depth": 10.0,
     "unid": "20230113_0000112",
-    "mag": 3.1,
-    "time": "2023-01-13T13:59:50.2Z",
+    "mag": 2.9,
+    "time": "2023-01-13T13:59:52.3Z",
     "source_id": "1210204",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CRETE, GREECE"
@@ -2233,6 +2311,32 @@
     "source_id": "1210216",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "OAXACA, MEXICO"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.12,
+      46.22,
+      3.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230113_0000126",
+  "properties": {
+    "lastupdate": "2023-01-13T16:51:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 7.12,
+    "auth": "ZUR",
+    "lat": 46.22,
+    "depth": -3.0,
+    "unid": "20230113_0000126",
+    "mag": 1.1,
+    "time": "2023-01-13T05:08:25.7Z",
+    "source_id": "1210246",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SWITZERLAND"
   }
 },{
   "geometry": {
@@ -17474,24 +17578,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -68.93,
-      19.24,
-      -5.0
+      -68.89,
+      19.25,
+      -18.0
     ]
   },
   "type": "Feature",
   "id": "20230110_0000113",
   "properties": {
-    "lastupdate": "2023-01-11T00:28:00.0Z",
-    "magtype": "md",
+    "lastupdate": "2023-01-13T16:32:00.0Z",
+    "magtype": "ml",
     "evtype": "ke",
-    "lon": -68.93,
-    "auth": "NEIR",
-    "lat": 19.24,
-    "depth": 5.0,
+    "lon": -68.89,
+    "auth": "NEIC",
+    "lat": 19.25,
+    "depth": 18.0,
     "unid": "20230110_0000113",
-    "mag": 4.1,
-    "time": "2023-01-10T12:19:51.3Z",
+    "mag": 3.3,
+    "time": "2023-01-10T12:19:50.3Z",
     "source_id": "1209048",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "DOMINICAN REPUBLIC REGION"
@@ -25893,109 +25997,5 @@
     "source_id": "1208645",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "MICHOACAN, MEXICO"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -69.16,
-      -28.03,
-      -114.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230109_0000033",
-  "properties": {
-    "lastupdate": "2023-01-09T05:41:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -69.16,
-    "auth": "GUC",
-    "lat": -28.03,
-    "depth": 114.0,
-    "unid": "20230109_0000033",
-    "mag": 2.6,
-    "time": "2023-01-09T05:29:07.0Z",
-    "source_id": "1208482",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "LA RIOJA, ARGENTINA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -155.5,
-      19.21,
-      -35.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230109_0000029",
-  "properties": {
-    "lastupdate": "2023-01-13T15:20:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -155.5,
-    "auth": "NEIC",
-    "lat": 19.21,
-    "depth": 35.0,
-    "unid": "20230109_0000029",
-    "mag": 2.8,
-    "time": "2023-01-09T05:26:58.2Z",
-    "source_id": "1208476",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "ISLAND OF HAWAII, HAWAII"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -70.9,
-      -26.23,
-      -24.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230109_0000030",
-  "properties": {
-    "lastupdate": "2023-01-09T05:31:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -70.9,
-    "auth": "GUC",
-    "lat": -26.23,
-    "depth": 24.0,
-    "unid": "20230109_0000030",
-    "mag": 2.8,
-    "time": "2023-01-09T05:19:25.0Z",
-    "source_id": "1208477",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OFFSHORE ATACAMA, CHILE"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      25.77,
-      35.55,
-      -16.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230109_0000034",
-  "properties": {
-    "lastupdate": "2023-01-09T07:29:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 25.77,
-    "auth": "EMSC",
-    "lat": 35.55,
-    "depth": 16.0,
-    "unid": "20230109_0000034",
-    "mag": 3.1,
-    "time": "2023-01-09T05:18:09.3Z",
-    "source_id": "1208475",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CRETE, GREECE"
   }
 }]}
