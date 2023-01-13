@@ -1,4 +1,82 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1122650},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1122653},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.24,
+      34.49,
+      -56.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230113_0000021",
+  "properties": {
+    "lastupdate": "2023-01-13T03:49:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 25.24,
+    "auth": "EMSC",
+    "lat": 34.49,
+    "depth": 56.0,
+    "unid": "20230113_0000021",
+    "mag": 4.7,
+    "time": "2023-01-13T03:31:35.9Z",
+    "source_id": "1210066",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CRETE, GREECE"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -98.6,
+      36.53,
+      -3.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230113_0000020",
+  "properties": {
+    "lastupdate": "2023-01-13T03:27:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -98.6,
+    "auth": "OK",
+    "lat": 36.53,
+    "depth": 3.0,
+    "unid": "20230113_0000020",
+    "mag": 2.0,
+    "time": "2023-01-13T03:21:18.8Z",
+    "source_id": "1210064",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "OKLAHOMA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -64.61,
+      18.74,
+      -46.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230113_0000022",
+  "properties": {
+    "lastupdate": "2023-01-13T03:43:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -64.61,
+    "auth": "NEIR",
+    "lat": 18.74,
+    "depth": 46.0,
+    "unid": "20230113_0000022",
+    "mag": 3.4,
+    "time": "2023-01-13T02:58:47.3Z",
+    "source_id": "1210069",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "VIRGIN ISLANDS REGION"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -210,24 +288,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      129.69,
-      -0.3,
+      129.7,
+      -0.28,
       -20.0
     ]
   },
   "type": "Feature",
   "id": "20230113_0000010",
   "properties": {
-    "lastupdate": "2023-01-13T01:37:00.0Z",
+    "lastupdate": "2023-01-13T03:56:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": 129.69,
+    "lon": 129.7,
     "auth": "EMSC",
-    "lat": -0.3,
+    "lat": -0.28,
     "depth": 20.0,
     "unid": "20230113_0000010",
     "mag": 4.9,
-    "time": "2023-01-13T01:19:33.1Z",
+    "time": "2023-01-13T01:19:32.9Z",
     "source_id": "1210027",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "HALMAHERA, INDONESIA"
@@ -25919,83 +25997,5 @@
     "source_id": "1208295",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "VANUATU"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      27.2,
-      37.87,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230108_0000123",
-  "properties": {
-    "lastupdate": "2023-01-08T18:57:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 27.2,
-    "auth": "EMSC",
-    "lat": 37.87,
-    "depth": 5.0,
-    "unid": "20230108_0000123",
-    "mag": 2.6,
-    "time": "2023-01-08T16:39:39.8Z",
-    "source_id": "1208291",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "WESTERN TURKEY"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      126.77,
-      7.87,
-      -104.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230108_0000122",
-  "properties": {
-    "lastupdate": "2023-01-08T16:45:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 126.77,
-    "auth": "PIVS",
-    "lat": 7.87,
-    "depth": 104.0,
-    "unid": "20230108_0000122",
-    "mag": 3.1,
-    "time": "2023-01-08T16:30:56.0Z",
-    "source_id": "1208292",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "MINDANAO, PHILIPPINES"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      126.2,
-      37.79,
-      -13.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230108_0000121",
-  "properties": {
-    "lastupdate": "2023-01-08T17:13:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 126.2,
-    "auth": "NEIC",
-    "lat": 37.79,
-    "depth": 13.0,
-    "unid": "20230108_0000121",
-    "mag": 3.6,
-    "time": "2023-01-08T16:28:14.7Z",
-    "source_id": "1208289",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SOUTH KOREA"
   }
 }]}
