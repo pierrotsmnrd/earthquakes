@@ -1,25 +1,51 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1123082},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1123083},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      139.12,
+      168.2,
+      -15.45,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230115_0000026",
+  "properties": {
+    "lastupdate": "2023-01-15T05:57:00.0Z",
+    "magtype": "mw",
+    "evtype": "ke",
+    "lon": 168.2,
+    "auth": "EMSC",
+    "lat": -15.45,
+    "depth": 10.0,
+    "unid": "20230115_0000026",
+    "mag": 5.2,
+    "time": "2023-01-15T05:32:26.3Z",
+    "source_id": "1210705",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "VANUATU"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.13,
       29.97,
-      -404.0
+      -406.0
     ]
   },
   "type": "Feature",
   "id": "20230115_0000025",
   "properties": {
-    "lastupdate": "2023-01-15T05:00:00.0Z",
+    "lastupdate": "2023-01-15T05:48:00.0Z",
     "magtype": "mw",
     "evtype": "ke",
-    "lon": 139.12,
+    "lon": 139.13,
     "auth": "EMSC",
     "lat": 29.97,
-    "depth": 404.0,
+    "depth": 406.0,
     "unid": "20230115_0000025",
     "mag": 5.2,
-    "time": "2023-01-15T04:42:15.9Z",
+    "time": "2023-01-15T04:42:15.8Z",
     "source_id": "1210700",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "IZU ISLANDS, JAPAN REGION"
@@ -54,24 +80,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      168.54,
-      -17.78,
-      -100.0
+      168.46,
+      -17.97,
+      -200.0
     ]
   },
   "type": "Feature",
   "id": "20230115_0000024",
   "properties": {
-    "lastupdate": "2023-01-15T04:58:00.0Z",
-    "magtype": "m",
+    "lastupdate": "2023-01-15T05:07:00.0Z",
+    "magtype": "mb",
     "evtype": "ke",
-    "lon": 168.54,
+    "lon": 168.46,
     "auth": "EMSC",
-    "lat": -17.78,
-    "depth": 100.0,
+    "lat": -17.97,
+    "depth": 200.0,
     "unid": "20230115_0000024",
-    "mag": 4.7,
-    "time": "2023-01-15T04:32:50.1Z",
+    "mag": 4.8,
+    "time": "2023-01-15T04:33:00.5Z",
     "source_id": "1210702",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "VANUATU"
@@ -25971,31 +25997,5 @@
     "source_id": "1209024",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "STRAIT OF GIBRALTAR"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      26.27,
-      39.37,
-      -7.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230110_0000097",
-  "properties": {
-    "lastupdate": "2023-01-10T11:45:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 26.27,
-    "auth": "THE",
-    "lat": 39.37,
-    "depth": 7.0,
-    "unid": "20230110_0000097",
-    "mag": 2.7,
-    "time": "2023-01-10T11:26:30.4Z",
-    "source_id": "1209007",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NEAR THE COAST OF WESTERN TURKEY"
   }
 }]}
