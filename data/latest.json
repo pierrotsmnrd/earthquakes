@@ -1,25 +1,51 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1123291},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1123293},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      139.4,
-      28.97,
-      -420.0
+      -89.85,
+      14.1,
+      -9.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230116_0000033",
+  "properties": {
+    "lastupdate": "2023-01-16T06:00:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -89.85,
+    "auth": "SNET",
+    "lat": 14.1,
+    "depth": 9.0,
+    "unid": "20230116_0000033",
+    "mag": 3.5,
+    "time": "2023-01-16T04:55:07.0Z",
+    "source_id": "1211094",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "GUATEMALA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.3,
+      28.99,
+      -429.0
     ]
   },
   "type": "Feature",
   "id": "20230116_0000031",
   "properties": {
-    "lastupdate": "2023-01-16T04:58:00.0Z",
-    "magtype": "m",
+    "lastupdate": "2023-01-16T05:09:00.0Z",
+    "magtype": "mw",
     "evtype": "ke",
-    "lon": 139.4,
-    "auth": "GFZ",
-    "lat": 28.97,
-    "depth": 420.0,
+    "lon": 139.3,
+    "auth": "EMSC",
+    "lat": 28.99,
+    "depth": 429.0,
     "unid": "20230116_0000031",
-    "mag": 5.8,
-    "time": "2023-01-16T04:49:53.8Z",
+    "mag": 6.3,
+    "time": "2023-01-16T04:49:54.2Z",
     "source_id": "1211073",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "BONIN ISLANDS, JAPAN REGION"
@@ -28,24 +54,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -89.69,
-      14.27,
-      -40.0
+      -89.84,
+      14.11,
+      0.0
     ]
   },
   "type": "Feature",
   "id": "20230116_0000029",
   "properties": {
-    "lastupdate": "2023-01-16T04:57:00.0Z",
-    "magtype": "m",
+    "lastupdate": "2023-01-16T05:04:00.0Z",
+    "magtype": "mw",
     "evtype": "ke",
-    "lon": -89.69,
+    "lon": -89.84,
     "auth": "EMSC",
-    "lat": 14.27,
-    "depth": 40.0,
+    "lat": 14.11,
+    "depth": 0.0,
     "unid": "20230116_0000029",
-    "mag": 4.9,
-    "time": "2023-01-16T04:47:19.4Z",
+    "mag": 5.0,
+    "time": "2023-01-16T04:47:12.4Z",
     "source_id": "1211072",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "GUATEMALA"
@@ -114,7 +140,7 @@
   "type": "Feature",
   "id": "20230116_0000027",
   "properties": {
-    "lastupdate": "2023-01-16T04:46:00.0Z",
+    "lastupdate": "2023-01-16T05:37:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
     "lon": 26.29,
@@ -309,6 +335,32 @@
     "source_id": "1211049",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "ISLAND OF HAWAII, HAWAII"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      156.76,
+      49.62,
+      -50.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230116_0000032",
+  "properties": {
+    "lastupdate": "2023-01-16T05:21:00.0Z",
+    "magtype": "mb",
+    "evtype": "ke",
+    "lon": 156.76,
+    "auth": "OBN",
+    "lat": 49.62,
+    "depth": 50.0,
+    "unid": "20230116_0000032",
+    "mag": 4.4,
+    "time": "2023-01-16T03:27:21.0Z",
+    "source_id": "1211085",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "KURIL ISLANDS"
   }
 },{
   "geometry": {
@@ -25945,57 +25997,5 @@
     "source_id": "1209570",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "ANDREANOF ISLANDS, ALEUTIAN IS."
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -86.53,
-      11.08,
-      -17.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230111_0000064",
-  "properties": {
-    "lastupdate": "2023-01-11T08:30:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -86.53,
-    "auth": "INET",
-    "lat": 11.08,
-    "depth": 17.0,
-    "unid": "20230111_0000064",
-    "mag": 2.8,
-    "time": "2023-01-11T08:19:30.0Z",
-    "source_id": "1209400",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NEAR COAST OF NICARAGUA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      25.83,
-      35.51,
-      -19.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230111_0000075",
-  "properties": {
-    "lastupdate": "2023-01-11T09:50:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 25.83,
-    "auth": "THE",
-    "lat": 35.51,
-    "depth": 19.0,
-    "unid": "20230111_0000075",
-    "mag": 2.2,
-    "time": "2023-01-11T08:05:07.6Z",
-    "source_id": "1209394",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CRETE, GREECE"
   }
 }]}
