@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1124006},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1124008},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.64,
+      -29.49,
+      -51.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230119_0000019",
+  "properties": {
+    "lastupdate": "2023-01-19T03:58:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -71.64,
+    "auth": "GUC",
+    "lat": -29.49,
+    "depth": 51.0,
+    "unid": "20230119_0000019",
+    "mag": 2.5,
+    "time": "2023-01-19T03:31:07.0Z",
+    "source_id": "1212249",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "OFFSHORE COQUIMBO, CHILE"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      104.28,
+      -6.58,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230119_0000018",
+  "properties": {
+    "lastupdate": "2023-01-19T03:35:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 104.28,
+    "auth": "DJA",
+    "lat": -6.58,
+    "depth": 10.0,
+    "unid": "20230119_0000018",
+    "mag": 3.9,
+    "time": "2023-01-19T03:30:39.0Z",
+    "source_id": "1212247",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SUNDA STRAIT, INDONESIA"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -132,27 +184,27 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      143.01,
-      25.95,
-      -10.0
+      142.9,
+      26.02,
+      -40.0
     ]
   },
   "type": "Feature",
   "id": "20230119_0000013",
   "properties": {
-    "lastupdate": "2023-01-19T02:22:00.0Z",
+    "lastupdate": "2023-01-19T03:14:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": 143.01,
-    "auth": "NEIC",
-    "lat": 25.95,
-    "depth": 10.0,
+    "lon": 142.9,
+    "auth": "EMSC",
+    "lat": 26.02,
+    "depth": 40.0,
     "unid": "20230119_0000013",
     "mag": 4.6,
-    "time": "2023-01-19T01:41:39.7Z",
+    "time": "2023-01-19T01:41:44.3Z",
     "source_id": "1212233",
     "source_catalog": "EMSC-RTS",
-    "flynn_region": "VOLCANO ISLANDS, JAPAN REGION"
+    "flynn_region": "BONIN ISLANDS, JAPAN REGION"
   }
 },{
   "geometry": {
@@ -25945,57 +25997,5 @@
     "source_id": "1210543",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "ALBANIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.97,
-      35.01,
-      -7.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230114_0000134",
-  "properties": {
-    "lastupdate": "2023-01-14T15:04:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -116.97,
-    "auth": "NEIR",
-    "lat": 35.01,
-    "depth": 7.0,
-    "unid": "20230114_0000134",
-    "mag": 2.3,
-    "time": "2023-01-14T15:00:33.0Z",
-    "source_id": "1210541",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SOUTHERN CALIFORNIA"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -66.85,
-      17.87,
-      -16.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230114_0000136",
-  "properties": {
-    "lastupdate": "2023-01-14T15:14:00.0Z",
-    "magtype": "md",
-    "evtype": "ke",
-    "lon": -66.85,
-    "auth": "NEIR",
-    "lat": 17.87,
-    "depth": 16.0,
-    "unid": "20230114_0000136",
-    "mag": 2.1,
-    "time": "2023-01-14T14:56:22.8Z",
-    "source_id": "1210544",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "PUERTO RICO REGION"
   }
 }]}
