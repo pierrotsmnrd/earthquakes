@@ -1,4 +1,4 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1124834},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1124835},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -2519,6 +2519,32 @@
     "source_id": "1213327",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHERN SUMATRA, INDONESIA"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -62.28,
+      17.49,
+      -70.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230122_0000105",
+  "properties": {
+    "lastupdate": "2023-01-22T12:50:00.0Z",
+    "magtype": "md",
+    "evtype": "ke",
+    "lon": -62.28,
+    "auth": "OVSG",
+    "lat": 17.49,
+    "depth": 70.0,
+    "unid": "20230122_0000105",
+    "mag": 3.0,
+    "time": "2023-01-22T00:38:27.5Z",
+    "source_id": "1213531",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "ANTIGUA AND BARBUDA REGION"
   }
 },{
   "geometry": {
@@ -25971,31 +25997,5 @@
     "source_id": "1211893",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NEAR THE COAST OF WESTERN TURKEY"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      127.19,
-      2.87,
-      -16.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230118_0000069",
-  "properties": {
-    "lastupdate": "2023-01-18T07:55:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 127.19,
-    "auth": "DJA",
-    "lat": 2.87,
-    "depth": 16.0,
-    "unid": "20230118_0000069",
-    "mag": 3.8,
-    "time": "2023-01-18T07:50:46.0Z",
-    "source_id": "1211892",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "MOLUCCA SEA"
   }
 }]}
