@@ -1,4 +1,30 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1127055},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1127056},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -71.32,
+      -29.18,
+      -64.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230201_0000011",
+  "properties": {
+    "lastupdate": "2023-02-01T02:59:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -71.32,
+    "auth": "GUC",
+    "lat": -29.18,
+    "depth": 64.0,
+    "mag": 2.5,
+    "time": "2023-02-01T02:48:01.0Z",
+    "source_id": "1216942",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "COQUIMBO, CHILE",
+    "unid": "20230201_0000011"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -25971,31 +25997,5 @@
     "source_catalog": "EMSC-RTS",
     "flynn_region": "MICHOACAN, MEXICO",
     "unid": "20230127_0000136"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -80.13,
-      1.28,
-      -3.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230127_0000253",
-  "properties": {
-    "lastupdate": "2023-01-28T10:30:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -80.13,
-    "auth": "QUI",
-    "lat": 1.28,
-    "depth": 3.0,
-    "mag": 3.5,
-    "time": "2023-01-27T08:56:36.0Z",
-    "source_id": "1215772",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OFF COAST OF ECUADOR",
-    "unid": "20230127_0000253"
   }
 }]}
