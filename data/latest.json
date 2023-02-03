@@ -1,4 +1,30 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1127469},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1127471},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      14.41,
+      38.01,
+      -10.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230203_0000013",
+  "properties": {
+    "lastupdate": "2023-02-03T02:43:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 14.41,
+    "auth": "INGV",
+    "lat": 38.01,
+    "depth": 10.0,
+    "mag": 2.0,
+    "time": "2023-02-03T02:37:51.5Z",
+    "source_id": "1217584",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SICILY, ITALY",
+    "unid": "20230203_0000013"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -75,6 +101,32 @@
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NORTHERN CALIFORNIA",
     "unid": "20230203_0000009"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.27,
+      37.32,
+      -21.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230203_0000012",
+  "properties": {
+    "lastupdate": "2023-02-03T02:30:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -7.27,
+    "auth": "MDD",
+    "lat": 37.32,
+    "depth": 21.0,
+    "mag": 1.6,
+    "time": "2023-02-03T01:51:44.3Z",
+    "source_id": "1217583",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "PORTUGAL",
+    "unid": "20230203_0000012"
   }
 },{
   "geometry": {
@@ -25945,57 +25997,5 @@
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CRETE, GREECE",
     "unid": "20230129_0000059"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -82.89,
-      8.81,
-      -20.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230129_0000132",
-  "properties": {
-    "lastupdate": "2023-01-29T15:40:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -82.89,
-    "auth": "UCR",
-    "lat": 8.81,
-    "depth": 20.0,
-    "mag": 3.0,
-    "time": "2023-01-29T04:47:30.0Z",
-    "source_id": "1216171",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "PANAMA-COSTA RICA BORDER REGION",
-    "unid": "20230129_0000132"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -122.82,
-      38.83,
-      -2.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230129_0000040",
-  "properties": {
-    "lastupdate": "2023-01-31T21:08:00.0Z",
-    "magtype": "md",
-    "evtype": "ke",
-    "lon": -122.82,
-    "auth": "NC",
-    "lat": 38.83,
-    "depth": 2.0,
-    "mag": 2.1,
-    "time": "2023-01-29T04:43:43.7Z",
-    "source_id": "1216028",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NORTHERN CALIFORNIA",
-    "unid": "20230129_0000040"
   }
 }]}
