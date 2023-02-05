@@ -1,4 +1,56 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1127999},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1128001},"features":[{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      25.69,
+      42.16,
+      -2.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230205_0000144",
+  "properties": {
+    "lastupdate": "2023-02-05T19:53:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 25.69,
+    "auth": "EMSC",
+    "lat": 42.16,
+    "depth": 2.0,
+    "mag": 3.0,
+    "time": "2023-02-05T19:21:41.3Z",
+    "source_id": "1218373",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "BULGARIA",
+    "unid": "20230205_0000144"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.61,
+      42.21,
+      -31.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230205_0000143",
+  "properties": {
+    "lastupdate": "2023-02-05T19:05:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -7.61,
+    "auth": "MDD",
+    "lat": 42.21,
+    "depth": 31.0,
+    "mag": 1.8,
+    "time": "2023-02-05T18:58:37.6Z",
+    "source_id": "1218371",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SPAIN",
+    "unid": "20230205_0000143"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -80,23 +132,23 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -153.08,
+      -153.09,
       59.72,
-      -22.0
+      -10.0
     ]
   },
   "type": "Feature",
   "id": "20230205_0000135",
   "properties": {
-    "lastupdate": "2023-02-05T18:32:00.0Z",
+    "lastupdate": "2023-02-05T19:41:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": -153.08,
-    "auth": "NEIR",
+    "lon": -153.09,
+    "auth": "NEIC",
     "lat": 59.72,
-    "depth": 22.0,
-    "mag": 3.2,
-    "time": "2023-02-05T18:31:33.2Z",
+    "depth": 10.0,
+    "mag": 3.3,
+    "time": "2023-02-05T18:31:33.3Z",
     "source_id": "1218363",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHERN ALASKA",
@@ -25945,57 +25997,5 @@
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NICARAGUA",
     "unid": "20230131_0000132"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      127.31,
-      1.96,
-      -87.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230131_0000133",
-  "properties": {
-    "lastupdate": "2023-01-31T16:55:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 127.31,
-    "auth": "DJA",
-    "lat": 1.96,
-    "depth": 87.0,
-    "mag": 3.9,
-    "time": "2023-01-31T16:44:38.0Z",
-    "source_id": "1216817",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "HALMAHERA, INDONESIA",
-    "unid": "20230131_0000133"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -103.98,
-      31.63,
-      -6.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230131_0000143",
-  "properties": {
-    "lastupdate": "2023-01-31T18:38:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -103.98,
-    "auth": "TX",
-    "lat": 31.63,
-    "depth": 6.0,
-    "mag": 2.1,
-    "time": "2023-01-31T16:36:59.4Z",
-    "source_id": "1216832",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "WESTERN TEXAS",
-    "unid": "20230131_0000143"
   }
 }]}
