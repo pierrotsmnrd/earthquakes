@@ -1,28 +1,236 @@
-{"type":"FeatureCollection","metadata":{"totalCount":1136571},"features":[{
+{"type":"FeatureCollection","metadata":{"totalCount":1136580},"features":[{
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -88.01,
-      12.57,
+      -68.86,
+      -21.81,
+      -150.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230227_0000275",
+  "properties": {
+    "lastupdate": "2023-02-27T20:58:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -68.86,
+    "auth": "EMSC",
+    "lat": -21.81,
+    "depth": 150.0,
+    "mag": 4.7,
+    "time": "2023-02-27T20:52:34.2Z",
+    "source_id": "1229804",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "ANTOFAGASTA, CHILE",
+    "unid": "20230227_0000275"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.03,
+      12.56,
+      -32.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230227_0000274",
+  "properties": {
+    "lastupdate": "2023-02-27T20:55:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -88.03,
+    "auth": "INET",
+    "lat": 12.56,
+    "depth": 32.0,
+    "mag": 3.3,
+    "time": "2023-02-27T20:47:13.0Z",
+    "source_id": "1229803",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NEAR COAST OF NICARAGUA",
+    "unid": "20230227_0000274"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      75.48,
+      33.84,
+      -5.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230227_0000272",
+  "properties": {
+    "lastupdate": "2023-02-27T20:45:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 75.48,
+    "auth": "NDI",
+    "lat": 33.84,
+    "depth": 5.0,
+    "mag": 2.8,
+    "time": "2023-02-27T20:32:24.0Z",
+    "source_id": "1229800",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "EASTERN KASHMIR",
+    "unid": "20230227_0000272"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.46,
+      37.8,
+      -6.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230227_0000273",
+  "properties": {
+    "lastupdate": "2023-02-27T20:48:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 36.46,
+    "auth": "ISK",
+    "lat": 37.8,
+    "depth": 6.0,
+    "mag": 2.6,
+    "time": "2023-02-27T20:29:11.8Z",
+    "source_id": "1229801",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CENTRAL TURKEY",
+    "unid": "20230227_0000273"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -7.48,
+      36.8,
+      -31.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230227_0000271",
+  "properties": {
+    "lastupdate": "2023-02-27T20:33:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -7.48,
+    "auth": "MDD",
+    "lat": 36.8,
+    "depth": 31.0,
+    "mag": 2.0,
+    "time": "2023-02-27T20:25:22.4Z",
+    "source_id": "1229799",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "STRAIT OF GIBRALTAR",
+    "unid": "20230227_0000271"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.53,
+      38.06,
+      -2.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230227_0000270",
+  "properties": {
+    "lastupdate": "2023-02-27T20:20:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 36.53,
+    "auth": "ISK",
+    "lat": 38.06,
+    "depth": 2.0,
+    "mag": 2.7,
+    "time": "2023-02-27T20:03:32.9Z",
+    "source_id": "1229797",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CENTRAL TURKEY",
+    "unid": "20230227_0000270"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.03,
+      38.09,
+      -5.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230227_0000268",
+  "properties": {
+    "lastupdate": "2023-02-27T20:41:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 37.03,
+    "auth": "DDA",
+    "lat": 38.09,
+    "depth": 5.0,
+    "mag": 2.7,
+    "time": "2023-02-27T20:01:05.0Z",
+    "source_id": "1229790",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "CENTRAL TURKEY",
+    "unid": "20230227_0000268"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -88.02,
+      12.56,
       -32.0
     ]
   },
   "type": "Feature",
   "id": "20230227_0000267",
   "properties": {
-    "lastupdate": "2023-02-27T20:01:00.0Z",
+    "lastupdate": "2023-02-27T20:06:00.0Z",
     "magtype": "m",
     "evtype": "ke",
-    "lon": -88.01,
+    "lon": -88.02,
     "auth": "INET",
-    "lat": 12.57,
+    "lat": 12.56,
     "depth": 32.0,
-    "mag": 3.8,
+    "mag": 3.7,
     "time": "2023-02-27T19:58:42.0Z",
     "source_id": "1229787",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NEAR COAST OF NICARAGUA",
     "unid": "20230227_0000267"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -94.97,
+      15.86,
+      -19.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230227_0000269",
+  "properties": {
+    "lastupdate": "2023-02-27T20:15:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -94.97,
+    "auth": "UNM",
+    "lat": 15.86,
+    "depth": 19.0,
+    "mag": 4.1,
+    "time": "2023-02-27T19:55:45.0Z",
+    "source_id": "1229795",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "OFFSHORE OAXACA, MEXICO",
+    "unid": "20230227_0000269"
   }
 },{
   "geometry": {
@@ -36,7 +244,7 @@
   "type": "Feature",
   "id": "20230227_0000264",
   "properties": {
-    "lastupdate": "2023-02-27T19:57:00.0Z",
+    "lastupdate": "2023-02-27T20:41:00.0Z",
     "magtype": "m",
     "evtype": "ke",
     "lon": 36.98,
@@ -262,23 +470,23 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      36.68,
-      37.84,
-      -2.0
+      36.7,
+      37.79,
+      -10.0
     ]
   },
   "type": "Feature",
   "id": "20230227_0000253",
   "properties": {
-    "lastupdate": "2023-02-27T19:27:00.0Z",
-    "magtype": "ml",
+    "lastupdate": "2023-02-27T20:03:00.0Z",
+    "magtype": "m",
     "evtype": "ke",
-    "lon": 36.68,
-    "auth": "EMSC",
-    "lat": 37.84,
-    "depth": 2.0,
-    "mag": 3.9,
-    "time": "2023-02-27T19:12:00.9Z",
+    "lon": 36.7,
+    "auth": "DDA",
+    "lat": 37.79,
+    "depth": 10.0,
+    "mag": 4.1,
+    "time": "2023-02-27T19:12:02.8Z",
     "source_id": "1229771",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CENTRAL TURKEY",
@@ -392,21 +600,21 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      142.09,
-      38.52,
-      -51.0
+      142.07,
+      38.56,
+      -50.0
     ]
   },
   "type": "Feature",
   "id": "20230227_0000249",
   "properties": {
-    "lastupdate": "2023-02-27T19:46:00.0Z",
+    "lastupdate": "2023-02-27T20:44:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": 142.09,
+    "lon": 142.07,
     "auth": "EMSC",
-    "lat": 38.52,
-    "depth": 51.0,
+    "lat": 38.56,
+    "depth": 50.0,
     "mag": 4.6,
     "time": "2023-02-27T18:56:09.4Z",
     "source_id": "1229766",
@@ -497,22 +705,22 @@
     "type": "Point",
     "coordinates": [
       -87.8,
-      12.77,
+      12.76,
       -80.0
     ]
   },
   "type": "Feature",
   "id": "20230227_0000250",
   "properties": {
-    "lastupdate": "2023-02-27T19:53:00.0Z",
+    "lastupdate": "2023-02-27T20:19:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
     "lon": -87.8,
     "auth": "EMSC",
-    "lat": 12.77,
+    "lat": 12.76,
     "depth": 80.0,
     "mag": 5.3,
-    "time": "2023-02-27T18:46:08.4Z",
+    "time": "2023-02-27T18:46:08.3Z",
     "source_id": "1229760",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NEAR COAST OF NICARAGUA",
@@ -556,7 +764,7 @@
   "type": "Feature",
   "id": "20230227_0000243",
   "properties": {
-    "lastupdate": "2023-02-27T19:28:00.0Z",
+    "lastupdate": "2023-02-27T20:36:00.0Z",
     "magtype": "m",
     "evtype": "ke",
     "lon": 36.62,
@@ -920,14 +1128,14 @@
   "type": "Feature",
   "id": "20230227_0000226",
   "properties": {
-    "lastupdate": "2023-02-27T17:16:00.0Z",
+    "lastupdate": "2023-02-27T20:59:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
     "lon": -155.24,
     "auth": "NEIR",
     "lat": 19.45,
     "depth": 28.0,
-    "mag": 2.4,
+    "mag": 2.7,
     "time": "2023-02-27T17:11:05.5Z",
     "source_id": "1229732",
     "source_catalog": "EMSC-RTS",
@@ -1484,23 +1692,23 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -118.48,
-      37.4,
-      -12.0
+      -118.46,
+      37.41,
+      -3.0
     ]
   },
   "type": "Feature",
   "id": "20230227_0000201",
   "properties": {
-    "lastupdate": "2023-02-27T17:20:00.0Z",
+    "lastupdate": "2023-02-27T20:07:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": -118.48,
+    "lon": -118.46,
     "auth": "NN",
-    "lat": 37.4,
-    "depth": 12.0,
+    "lat": 37.41,
+    "depth": 3.0,
     "mag": 2.3,
-    "time": "2023-02-27T15:16:34.8Z",
+    "time": "2023-02-27T15:16:35.3Z",
     "source_id": "1229695",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CENTRAL CALIFORNIA",
@@ -11281,6 +11489,32 @@
     "source_catalog": "EMSC-RTS",
     "flynn_region": "COSTA RICA",
     "unid": "20230226_0000168"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -57.4,
+      48.34,
+      -18.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230226_0000257",
+  "properties": {
+    "lastupdate": "2023-02-27T20:50:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -57.4,
+    "auth": "CN",
+    "lat": 48.34,
+    "depth": 18.0,
+    "mag": 2.8,
+    "time": "2023-02-26T07:29:37.0Z",
+    "source_id": "1229802",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "NEWFOUNDLAND, NFLD.-LAB., CANADA",
+    "unid": "20230226_0000257"
   }
 },{
   "geometry": {
@@ -25763,239 +25997,5 @@
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CENTRAL ITALY",
     "unid": "20230224_0000123"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      23.21,
-      35.09,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230224_0000124",
-  "properties": {
-    "lastupdate": "2023-02-24T14:23:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 23.21,
-    "auth": "EMSC",
-    "lat": 35.09,
-    "depth": 10.0,
-    "mag": 3.7,
-    "time": "2023-02-24T11:19:45.6Z",
-    "source_id": "1228267",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CRETE, GREECE",
-    "unid": "20230224_0000124"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      20.73,
-      41.18,
-      -2.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230224_0000128",
-  "properties": {
-    "lastupdate": "2023-02-24T14:22:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 20.73,
-    "auth": "EMSC",
-    "lat": 41.18,
-    "depth": 2.0,
-    "mag": 2.3,
-    "time": "2023-02-24T11:19:27.1Z",
-    "source_id": "1228266",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "REPUBLIC OF NORTH MACEDONIA",
-    "unid": "20230224_0000128"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      25.39,
-      35.74,
-      -3.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230224_0000138",
-  "properties": {
-    "lastupdate": "2023-02-24T12:45:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 25.39,
-    "auth": "THE",
-    "lat": 35.74,
-    "depth": 3.0,
-    "mag": 2.0,
-    "time": "2023-02-24T11:06:13.6Z",
-    "source_id": "1228262",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CRETE, GREECE",
-    "unid": "20230224_0000138"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -93.95,
-      15.02,
-      -16.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230224_0000148",
-  "properties": {
-    "lastupdate": "2023-02-24T14:05:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -93.95,
-    "auth": "UNM",
-    "lat": 15.02,
-    "depth": 16.0,
-    "mag": 3.7,
-    "time": "2023-02-24T10:54:17.0Z",
-    "source_id": "1228303",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OFFSHORE CHIAPAS, MEXICO",
-    "unid": "20230224_0000148"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -68.78,
-      -22.42,
-      -92.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230224_0000122",
-  "properties": {
-    "lastupdate": "2023-02-24T10:51:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -68.78,
-    "auth": "GUC",
-    "lat": -22.42,
-    "depth": 92.0,
-    "mag": 2.6,
-    "time": "2023-02-24T10:34:29.0Z",
-    "source_id": "1228258",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "ANTOFAGASTA, CHILE",
-    "unid": "20230224_0000122"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -104.38,
-      31.68,
-      -8.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230224_0000207",
-  "properties": {
-    "lastupdate": "2023-02-24T17:30:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -104.38,
-    "auth": "TX",
-    "lat": 31.68,
-    "depth": 8.0,
-    "mag": 2.0,
-    "time": "2023-02-24T10:12:54.0Z",
-    "source_id": "1228373",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "WESTERN TEXAS",
-    "unid": "20230224_0000207"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -116.27,
-      30.68,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230224_0000149",
-  "properties": {
-    "lastupdate": "2023-02-24T14:05:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -116.27,
-    "auth": "UNM",
-    "lat": 30.68,
-    "depth": 10.0,
-    "mag": 3.3,
-    "time": "2023-02-24T10:05:53.0Z",
-    "source_id": "1228304",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OFFSHORE BAJA CALIFORNIA, MEXICO",
-    "unid": "20230224_0000149"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      36.67,
-      37.28,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230224_0000120",
-  "properties": {
-    "lastupdate": "2023-02-24T14:21:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 36.67,
-    "auth": "EMSC",
-    "lat": 37.28,
-    "depth": 5.0,
-    "mag": 3.7,
-    "time": "2023-02-24T10:05:18.0Z",
-    "source_id": "1228251",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CENTRAL TURKEY",
-    "unid": "20230224_0000120"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -114.16,
-      29.07,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230224_0000151",
-  "properties": {
-    "lastupdate": "2023-02-24T14:05:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -114.16,
-    "auth": "UNM",
-    "lat": 29.07,
-    "depth": 10.0,
-    "mag": 3.7,
-    "time": "2023-02-24T09:57:10.0Z",
-    "source_id": "1228305",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "BAJA CALIFORNIA, MEXICO",
-    "unid": "20230224_0000151"
   }
 }]}
