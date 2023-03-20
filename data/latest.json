@@ -2,6 +2,32 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      38.15,
+      38.25,
+      -5.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230320_0000026",
+  "properties": {
+    "lastupdate": "2023-03-20T02:23:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 38.15,
+    "auth": "ISK",
+    "lat": 38.25,
+    "depth": 5.0,
+    "mag": 2.7,
+    "time": "2023-03-20T02:16:36.4Z",
+    "source_id": "1239454",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "EASTERN TURKEY",
+    "unid": "20230320_0000026"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       -120.62,
       36.05,
       -2.0
@@ -80,23 +106,23 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      54.94,
-      27.12,
+      55.0,
+      27.23,
       -10.0
     ]
   },
   "type": "Feature",
   "id": "20230320_0000023",
   "properties": {
-    "lastupdate": "2023-03-20T02:07:00.0Z",
+    "lastupdate": "2023-03-20T02:46:00.0Z",
     "magtype": "m",
     "evtype": "ke",
-    "lon": 54.94,
-    "auth": "GFZ",
-    "lat": 27.12,
+    "lon": 55.0,
+    "auth": "EMSC",
+    "lat": 27.23,
     "depth": 10.0,
-    "mag": 4.5,
-    "time": "2023-03-20T01:49:22.3Z",
+    "mag": 4.4,
+    "time": "2023-03-20T01:49:21.9Z",
     "source_id": "1239441",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHERN IRAN",
@@ -25971,31 +25997,5 @@
     "source_catalog": "EMSC-RTS",
     "flynn_region": "PANAMA",
     "unid": "20230317_0000071"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -66.96,
-      17.94,
-      -7.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230317_0000074",
-  "properties": {
-    "lastupdate": "2023-03-17T06:13:00.0Z",
-    "magtype": "md",
-    "evtype": "ke",
-    "lon": -66.96,
-    "auth": "NEIR",
-    "lat": 17.94,
-    "depth": 7.0,
-    "mag": 2.9,
-    "time": "2023-03-17T06:00:31.8Z",
-    "source_id": "1238130",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "PUERTO RICO REGION",
-    "unid": "20230317_0000074"
   }
 }]}
