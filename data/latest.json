@@ -2,6 +2,32 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      -115.25,
+      44.34,
+      -17.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230502_0000147",
+  "properties": {
+    "lastupdate": "2023-05-02T17:56:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": -115.25,
+    "auth": "NEIC",
+    "lat": 44.34,
+    "depth": 17.0,
+    "mag": 2.6,
+    "time": "2023-05-02T17:25:06.4Z",
+    "source_id": "1256768",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "SOUTHERN IDAHO",
+    "unid": "20230502_0000147"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       -69.01,
       -31.41,
       -160.0
@@ -29,22 +55,22 @@
     "type": "Point",
     "coordinates": [
       36.6,
-      37.79,
-      -5.0
+      37.77,
+      -10.0
     ]
   },
   "type": "Feature",
   "id": "20230502_0000144",
   "properties": {
-    "lastupdate": "2023-05-02T16:57:00.0Z",
+    "lastupdate": "2023-05-02T17:06:00.0Z",
     "magtype": "m",
     "evtype": "ke",
     "lon": 36.6,
     "auth": "DDA",
-    "lat": 37.79,
-    "depth": 5.0,
+    "lat": 37.77,
+    "depth": 10.0,
     "mag": 2.7,
-    "time": "2023-05-02T16:47:50.1Z",
+    "time": "2023-05-02T16:47:50.3Z",
     "source_id": "1256765",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CENTRAL TURKEY",
@@ -288,23 +314,23 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      174.15,
-      -21.93,
-      -33.0
+      174.12,
+      -21.9,
+      -12.0
     ]
   },
   "type": "Feature",
   "id": "20230502_0000135",
   "properties": {
-    "lastupdate": "2023-05-02T15:53:00.0Z",
+    "lastupdate": "2023-05-02T17:11:00.0Z",
     "magtype": "mb",
     "evtype": "ke",
-    "lon": 174.15,
-    "auth": "NEIC",
-    "lat": -21.93,
-    "depth": 33.0,
+    "lon": 174.12,
+    "auth": "EMSC",
+    "lat": -21.9,
+    "depth": 12.0,
     "mag": 4.8,
-    "time": "2023-05-02T15:36:33.9Z",
+    "time": "2023-05-02T15:36:31.1Z",
     "source_id": "1256747",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "VANUATU REGION",
@@ -12456,23 +12482,23 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -121.04,
-      40.17,
-      0.0
+      -121.07,
+      40.16,
+      -4.0
     ]
   },
   "type": "Feature",
   "id": "20230430_0000201",
   "properties": {
-    "lastupdate": "2023-04-30T18:42:00.0Z",
+    "lastupdate": "2023-05-02T17:24:00.0Z",
     "magtype": "md",
     "evtype": "ke",
-    "lon": -121.04,
+    "lon": -121.07,
     "auth": "NC",
-    "lat": 40.17,
-    "depth": 0.0,
-    "mag": 2.5,
-    "time": "2023-04-30T18:40:43.0Z",
+    "lat": 40.16,
+    "depth": 4.0,
+    "mag": 2.3,
+    "time": "2023-04-30T18:40:43.1Z",
     "source_id": "1256101",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NORTHERN CALIFORNIA",
@@ -25971,31 +25997,5 @@
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NORTH ISLAND OF NEW ZEALAND",
     "unid": "20230429_0000003"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      36.2,
-      37.79,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230429_0000001",
-  "properties": {
-    "lastupdate": "2023-04-29T10:32:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 36.2,
-    "auth": "EMSC",
-    "lat": 37.79,
-    "depth": 10.0,
-    "mag": 3.0,
-    "time": "2023-04-29T00:01:36.7Z",
-    "source_id": "1255424",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CENTRAL TURKEY",
-    "unid": "20230429_0000001"
   }
 }]}
