@@ -2,6 +2,58 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      122.27,
+      17.56,
+      -21.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230507_0000166",
+  "properties": {
+    "lastupdate": "2023-05-07T16:45:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": 122.27,
+    "auth": "PIVS",
+    "lat": 17.56,
+    "depth": 21.0,
+    "mag": 3.0,
+    "time": "2023-05-07T16:32:27.0Z",
+    "source_id": "1258648",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "LUZON, PHILIPPINES",
+    "unid": "20230507_0000166"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.6,
+      37.05,
+      -8.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230507_0000165",
+  "properties": {
+    "lastupdate": "2023-05-07T16:14:00.0Z",
+    "magtype": "ml",
+    "evtype": "ke",
+    "lon": 28.6,
+    "auth": "EMSC",
+    "lat": 37.05,
+    "depth": 8.0,
+    "mag": 2.5,
+    "time": "2023-05-07T15:53:36.4Z",
+    "source_id": "1258646",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "WESTERN TURKEY",
+    "unid": "20230507_0000165"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       -66.36,
       -22.83,
       -267.0
@@ -28,23 +80,23 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      126.15,
-      0.97,
-      -10.0
+      126.1,
+      0.81,
+      -20.0
     ]
   },
   "type": "Feature",
   "id": "20230507_0000162",
   "properties": {
-    "lastupdate": "2023-05-07T15:55:00.0Z",
-    "magtype": "m",
+    "lastupdate": "2023-05-07T16:13:00.0Z",
+    "magtype": "mb",
     "evtype": "ke",
-    "lon": 126.15,
-    "auth": "DJA",
-    "lat": 0.97,
-    "depth": 10.0,
-    "mag": 4.5,
-    "time": "2023-05-07T15:48:32.0Z",
+    "lon": 126.1,
+    "auth": "EMSC",
+    "lat": 0.81,
+    "depth": 20.0,
+    "mag": 4.7,
+    "time": "2023-05-07T15:48:32.2Z",
     "source_id": "1258641",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "MOLUCCA SEA",
@@ -496,23 +548,23 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -155.47,
-      19.16,
-      -30.0
+      -155.48,
+      19.2,
+      -36.0
     ]
   },
   "type": "Feature",
   "id": "20230507_0000132",
   "properties": {
-    "lastupdate": "2023-05-07T13:43:00.0Z",
+    "lastupdate": "2023-05-07T16:20:00.0Z",
     "magtype": "ml",
     "evtype": "ke",
-    "lon": -155.47,
-    "auth": "NEIR",
-    "lat": 19.16,
-    "depth": 30.0,
-    "mag": 2.5,
-    "time": "2023-05-07T13:37:41.2Z",
+    "lon": -155.48,
+    "auth": "NEIC",
+    "lat": 19.2,
+    "depth": 36.0,
+    "mag": 2.7,
+    "time": "2023-05-07T13:37:39.9Z",
     "source_id": "1258605",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "ISLAND OF HAWAII, HAWAII",
@@ -6867,22 +6919,22 @@
     "type": "Point",
     "coordinates": [
       -115.55,
-      32.71,
+      32.72,
       -5.0
     ]
   },
   "type": "Feature",
   "id": "20230506_0000146",
   "properties": {
-    "lastupdate": "2023-05-06T14:19:00.0Z",
-    "magtype": "ml",
+    "lastupdate": "2023-05-07T16:35:00.0Z",
+    "magtype": "mw",
     "evtype": "ke",
     "lon": -115.55,
     "auth": "NEIR",
-    "lat": 32.71,
+    "lat": 32.72,
     "depth": 5.0,
-    "mag": 2.1,
-    "time": "2023-05-06T14:15:11.8Z",
+    "mag": 3.5,
+    "time": "2023-05-06T14:16:02.6Z",
     "source_id": "1258287",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "SOUTHERN CALIFORNIA",
@@ -25945,57 +25997,5 @@
     "source_catalog": "EMSC-RTS",
     "flynn_region": "PUERTO RICO REGION",
     "unid": "20230503_0000261"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -103.24,
-      18.14,
-      -11.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230503_0000254",
-  "properties": {
-    "lastupdate": "2023-05-04T00:00:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -103.24,
-    "auth": "UNM",
-    "lat": 18.14,
-    "depth": 11.0,
-    "mag": 4.0,
-    "time": "2023-05-03T23:37:55.0Z",
-    "source_id": "1257266",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "OFFSHORE MICHOACAN, MEXICO",
-    "unid": "20230503_0000254"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      36.58,
-      38.08,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230503_0000252",
-  "properties": {
-    "lastupdate": "2023-05-03T23:42:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 36.58,
-    "auth": "ISK",
-    "lat": 38.08,
-    "depth": 5.0,
-    "mag": 2.1,
-    "time": "2023-05-03T23:35:18.1Z",
-    "source_id": "1257260",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CENTRAL TURKEY",
-    "unid": "20230503_0000252"
   }
 }]}
