@@ -1,5 +1,5 @@
 # Earthquakes 
-A dashboard to visualise earthquakes worldwide since 2000. 
+A dashboard to visualize earthquakes worldwide since 2000. 
 
 <a href="http://152.228.173.254/earthquakes" target="_blank">See the dashboard live.</a>
 
