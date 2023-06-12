@@ -28,6 +28,32 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      -99.7,
+      21.29,
+      -3.0
+    ]
+  },
+  "type": "Feature",
+  "id": "20230612_0000101",
+  "properties": {
+    "lastupdate": "2023-06-12T12:10:00.0Z",
+    "magtype": "m",
+    "evtype": "ke",
+    "lon": -99.7,
+    "auth": "UNM",
+    "lat": 21.29,
+    "depth": 3.0,
+    "mag": 4.0,
+    "time": "2023-06-12T11:49:29.0Z",
+    "source_id": "1271856",
+    "source_catalog": "EMSC-RTS",
+    "flynn_region": "QUERETARO, MEXICO",
+    "unid": "20230612_0000101"
+  }
+},{
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       8.32,
       47.69,
       -3.0
@@ -54,23 +80,23 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      36.72,
-      37.49,
-      0.0
+      36.79,
+      37.42,
+      -5.0
     ]
   },
   "type": "Feature",
   "id": "20230612_0000094",
   "properties": {
-    "lastupdate": "2023-06-12T11:25:00.0Z",
-    "magtype": "ml",
+    "lastupdate": "2023-06-12T12:07:00.0Z",
+    "magtype": "m",
     "evtype": "ke",
-    "lon": 36.72,
-    "auth": "EMSC",
-    "lat": 37.49,
-    "depth": 0.0,
-    "mag": 2.8,
-    "time": "2023-06-12T11:14:50.5Z",
+    "lon": 36.79,
+    "auth": "DDA",
+    "lat": 37.42,
+    "depth": 5.0,
+    "mag": 3.4,
+    "time": "2023-06-12T11:14:52.0Z",
     "source_id": "1271837",
     "source_catalog": "EMSC-RTS",
     "flynn_region": "CENTRAL TURKEY",
@@ -25971,31 +25997,5 @@
     "source_catalog": "EMSC-RTS",
     "flynn_region": "NEVADA",
     "unid": "20230608_0000017"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      120.1,
-      0.81,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230608_0000024",
-  "properties": {
-    "lastupdate": "2023-06-08T03:20:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 120.1,
-    "auth": "DJA",
-    "lat": 0.81,
-    "depth": 10.0,
-    "mag": 2.8,
-    "time": "2023-06-08T02:51:29.0Z",
-    "source_id": "1270289",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "MINAHASA, SULAWESI, INDONESIA",
-    "unid": "20230608_0000024"
   }
 }]}
