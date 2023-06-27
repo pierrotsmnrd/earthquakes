@@ -3,6 +3,136 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      -116.2263,
+      32.9892,
+      -12.0
+    ]
+  },
+  "id": "20230627_0000097",
+  "properties": {
+    "source_id": "1521077",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-06-27T13:51:25.22151Z",
+    "time": "2023-06-27T13:49:16.75Z",
+    "flynn_region": "SOUTHERN CALIFORNIA",
+    "lat": 32.9892,
+    "lon": -116.2263,
+    "depth": 12.0,
+    "evtype": "ue",
+    "auth": "SCSN",
+    "mag": 2.0,
+    "magtype": "ml",
+    "unid": "20230627_0000097"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -155.5025,
+      19.1810,
+      -30.5
+    ]
+  },
+  "id": "20230627_0000095",
+  "properties": {
+    "source_id": "1521073",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-06-27T13:45:40.172396Z",
+    "time": "2023-06-27T13:42:17.24Z",
+    "flynn_region": "ISLAND OF HAWAII, HAWAII",
+    "lat": 19.1810,
+    "lon": -155.5025,
+    "depth": 30.5,
+    "evtype": "ue",
+    "auth": "HV",
+    "mag": 2.1,
+    "magtype": "md",
+    "unid": "20230627_0000095"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      119.3900,
+      1.2700,
+      -10.0
+    ]
+  },
+  "id": "20230627_0000092",
+  "properties": {
+    "source_id": "1521068",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-06-27T13:35:18.867876Z",
+    "time": "2023-06-27T13:30:41.0Z",
+    "flynn_region": "MAKASSAR STRAIT, INDONESIA",
+    "lat": 1.2700,
+    "lon": 119.3900,
+    "depth": 10.0,
+    "evtype": "uk",
+    "auth": "BMKG",
+    "mag": 3.7,
+    "magtype": "m",
+    "unid": "20230627_0000092"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -67.6443,
+      19.3170,
+      -18.8
+    ]
+  },
+  "id": "20230627_0000096",
+  "properties": {
+    "source_id": "1521074",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-06-27T13:49:00.70685Z",
+    "time": "2023-06-27T13:14:44.33Z",
+    "flynn_region": "PUERTO RICO REGION",
+    "lat": 19.3170,
+    "lon": -67.6443,
+    "depth": 18.8,
+    "evtype": "ue",
+    "auth": "PR",
+    "mag": 3.4,
+    "magtype": "md",
+    "unid": "20230627_0000096"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      26.4717,
+      39.6670,
+      -6.5
+    ]
+  },
+  "id": "20230627_0000091",
+  "properties": {
+    "source_id": "1521062",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-06-27T13:08:39.755463Z",
+    "time": "2023-06-27T13:02:06.5Z",
+    "flynn_region": "NEAR THE COAST OF WESTERN TURKEY",
+    "lat": 39.6670,
+    "lon": 26.4717,
+    "depth": 6.5,
+    "evtype": "ke",
+    "auth": "KOERI",
+    "mag": 2.1,
+    "magtype": "ml",
+    "unid": "20230627_0000091"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       39.2733,
       38.4773,
       -5.0
@@ -12,16 +142,16 @@
   "properties": {
     "source_id": "1521057",
     "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-06-27T12:47:57.85561Z",
-    "time": "2023-06-27T12:40:06.6Z",
+    "lastupdate": "2023-06-27T13:30:55.994674Z",
+    "time": "2023-06-27T12:40:07.57Z",
     "flynn_region": "EASTERN TURKEY",
     "lat": 38.4773,
     "lon": 39.2733,
     "depth": 5.0,
     "evtype": "ke",
-    "auth": "KOERI",
-    "mag": 4.0,
-    "magtype": "m",
+    "auth": "EMSC",
+    "mag": 3.9,
+    "magtype": "ml",
     "unid": "20230627_0000087"
   }
 },{
@@ -543,6 +673,32 @@
     "mag": 3.0,
     "magtype": "ml",
     "unid": "20230627_0000063"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      10.4380,
+      46.5429,
+      -6.4
+    ]
+  },
+  "id": "20230627_0000093",
+  "properties": {
+    "source_id": "1521069",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-06-27T13:39:16.538007Z",
+    "time": "2023-06-27T10:17:15.7Z",
+    "flynn_region": "SWITZERLAND",
+    "lat": 46.5429,
+    "lon": 10.4380,
+    "depth": 6.4,
+    "evtype": "uk",
+    "auth": "ETHZ",
+    "mag": 1.4,
+    "magtype": "ml",
+    "unid": "20230627_0000093"
   }
 },{
   "type": "Feature",
@@ -1403,6 +1559,32 @@
     "unid": "20230627_0000035"
   }
 },{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -82.9920,
+      8.0517,
+      -20.9
+    ]
+  },
+  "id": "20230627_0000094",
+  "properties": {
+    "source_id": "1521071",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-06-27T13:43:02.469691Z",
+    "time": "2023-06-27T05:35:11.0Z",
+    "flynn_region": "PANAMA-COSTA RICA BORDER REGION",
+    "lat": 8.0517,
+    "lon": -82.9920,
+    "depth": 20.9,
+    "evtype": "uk",
+    "auth": "IGC",
+    "mag": 2.9,
+    "magtype": "m",
+    "unid": "20230627_0000094"
+  }
+},{
   "geometry": {
     "type": "Point",
     "coordinates": [
@@ -1817,6 +1999,32 @@
     "source_catalog": "EMSC-RTS",
     "flynn_region": "EASTERN TURKEY",
     "unid": "20230627_0000021"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -115.1720,
+      44.3220,
+      -10.6
+    ]
+  },
+  "id": "20230627_0000098",
+  "properties": {
+    "source_id": "1521080",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-06-27T13:57:58.208222Z",
+    "time": "2023-06-27T02:58:11.98Z",
+    "flynn_region": "SOUTHERN IDAHO",
+    "lat": 44.3220,
+    "lon": -115.1720,
+    "depth": 10.6,
+    "evtype": "ue",
+    "auth": "MB",
+    "mag": 3.1,
+    "magtype": "ml",
+    "unid": "20230627_0000098"
   }
 },{
   "geometry": {
@@ -25789,213 +25997,5 @@
     "source_catalog": "EMSC-RTS",
     "flynn_region": "TARAPACA, CHILE",
     "unid": "20230623_0000030"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -85.42,
-      11.81,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230623_0000027",
-  "properties": {
-    "lastupdate": "2023-06-23T03:50:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -85.42,
-    "auth": "INET",
-    "lat": 11.81,
-    "depth": 5.0,
-    "mag": 2.8,
-    "time": "2023-06-23T03:42:00.0Z",
-    "source_id": "1276409",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NICARAGUA",
-    "unid": "20230623_0000027"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      38.24,
-      38.14,
-      -14.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230623_0000026",
-  "properties": {
-    "lastupdate": "2023-06-23T03:44:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 38.24,
-    "auth": "ISK",
-    "lat": 38.14,
-    "depth": 14.0,
-    "mag": 2.4,
-    "time": "2023-06-23T03:38:36.4Z",
-    "source_id": "1276408",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "EASTERN TURKEY",
-    "unid": "20230623_0000026"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      36.19,
-      36.57,
-      -6.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230623_0000024",
-  "properties": {
-    "lastupdate": "2023-06-23T03:40:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 36.19,
-    "auth": "ISK",
-    "lat": 36.57,
-    "depth": 6.0,
-    "mag": 2.7,
-    "time": "2023-06-23T03:32:57.3Z",
-    "source_id": "1276406",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "TURKEY-SYRIA BORDER REGION",
-    "unid": "20230623_0000024"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      126.5,
-      4.11,
-      -115.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230623_0000023",
-  "properties": {
-    "lastupdate": "2023-06-23T03:30:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": 126.5,
-    "auth": "DJA",
-    "lat": 4.11,
-    "depth": 115.0,
-    "mag": 4.1,
-    "time": "2023-06-23T03:22:41.0Z",
-    "source_id": "1276404",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "KEPULAUAN TALAUD, INDONESIA",
-    "unid": "20230623_0000023"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -16.06,
-      28.69,
-      -1.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230623_0000025",
-  "properties": {
-    "lastupdate": "2023-06-23T03:44:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -16.06,
-    "auth": "MDD",
-    "lat": 28.69,
-    "depth": 1.0,
-    "mag": 1.8,
-    "time": "2023-06-23T03:21:16.5Z",
-    "source_id": "1276407",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CANARY ISLANDS, SPAIN REGION",
-    "unid": "20230623_0000025"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -117.79,
-      39.93,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230623_0000128",
-  "properties": {
-    "lastupdate": "2023-06-23T14:45:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -117.79,
-    "auth": "NN",
-    "lat": 39.93,
-    "depth": 5.0,
-    "mag": 2.5,
-    "time": "2023-06-23T03:17:22.0Z",
-    "source_id": "1276582",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "NEVADA",
-    "unid": "20230623_0000128"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      35.05,
-      36.92,
-      -31.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230623_0000022",
-  "properties": {
-    "lastupdate": "2023-06-23T03:19:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": 35.05,
-    "auth": "ISK",
-    "lat": 36.92,
-    "depth": 31.0,
-    "mag": 2.7,
-    "time": "2023-06-23T03:08:27.7Z",
-    "source_id": "1276403",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CENTRAL TURKEY",
-    "unid": "20230623_0000022"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -86.77,
-      13.28,
-      -5.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230623_0000021",
-  "properties": {
-    "lastupdate": "2023-06-23T03:10:00.0Z",
-    "magtype": "m",
-    "evtype": "ke",
-    "lon": -86.77,
-    "auth": "INET",
-    "lat": 13.28,
-    "depth": 5.0,
-    "mag": 3.1,
-    "time": "2023-06-23T03:06:50.0Z",
-    "source_id": "1276401",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "HONDURAS",
-    "unid": "20230623_0000021"
   }
 }]}
