@@ -3,6 +3,58 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      -74.4900,
+      -44.0100,
+      -24.1
+    ]
+  },
+  "id": "20230630_0000261",
+  "properties": {
+    "source_id": "1522722",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-06-30T22:56:46.483418Z",
+    "time": "2023-06-30T22:40:48.0Z",
+    "flynn_region": "NEAR COAST OF AISEN, CHILE",
+    "lat": -44.0100,
+    "lon": -74.4900,
+    "depth": 24.1,
+    "evtype": "uk",
+    "auth": "CSN",
+    "mag": 2.7,
+    "magtype": "ml",
+    "unid": "20230630_0000261"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.6190,
+      35.5016,
+      -7.6
+    ]
+  },
+  "id": "20230630_0000259",
+  "properties": {
+    "source_id": "1522716",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-06-30T22:30:56.596744Z",
+    "time": "2023-06-30T21:53:32.41Z",
+    "flynn_region": "STRAIT OF GIBRALTAR",
+    "lat": 35.5016,
+    "lon": -3.6190,
+    "depth": 7.6,
+    "evtype": "ke",
+    "auth": "IGN",
+    "mag": 2.3,
+    "magtype": "ml",
+    "unid": "20230630_0000259"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       122.4500,
       -1.1200,
       -135.0
@@ -29,21 +81,21 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -115.9495,
-      32.5065,
-      -15.2
+      -115.9518,
+      32.5062,
+      -14.4
     ]
   },
   "id": "20230630_0000255",
   "properties": {
     "source_id": "1522701",
     "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-06-30T21:20:25.538982Z",
-    "time": "2023-06-30T21:16:36.92Z",
+    "lastupdate": "2023-06-30T22:34:08.60862Z",
+    "time": "2023-06-30T21:16:36.89Z",
     "flynn_region": "BAJA CALIFORNIA, MEXICO",
-    "lat": 32.5065,
-    "lon": -115.9495,
-    "depth": 15.2,
+    "lat": 32.5062,
+    "lon": -115.9518,
+    "depth": 14.4,
     "evtype": "ue",
     "auth": "SCSN",
     "mag": 2.4,
@@ -237,24 +289,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -115.3709,
-      32.3427,
-      -10.0
+      -115.3462,
+      32.3570,
+      -14.6
     ]
   },
   "id": "20230630_0000247",
   "properties": {
     "source_id": "1522683",
     "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-06-30T21:25:54.556348Z",
-    "time": "2023-06-30T20:08:50.219Z",
+    "lastupdate": "2023-06-30T22:19:38.704199Z",
+    "time": "2023-06-30T20:08:50.53Z",
     "flynn_region": "BAJA CALIFORNIA, MEXICO",
-    "lat": 32.3427,
-    "lon": -115.3709,
-    "depth": 10.0,
+    "lat": 32.3570,
+    "lon": -115.3462,
+    "depth": 14.6,
     "evtype": "ue",
-    "auth": "NEIC",
-    "mag": 3.0,
+    "auth": "SCSN",
+    "mag": 2.9,
     "magtype": "ml",
     "unid": "20230630_0000247"
   }
@@ -569,6 +621,32 @@
     "mag": 2.5,
     "magtype": "ml",
     "unid": "20230630_0000234"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -119.8082,
+      37.0000,
+      0.4
+    ]
+  },
+  "id": "20230630_0000260",
+  "properties": {
+    "source_id": "1522717",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-06-30T22:45:53.184592Z",
+    "time": "2023-06-30T18:47:22.55Z",
+    "flynn_region": "CENTRAL CALIFORNIA",
+    "lat": 37.0000,
+    "lon": -119.8082,
+    "depth": -0.4,
+    "evtype": "uk",
+    "auth": "NC",
+    "mag": 2.1,
+    "magtype": "md",
+    "unid": "20230630_0000260"
   }
 },{
   "type": "Feature",
@@ -25919,83 +25997,5 @@
     "mag": 2.9,
     "magtype": "ml",
     "unid": "20230627_0000098"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.72,
-      35.43,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230627_0000020",
-  "properties": {
-    "lastupdate": "2023-06-27T03:06:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -3.72,
-    "auth": "MDD",
-    "lat": 35.43,
-    "depth": 10.0,
-    "mag": 1.7,
-    "time": "2023-06-27T02:49:08.7Z",
-    "source_id": "1278127",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "STRAIT OF GIBRALTAR",
-    "unid": "20230627_0000020"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -118.18,
-      36.14,
-      -2.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230627_0000018",
-  "properties": {
-    "lastupdate": "2023-06-27T02:52:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -118.18,
-    "auth": "NEIR",
-    "lat": 36.14,
-    "depth": 2.0,
-    "mag": 2.3,
-    "time": "2023-06-27T02:49:01.8Z",
-    "source_id": "1278125",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "CENTRAL CALIFORNIA",
-    "unid": "20230627_0000018"
-  }
-},{
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.93,
-      43.2,
-      -10.0
-    ]
-  },
-  "type": "Feature",
-  "id": "20230627_0000019",
-  "properties": {
-    "lastupdate": "2023-06-27T03:01:00.0Z",
-    "magtype": "ml",
-    "evtype": "ke",
-    "lon": -3.93,
-    "auth": "MDD",
-    "lat": 43.2,
-    "depth": 10.0,
-    "mag": 1.8,
-    "time": "2023-06-27T02:47:43.2Z",
-    "source_id": "1278126",
-    "source_catalog": "EMSC-RTS",
-    "flynn_region": "SPAIN",
-    "unid": "20230627_0000019"
   }
 }]}
