@@ -3,6 +3,84 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      24.3600,
+      36.1200,
+      -40.0
+    ]
+  },
+  "id": "20230707_0000107",
+  "properties": {
+    "source_id": "1525752",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-07-07T08:00:55.733234Z",
+    "time": "2023-07-07T07:58:42.1Z",
+    "flynn_region": "SOUTHERN GREECE",
+    "lat": 36.1200,
+    "lon": 24.3600,
+    "depth": 40.0,
+    "evtype": "ue",
+    "auth": "THE",
+    "mag": 2.3,
+    "magtype": "ml",
+    "unid": "20230707_0000107"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      7.1645,
+      47.1732,
+      0.0
+    ]
+  },
+  "id": "20230707_0000106",
+  "properties": {
+    "source_id": "1525745",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-07-07T07:27:23.290944Z",
+    "time": "2023-07-07T07:22:00.1Z",
+    "flynn_region": "SWITZERLAND",
+    "lat": 47.1732,
+    "lon": 7.1645,
+    "depth": 0.0,
+    "evtype": "ue",
+    "auth": "ETHZ",
+    "mag": 1.8,
+    "magtype": "ml",
+    "unid": "20230707_0000106"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -178.6659,
+      -20.8780,
+      -559.3
+    ]
+  },
+  "id": "20230707_0000105",
+  "properties": {
+    "source_id": "1525743",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-07-07T07:25:26.79571Z",
+    "time": "2023-07-07T07:09:03.651Z",
+    "flynn_region": "FIJI REGION",
+    "lat": -20.8780,
+    "lon": -178.6659,
+    "depth": 559.3,
+    "evtype": "ue",
+    "auth": "NEIC",
+    "mag": 4.8,
+    "magtype": "mb",
+    "unid": "20230707_0000105"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       39.4409,
       38.4663,
       -5.0
@@ -4267,24 +4345,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      8.7699,
-      47.7624,
-      -11.0
+      8.7650,
+      47.7640,
+      -10.0
     ]
   },
   "id": "20230706_0000277",
   "properties": {
     "source_id": "1525456",
     "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-07-06T20:12:17.397511Z",
-    "time": "2023-07-06T20:07:55.6Z",
+    "lastupdate": "2023-07-07T07:43:49.456308Z",
+    "time": "2023-07-06T20:07:55.7Z",
     "flynn_region": "GERMANY",
-    "lat": 47.7624,
-    "lon": 8.7699,
-    "depth": 11.0,
-    "evtype": "ue",
-    "auth": "ETHZ",
-    "mag": 1.2,
+    "lat": 47.7640,
+    "lon": 8.7650,
+    "depth": 10.0,
+    "evtype": "ke",
+    "auth": "LED",
+    "mag": 1.1,
     "magtype": "ml",
     "unid": "20230706_0000277"
   }
@@ -25919,83 +25997,5 @@
     "mag": 2.7,
     "magtype": "ml",
     "unid": "20230704_0000039"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -87.5800,
-      12.0500,
-      -5.0
-    ]
-  },
-  "id": "20230704_0000038",
-  "properties": {
-    "source_id": "1524190",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-07-04T06:00:44.125625Z",
-    "time": "2023-07-04T05:54:25.0Z",
-    "flynn_region": "NEAR COAST OF NICARAGUA",
-    "lat": 12.0500,
-    "lon": -87.5800,
-    "depth": 5.0,
-    "evtype": "uk",
-    "auth": "INET",
-    "mag": 3.1,
-    "magtype": "m",
-    "unid": "20230704_0000038"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -82.6814,
-      5.1079,
-      -10.0
-    ]
-  },
-  "id": "20230704_0000045",
-  "properties": {
-    "source_id": "1524189",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-07-04T06:57:31.214881Z",
-    "time": "2023-07-04T05:52:24.973Z",
-    "flynn_region": "SOUTH OF PANAMA",
-    "lat": 5.1079,
-    "lon": -82.6814,
-    "depth": 10.0,
-    "evtype": "ue",
-    "auth": "NEIC",
-    "mag": 4.4,
-    "magtype": "mb",
-    "unid": "20230704_0000045"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -93.8100,
-      16.2600,
-      -110.2
-    ]
-  },
-  "id": "20230704_0000114",
-  "properties": {
-    "source_id": "1524331",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-07-04T14:07:48.494019Z",
-    "time": "2023-07-04T05:47:20.0Z",
-    "flynn_region": "CHIAPAS, MEXICO",
-    "lat": 16.2600,
-    "lon": -93.8100,
-    "depth": 110.2,
-    "evtype": "ue",
-    "auth": "UNM",
-    "mag": 3.6,
-    "magtype": "m",
-    "unid": "20230704_0000114"
   }
 }]}
