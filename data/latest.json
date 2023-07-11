@@ -55,6 +55,32 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      -5.0868,
+      38.0065,
+      -18.3
+    ]
+  },
+  "id": "20230711_0000041",
+  "properties": {
+    "source_id": "1527302",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-07-11T05:53:46.913466Z",
+    "time": "2023-07-11T04:37:56.59Z",
+    "flynn_region": "SPAIN",
+    "lat": 38.0065,
+    "lon": -5.0868,
+    "depth": 18.3,
+    "evtype": "ke",
+    "auth": "IGN",
+    "mag": 1.9,
+    "magtype": "ml",
+    "unid": "20230711_0000041"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       37.0763,
       37.4017,
       -3.4
@@ -107,21 +133,21 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      27.2900,
-      36.1200,
-      -11.0
+      27.3600,
+      36.0100,
+      -26.0
     ]
   },
   "id": "20230711_0000033",
   "properties": {
     "source_id": "1527290",
     "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-07-11T04:01:46.177425Z",
-    "time": "2023-07-11T03:59:32.5Z",
+    "lastupdate": "2023-07-11T05:39:56.841416Z",
+    "time": "2023-07-11T03:59:33.8Z",
     "flynn_region": "DODECANESE IS.-TURKEY BORDER REG",
-    "lat": 36.1200,
-    "lon": 27.2900,
-    "depth": 11.0,
+    "lat": 36.0100,
+    "lon": 27.3600,
+    "depth": 26.0,
     "evtype": "ue",
     "auth": "THE",
     "mag": 2.4,
@@ -283,6 +309,32 @@
     "mag": 3.6,
     "magtype": "m",
     "unid": "20230711_0000032"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      147.3400,
+      44.6800,
+      -70.0
+    ]
+  },
+  "id": "20230711_0000040",
+  "properties": {
+    "source_id": "1527300",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-07-11T05:31:33.85068Z",
+    "time": "2023-07-11T03:25:56.8Z",
+    "flynn_region": "KURIL ISLANDS",
+    "lat": 44.6800,
+    "lon": 147.3400,
+    "depth": 70.0,
+    "evtype": "ke",
+    "auth": "GSRAS",
+    "mag": 4.2,
+    "magtype": "mb",
+    "unid": "20230711_0000040"
   }
 },{
   "type": "Feature",
@@ -1147,23 +1199,23 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      83.2247,
-      40.1283,
-      -9.3
+      83.1800,
+      40.2300,
+      -10.0
     ]
   },
   "id": "20230710_0000210",
   "properties": {
     "source_id": "1527212",
     "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-07-10T23:02:03.299984Z",
-    "time": "2023-07-10T22:49:09.377Z",
+    "lastupdate": "2023-07-11T05:22:40.688737Z",
+    "time": "2023-07-10T22:49:10.5Z",
     "flynn_region": "SOUTHERN XINJIANG, CHINA",
-    "lat": 40.1283,
-    "lon": 83.2247,
-    "depth": 9.3,
-    "evtype": "ue",
-    "auth": "NEIC",
+    "lat": 40.2300,
+    "lon": 83.1800,
+    "depth": 10.0,
+    "evtype": "ke",
+    "auth": "GSRAS",
     "mag": 4.5,
     "magtype": "mb",
     "unid": "20230710_0000210"
@@ -25945,57 +25997,5 @@
     "mag": 2.6,
     "magtype": "ml",
     "unid": "20230707_0000102"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      15.7545,
-      40.6647,
-      -23.1
-    ]
-  },
-  "id": "20230707_0000101",
-  "properties": {
-    "source_id": "1525735",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-07-07T06:24:24.825513Z",
-    "time": "2023-07-07T06:16:41.56Z",
-    "flynn_region": "SOUTHERN ITALY",
-    "lat": 40.6647,
-    "lon": 15.7545,
-    "depth": 23.1,
-    "evtype": "ue",
-    "auth": "INGV",
-    "mag": 2.3,
-    "magtype": "ml",
-    "unid": "20230707_0000101"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      38.0488,
-      38.0270,
-      -8.4
-    ]
-  },
-  "id": "20230707_0000100",
-  "properties": {
-    "source_id": "1525734",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-07-07T06:12:05.193803Z",
-    "time": "2023-07-07T06:00:35.7Z",
-    "flynn_region": "EASTERN TURKEY",
-    "lat": 38.0270,
-    "lon": 38.0488,
-    "depth": 8.4,
-    "evtype": "ke",
-    "auth": "KOERI",
-    "mag": 2.5,
-    "magtype": "ml",
-    "unid": "20230707_0000100"
   }
 }]}
