@@ -3,6 +3,84 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      -116.6903,
+      33.9703,
+      -16.0
+    ]
+  },
+  "id": "20230713_0000112",
+  "properties": {
+    "source_id": "1528167",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-07-13T11:24:31.304369Z",
+    "time": "2023-07-13T11:20:28.15Z",
+    "flynn_region": "SOUTHERN CALIFORNIA",
+    "lat": 33.9703,
+    "lon": -116.6903,
+    "depth": 16.0,
+    "evtype": "ue",
+    "auth": "SCSN",
+    "mag": 2.0,
+    "magtype": "ml",
+    "unid": "20230713_0000112"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.4535,
+      35.8598,
+      -5.1
+    ]
+  },
+  "id": "20230713_0000109",
+  "properties": {
+    "source_id": "1528162",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-07-13T11:11:18.753198Z",
+    "time": "2023-07-13T11:08:22.35Z",
+    "flynn_region": "OFFSHORE CENTRAL CALIFORNIA",
+    "lat": 35.8598,
+    "lon": -121.4535,
+    "depth": 5.1,
+    "evtype": "ue",
+    "auth": "NC",
+    "mag": 2.5,
+    "magtype": "md",
+    "unid": "20230713_0000109"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      140.0000,
+      -3.1000,
+      -13.0
+    ]
+  },
+  "id": "20230713_0000111",
+  "properties": {
+    "source_id": "1528164",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-07-13T11:14:21.516811Z",
+    "time": "2023-07-13T11:05:36.0Z",
+    "flynn_region": "PAPUA, INDONESIA",
+    "lat": -3.1000,
+    "lon": 140.0000,
+    "depth": 13.0,
+    "evtype": "ue",
+    "auth": "BMKG",
+    "mag": 3.7,
+    "magtype": "m",
+    "unid": "20230713_0000111"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       -155.4485,
       19.4805,
       -0.5
@@ -133,21 +211,21 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      21.1100,
-      38.9400,
-      -5.0
+      21.1700,
+      38.9700,
+      -12.0
     ]
   },
   "id": "20230713_0000099",
   "properties": {
     "source_id": "1528149",
     "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-07-13T10:15:37.363312Z",
-    "time": "2023-07-13T10:13:24.2Z",
+    "lastupdate": "2023-07-13T11:20:07.499635Z",
+    "time": "2023-07-13T10:14:07.8Z",
     "flynn_region": "GREECE",
-    "lat": 38.9400,
-    "lon": 21.1100,
-    "depth": 5.0,
+    "lat": 38.9700,
+    "lon": 21.1700,
+    "depth": 12.0,
     "evtype": "ue",
     "auth": "THE",
     "mag": 2.5,
@@ -159,24 +237,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      123.2770,
-      25.1820,
-      -150.3
+      123.2937,
+      25.1828,
+      -157.6
     ]
   },
   "id": "20230713_0000104",
   "properties": {
     "source_id": "1528148",
     "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-07-13T10:25:48.6941Z",
-    "time": "2023-07-13T10:07:44.8Z",
+    "lastupdate": "2023-07-13T11:02:05.894748Z",
+    "time": "2023-07-13T10:07:43.646Z",
     "flynn_region": "NORTHEAST OF TAIWAN",
-    "lat": 25.1820,
-    "lon": 123.2770,
-    "depth": 150.3,
+    "lat": 25.1828,
+    "lon": 123.2937,
+    "depth": 157.6,
     "evtype": "ue",
-    "auth": "GFZ",
-    "mag": 4.7,
+    "auth": "NEIC",
+    "mag": 4.4,
     "magtype": "mb",
     "unid": "20230713_0000104"
   }
@@ -280,7 +358,7 @@
     "depth": 9.0,
     "evtype": "ue",
     "auth": "THE",
-    "mag": 3.1,
+    "mag": 3.4,
     "magtype": "ml",
     "unid": "20230713_0000096"
   }
@@ -335,6 +413,32 @@
     "mag": 2.0,
     "magtype": "ml",
     "unid": "20230713_0000094"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      140.0600,
+      27.6100,
+      -470.0
+    ]
+  },
+  "id": "20230713_0000108",
+  "properties": {
+    "source_id": "1528160",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-07-13T11:05:26.635331Z",
+    "time": "2023-07-13T09:37:53.0Z",
+    "flynn_region": "BONIN ISLANDS, JAPAN REGION",
+    "lat": 27.6100,
+    "lon": 140.0600,
+    "depth": 470.0,
+    "evtype": "ke",
+    "auth": "GSRAS",
+    "mag": 4.2,
+    "magtype": "mb",
+    "unid": "20230713_0000108"
   }
 },{
   "type": "Feature",
@@ -1349,6 +1453,32 @@
     "mag": 2.0,
     "magtype": "ml",
     "unid": "20230713_0000050"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.0388,
+      34.5773,
+      -16.2
+    ]
+  },
+  "id": "20230713_0000110",
+  "properties": {
+    "source_id": "1528163",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-07-13T11:14:05.178738Z",
+    "time": "2023-07-13T05:25:56.31Z",
+    "flynn_region": "CYPRUS REGION",
+    "lat": 34.5773,
+    "lon": 33.0388,
+    "depth": 16.2,
+    "evtype": "ue",
+    "auth": "GSD",
+    "mag": 1.7,
+    "magtype": "ml",
+    "unid": "20230713_0000110"
   }
 },{
   "type": "Feature",
@@ -4683,6 +4813,32 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      -104.4214,
+      31.6627,
+      -5.3
+    ]
+  },
+  "id": "20230712_0000245",
+  "properties": {
+    "source_id": "1528172",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-07-13T12:01:31.274059Z",
+    "time": "2023-07-12T16:44:26.946492Z",
+    "flynn_region": "WESTERN TEXAS",
+    "lat": 31.6627,
+    "lon": -104.4214,
+    "depth": 5.3,
+    "evtype": "ue",
+    "auth": "TX",
+    "mag": 2.3,
+    "magtype": "ml",
+    "unid": "20230712_0000245"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       76.6000,
       32.7200,
       -10.0
@@ -7043,6 +7199,32 @@
     "mag": 3.3,
     "magtype": "m",
     "unid": "20230712_0000060"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      33.5517,
+      35.2550,
+      -45.9
+    ]
+  },
+  "id": "20230712_0000244",
+  "properties": {
+    "source_id": "1528168",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-07-13T11:35:13.351159Z",
+    "time": "2023-07-12T08:01:06.53Z",
+    "flynn_region": "CYPRUS REGION",
+    "lat": 35.2550,
+    "lon": 33.5517,
+    "depth": 45.9,
+    "evtype": "ue",
+    "auth": "GSD",
+    "mag": 1.5,
+    "magtype": "ml",
+    "unid": "20230712_0000244"
   }
 },{
   "type": "Feature",
@@ -25815,187 +25997,5 @@
     "mag": 2.1,
     "magtype": "ml",
     "unid": "20230709_0000127"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      124.1100,
-      13.1500,
-      -5.0
-    ]
-  },
-  "id": "20230709_0000130",
-  "properties": {
-    "source_id": "1526691",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-07-09T13:07:42.8686Z",
-    "time": "2023-07-09T12:48:10.0Z",
-    "flynn_region": "CATANDUANES, PHILIPPINES",
-    "lat": 13.1500,
-    "lon": 124.1100,
-    "depth": 5.0,
-    "evtype": "ue",
-    "auth": "PIVS",
-    "mag": 4.0,
-    "magtype": "m",
-    "unid": "20230709_0000130"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -29.2600,
-      38.6310,
-      -5.0
-    ]
-  },
-  "id": "20230709_0000126",
-  "properties": {
-    "source_id": "1526687",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-07-09T12:53:19.193311Z",
-    "time": "2023-07-09T12:47:22.2Z",
-    "flynn_region": "AZORES ISLANDS, PORTUGAL",
-    "lat": 38.6310,
-    "lon": -29.2600,
-    "depth": 5.0,
-    "evtype": "ke",
-    "auth": "IPMA",
-    "mag": 2.0,
-    "magtype": "ml",
-    "unid": "20230709_0000126"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -67.2600,
-      -23.7900,
-      -231.2
-    ]
-  },
-  "id": "20230709_0000129",
-  "properties": {
-    "source_id": "1526690",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-07-09T13:04:58.591678Z",
-    "time": "2023-07-09T12:43:35.0Z",
-    "flynn_region": "SALTA, ARGENTINA",
-    "lat": -23.7900,
-    "lon": -67.2600,
-    "depth": 231.2,
-    "evtype": "ue",
-    "auth": "CSN",
-    "mag": 2.8,
-    "magtype": "ml",
-    "unid": "20230709_0000129"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      21.7600,
-      39.2000,
-      -10.0
-    ]
-  },
-  "id": "20230709_0000123",
-  "properties": {
-    "source_id": "1526683",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-07-09T12:33:16.927865Z",
-    "time": "2023-07-09T12:30:24.1Z",
-    "flynn_region": "GREECE",
-    "lat": 39.2000,
-    "lon": 21.7600,
-    "depth": 10.0,
-    "evtype": "ue",
-    "auth": "THE",
-    "mag": 2.4,
-    "magtype": "ml",
-    "unid": "20230709_0000123"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      15.3733,
-      39.1782,
-      -230.0
-    ]
-  },
-  "id": "20230709_0000125",
-  "properties": {
-    "source_id": "1526685",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-07-09T12:47:57.256353Z",
-    "time": "2023-07-09T12:22:08.57Z",
-    "flynn_region": "SOUTHERN ITALY",
-    "lat": 39.1782,
-    "lon": 15.3733,
-    "depth": 230.0,
-    "evtype": "ue",
-    "auth": "INGV",
-    "mag": 2.2,
-    "magtype": "ml",
-    "unid": "20230709_0000125"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      13.0193,
-      43.0485,
-      -12.4
-    ]
-  },
-  "id": "20230709_0000122",
-  "properties": {
-    "source_id": "1526681",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-07-09T12:30:41.35186Z",
-    "time": "2023-07-09T12:16:13.37Z",
-    "flynn_region": "CENTRAL ITALY",
-    "lat": 43.0485,
-    "lon": 13.0193,
-    "depth": 12.4,
-    "evtype": "ue",
-    "auth": "INGV",
-    "mag": 2.5,
-    "magtype": "ml",
-    "unid": "20230709_0000122"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.4833,
-      35.4840,
-      -33.2
-    ]
-  },
-  "id": "20230709_0000131",
-  "properties": {
-    "source_id": "1526692",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-07-09T13:09:45.346427Z",
-    "time": "2023-07-09T12:14:12.82Z",
-    "flynn_region": "STRAIT OF GIBRALTAR",
-    "lat": 35.4840,
-    "lon": -3.4833,
-    "depth": 33.2,
-    "evtype": "ke",
-    "auth": "IGN",
-    "mag": 2.3,
-    "magtype": "ml",
-    "unid": "20230709_0000131"
   }
 }]}
