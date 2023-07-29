@@ -3,6 +3,32 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      37.3038,
+      38.2560,
+      -7.8
+    ]
+  },
+  "id": "20230729_0000067",
+  "properties": {
+    "source_id": "1534702",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-07-29T06:14:36.488728Z",
+    "time": "2023-07-29T06:03:04.2Z",
+    "flynn_region": "CENTRAL TURKEY",
+    "lat": 38.2560,
+    "lon": 37.3038,
+    "depth": 7.8,
+    "evtype": "ke",
+    "auth": "KOERI",
+    "mag": 3.0,
+    "magtype": "m",
+    "unid": "20230729_0000067"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       122.3200,
       0.2100,
       -145.0
@@ -1193,6 +1219,32 @@
     "mag": 3.5,
     "magtype": "m",
     "unid": "20230729_0000017"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -87.5400,
+      13.0100,
+      -5.0
+    ]
+  },
+  "id": "20230729_0000068",
+  "properties": {
+    "source_id": "1534709",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-07-29T06:28:45.695798Z",
+    "time": "2023-07-29T02:12:11.0Z",
+    "flynn_region": "NICARAGUA",
+    "lat": 13.0100,
+    "lon": -87.5400,
+    "depth": 5.0,
+    "evtype": "ue",
+    "auth": "INET",
+    "mag": 3.6,
+    "magtype": "m",
+    "unid": "20230729_0000068"
   }
 },{
   "type": "Feature",
@@ -13653,21 +13705,21 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -121.1465,
-      36.5663,
-      -9.9
+      -121.1273,
+      36.5748,
+      -10.8
     ]
   },
   "id": "20230727_0000169",
   "properties": {
     "source_id": "1533780",
     "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-07-28T21:10:56.712006Z",
-    "time": "2023-07-27T11:41:22.34Z",
+    "lastupdate": "2023-07-29T06:14:13.473431Z",
+    "time": "2023-07-27T11:41:22.9Z",
     "flynn_region": "CENTRAL CALIFORNIA",
-    "lat": 36.5663,
-    "lon": -121.1465,
-    "depth": 9.9,
+    "lat": 36.5748,
+    "lon": -121.1273,
+    "depth": 10.8,
     "evtype": "ue",
     "auth": "NC",
     "mag": 2.5,
@@ -25945,57 +25997,5 @@
     "mag": 2.7,
     "magtype": "ml",
     "unid": "20230726_0000011"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -70.2300,
-      -23.4500,
-      -61.9
-    ]
-  },
-  "id": "20230726_0000012",
-  "properties": {
-    "source_id": "1533094",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-07-26T01:43:43.247307Z",
-    "time": "2023-07-26T01:28:19.0Z",
-    "flynn_region": "ANTOFAGASTA, CHILE",
-    "lat": -23.4500,
-    "lon": -70.2300,
-    "depth": 61.9,
-    "evtype": "ue",
-    "auth": "CSN",
-    "mag": 2.9,
-    "magtype": "ml",
-    "unid": "20230726_0000012"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -79.1961,
-      -0.9148,
-      -110.7
-    ]
-  },
-  "id": "20230726_0000010",
-  "properties": {
-    "source_id": "1533092",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-07-28T03:52:43.20351Z",
-    "time": "2023-07-26T01:24:42.641Z",
-    "flynn_region": "ECUADOR",
-    "lat": -0.9148,
-    "lon": -79.1961,
-    "depth": 110.7,
-    "evtype": "ue",
-    "auth": "NEIC",
-    "mag": 3.8,
-    "magtype": "m",
-    "unid": "20230726_0000010"
   }
 }]}
