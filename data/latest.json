@@ -55,6 +55,58 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      36.4468,
+      36.5833,
+      -4.8
+    ]
+  },
+  "id": "20230823_0000009",
+  "properties": {
+    "source_id": "1544390",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-08-23T02:04:02.143329Z",
+    "time": "2023-08-23T00:37:58.3Z",
+    "flynn_region": "TURKEY-SYRIA BORDER REGION",
+    "lat": 36.5833,
+    "lon": 36.4468,
+    "depth": 4.8,
+    "evtype": "ke",
+    "auth": "KOERI",
+    "mag": 2.3,
+    "magtype": "ml",
+    "unid": "20230823_0000009"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      28.3083,
+      37.1067,
+      -11.2
+    ]
+  },
+  "id": "20230823_0000008",
+  "properties": {
+    "source_id": "1544388",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-08-23T01:36:11.285123Z",
+    "time": "2023-08-23T00:32:55.1Z",
+    "flynn_region": "WESTERN TURKEY",
+    "lat": 37.1067,
+    "lon": 28.3083,
+    "depth": 11.2,
+    "evtype": "ke",
+    "auth": "KOERI",
+    "mag": 2.2,
+    "magtype": "ml",
+    "unid": "20230823_0000008"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       -29.2620,
       38.5790,
       -0.9
@@ -150,8 +202,8 @@
     "depth": 4.7,
     "evtype": "ke",
     "auth": "KOERI",
-    "mag": 2.7,
-    "magtype": "ml",
+    "mag": 2.9,
+    "magtype": "m",
     "unid": "20230823_0000003"
   }
 },{
@@ -257,6 +309,32 @@
     "mag": 2.7,
     "magtype": "ml",
     "unid": "20230822_0000233"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.4477,
+      36.5973,
+      -8.0
+    ]
+  },
+  "id": "20230822_0000242",
+  "properties": {
+    "source_id": "1544383",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-08-23T01:23:36.548834Z",
+    "time": "2023-08-22T23:43:53.9Z",
+    "flynn_region": "TURKEY-SYRIA BORDER REGION",
+    "lat": 36.5973,
+    "lon": 36.4477,
+    "depth": 8.0,
+    "evtype": "ke",
+    "auth": "KOERI",
+    "mag": 2.0,
+    "magtype": "ml",
+    "unid": "20230822_0000242"
   }
 },{
   "type": "Feature",
@@ -592,7 +670,7 @@
     "depth": 132.0,
     "evtype": "ue",
     "auth": "PR",
-    "mag": 3.5,
+    "mag": 3.4,
     "magtype": "md",
     "unid": "20230822_0000225"
   }
@@ -25919,83 +25997,5 @@
     "mag": 2.0,
     "magtype": "ml",
     "unid": "20230819_0000059"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      26.3200,
-      38.4100,
-      -10.0
-    ]
-  },
-  "id": "20230819_0000098",
-  "properties": {
-    "source_id": "1542947",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-08-19T11:19:53.52733Z",
-    "time": "2023-08-19T07:02:55.8Z",
-    "flynn_region": "NEAR THE COAST OF WESTERN TURKEY",
-    "lat": 38.4100,
-    "lon": 26.3200,
-    "depth": 10.0,
-    "evtype": "ue",
-    "auth": "THE",
-    "mag": 2.4,
-    "magtype": "ml",
-    "unid": "20230819_0000098"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      36.6402,
-      36.0595,
-      -22.5
-    ]
-  },
-  "id": "20230819_0000077",
-  "properties": {
-    "source_id": "1542887",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-08-19T09:01:08.972842Z",
-    "time": "2023-08-19T06:58:03.2Z",
-    "flynn_region": "TURKEY-SYRIA BORDER REGION",
-    "lat": 36.0595,
-    "lon": 36.6402,
-    "depth": 22.5,
-    "evtype": "ke",
-    "auth": "KOERI",
-    "mag": 2.2,
-    "magtype": "ml",
-    "unid": "20230819_0000077"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      122.8100,
-      13.7900,
-      -1.0
-    ]
-  },
-  "id": "20230819_0000181",
-  "properties": {
-    "source_id": "1543071",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-08-19T18:35:33.922146Z",
-    "time": "2023-08-19T06:43:22.0Z",
-    "flynn_region": "LUZON, PHILIPPINES",
-    "lat": 13.7900,
-    "lon": 122.8100,
-    "depth": 1.0,
-    "evtype": "ue",
-    "auth": "PIVS",
-    "mag": 3.1,
-    "magtype": "m",
-    "unid": "20230819_0000181"
   }
 }]}
