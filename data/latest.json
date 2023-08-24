@@ -3,6 +3,58 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      -66.9200,
+      -23.0900,
+      -195.3
+    ]
+  },
+  "id": "20230824_0000028",
+  "properties": {
+    "source_id": "1544778",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-08-24T03:47:20.479995Z",
+    "time": "2023-08-24T03:37:09.0Z",
+    "flynn_region": "JUJUY, ARGENTINA",
+    "lat": -23.0900,
+    "lon": -66.9200,
+    "depth": 195.3,
+    "evtype": "ue",
+    "auth": "CSN",
+    "mag": 3.7,
+    "magtype": "ml",
+    "unid": "20230824_0000028"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.0900,
+      -20.6100,
+      -109.3
+    ]
+  },
+  "id": "20230824_0000027",
+  "properties": {
+    "source_id": "1544775",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-08-24T03:32:50.63094Z",
+    "time": "2023-08-24T03:20:18.0Z",
+    "flynn_region": "TARAPACA, CHILE",
+    "lat": -20.6100,
+    "lon": -69.0900,
+    "depth": 109.3,
+    "evtype": "ue",
+    "auth": "CSN",
+    "mag": 2.8,
+    "magtype": "ml",
+    "unid": "20230824_0000027"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       9.8652,
       46.5107,
       -6.9
@@ -133,21 +185,21 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      36.5983,
-      38.0237,
-      -5.0
+      36.5941,
+      38.0124,
+      -10.0
     ]
   },
   "id": "20230824_0000021",
   "properties": {
     "source_id": "1544768",
     "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-08-24T03:00:23.963438Z",
-    "time": "2023-08-24T02:41:18.483567Z",
+    "lastupdate": "2023-08-24T03:30:22.432795Z",
+    "time": "2023-08-24T02:41:18.59266Z",
     "flynn_region": "CENTRAL TURKEY",
-    "lat": 38.0237,
-    "lon": 36.5983,
-    "depth": 5.0,
+    "lat": 38.0124,
+    "lon": 36.5941,
+    "depth": 10.0,
     "evtype": "ue",
     "auth": "AFAD",
     "mag": 2.7,
@@ -25945,57 +25997,5 @@
     "mag": 3.0,
     "magtype": "ml",
     "unid": "20230820_0000063"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      176.8801,
-      -37.2342,
-      -214.8
-    ]
-  },
-  "id": "20230820_0000064",
-  "properties": {
-    "source_id": "1543238",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-08-20T07:49:03.997788Z",
-    "time": "2023-08-20T07:35:51.775335Z",
-    "flynn_region": "NORTH ISLAND OF NEW ZEALAND",
-    "lat": -37.2342,
-    "lon": 176.8801,
-    "depth": 214.8,
-    "evtype": "ue",
-    "auth": "GNS",
-    "mag": 3.2,
-    "magtype": "ml",
-    "unid": "20230820_0000064"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -98.2100,
-      15.9100,
-      -10.0
-    ]
-  },
-  "id": "20230820_0000065",
-  "properties": {
-    "source_id": "1543239",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-08-20T07:49:46.651119Z",
-    "time": "2023-08-20T07:33:05.0Z",
-    "flynn_region": "OFFSHORE OAXACA, MEXICO",
-    "lat": 15.9100,
-    "lon": -98.2100,
-    "depth": 10.0,
-    "evtype": "ue",
-    "auth": "UNM",
-    "mag": 4.0,
-    "magtype": "m",
-    "unid": "20230820_0000065"
   }
 }]}
