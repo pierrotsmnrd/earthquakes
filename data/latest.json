@@ -3,6 +3,110 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      39.9323,
+      39.8420,
+      -5.0
+    ]
+  },
+  "id": "20230912_0000201",
+  "properties": {
+    "source_id": "1552843",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-09-12T22:43:30.764199Z",
+    "time": "2023-09-12T22:36:29.9Z",
+    "flynn_region": "EASTERN TURKEY",
+    "lat": 39.8420,
+    "lon": 39.9323,
+    "depth": 5.0,
+    "evtype": "ke",
+    "auth": "KOERI",
+    "mag": 3.0,
+    "magtype": "m",
+    "unid": "20230912_0000201"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      36.5223,
+      36.7612,
+      -14.9
+    ]
+  },
+  "id": "20230912_0000200",
+  "properties": {
+    "source_id": "1552842",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-09-12T22:20:16.373757Z",
+    "time": "2023-09-12T22:07:37.2Z",
+    "flynn_region": "TURKEY-SYRIA BORDER REGION",
+    "lat": 36.7612,
+    "lon": 36.5223,
+    "depth": 14.9,
+    "evtype": "ke",
+    "auth": "KOERI",
+    "mag": 2.0,
+    "magtype": "ml",
+    "unid": "20230912_0000200"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -106.9664,
+      34.1545,
+      -5.6
+    ]
+  },
+  "id": "20230912_0000202",
+  "properties": {
+    "source_id": "1552844",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-09-12T22:57:38.251065Z",
+    "time": "2023-09-12T22:01:06.488Z",
+    "flynn_region": "NEW MEXICO",
+    "lat": 34.1545,
+    "lon": -106.9664,
+    "depth": 5.6,
+    "evtype": "ue",
+    "auth": "NEIC",
+    "mag": 2.8,
+    "magtype": "ml",
+    "unid": "20230912_0000202"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -164.1428,
+      54.0132,
+      -54.2
+    ]
+  },
+  "id": "20230912_0000199",
+  "properties": {
+    "source_id": "1552840",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-09-12T22:05:37.194343Z",
+    "time": "2023-09-12T21:48:58.349Z",
+    "flynn_region": "UNIMAK ISLAND REGION, ALASKA",
+    "lat": 54.0132,
+    "lon": -164.1428,
+    "depth": 54.2,
+    "evtype": "ue",
+    "auth": "NEIC",
+    "mag": 4.9,
+    "magtype": "mb",
+    "unid": "20230912_0000199"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       121.2500,
       19.1000,
       -13.0
@@ -497,23 +601,23 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -66.8300,
-      -24.1200,
-      -218.0
+      -66.7800,
+      -24.1161,
+      -186.5
     ]
   },
   "id": "20230912_0000177",
   "properties": {
     "source_id": "1552784",
     "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-09-12T18:50:14.338272Z",
-    "time": "2023-09-12T18:38:30.0Z",
+    "lastupdate": "2023-09-12T22:09:57.587255Z",
+    "time": "2023-09-12T18:38:58.16Z",
     "flynn_region": "SALTA, ARGENTINA",
-    "lat": -24.1200,
-    "lon": -66.8300,
-    "depth": 218.0,
+    "lat": -24.1161,
+    "lon": -66.7800,
+    "depth": 186.5,
     "evtype": "ue",
-    "auth": "NSNA",
+    "auth": "NEIC",
     "mag": 3.2,
     "magtype": "m",
     "unid": "20230912_0000177"
@@ -3435,21 +3539,21 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -121.1563,
-      40.2218,
-      0.3
+      -121.1643,
+      40.2145,
+      0.8
     ]
   },
   "id": "20230912_0000053",
   "properties": {
     "source_id": "1552392",
     "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-09-12T06:31:08.26505Z",
-    "time": "2023-09-12T06:29:31.93Z",
+    "lastupdate": "2023-09-12T22:52:58.155474Z",
+    "time": "2023-09-12T06:29:31.81Z",
     "flynn_region": "NORTHERN CALIFORNIA",
-    "lat": 40.2218,
-    "lon": -121.1563,
-    "depth": -0.3,
+    "lat": 40.2145,
+    "lon": -121.1643,
+    "depth": -0.8,
     "evtype": "ue",
     "auth": "NC",
     "mag": 2.4,
@@ -25893,109 +25997,5 @@
     "mag": 2.5,
     "magtype": "ml",
     "unid": "20230909_0000186"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -117.0502,
-      36.4462,
-      -2.0
-    ]
-  },
-  "id": "20230909_0000285",
-  "properties": {
-    "source_id": "1552200",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-09-11T18:42:38.470699Z",
-    "time": "2023-09-09T16:27:51.36Z",
-    "flynn_region": "CENTRAL CALIFORNIA",
-    "lat": 36.4462,
-    "lon": -117.0502,
-    "depth": 2.0,
-    "evtype": "ue",
-    "auth": "SCSN",
-    "mag": 2.2,
-    "magtype": "ml",
-    "unid": "20230909_0000285"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -68.5950,
-      -31.5630,
-      -107.0
-    ]
-  },
-  "id": "20230909_0000241",
-  "properties": {
-    "source_id": "1551399",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-09-09T22:15:06.99457Z",
-    "time": "2023-09-09T16:26:30.0Z",
-    "flynn_region": "SAN JUAN, ARGENTINA",
-    "lat": -31.5630,
-    "lon": -68.5950,
-    "depth": 107.0,
-    "evtype": "ue",
-    "auth": "NSNA",
-    "mag": 3.0,
-    "magtype": "m",
-    "unid": "20230909_0000241"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      179.9600,
-      51.7285,
-      -9.9
-    ]
-  },
-  "id": "20230909_0000279",
-  "properties": {
-    "source_id": "1551896",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-09-11T01:24:47.137544Z",
-    "time": "2023-09-09T16:24:29.76Z",
-    "flynn_region": "RAT ISLANDS, ALEUTIAN ISLANDS",
-    "lat": 51.7285,
-    "lon": 179.9600,
-    "depth": 9.9,
-    "evtype": "ue",
-    "auth": "AV",
-    "mag": 2.1,
-    "magtype": "ml",
-    "unid": "20230909_0000279"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -7.9330,
-      30.1010,
-      -5.0
-    ]
-  },
-  "id": "20230909_0000355",
-  "properties": {
-    "source_id": "1552498",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-09-12T09:24:40.928119Z",
-    "time": "2023-09-09T16:23:32.0Z",
-    "flynn_region": "MOROCCO",
-    "lat": 30.1010,
-    "lon": -7.9330,
-    "depth": 5.0,
-    "evtype": "uk",
-    "auth": "CNRST",
-    "mag": 2.1,
-    "magtype": "m",
-    "unid": "20230909_0000355"
   }
 }]}
