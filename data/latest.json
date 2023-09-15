@@ -3,6 +3,58 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      24.3283,
+      34.3369,
+      -13.8
+    ]
+  },
+  "id": "20230915_0000007",
+  "properties": {
+    "source_id": "1553641",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-09-15T01:46:14.13436Z",
+    "time": "2023-09-15T01:38:06.305078Z",
+    "flynn_region": "CRETE, GREECE",
+    "lat": 34.3369,
+    "lon": 24.3283,
+    "depth": 13.8,
+    "evtype": "ue",
+    "auth": "NOA",
+    "mag": 3.2,
+    "magtype": "ml",
+    "unid": "20230915_0000007"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      126.3200,
+      1.3600,
+      -14.0
+    ]
+  },
+  "id": "20230915_0000006",
+  "properties": {
+    "source_id": "1553640",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-09-15T01:35:14.21235Z",
+    "time": "2023-09-15T01:25:50.0Z",
+    "flynn_region": "MOLUCCA SEA",
+    "lat": 1.3600,
+    "lon": 126.3200,
+    "depth": 14.0,
+    "evtype": "ue",
+    "auth": "BMKG",
+    "mag": 3.4,
+    "magtype": "m",
+    "unid": "20230915_0000006"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       91.2100,
       28.4000,
       -10.0
@@ -23,6 +75,32 @@
     "mag": 3.2,
     "magtype": "m",
     "unid": "20230915_0000004"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      37.4955,
+      38.1485,
+      -5.4
+    ]
+  },
+  "id": "20230915_0000005",
+  "properties": {
+    "source_id": "1553638",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-09-15T01:23:54.498386Z",
+    "time": "2023-09-15T00:23:55.2Z",
+    "flynn_region": "CENTRAL TURKEY",
+    "lat": 38.1485,
+    "lon": 37.4955,
+    "depth": 5.4,
+    "evtype": "ke",
+    "auth": "KOERI",
+    "mag": 2.0,
+    "magtype": "ml",
+    "unid": "20230915_0000005"
   }
 },{
   "type": "Feature",
@@ -272,7 +350,7 @@
   "properties": {
     "source_id": "1553607",
     "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-09-15T01:01:50.474203Z",
+    "lastupdate": "2023-09-15T02:04:55.732917Z",
     "time": "2023-09-14T23:48:21.64539Z",
     "flynn_region": "NEVADA",
     "lat": 38.1736,
@@ -3400,7 +3478,7 @@
     "depth": -2.2,
     "evtype": "ue",
     "auth": "NC",
-    "mag": 2.1,
+    "mag": 1.8,
     "magtype": "md",
     "unid": "20230914_0000171"
   }
@@ -25919,83 +25997,5 @@
     "mag": 5.1,
     "magtype": "mb",
     "unid": "20230911_0000070"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -8.4310,
-      30.8660,
-      -3.0
-    ]
-  },
-  "id": "20230911_0000302",
-  "properties": {
-    "source_id": "1552618",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-09-12T13:08:13.67274Z",
-    "time": "2023-09-11T05:08:01.0Z",
-    "flynn_region": "MOROCCO",
-    "lat": 30.8660,
-    "lon": -8.4310,
-    "depth": 3.0,
-    "evtype": "uk",
-    "auth": "CNRST",
-    "mag": 2.0,
-    "magtype": "m",
-    "unid": "20230911_0000302"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -121.5678,
-      40.9628,
-      -14.1
-    ]
-  },
-  "id": "20230911_0000065",
-  "properties": {
-    "source_id": "1551976",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-09-11T20:46:32.726262Z",
-    "time": "2023-09-11T05:05:00.35Z",
-    "flynn_region": "NORTHERN CALIFORNIA",
-    "lat": 40.9628,
-    "lon": -121.5678,
-    "depth": 14.1,
-    "evtype": "ue",
-    "auth": "NC",
-    "mag": 2.1,
-    "magtype": "md",
-    "unid": "20230911_0000065"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      126.8600,
-      7.5500,
-      -28.0
-    ]
-  },
-  "id": "20230911_0000081",
-  "properties": {
-    "source_id": "1552003",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-09-11T07:07:35.923712Z",
-    "time": "2023-09-11T05:04:05.0Z",
-    "flynn_region": "MINDANAO, PHILIPPINES",
-    "lat": 7.5500,
-    "lon": 126.8600,
-    "depth": 28.0,
-    "evtype": "ue",
-    "auth": "PIVS",
-    "mag": 3.4,
-    "magtype": "m",
-    "unid": "20230911_0000081"
   }
 }]}
