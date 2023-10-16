@@ -3,6 +3,58 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      121.4200,
+      17.6400,
+      -16.0
+    ]
+  },
+  "id": "20231016_0000216",
+  "properties": {
+    "source_id": "1566847",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-10-16T21:35:33.976158Z",
+    "time": "2023-10-16T21:15:35.0Z",
+    "flynn_region": "LUZON, PHILIPPINES",
+    "lat": 17.6400,
+    "lon": 121.4200,
+    "depth": 16.0,
+    "evtype": "ue",
+    "auth": "PIVS",
+    "mag": 3.2,
+    "magtype": "m",
+    "unid": "20231016_0000216"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      122.8800,
+      -6.2400,
+      -10.0
+    ]
+  },
+  "id": "20231016_0000215",
+  "properties": {
+    "source_id": "1566844",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-10-16T21:07:13.626804Z",
+    "time": "2023-10-16T20:59:37.0Z",
+    "flynn_region": "FLORES SEA",
+    "lat": -6.2400,
+    "lon": 122.8800,
+    "depth": 10.0,
+    "evtype": "ue",
+    "auth": "BMKG",
+    "mag": 4.0,
+    "magtype": "m",
+    "unid": "20231016_0000215"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       27.1863,
       38.3332,
       -9.8
@@ -13601,6 +13653,32 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      -130.4486,
+      50.6643,
+      -10.0
+    ]
+  },
+  "id": "20231014_0000265",
+  "properties": {
+    "source_id": "1566846",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-10-16T21:21:51.646819Z",
+    "time": "2023-10-14T15:34:01.0Z",
+    "flynn_region": "VANCOUVER ISLAND, CANADA REGION",
+    "lat": 50.6643,
+    "lon": -130.4486,
+    "depth": 10.0,
+    "evtype": "ue",
+    "auth": "CN",
+    "mag": 3.1,
+    "magtype": "m",
+    "unid": "20231014_0000265"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       -97.9780,
       28.9710,
       -0.1
@@ -25919,83 +25997,5 @@
     "mag": 4.7,
     "magtype": "mb",
     "unid": "20231012_0000197"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -87.5397,
-      14.9175,
-      -7.0
-    ]
-  },
-  "id": "20231012_0000196",
-  "properties": {
-    "source_id": "1565264",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-10-13T06:00:33.220969Z",
-    "time": "2023-10-12T20:00:40.72Z",
-    "flynn_region": "HONDURAS",
-    "lat": 14.9175,
-    "lon": -87.5397,
-    "depth": 7.0,
-    "evtype": "ue",
-    "auth": "EMSC",
-    "mag": 4.6,
-    "magtype": "mb",
-    "unid": "20231012_0000196"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -118.2822,
-      38.2264,
-      -8.2
-    ]
-  },
-  "id": "20231012_0000194",
-  "properties": {
-    "source_id": "1565262",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-10-12T20:27:34.85591Z",
-    "time": "2023-10-12T20:00:30.91762Z",
-    "flynn_region": "NEVADA",
-    "lat": 38.2264,
-    "lon": -118.2822,
-    "depth": 8.2,
-    "evtype": "ue",
-    "auth": "NN",
-    "mag": 2.4,
-    "magtype": "ml",
-    "unid": "20231012_0000194"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -28.4280,
-      39.1120,
-      -2.4
-    ]
-  },
-  "id": "20231012_0000192",
-  "properties": {
-    "source_id": "1565258",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-10-12T19:51:44.84429Z",
-    "time": "2023-10-12T19:46:53.2Z",
-    "flynn_region": "AZORES ISLANDS, PORTUGAL",
-    "lat": 39.1120,
-    "lon": -28.4280,
-    "depth": 2.4,
-    "evtype": "ke",
-    "auth": "PDA",
-    "mag": 2.1,
-    "magtype": "ml",
-    "unid": "20231012_0000192"
   }
 }]}
