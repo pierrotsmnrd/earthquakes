@@ -3,6 +3,32 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      91.6400,
+      27.0400,
+      -10.0
+    ]
+  },
+  "id": "20231016_0000224",
+  "properties": {
+    "source_id": "1566858",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-10-17T00:07:34.599679Z",
+    "time": "2023-10-16T23:55:07.0Z",
+    "flynn_region": "BHUTAN",
+    "lat": 27.0400,
+    "lon": 91.6400,
+    "depth": 10.0,
+    "evtype": "ue",
+    "auth": "NDI",
+    "mag": 3.7,
+    "magtype": "m",
+    "unid": "20231016_0000224"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       119.4300,
       0.5500,
       -21.0
@@ -7823,6 +7849,32 @@
     "mag": 3.7,
     "magtype": "ml",
     "unid": "20231015_0000131"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.4490,
+      54.3161,
+      -16.0
+    ]
+  },
+  "id": "20231015_0000219",
+  "properties": {
+    "source_id": "1566859",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-10-17T00:28:52.656998Z",
+    "time": "2023-10-15T16:28:39.0Z",
+    "flynn_region": "ALBERTA, CANADA",
+    "lat": 54.3161,
+    "lon": -118.4490,
+    "depth": 16.0,
+    "evtype": "ue",
+    "auth": "CN",
+    "mag": 2.6,
+    "magtype": "m",
+    "unid": "20231015_0000219"
   }
 },{
   "type": "Feature",
@@ -25945,57 +25997,5 @@
     "mag": 0.8,
     "magtype": "ml",
     "unid": "20231012_0000202"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      39.0743,
-      38.3963,
-      -12.9
-    ]
-  },
-  "id": "20231012_0000205",
-  "properties": {
-    "source_id": "1565282",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-10-12T21:32:41.861785Z",
-    "time": "2023-10-12T21:15:57.7Z",
-    "flynn_region": "EASTERN TURKEY",
-    "lat": 38.3963,
-    "lon": 39.0743,
-    "depth": 12.9,
-    "evtype": "ke",
-    "auth": "KOERI",
-    "mag": 2.0,
-    "magtype": "ml",
-    "unid": "20231012_0000205"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      110.7500,
-      -8.5300,
-      -52.0
-    ]
-  },
-  "id": "20231012_0000201",
-  "properties": {
-    "source_id": "1565278",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-10-12T21:21:14.133358Z",
-    "time": "2023-10-12T21:08:42.0Z",
-    "flynn_region": "JAVA, INDONESIA",
-    "lat": -8.5300,
-    "lon": 110.7500,
-    "depth": 52.0,
-    "evtype": "ue",
-    "auth": "BMKG",
-    "mag": 3.2,
-    "magtype": "m",
-    "unid": "20231012_0000201"
   }
 }]}
