@@ -3,24 +3,50 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      94.1166,
-      27.7020,
-      -6.8
+      -68.8000,
+      -22.4200,
+      -117.8
+    ]
+  },
+  "id": "20231021_0000153",
+  "properties": {
+    "source_id": "1568548",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-10-21T18:38:07.131539Z",
+    "time": "2023-10-21T18:30:31.0Z",
+    "flynn_region": "ANTOFAGASTA, CHILE",
+    "lat": -22.4200,
+    "lon": -68.8000,
+    "depth": 117.8,
+    "evtype": "ue",
+    "auth": "CSN",
+    "mag": 3.0,
+    "magtype": "ml",
+    "unid": "20231021_0000153"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      94.1800,
+      27.6800,
+      -5.0
     ]
   },
   "id": "20231021_0000152",
   "properties": {
     "source_id": "1568546",
     "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-10-21T17:56:33.976842Z",
+    "lastupdate": "2023-10-21T18:14:31.256002Z",
     "time": "2023-10-21T17:53:28.0Z",
     "flynn_region": "ARUNACHAL PRADESH-ASSAM, INDIA",
-    "lat": 27.7020,
-    "lon": 94.1166,
-    "depth": 6.8,
+    "lat": 27.6800,
+    "lon": 94.1800,
+    "depth": 5.0,
     "evtype": "ue",
     "auth": "NDI",
-    "mag": 2.9,
+    "mag": 2.5,
     "magtype": "m",
     "unid": "20231021_0000152"
   }
@@ -445,24 +471,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      126.6700,
-      9.1100,
-      -15.0
+      126.8100,
+      9.1300,
+      -33.0
     ]
   },
   "id": "20231021_0000132",
   "properties": {
     "source_id": "1568523",
     "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-10-21T15:42:37.151113Z",
-    "time": "2023-10-21T15:21:43.0Z",
+    "lastupdate": "2023-10-21T18:14:18.138942Z",
+    "time": "2023-10-21T15:21:42.3Z",
     "flynn_region": "MINDANAO, PHILIPPINES",
-    "lat": 9.1100,
-    "lon": 126.6700,
-    "depth": 15.0,
-    "evtype": "ue",
-    "auth": "PIVS",
-    "mag": 4.5,
+    "lat": 9.1300,
+    "lon": 126.8100,
+    "depth": 33.0,
+    "evtype": "ke",
+    "auth": "GSRAS",
+    "mag": 5.0,
     "magtype": "mb",
     "unid": "20231021_0000132"
   }
@@ -523,25 +549,25 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      143.4472,
-      -38.7135,
-      -5.0
+      143.7000,
+      -38.6400,
+      -10.0
     ]
   },
   "id": "20231021_0000131",
   "properties": {
     "source_id": "1568515",
     "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-10-21T15:24:02.848418Z",
-    "time": "2023-10-21T15:11:08.5Z",
+    "lastupdate": "2023-10-21T18:32:12.409683Z",
+    "time": "2023-10-21T15:11:08.0Z",
     "flynn_region": "NEAR S.E. COAST OF AUSTRALIA",
-    "lat": -38.7135,
-    "lon": 143.4472,
-    "depth": 5.0,
-    "evtype": "ue",
-    "auth": "EMSC",
-    "mag": 5.4,
-    "magtype": "ml",
+    "lat": -38.6400,
+    "lon": 143.7000,
+    "depth": 10.0,
+    "evtype": "ke",
+    "auth": "GSRAS",
+    "mag": 5.2,
+    "magtype": "mb",
     "unid": "20231021_0000131"
   }
 },{
@@ -809,8 +835,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      7.8041,
-      46.5068,
+      7.8059,
+      46.5144,
       0.0
     ]
   },
@@ -818,15 +844,15 @@
   "properties": {
     "source_id": "1568493",
     "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-10-21T13:44:48.138487Z",
-    "time": "2023-10-21T13:39:48.3Z",
+    "lastupdate": "2023-10-21T18:18:01.181446Z",
+    "time": "2023-10-21T13:39:48.5Z",
     "flynn_region": "SWITZERLAND",
-    "lat": 46.5068,
-    "lon": 7.8041,
-    "depth": -0.0,
+    "lat": 46.5144,
+    "lon": 7.8059,
+    "depth": 0.0,
     "evtype": "ue",
     "auth": "ETHZ",
-    "mag": 0.8,
+    "mag": 0.5,
     "magtype": "ml",
     "unid": "20231021_0000106"
   }
@@ -1121,8 +1147,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      118.0600,
-      -8.1970,
+      118.1500,
+      -8.1600,
       -10.0
     ]
   },
@@ -1130,16 +1156,16 @@
   "properties": {
     "source_id": "1568474",
     "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-10-21T12:23:00.962902Z",
-    "time": "2023-10-21T12:04:57.4Z",
+    "lastupdate": "2023-10-21T18:06:57.284034Z",
+    "time": "2023-10-21T12:04:57.5Z",
     "flynn_region": "SUMBAWA REGION, INDONESIA",
-    "lat": -8.1970,
-    "lon": 118.0600,
+    "lat": -8.1600,
+    "lon": 118.1500,
     "depth": 10.0,
-    "evtype": "ue",
-    "auth": "GFZ",
-    "mag": 4.7,
-    "magtype": "m",
+    "evtype": "ke",
+    "auth": "GSRAS",
+    "mag": 4.8,
+    "magtype": "mb",
     "unid": "20231021_0000096"
   }
 },{
@@ -1199,24 +1225,24 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      6.9194,
-      47.3729,
-      -5.5
+      6.9198,
+      47.3675,
+      -5.3
     ]
   },
   "id": "20231021_0000091",
   "properties": {
     "source_id": "1568470",
     "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-10-21T11:33:53.189808Z",
-    "time": "2023-10-21T11:30:11.2Z",
+    "lastupdate": "2023-10-21T18:29:50.440096Z",
+    "time": "2023-10-21T11:30:11.0Z",
     "flynn_region": "SWITZERLAND",
-    "lat": 47.3729,
-    "lon": 6.9194,
-    "depth": 5.5,
+    "lat": 47.3675,
+    "lon": 6.9198,
+    "depth": 5.3,
     "evtype": "ue",
     "auth": "ETHZ",
-    "mag": 1.1,
+    "mag": 0.8,
     "magtype": "ml",
     "unid": "20231021_0000091"
   }
@@ -25971,31 +25997,5 @@
     "mag": 2.5,
     "magtype": "m",
     "unid": "20231017_0000073"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      33.4370,
-      35.3758,
-      -24.8
-    ]
-  },
-  "id": "20231017_0000240",
-  "properties": {
-    "source_id": "1567037",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-10-18T09:03:57.398682Z",
-    "time": "2023-10-17T09:08:42.31Z",
-    "flynn_region": "CYPRUS REGION",
-    "lat": 35.3758,
-    "lon": 33.4370,
-    "depth": 24.8,
-    "evtype": "ue",
-    "auth": "GSD",
-    "mag": 1.5,
-    "magtype": "ml",
-    "unid": "20231017_0000240"
   }
 }]}
