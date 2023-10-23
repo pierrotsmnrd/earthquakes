@@ -3,6 +3,58 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      27.5082,
+      37.9987,
+      -9.3
+    ]
+  },
+  "id": "20231023_0000018",
+  "properties": {
+    "source_id": "1569018",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-10-23T02:25:13.676485Z",
+    "time": "2023-10-23T02:19:08.5Z",
+    "flynn_region": "WESTERN TURKEY",
+    "lat": 37.9987,
+    "lon": 27.5082,
+    "depth": 9.3,
+    "evtype": "ke",
+    "auth": "KOERI",
+    "mag": 2.9,
+    "magtype": "ml",
+    "unid": "20231023_0000018"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      143.4900,
+      -38.7400,
+      -10.0
+    ]
+  },
+  "id": "20231023_0000019",
+  "properties": {
+    "source_id": "1569020",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-10-23T02:37:18.174838Z",
+    "time": "2023-10-23T02:17:37.6Z",
+    "flynn_region": "NEAR S.E. COAST OF AUSTRALIA",
+    "lat": -38.7400,
+    "lon": 143.4900,
+    "depth": 10.0,
+    "evtype": "ue",
+    "auth": "AUST",
+    "mag": 3.7,
+    "magtype": "mla",
+    "unid": "20231023_0000019"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       -155.3083,
       19.3452,
       -3.1
@@ -23,6 +75,32 @@
     "mag": 2.1,
     "magtype": "md",
     "unid": "20231023_0000016"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      38.4202,
+      38.1193,
+      -5.2
+    ]
+  },
+  "id": "20231023_0000017",
+  "properties": {
+    "source_id": "1569016",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-10-23T02:08:45.449047Z",
+    "time": "2023-10-23T02:01:41.5Z",
+    "flynn_region": "EASTERN TURKEY",
+    "lat": 38.1193,
+    "lon": 38.4202,
+    "depth": 5.2,
+    "evtype": "ke",
+    "auth": "KOERI",
+    "mag": 2.3,
+    "magtype": "ml",
+    "unid": "20231023_0000017"
   }
 },{
   "type": "Feature",
@@ -367,23 +445,23 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      179.0544,
-      -23.7218,
-      -542.4
+      179.1030,
+      -23.8150,
+      -528.2
     ]
   },
   "id": "20231023_0000002",
   "properties": {
     "source_id": "1568966",
     "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-10-23T00:36:46.412616Z",
-    "time": "2023-10-23T00:17:26.539Z",
+    "lastupdate": "2023-10-23T02:29:49.370977Z",
+    "time": "2023-10-23T00:17:25.8Z",
     "flynn_region": "SOUTH OF FIJI ISLANDS",
-    "lat": -23.7218,
-    "lon": 179.0544,
-    "depth": 542.4,
+    "lat": -23.8150,
+    "lon": 179.1030,
+    "depth": 528.2,
     "evtype": "ue",
-    "auth": "NEIC",
+    "auth": "GFZ",
     "mag": 4.6,
     "magtype": "mb",
     "unid": "20231023_0000002"
@@ -7179,8 +7257,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      143.5200,
-      -38.6900,
+      143.5300,
+      -38.7000,
       -10.0
     ]
   },
@@ -7188,17 +7266,43 @@
   "properties": {
     "source_id": "1568552",
     "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-10-21T19:40:51.348582Z",
+    "lastupdate": "2023-10-23T02:30:32.923459Z",
     "time": "2023-10-21T18:44:29.3Z",
     "flynn_region": "NEAR S.E. COAST OF AUSTRALIA",
-    "lat": -38.6900,
-    "lon": 143.5200,
+    "lat": -38.7000,
+    "lon": 143.5300,
     "depth": 10.0,
     "evtype": "ue",
     "auth": "AUST",
     "mag": 3.6,
     "magtype": "mla",
     "unid": "20231021_0000155"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      143.5300,
+      -38.7600,
+      -10.0
+    ]
+  },
+  "id": "20231021_0000224",
+  "properties": {
+    "source_id": "1569021",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-10-23T02:37:53.681741Z",
+    "time": "2023-10-21T18:40:49.8Z",
+    "flynn_region": "NEAR S.E. COAST OF AUSTRALIA",
+    "lat": -38.7600,
+    "lon": 143.5300,
+    "depth": 10.0,
+    "evtype": "ue",
+    "auth": "AUST",
+    "mag": 2.5,
+    "magtype": "mla",
+    "unid": "20231021_0000224"
   }
 },{
   "type": "Feature",
@@ -25893,109 +25997,5 @@
     "mag": 4.9,
     "magtype": "mb",
     "unid": "20231018_0000143"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      29.5934,
-      35.5028,
-      -25.0
-    ]
-  },
-  "id": "20231018_0000161",
-  "properties": {
-    "source_id": "1567528",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-10-20T14:37:13.82339Z",
-    "time": "2023-10-18T16:40:01.31Z",
-    "flynn_region": "EASTERN MEDITERRANEAN SEA",
-    "lat": 35.5028,
-    "lon": 29.5934,
-    "depth": 25.0,
-    "evtype": "ue",
-    "auth": "EMSC",
-    "mag": 2.2,
-    "magtype": "ml",
-    "unid": "20231018_0000161"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -121.6428,
-      38.1270,
-      -8.5
-    ]
-  },
-  "id": "20231018_0000137",
-  "properties": {
-    "source_id": "1567496",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-10-19T06:39:29.540678Z",
-    "time": "2023-10-18T16:29:14.4Z",
-    "flynn_region": "NORTHERN CALIFORNIA",
-    "lat": 38.1270,
-    "lon": -121.6428,
-    "depth": 8.5,
-    "evtype": "ue",
-    "auth": "EMSC",
-    "mag": 4.2,
-    "magtype": "mw",
-    "unid": "20231018_0000137"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      144.9372,
-      42.8638,
-      -71.0
-    ]
-  },
-  "id": "20231018_0000138",
-  "properties": {
-    "source_id": "1567497",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-10-18T21:39:34.143268Z",
-    "time": "2023-10-18T16:27:36.202Z",
-    "flynn_region": "HOKKAIDO, JAPAN REGION",
-    "lat": 42.8638,
-    "lon": 144.9372,
-    "depth": 71.0,
-    "evtype": "ue",
-    "auth": "NEIC",
-    "mag": 3.8,
-    "magtype": "m",
-    "unid": "20231018_0000138"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      36.3815,
-      37.9613,
-      -5.0
-    ]
-  },
-  "id": "20231018_0000163",
-  "properties": {
-    "source_id": "1567530",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-10-18T19:30:54.201848Z",
-    "time": "2023-10-18T16:23:13.8Z",
-    "flynn_region": "CENTRAL TURKEY",
-    "lat": 37.9613,
-    "lon": 36.3815,
-    "depth": 5.0,
-    "evtype": "ke",
-    "auth": "KOERI",
-    "mag": 2.0,
-    "magtype": "ml",
-    "unid": "20231018_0000163"
   }
 }]}
