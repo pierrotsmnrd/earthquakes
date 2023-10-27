@@ -3,6 +3,32 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      -95.2000,
+      16.8000,
+      -101.2
+    ]
+  },
+  "id": "20231027_0000008",
+  "properties": {
+    "source_id": "1570665",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-10-27T01:57:07.299459Z",
+    "time": "2023-10-27T01:21:29.0Z",
+    "flynn_region": "OAXACA, MEXICO",
+    "lat": 16.8000,
+    "lon": -95.2000,
+    "depth": 101.2,
+    "evtype": "ue",
+    "auth": "UNM",
+    "mag": 4.1,
+    "magtype": "m",
+    "unid": "20231027_0000008"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       125.0900,
       12.1300,
       -28.0
@@ -101,6 +127,32 @@
     "mag": 1.5,
     "magtype": "ml",
     "unid": "20231027_0000004"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -69.1300,
+      -20.6800,
+      -99.6
+    ]
+  },
+  "id": "20231027_0000009",
+  "properties": {
+    "source_id": "1570667",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-10-27T02:06:19.14054Z",
+    "time": "2023-10-27T00:29:24.0Z",
+    "flynn_region": "TARAPACA, CHILE",
+    "lat": -20.6800,
+    "lon": -69.1300,
+    "depth": 99.6,
+    "evtype": "ue",
+    "auth": "CSN",
+    "mag": 2.9,
+    "magtype": "ml",
+    "unid": "20231027_0000009"
   }
 },{
   "type": "Feature",
@@ -12789,6 +12841,32 @@
     "mag": 2.1,
     "magtype": "ml",
     "unid": "20231025_0000016"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -167.9435,
+      53.9070,
+      -6.7
+    ]
+  },
+  "id": "20231025_0000249",
+  "properties": {
+    "source_id": "1570662",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-10-27T01:28:00.29561Z",
+    "time": "2023-10-25T02:42:39.1Z",
+    "flynn_region": "FOX ISLANDS, ALEUTIAN ISLANDS",
+    "lat": 53.9070,
+    "lon": -167.9435,
+    "depth": 6.7,
+    "evtype": "ue",
+    "auth": "AV",
+    "mag": 2.0,
+    "magtype": "ml",
+    "unid": "20231025_0000249"
   }
 },{
   "type": "Feature",
@@ -25919,83 +25997,5 @@
     "mag": 4.9,
     "magtype": "mb",
     "unid": "20231023_0000062"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      45.0622,
-      38.4939,
-      -10.0
-    ]
-  },
-  "id": "20231023_0000058",
-  "properties": {
-    "source_id": "1569078",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-10-24T11:31:35.375287Z",
-    "time": "2023-10-23T06:05:16.1Z",
-    "flynn_region": "NORTHWESTERN IRAN",
-    "lat": 38.4939,
-    "lon": 45.0622,
-    "depth": 10.0,
-    "evtype": "ue",
-    "auth": "EMSC",
-    "mag": 4.3,
-    "magtype": "mb",
-    "unid": "20231023_0000058"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      22.3000,
-      38.4700,
-      -163.0
-    ]
-  },
-  "id": "20231023_0000053",
-  "properties": {
-    "source_id": "1569072",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-10-23T06:03:48.614329Z",
-    "time": "2023-10-23T06:01:30.3Z",
-    "flynn_region": "GREECE",
-    "lat": 38.4700,
-    "lon": 22.3000,
-    "depth": 163.0,
-    "evtype": "ue",
-    "auth": "THE",
-    "mag": 2.1,
-    "magtype": "ml",
-    "unid": "20231023_0000053"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      121.1500,
-      19.1300,
-      -21.0
-    ]
-  },
-  "id": "20231023_0000057",
-  "properties": {
-    "source_id": "1569077",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-10-23T06:14:46.492238Z",
-    "time": "2023-10-23T06:00:53.0Z",
-    "flynn_region": "BABUYAN ISL REGION, PHILIPPINES",
-    "lat": 19.1300,
-    "lon": 121.1500,
-    "depth": 21.0,
-    "evtype": "ue",
-    "auth": "PIVS",
-    "mag": 3.3,
-    "magtype": "m",
-    "unid": "20231023_0000057"
   }
 }]}
