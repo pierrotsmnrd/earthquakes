@@ -3,6 +3,58 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      20.5200,
+      38.4900,
+      -5.0
+    ]
+  },
+  "id": "20231105_0000012",
+  "properties": {
+    "source_id": "1574299",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-11-05T01:47:09.82515Z",
+    "time": "2023-11-05T01:44:50.2Z",
+    "flynn_region": "GREECE",
+    "lat": 38.4900,
+    "lon": 20.5200,
+    "depth": 5.0,
+    "evtype": "ue",
+    "auth": "THE",
+    "mag": 2.0,
+    "magtype": "ml",
+    "unid": "20231105_0000012"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.4200,
+      -0.6400,
+      -10.0
+    ]
+  },
+  "id": "20231105_0000011",
+  "properties": {
+    "source_id": "1574297",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-11-05T01:42:15.315213Z",
+    "time": "2023-11-05T01:32:48.0Z",
+    "flynn_region": "SULAWESI, INDONESIA",
+    "lat": -0.6400,
+    "lon": 123.4200,
+    "depth": 10.0,
+    "evtype": "ue",
+    "auth": "BMKG",
+    "mag": 4.3,
+    "magtype": "m",
+    "unid": "20231105_0000011"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       122.6600,
       -8.7500,
       -36.0
@@ -25945,57 +25997,5 @@
     "mag": 4.6,
     "magtype": "mb",
     "unid": "20231101_0000038"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -103.3100,
-      18.1100,
-      -14.0
-    ]
-  },
-  "id": "20231101_0000118",
-  "properties": {
-    "source_id": "1572899",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-11-01T14:08:02.546321Z",
-    "time": "2023-11-01T06:23:24.0Z",
-    "flynn_region": "OFFSHORE MICHOACAN, MEXICO",
-    "lat": 18.1100,
-    "lon": -103.3100,
-    "depth": 14.0,
-    "evtype": "ue",
-    "auth": "UNM",
-    "mag": 3.6,
-    "magtype": "m",
-    "unid": "20231101_0000118"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -93.7600,
-      15.2800,
-      -10.8
-    ]
-  },
-  "id": "20231101_0000119",
-  "properties": {
-    "source_id": "1572900",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-11-01T14:08:02.553558Z",
-    "time": "2023-11-01T06:22:42.0Z",
-    "flynn_region": "OFFSHORE CHIAPAS, MEXICO",
-    "lat": 15.2800,
-    "lon": -93.7600,
-    "depth": 10.8,
-    "evtype": "ue",
-    "auth": "UNM",
-    "mag": 3.8,
-    "magtype": "m",
-    "unid": "20231101_0000119"
   }
 }]}
