@@ -3,6 +3,58 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      169.4222,
+      -20.7494,
+      -35.0
+    ]
+  },
+  "id": "20231213_0000031",
+  "properties": {
+    "source_id": "1591569",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-12-13T03:21:34.72395Z",
+    "time": "2023-12-13T03:04:20.327Z",
+    "flynn_region": "VANUATU",
+    "lat": -20.7494,
+    "lon": 169.4222,
+    "depth": 35.0,
+    "evtype": "ue",
+    "auth": "NEIC",
+    "mag": 5.1,
+    "magtype": "mb",
+    "unid": "20231213_0000031"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -34.4380,
+      56.6366,
+      -10.0
+    ]
+  },
+  "id": "20231213_0000032",
+  "properties": {
+    "source_id": "1591572",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-12-13T03:43:58.347332Z",
+    "time": "2023-12-13T02:58:36.402Z",
+    "flynn_region": "REYKJANES RIDGE",
+    "lat": 56.6366,
+    "lon": -34.4380,
+    "depth": 10.0,
+    "evtype": "ue",
+    "auth": "NEIC",
+    "mag": 4.7,
+    "magtype": "mb",
+    "unid": "20231213_0000032"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       26.4900,
       36.7900,
       -10.0
@@ -55,26 +107,52 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -155.2785,
-      19.3925,
-      -0.9
+      -155.2783,
+      19.3922,
+      -1.4
     ]
   },
   "id": "20231213_0000028",
   "properties": {
     "source_id": "1591565",
     "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-12-13T02:48:32.43248Z",
-    "time": "2023-12-13T02:43:00.19Z",
+    "lastupdate": "2023-12-13T03:17:18.36948Z",
+    "time": "2023-12-13T02:43:00.21Z",
     "flynn_region": "ISLAND OF HAWAII, HAWAII",
-    "lat": 19.3925,
-    "lon": -155.2785,
-    "depth": 0.9,
+    "lat": 19.3922,
+    "lon": -155.2783,
+    "depth": 1.4,
     "evtype": "ue",
     "auth": "HV",
     "mag": 2.3,
     "magtype": "ml",
     "unid": "20231213_0000028"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      29.3133,
+      36.9331,
+      -7.0
+    ]
+  },
+  "id": "20231213_0000030",
+  "properties": {
+    "source_id": "1591566",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2023-12-13T03:05:12.404481Z",
+    "time": "2023-12-13T02:37:41.0Z",
+    "flynn_region": "WESTERN TURKEY",
+    "lat": 36.9331,
+    "lon": 29.3133,
+    "depth": 7.0,
+    "evtype": "ue",
+    "auth": "AFAD",
+    "mag": 1.4,
+    "magtype": "ml",
+    "unid": "20231213_0000030"
   }
 },{
   "type": "Feature",
@@ -25919,83 +25997,5 @@
     "mag": 1.5,
     "magtype": "ml",
     "unid": "20231210_0000025"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      126.9100,
-      9.1800,
-      -21.0
-    ]
-  },
-  "id": "20231210_0000013",
-  "properties": {
-    "source_id": "1590110",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-12-10T01:21:56.663805Z",
-    "time": "2023-12-10T01:09:18.0Z",
-    "flynn_region": "MINDANAO, PHILIPPINES",
-    "lat": 9.1800,
-    "lon": 126.9100,
-    "depth": 21.0,
-    "evtype": "ue",
-    "auth": "PIVS",
-    "mag": 3.6,
-    "magtype": "m",
-    "unid": "20231210_0000013"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      177.8511,
-      -36.3689,
-      -188.1
-    ]
-  },
-  "id": "20231210_0000010",
-  "properties": {
-    "source_id": "1590105",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-12-10T01:14:04.114653Z",
-    "time": "2023-12-10T01:07:39.854994Z",
-    "flynn_region": "OFF E. COAST OF N. ISLAND, N.Z.",
-    "lat": -36.3689,
-    "lon": 177.8511,
-    "depth": 188.1,
-    "evtype": "ue",
-    "auth": "GNS",
-    "mag": 3.2,
-    "magtype": "m",
-    "unid": "20231210_0000010"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      21.8100,
-      38.4000,
-      -5.0
-    ]
-  },
-  "id": "20231210_0000008",
-  "properties": {
-    "source_id": "1590103",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2023-12-10T07:47:56.237803Z",
-    "time": "2023-12-10T01:02:27.7Z",
-    "flynn_region": "GREECE",
-    "lat": 38.4000,
-    "lon": 21.8100,
-    "depth": 5.0,
-    "evtype": "ue",
-    "auth": "EMSC",
-    "mag": 3.1,
-    "magtype": "ml",
-    "unid": "20231210_0000008"
   }
 }]}
