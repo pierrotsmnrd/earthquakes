@@ -3,6 +3,58 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      -112.9048,
+      38.5007,
+      -3.5
+    ]
+  },
+  "id": "20240221_0000288",
+  "properties": {
+    "source_id": "1624471",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2024-02-21T23:09:40.657973Z",
+    "time": "2024-02-21T23:07:13.36Z",
+    "flynn_region": "UTAH",
+    "lat": 38.5007,
+    "lon": -112.9048,
+    "depth": 3.5,
+    "evtype": "ke",
+    "auth": "UU",
+    "mag": 3.1,
+    "magtype": "ml",
+    "unid": "20240221_0000288"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -125.7830,
+      43.6427,
+      -10.0
+    ]
+  },
+  "id": "20240221_0000289",
+  "properties": {
+    "source_id": "1624472",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2024-02-21T23:15:10.429539Z",
+    "time": "2024-02-21T22:56:03.813Z",
+    "flynn_region": "OFF COAST OF OREGON",
+    "lat": 43.6427,
+    "lon": -125.7830,
+    "depth": 10.0,
+    "evtype": "ke",
+    "auth": "NEIC",
+    "mag": 2.8,
+    "magtype": "ml",
+    "unid": "20240221_0000289"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       113.9054,
       -6.2147,
       -598.7
@@ -46,7 +98,7 @@
     "depth": 6.2,
     "evtype": "ke",
     "auth": "KOERI",
-    "mag": 2.2,
+    "mag": 2.0,
     "magtype": "ml",
     "unid": "20240221_0000286"
   }
@@ -25945,57 +25997,5 @@
     "mag": 1.3,
     "magtype": "ml",
     "unid": "20240218_0000226"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -118.3980,
-      35.5078,
-      -4.3
-    ]
-  },
-  "id": "20240218_0000215",
-  "properties": {
-    "source_id": "1623133",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2024-02-18T18:44:36.547688Z",
-    "time": "2024-02-18T18:42:32.6Z",
-    "flynn_region": "CENTRAL CALIFORNIA",
-    "lat": 35.5078,
-    "lon": -118.3980,
-    "depth": 4.3,
-    "evtype": "ke",
-    "auth": "SCSN",
-    "mag": 2.0,
-    "magtype": "ml",
-    "unid": "20240218_0000215"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -3.8169,
-      36.4451,
-      -31.0
-    ]
-  },
-  "id": "20240218_0000229",
-  "properties": {
-    "source_id": "1623146",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2024-02-18T19:26:34.475668Z",
-    "time": "2024-02-18T18:37:48.23Z",
-    "flynn_region": "STRAIT OF GIBRALTAR",
-    "lat": 36.4451,
-    "lon": -3.8169,
-    "depth": 31.0,
-    "evtype": "ke",
-    "auth": "IGN",
-    "mag": 1.7,
-    "magtype": "ml",
-    "unid": "20240218_0000229"
   }
 }]}
