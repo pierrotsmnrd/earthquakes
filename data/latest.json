@@ -3,6 +3,58 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      -110.7915,
+      -35.0615,
+      -24.0
+    ]
+  },
+  "id": "20240223_0000009",
+  "properties": {
+    "source_id": "1624996",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2024-02-23T02:05:21.774975Z",
+    "time": "2024-02-23T01:51:17.7Z",
+    "flynn_region": "SOUTHERN EAST PACIFIC RISE",
+    "lat": -35.0615,
+    "lon": -110.7915,
+    "depth": 24.0,
+    "evtype": "ke",
+    "auth": "EMSC",
+    "mag": 5.9,
+    "magtype": "mw",
+    "unid": "20240223_0000009"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      178.3897,
+      -36.2959,
+      -100.0
+    ]
+  },
+  "id": "20240223_0000008",
+  "properties": {
+    "source_id": "1624992",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2024-02-23T01:49:04.772723Z",
+    "time": "2024-02-23T01:36:32.264114Z",
+    "flynn_region": "OFF E. COAST OF N. ISLAND, N.Z.",
+    "lat": -36.2959,
+    "lon": 178.3897,
+    "depth": 100.0,
+    "evtype": "ke",
+    "auth": "GNS",
+    "mag": 3.1,
+    "magtype": "ml",
+    "unid": "20240223_0000008"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       -75.4481,
       7.3693,
       -64.9
@@ -25945,57 +25997,5 @@
     "mag": 3.3,
     "magtype": "m",
     "unid": "20240219_0000252"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -94.8100,
-      17.6100,
-      -126.8
-    ]
-  },
-  "id": "20240219_0000253",
-  "properties": {
-    "source_id": "1623590",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2024-02-20T02:02:19.14896Z",
-    "time": "2024-02-19T22:37:34.0Z",
-    "flynn_region": "VERACRUZ, MEXICO",
-    "lat": 17.6100,
-    "lon": -94.8100,
-    "depth": 126.8,
-    "evtype": "ke",
-    "auth": "UNM",
-    "mag": 3.4,
-    "magtype": "m",
-    "unid": "20240219_0000253"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -68.0160,
-      19.2637,
-      -27.7
-    ]
-  },
-  "id": "20240219_0000241",
-  "properties": {
-    "source_id": "1623545",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2024-02-19T23:00:02.41979Z",
-    "time": "2024-02-19T22:17:57.71Z",
-    "flynn_region": "DOMINICAN REPUBLIC REGION",
-    "lat": 19.2637,
-    "lon": -68.0160,
-    "depth": 27.7,
-    "evtype": "ke",
-    "auth": "PR",
-    "mag": 3.4,
-    "magtype": "md",
-    "unid": "20240219_0000241"
   }
 }]}
