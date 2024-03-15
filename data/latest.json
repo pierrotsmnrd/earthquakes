@@ -3,6 +3,58 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      -155.4425,
+      19.0318,
+      -32.7
+    ]
+  },
+  "id": "20240315_0000002",
+  "properties": {
+    "source_id": "1634236",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2024-03-15T00:41:10.982863Z",
+    "time": "2024-03-15T00:39:10.97Z",
+    "flynn_region": "ISLAND OF HAWAII, HAWAII",
+    "lat": 19.0318,
+    "lon": -155.4425,
+    "depth": 32.7,
+    "evtype": "ke",
+    "auth": "HV",
+    "mag": 2.0,
+    "magtype": "md",
+    "unid": "20240315_0000002"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      2.7789,
+      42.0654,
+      -15.0
+    ]
+  },
+  "id": "20240315_0000001",
+  "properties": {
+    "source_id": "1634233",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2024-03-15T00:35:06.23437Z",
+    "time": "2024-03-15T00:29:00.518942Z",
+    "flynn_region": "PYRENEES",
+    "lat": 42.0654,
+    "lon": 2.7789,
+    "depth": 15.0,
+    "evtype": "ke",
+    "auth": "ReNaSS",
+    "mag": 2.4,
+    "magtype": "ml",
+    "unid": "20240315_0000001"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       127.0376,
       8.9146,
       -10.0
@@ -25763,57 +25815,5 @@
     "mag": 1.4,
     "magtype": "ml",
     "unid": "20240311_0000213"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -130.1446,
-      50.4403,
-      -10.0
-    ]
-  },
-  "id": "20240311_0000312",
-  "properties": {
-    "source_id": "1633818",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2024-03-13T23:28:51.98483Z",
-    "time": "2024-03-11T17:58:31.0Z",
-    "flynn_region": "VANCOUVER ISLAND, CANADA REGION",
-    "lat": 50.4403,
-    "lon": -130.1446,
-    "depth": 10.0,
-    "evtype": "ke",
-    "auth": "CN",
-    "mag": 2.8,
-    "magtype": "m",
-    "unid": "20240311_0000312"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -96.6800,
-      15.4800,
-      -16.1
-    ]
-  },
-  "id": "20240311_0000299",
-  "properties": {
-    "source_id": "1633012",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2024-03-12T02:01:04.483909Z",
-    "time": "2024-03-11T17:54:28.0Z",
-    "flynn_region": "OFFSHORE OAXACA, MEXICO",
-    "lat": 15.4800,
-    "lon": -96.6800,
-    "depth": 16.1,
-    "evtype": "ke",
-    "auth": "UNM",
-    "mag": 3.8,
-    "magtype": "m",
-    "unid": "20240311_0000299"
   }
 }]}
