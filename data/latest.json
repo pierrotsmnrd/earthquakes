@@ -3,6 +3,32 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
+      11.4843,
+      44.1497,
+      -7.7
+    ]
+  },
+  "id": "20240402_0000012",
+  "properties": {
+    "source_id": "1641256",
+    "source_catalog": "EMSC-RTS",
+    "lastupdate": "2024-04-02T01:51:54.652725Z",
+    "time": "2024-04-02T01:34:10.16Z",
+    "flynn_region": "NORTHERN ITALY",
+    "lat": 44.1497,
+    "lon": 11.4843,
+    "depth": 7.7,
+    "evtype": "ke",
+    "auth": "INGV",
+    "mag": 2.5,
+    "magtype": "ml",
+    "unid": "20240402_0000012"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
       38.1197,
       38.2250,
       -9.5
@@ -55,25 +81,25 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      -68.1370,
-      18.4770,
-      -72.4
+      -68.2161,
+      18.1743,
+      -90.0
     ]
   },
   "id": "20240402_0000010",
   "properties": {
     "source_id": "1641254",
     "source_catalog": "EMSC-RTS",
-    "lastupdate": "2024-04-02T01:15:28.444625Z",
-    "time": "2024-04-02T00:56:06.0Z",
+    "lastupdate": "2024-04-02T02:04:04.388088Z",
+    "time": "2024-04-02T00:56:07.59Z",
     "flynn_region": "MONA PASSAGE, DOMINICAN REPUBLIC",
-    "lat": 18.4770,
-    "lon": -68.1370,
-    "depth": 72.4,
+    "lat": 18.1743,
+    "lon": -68.2161,
+    "depth": 90.0,
     "evtype": "ke",
-    "auth": "UASD",
-    "mag": 3.1,
-    "magtype": "m",
+    "auth": "PR",
+    "mag": 3.4,
+    "magtype": "md",
     "unid": "20240402_0000010"
   }
 },{
@@ -25763,31 +25789,5 @@
     "mag": 2.2,
     "magtype": "ml",
     "unid": "20240329_0000128"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      121.3400,
-      22.7900,
-      -12.7
-    ]
-  },
-  "id": "20240329_0000127",
-  "properties": {
-    "source_id": "1639880",
-    "source_catalog": "EMSC-RTS",
-    "lastupdate": "2024-03-29T11:18:48.325252Z",
-    "time": "2024-03-29T11:11:19.6Z",
-    "flynn_region": "TAIWAN REGION",
-    "lat": 22.7900,
-    "lon": 121.3400,
-    "depth": 12.7,
-    "evtype": "ke",
-    "auth": "CWB",
-    "mag": 4.0,
-    "magtype": "ml",
-    "unid": "20240329_0000127"
   }
 }]}
